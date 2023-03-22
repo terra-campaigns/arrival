@@ -4,13 +4,13 @@
 
 A group of strangers meet in Watheton. They are unfortunate that, on the day after they meet, the city starts to organise itself for departure to the Tolfoddund (TFDD) mines in the North because of a large-scale attack of golden dragons. The group acts in partnership with the Watheton leaders, and scout the road to the mines, guaranteeing safe passage for the inhabitants of the city. The group finds its way to the mines and are unfortunate to meet a previous friend of Guilf, Nilperto, turned into an undead - with a strange tattoo on his neck. After fighting Nilperto, the group finds a passage to the Intermine, which connects the TFDD mines with the Nargun Mines.
 
-![](Pasted%20image%2020230322230054.png)
+![](resources/Pasted%20image%2020230322230054.png)
 
 ## Chapter 2 The Glasrath alliance
 
 The group meets the Nargun Dwarves in their stronghold, where they have been holding off undead attackers for years. In the next few weeks, many other people also come to the mines seeking protection - population and armies from the cities to the South of Watheton and also drows from the Ghost Domain. Some of the people from the cities have actually seen the golden dragons and offer a varied description of them. The group is appointed by the leaders of the different peoples to strike an alliance amongst all the armies just about when a hold of 15 hundred undead is marching from the Ammuinoth towards the mines. The group meets Ghuse, a martial cleric from Algath, goddess of life and death.
 
-![](Pasted%20image%2020230322230143.png)
+![](resources/Pasted%20image%2020230322230143.png)
 
 ## Chapter 3 Battle from Ammuinoth
 
@@ -34,5 +34,5 @@ The new organisation of the Glasrath Alliance is:
 - Civilians from all the cities: 13.000.
 
 Access to the city of Khatdzig is established again.
-![](Pasted%20image%2020230322230543.png)
+![](resources/Pasted%20image%2020230322230543.png)
 
