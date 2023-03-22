@@ -36,3 +36,11 @@ The new organisation of the Glasrath Alliance is:
 Access to the city of Khatdzig is established again.
 ![](resources/Pasted%20image%2020230322230543.png)
 
+# Part 2 Darkness Deepens
+
+## Chapter 4 Going to Holzander
+
+A new party member joins the Glasrath Defenders - a dust elf cleric of Mystra. With the goal of investigating the disappearance of the Gaelire Beikae, the Shield of Beauty, and her Paragon Force - which supposedly came to the Holzander burnt castle 10 years ago - the Glasrath Defenders went into the Ammuinoth. In the Castle of Bells they've met Weldon, a very pleasant werebear and then, in the Ardismouth Temple, they fought Tekerluth (who told them she was pregnant from Miraak). Due to combat injuries they decided to look for an exit towards the desert again. The Defenders reached Mystra's temple in the north desert, where they learned of other forces in play. One of them is a strange and powerful power within the Holzander castle. A second one is the religious and military organisation known as the Faithful Faletist Knights of the Arch (FFKA), which burned the Holzander castle 110 years ago, and apparently have some influence on the cities on the surface in the region.
+
+![](resources/Pasted%20image%2020230322233511.png)
+
