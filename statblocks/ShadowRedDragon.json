@@ -1,0 +1,229 @@
+{
+	"name": "Young Red Shadow Dragon",
+	"source": "MM",
+	"page": 85,
+	"size": [
+		"L"
+	],
+	"type": "dragon",
+	"alignment": [
+		"C",
+		"E"
+	],
+	"ac": [
+		{
+			"ac": 18,
+			"from": [
+				"natural armor"
+			]
+		}
+	],
+	"hp": {
+		"average": 178,
+		"formula": "17d10 + 85"
+	},
+	"speed": {
+		"walk": 40,
+		"climb": 40,
+		"fly": 80
+	},
+	"str": 23,
+	"dex": 10,
+	"con": 21,
+	"int": 14,
+	"wis": 11,
+	"cha": 19,
+	"save": {
+		"dex": "+5",
+		"con": "+10",
+		"wis": "+5",
+		"cha": "+9"
+	},
+	"skill": {
+		"perception": "+10",
+		"stealth": "+10"
+	},
+	"senses": [
+		"blindsight 30 ft.",
+		"darkvision 120 ft."
+	],
+	"passive": 18,
+	"resist": [
+		"necrotic"
+	],
+	"immune": [
+		"fire"
+	],
+	"languages": [
+		"Common",
+		"Draconic"
+	],
+	"cr": "13",
+	"trait": [
+		{
+			"name": "Living Shadow",
+			"entries": [
+				"While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant."
+			]
+		},
+		{
+			"name": "Shadow Stealth",
+			"entries": [
+				"While in dim light or darkness, the dragon can take the Hide action as a bonus action."
+			]
+		},
+		{
+			"name": "Sunlight Sensitivity",
+			"entries": [
+				"While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ({@skill Perception}) checks that rely on sight."
+			]
+		}
+	],
+	"action": [
+		{
+			"name": "Multiattack",
+			"entries": [
+				"The dragon makes three attacks: one with its bite and two with its claws."
+			]
+		},
+		{
+			"name": "Bite",
+			"entries": [
+				"{@atk mw} {@hit 11} to hit, reach 10 ft., one target. {@h}17 ({@damage 2d10 + 6}) piercing damage plus 3 ({@damage 1d6}) necrotic damage."
+			]
+		},
+		{
+			"name": "Claw",
+			"entries": [
+				"{@atk mw} {@hit 11} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing damage."
+			]
+		},
+		{
+			"name": "Shadow Breath {@recharge 5}",
+			"entries": [
+				"The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a {@dc 18} Dexterity saving throw, taking 56 ({@damage 16d6}) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead {@creature shadow} rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control."
+			]
+		}
+	],
+	"variant": [
+		{
+			"type": "inset",
+			"name": "Customizing Dragons",
+			"source": "FTD",
+			"page": 33,
+			"entries": [
+				"You can customize any dragon's stat block to reflect the dragon's unique character. Minor changes such as those below are easy to make and have no impact on a dragon's challenge rating.",
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"Most dragons prefer to speak Draconic but learn Common for dealing with allies and minions. But given their high Intelligence and long life span, dragons can easily learn additional languages. You can add languages to a dragon's stat block."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Skills",
+					"entries": [
+						"Most dragons are proficient in the {@skill Perception} and {@skill Stealth} skills, and many dragons have additional skill proficiencies. As with languages, you can customize a dragon's skill list (even doubling their proficiency bonus with certain skills) to reflect particular interests and activities. You can also give a dragon tool proficiencies, particularly if the dragon spends time in Humanoid form."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spells",
+					"entries": [
+						"{@note See the \"Variant: Dragons as Innate Spellcasters\" inset(s), below.}"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Other Traits and Actions",
+					"entries": [
+						"You can borrow traits and actions from other monsters to add unique flavor to a dragon. Consider these examples:",
+						{
+							"type": "list",
+							"style": "list-hang-notitle",
+							"items": [
+								{
+									"type": "item",
+									"name": "Damage Absorption",
+									"entries": [
+										"You might decide that this dragon is not only unharmed by fire damage, but actually healed by it.",
+										"Whenever the dragon is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Flyby",
+									"entries": [
+										"The dragon is an agile flier, quick to fly out of enemies' reach.",
+										"The dragon doesn't provoke an opportunity attack when it flies out of an enemy's reach."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Mimicry",
+									"entries": [
+										"Impersonating characters or their allies could be a fun trick for a crafty dragon.",
+										"The dragon can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful {@dc 12} Wisdom ({@skill Insight}) check."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Rejuvenation",
+									"entries": [
+										"You might decide that dragons in your campaign, being an essential part of the Material Plane, are nearly impossible to destroy. A dragon's life essence might be preserved in the egg from which it first emerged, in its hoard, or in a cavernous hall at the center of the world, just as a lich's essence is hidden in a phylactery.",
+										"If it has an essence-preserving object, a destroyed dragon gains a new body in {@dice 1d10} days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the object."
+									]
+								},
+								{
+									"type": "item",
+									"name": "Special Senses",
+									"entries": [
+										"Most dragons have {@sense blindsight} and {@sense darkvision}. You might upgrade {@sense blindsight} to {@sense truesight}, or you could give a dragon with a burrowing speed {@sense tremorsense|MM}."
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"environment": [
+		"underdark"
+	],
+	"dragonCastingColor": "red",
+	"dragonAge": "young",
+	"soundClip": {
+		"type": "internal",
+		"path": "bestiary/red-shadow-dragon.mp3"
+	},
+	"traitTags": [
+		"Sunlight Sensitivity"
+	],
+	"senseTags": [
+		"B",
+		"SD"
+	],
+	"actionTags": [
+		"Breath Weapon",
+		"Multiattack"
+	],
+	"languageTags": [
+		"C",
+		"DR"
+	],
+	"damageTags": [
+		"N",
+		"P",
+		"S"
+	],
+	"miscTags": [
+		"AOE",
+		"MW",
+		"RCH"
+	],
+	"hasToken": true,
+	"hasFluff": true,
+	"hasFluffImages": true
+}
