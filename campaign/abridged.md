@@ -1,18 +1,20 @@
-# Part 1 A kiss from the dark
+# Arrival Abridged
 
-## Chapter 1 No options outside
+## Part 1 A kiss from the dark
+
+### Chapter 1 No options outside
 
 A group of strangers meet in Watheton. They are unfortunate that, on the day after they meet, the city starts to organise itself for departure to the Tolfoddund (TFDD) mines in the North because of a large-scale attack of golden dragons. The group acts in partnership with the Watheton leaders, and scout the road to the mines, guaranteeing safe passage for the inhabitants of the city. The group finds its way to the mines and are unfortunate to meet a previous friend of Guilf, Nilperto, turned into an undead - with a strange tattoo on his neck. After fighting Nilperto, the group finds a passage to the Intermine, which connects the TFDD mines with the Nargun Mines.
 
-![](resources/Pasted%20image%2020230322230054.png)
+![](_aux/Pasted%20image%2020230322230054.png)
 
-## Chapter 2 The Glasrath alliance
+### Chapter 2 The Glasrath alliance
 
 The group meets the Nargun Dwarves in their stronghold, where they have been holding off undead attackers for years. In the next few weeks, many other people also come to the mines seeking protection - population and armies from the cities to the South of Watheton and also drows from the Ghost Domain. Some of the people from the cities have actually seen the golden dragons and offer a varied description of them. The group is appointed by the leaders of the different peoples to strike an alliance amongst all the armies just about when a hold of 15 hundred undead is marching from the Ammuinoth towards the mines. The group meets Ghuse, a martial cleric from Algath, goddess of life and death.
 
-![](resources/Pasted%20image%2020230322230143.png)
+![](_aux/Pasted%20image%2020230322230143.png)
 
-## Chapter 3 Battle from Ammuinoth
+### Chapter 3 Battle from Ammuinoth
 
 The Glasrath Alliance now faces the undead from the Ammuinoth. The battle starts, and three clashes happen in the mines. Miraak is killed, but was lucky enough to be close to Ghuse who starts a long ritual to resurrect him. Fuko also falls in battle, but she is unlucky to sink in the lake, only to be found too late. In the end, the alliance is victorious, but not without many casualties - including the wyrmling gold dragon that was freed by the Glasrath Defenders (the name given to Miraak, Guilf, Kethra, Dolman and the now deceased Fuko). 
 
@@ -34,13 +36,13 @@ The new organisation of the Glasrath Alliance is:
 - Civilians from all the cities: 13.000.
 
 Access to the city of Khatdzig is established again.
-![](resources/Pasted%20image%2020230322230543.png)
+![](_aux/Pasted%20image%2020230322230543.png)
 
-# Part 2 Darkness Deepens
+## Part 2 Darkness Deepens
 
-## Chapter 4 Going to Holzander
+### Chapter 4 Going to Holzander
 
 A new party member joins the Glasrath Defenders - a dust elf cleric of Mystra. With the goal of investigating the disappearance of the Gaelire Beikae, the Shield of Beauty, and her Paragon Force - which supposedly came to the Holzander burnt castle 10 years ago - the Glasrath Defenders went into the Ammuinoth. In the Castle of Bells they've met Weldon, a very pleasant werebear and then, in the Ardismouth Temple, they fought Tekerluth (who told them she was pregnant from Miraak). Due to combat injuries they decided to look for an exit towards the desert again. The Defenders reached Mystra's temple in the north desert, where they learned of other forces in play. One of them is a strange and powerful power within the Holzander castle. A second one is the religious and military organisation known as the Faithful Faletist Knights of the Arch (FFKA), which burned the Holzander castle 110 years ago, and apparently have some influence on the cities on the surface in the region.
 
-![](resources/Pasted%20image%2020230322233511.png)
+![](_aux/Pasted%20image%2020230322233511.png)
 

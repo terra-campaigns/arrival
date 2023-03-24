@@ -71,3 +71,15 @@ As there will be many languages in Guemenos, we need to expand a bit the rule of
 - **Dialects and official languages** (i.e. languages from the same culture or official language for the region you are): Takes 8 weeks minus the intelligence modifier in weeks (minimum 1).
 
 Learning a language can be accomplished either by being immersed in a new language (free learning time and money -wise), or by having a tutor (8h/day, 1gp/day - downtime activity). 
+
+## Skill usage
+
+I've separated application of skills in 4 types: physical, perceptive, social and knowledge. There is probably some edge cases, but I think these four covers most of it. Each skill might be applied in one of more way as well - we decide on the table. This is not standard rule, but will help me come up with a system for applying skill checks (DMs will see that D&D leaves a lot undecided there).
+
+- **Physical**: only used when actively doing something. Players have to describe intention and approach. Passive checks (reflexes) are done using saving throws. E.g.: Acrobatics, Athletics, Sleigh of hand, Stealth, Tool proficiencies.
+- **Perceptive**: are always **on** passively, against which DCs are checked. Players can actively choose to use them as well - which will call for a dice roll (unless DC is impossible). Intention and approach must be described by the player for using the skill actively. E.g.: Animal handling, Insight, Investigation, Medicine, Nature, Perception, Survival
+- **Social**: are always **on** passively, against which DCs are checked. If a passive check is not enough to succeed, the GM might call for a roll (unless DC is impossible). Intention and approach will be assumed by the GM (i.e. it is expected sometimes the GM will assume them wrongly). This assumption by the GM is a trade-off tool we will use to avoid going off-character often. E.g.: Deception, Intimidation, Performance, Persuasion
+- **Knowledge**: in general are always **on** passively (i.e. all the time the GM describes something a PC recognises). The players can also ask questions with regards the knowledge of their character any time - which will trigger a dice roll (unless it is clearly a success or impossible). Knowledge skills can also be used in long active actions, which requires description of intention and approach (i.e. research, rationalising about something the PC has experienced, documenting findings, etc). E.g., but not only, Arcana, History, Religion, sometimes Medicine, Animal Handling, Tools (even acrobatics could be checked this way, from a knowledge perspective).
+
+N.B. 1: For rules on scores for passive checks refer to PHB175.
+N.B. 2: During combat, using any skill is an action (also somewhere in the PHB).
