@@ -68,18 +68,18 @@ tierGroup <- levelTbl$tier[round(levelAvg * 1.1, 0) == levelTbl$level]
 crDealdy <- sum(pcs$cr)
 easyDC <- round(levelAvg/2.2 + 10, 0)
 
-currGrp <- data.frame(GroupVariable = c('Average Level', 'Tier', 'Deadly CR', 'Easy DC'),
-           Value = c(levelAvg, tierGroup, crDealdy, easyDC))
+currGrp <- data.frame(PartyVariable = c('Level', 'Tier', 'Deadly CR', 'Easy DC'),
+           Value = round(c(levelAvg, tierGroup, crDealdy, easyDC), 0))
 
 knitr::kable(currGrp, format = 'pipe')
 ```
 
-| GroupVariable | Value |
+| PartyVariable | Value |
 |:--------------|------:|
-| Average Level |   4.8 |
-| Tier          |   2.0 |
-| Deadly CR     |  11.0 |
-| Easy DC       |  12.0 |
+| Level         |     5 |
+| Tier          |     2 |
+| Deadly CR     |    11 |
+| Easy DC       |    12 |
 
 Current group proposed XP per chapter.
 
