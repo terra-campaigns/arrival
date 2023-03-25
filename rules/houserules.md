@@ -61,7 +61,8 @@ The rule is the simplified DMG rule for sanity (WIS + INT + 11) / 3 rounded up a
 
 ## Downtime activities
 
-![](_aux/UA_Downtime_1.pdf)
+- [SRD](https://www.dandwiki.com/wiki/5e_SRD:Downtime_Activities)
+- [Unearthed Arcana](https://media.wizards.com/2017/dnd/downloads/UA_Downtime.pdf)
 
 ## Learning new languages
 
@@ -83,3 +84,19 @@ I've separated application of skills in 4 types: physical, perceptive, social an
 
 N.B. 1: For rules on scores for passive checks refer to PHB175.
 N.B. 2: During combat, using any skill is an action (also somewhere in the PHB).
+
+### Long skills
+
+| difference | netDC_11 | netDC_12 | netDC_13 | netDC_14 | netDC_15 | netDC_16 | netDC_17 | netDC_18 | netDC_19 | netDC_20 |
+|:-----------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
+|          1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |
+|          2 |        1 |        1 |        1 |        1 |        1 |        1 |        1 |        2 |        2 |        4 |
+|          3 |        1 |        1 |        1 |        1 |        1 |        2 |        2 |        2 |        4 |        6 |
+|          4 |        1 |        1 |        1 |        1 |        2 |        2 |        2 |        3 |        4 |        9 |
+|          5 |        1 |        1 |        2 |        2 |        2 |        3 |        3 |        4 |        6 |       13 |
+|          6 |        2 |        2 |        2 |        2 |        3 |        3 |        4 |        5 |        7 |       16 |
+|          7 |        2 |        2 |        2 |        3 |        3 |        4 |        5 |        7 |       11 |       19 |
+|          8 |        2 |        3 |        3 |        3 |        4 |        5 |        7 |        9 |       13 |       27 |
+|          9 |        3 |        4 |        4 |        5 |        6 |        7 |        9 |       13 |       19 |       38 |
+|         10 |        5 |        5 |        7 |        7 |       10 |       11 |       13 |       19 |       29 |       60 |  
+
