@@ -1,6 +1,26 @@
 # Chapter Number & Name
 `Date, Expected xp, deadly CR Benchmark, avg level & DC`
 
+### Metadata
+Needs to come as the first thing on the file
+
+```
+---
+type: chapter
+part: 2
+name: 
+world: Guemenos
+campaign: Arrival
+game_date: 3877.53
+location: [entries]
+pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
+party_level: 5
+easy_dc: 12
+deadly_cr: 11
+xp: 
+tags: 
+---
+```
 
 ### Characters' motivations
 - **Dolman**: 
