@@ -42,9 +42,11 @@
 ### Snoozed hooks
 - In 3877.65 NC the Lady Scurvy spreads to another region
 - In 3878.4 NC Theklurth will come back for a revenge on the party (and Miraak)
+- Aivridyt's eggs hatch in the Darklake
+- 3882 NC Sulpraxae scorching ends
 - In 3894 NC Theklurth's child (demon dragonborn) will revenge it's mother
+- 3902 NC Acrisae finish building fortresses
 - Lady Scurvy was created by the Shield of Beauty Vampire that took residence in a castle close to Throtha, and it is spreading. It is a vampirism disease that strongly affects all races from the Nulfith culture (elves and half-elves) `ST with disadvantage`, weekly affects all other non-human races `ST normal` and rarely affects humans `ST with advantage`
-- Aivridyt's eggs hatch
 
 ### Chapters
 - Celebration that is censored by FFKA

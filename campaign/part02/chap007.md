@@ -1,5 +1,22 @@
+---
+type: chapter
+part: 2
+name: Holzander Ancestral Shrine
+world: Guemenos
+campaign: Arrival
+game_date: 3877.53
+location: [Holzander Castle]
+pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
+party_level: 5
+easy_dc: 12
+deadly_cr: 11
+xp: 
+tags: 
+---
+
 # Chapter 7 Holzander Ancestral Shrine
 `3877.53 NC, 2160 xp, deadly CR 11, avg level 5 & DC 14`
+
 
 ### Characters' motivations
 - **Dolman**: get information on Galiera and the undead king (strong bond)
@@ -53,3 +70,4 @@ A resting conversation with Ushulx, Dugan, Red Hart, Ichbon about the current lo
 - Spawn
 
 ### Potential treasures
+
