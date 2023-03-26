@@ -2,7 +2,9 @@
 type: location
 name: The Ammuinoth
 world: Guemenos
+continent: Easteros
 campaign: Arrival
+locType: tunnel
 tags: 
 ---
 

@@ -35,214 +35,62 @@ Although the Kyri power touched the drow and duergar before, it was only when th
 
 ![ammuinoth](locations/ammuinoth.md)
 
-![holzanderCastle](locations/holzanderCastle.md)
 
 ## The Kyri
+`4500 to 17000 IT`
 
+After the Kyri were awoken they started shaping the Ophaire as they saw fit, and created their own races while corrupting surface races and bringing them to the depthness of the world. It is in 6000 IT when the dragons, aberrations, fiends and ooze creatures started populating Guemenos' darkness. Around 7000 IT the Kyri and their creatures started attacking Edraihil's domains, and what is known as the War for Guemenos started.
 
-### 4500 to 17000 IT
-
-After the Kyri were awoken they started shaping the Ophaire as they saw fit, and created their own races while corrupting surface races and bringing them to the depthness of the world. It is in 6000 IT when the dragons, aberrations, fiends and ooze creatures started populating Guermenos' darkness. Around 7000 IT the Kyri and their creatures started attacking Edraihil's domains, and what is known as the War for Guermenos started.
-
-The war lasted more than 10 thousand years and covered Guermenos with death, fire and suffering. Around the year 17000 IT, Ulkrunnar's son Gronz created a staff that had the power to obliterate large armies using a light power known as Uli.
+The war lasted more than 10 thousand years and covered Guemenos with death, fire and suffering. Around the year 17000 IT, Ulkrunnar's son Gronz created a staff that had the power to obliterate large armies using a light power known as Uli.
 
 Gronz used his staff for hundreds of years and was able to eliminate all the large armies from Nek's followers. The staff was not enough for killing Nek and his gods, but it was enough to weaken them. They were later imprisoned by Ulkrunnar in his Forsaken Hall, under the fortress of Turnskull (located in the ice sheets in the south pole). For the non divine inhabitants, although it was thought they were killed, they were rather sent to a world they called Acrisius. The use of the staff was called The Great Purge, but this history is unknown to most current inhabitants.
 
-
 ### Puppet masters
+`17000 to 25000 IT, also known as 10000 to 18000 Time of the Kyri (TK)`
 
-
-### 17000 to 25000 IT, also known as 10000 to 18000 Time of the Kyri (TK)
-
-With Guermenos cleared out of the Edraihil, the Kyri started to shape the world to their liking. Many of the Kyri were amused by their power to silently corrupt peaceful civilisations and drive them to evil doings. This corruption became a game the evil gods played with the living creatures for thousands of years.
+With Guemenos cleared out of the Edraihil, the Kyri started to shape the world to their liking. Many of the Kyri were amused by their power to silently corrupt peaceful civilisations and drive them to evil doings. This corruption became a game the evil gods played with the living creatures for thousands of years.
 
 Around the year 13000 TK, Ulkrunnar's daughter Merdijad devised a plan to conquer the remaining races or Guemenos by religion (even religions that follow Nek's imprisoned deities), culture and a network of multi-tiered treaties between different kingdoms and races. This plan is known as The Silk. In 18000 TK, most of the large civilisations are not aware of the indirect control by Turnskull, under Merdijad rule. During these milenia Merdijad has also installed her commander, Lorqiroth, in the D'elsinese Empire.
+
+### Wuvarax's passage to Arkul
 
 Merdijad's and Gronz' brother, Wuvarax, being drawn by his jealousy of Merdijad's control scheme and Gronz staff, decided to come up with something as powerful and important as his siblings' ideas. He worked for hundreds of years with his sect of mages and dark clerics and built a portal in the castle of Atfordbury, in the Duchy of Hinckley. This portal enabled Wuvarax to move armies and peoples to the inhabited world of Arkul. Wuvarax and his followers begin to form a civilisation in Arkul, to protect Ulkrunnar's followers in case the world of Guemenos was reconquered by Nek's followers.
 
 
-## Acrisius
+## Absent children of Nek
 
+Nek's children gods were imprisoned by Gronz, and it was for minor deities such as Mystra, Bonnalurie, Falet and Kimbarak to envision a plan to regain Guemenos. These three gods have hold conclaves every a thousand years in Acrisius, where their plan is revised and put in practice. In the 6th conclave Bonnalurie proposed the New Calender to start - it was implemented in the 7th conclave (8000 AT).
 
-### 17000 to 29000 IT, also known as 0 to 12000 Acrisius Time (AT)
+![calendar](calendar.md)
+
+### Acrisius
 
 In Acrisius, Nek's followers (now known as Acrisae) started from scratch, to build again all their technology and magic, while developing a strong and unbeatable army. For the Acrisae, this was the year 0 of the Acrisius time (AT).
 
+## The Reclaim Campaign
+`Starting in 1150 AT, or 3499 of the New Calendar (NC)`
 
-## Khathan Empire
+Around the year 11500 AT, known in Guemenos as 3499 of the new calendar (NC), the Acrisae started executing their plan to reclaim Guemenos. Their first scouts came from Acrisius leveraging the same Uli power, reverse-engineering from the information Bonnalurie collected when she faced the same power from the staff. Bonnalurie built 10 rings that enabled the scouts to travel to Guemenos. They've scouted Guemenos until 3855 NC when they travelled back to Acrisius to further advance the plan. By then, Bonnalurie had developed the portal opening machines that look like golden mechanical dragons, the Sulpraxae. 
 
-The Khatan Empire, specially south of the Naragzah mountains, is hardly technologically developed. The Kuzar province has a technology maturity[^1] of 420, while the Tolfoddund province (not the mines) has a similar development, when excluding the dwarven technology. Slightly more advanced is the Kostoch province, with a maturity of 470.
+The first stage of the campaign is to arrive in the barren plains of the Tolfoddund county, south of the Naragzah mountains, in the Khathan Empire and set up a large scale military camp. 
 
+![khatho](locations/khatho.md)
 
-### Political perspective
+The location will be chosen so that access to Ammuinoth is possible, and the construction can be used to disguise Acrisae operations such as mining, construction and training. To make sure the region is empty of curious eyes, the Acrisae, with support from the Sulpraxae, will cause fear to the region inhabitants by scorching the earth and forcing them to neighbouring regions, including the mountains and its caves and mines.
 
-The strong dashed borders are kingdoms/state borders, while the minor borders (where you see different colours applied) are region borders. You are aware of an ongoing war between the Khathan Empire and D'elsin - southwest in the map - in blue.
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-
-### Cultures
-
-From a cultural point of view, most peoples in the region are of the Nulfirth culture, which is nomadic and/or rural in nature. Very few cities lie in the desert, but some small cities are found in the coastal areas. Most of the Nulfirth people are humans, with some half-elfs. There are also dwarves, halflings and elfs, but those are rarer. Living conditions are very tough for the Nulfirth, and those who reach adult age are generally hardened by their survival. Magic is not widely accepted by the Nulfirth. Most are ok with it, but prefer it away from them (and don't like being involved with it). A few are very intolerant. The common language spoken by the south Nulfirth people is called the Cold Nulfirther. Younger people (20 years old or less) would also speak the Khathan language. In the north of the Glasrath Mountains, Nulfirth people speak a dialect called Sun Nulfirther, and the official Khathan language.
-
-The Kinbarak people are made of dwarves, living in the Glasrath Mountains in the Naragzah Dwarven Empire or in the eastern mountain range. To the west of the Naragzah mountains lies the Thymar people, which are mostly Dragonborn. Both Naragzah and Thymar people are more open to magic, as it permeates their lives closer to their day to day. Many would still prefer to be distant to it, and would turn a blind eye to it. The Naragzah empire speaks the High Dwarven, while the Thymar people speak Draconic.
-
-In general, the more south you go, the tougher and meaner the Nulfirth people are. For those who have travelled through the southern road, you've heard of clans and tribes in the region that practised human sacrifice rituals and even cannibalism.
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
-### Religions
-
-Most of the population in the region follow the Yotunn Ancestors religion (a folk belief). Towards the northern coastal areas there are some organised religions too (Faletism to the west and Mercian Faith to the east). Further into the south, another folk religion is followed - Trow Ancestors.
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-
-### Biomes and climate
-
-You see that most of the region is a cold desert, called the Jade Wasteland. Average yearly temperatures are mostly around 0C, but it gets much colder at night. The average is also much lowered closer to the mountains (-11C and below). It is a bit warmer in the coastal areas (2C), where one finds taiga and cold forests. You remember from the past that there are very long winters (3 to 5 years) every 20 years or so. During the coldest part in the winter, average temperatures could be up to 20C lower than described above. There are also summers, which tend to be short (less than 1 year), where average temperatures are 10 to 15 degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't even exist.
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-The very large desert in the region is known as the Desolate Flats
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-
-### The Reclaim Campaign
-
-
-### Starting in 1150 AT, or 3499 of the New Calendar (NC)
-
-Around the year 11500 AT, known in Guemenos as 3499 of the new calendar (NC), the Acrisae started executing their plan to reclaim Guemenos. Their first scouts came from Acrisius leveraging the same Uli power, reverse-engineering from the information Bonnalurie collected when she faced the same power from the staff. Bonnalurie built 10 rings that enabled the scouts to travel to Guemenos. They've scouted Guermenos until 3855 NC when they travelled back to Acrisius to further advance the plan. By then, Bonnalurie had developed the portal opening machines that look like golden mechanical dragons, the Sulpraxae. 
-
-The first stage of the campaign is to arrive in the barren plains of the Tolfoddund county, south of the Naragzah mountains, in the Khathan Empire and set up a large scale military camp. The location will be chosen so that access to Ammuinoth is possible, and the construction can be used to disguise Acrisae operations such as mining, construction and training. To make sure the region is empty of curious eyes, the Acrisae, with support from the Sulpraxae, will cause fear to the region inhabitants by scorching the earth and forcing them to neighbouring regions, including the mountains and its caves and mines.
-
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
+![](_aux/Pasted%20image%2020230326110340.png)
 
 It would cause suffering to the inhabitants of the region, but a large enough proportion can save themselves and create a new life for them. After the final conflict with the Kyri is finished, the world would be free of Ulkrunnar and his children. To the Acrisae that seems like an acceptable trade off.
 
-In the year 3877 NC dozens of Sulpraxae and thousands of soldiers from the Acrisae army arrived in Guermenos. These soldiers will spend most of the first 5 years making sure the tribes of the region are driven off, and setting up the first encampment - which would then be developed into a large city state fortress - which would take 20 years more (and would be finished ~3902 NC). The plan is then for the city state would then be connected to the northwesterly civilisations with roads (100 km per year), economic and military treaties. 
+In the year 3877 NC dozens of Sulpraxae and thousands of soldiers from the Acrisae army arrived in Guemenos. These soldiers will spend most of the first 5 years making sure the tribes of the region are driven off, and setting up the first encampment - which would then be developed into a large city state fortress - which would take 20 years more (and would be finished ~3902 NC). The plan is then for the city state would then be connected to the northwesterly civilisations with roads (100 km per year), economic and military treaties. 
 
 Sulpraxae can use the Uli power to scorch the land, raising temperatures to above 60C temporarily, and keeping them around 50C for years, if necessary. The intent is to stop scorching after the first 5 years, but maintain pressure on people to not come close to the chosen place of the city-state, with targeted attacks when necessary.
 
+## The Glasrath Alliance
 
-## Kingdom of Naragzah
-
-
-### About mines
-
-The mine caves are very tall, with most main ways well above 10m tall. The tunnels are also very wide (sometimes kilometres), with full height for about 50-100m in width in the centre, while the borders are where excavation, extraction and processing takes place. The centre is dedicated to the main mine logistics, which rely on giant lizards that run a chain cycle, pulling massive mine carts round the mine. Half tunnels are built on the top part of abandoned extraction areas, and these are living accommodations and civil spaces. Multiple ditches are built on the tunnels, where sewage and animal waste is collected. Clean water still runs on a few heightened ditches.
-
-Dwarves funnel and filter light (and air, naturally) down into their dwelling caverns via long diamante-lined shafts, the same design that the timeclock uses. Similar structures are used, closer to the surface, to light the large fields of vegetation.
-
-Alternatively to light clockworks, the mineral Sunstone can be heated and would radiate light primarily in the portion of the spectrum needed by plants — which made for rather strange lighting, since plants primarily use blue and red light. It could also be let sit in the sunlight, after which it would radiate more of a full spectrum for five or six times as long as that exposure. Sunstone is thus used anywhere the dwarves want growing plants, usually carved into ovoids about the size of a typical soda can. An underground city had about three times the amount of sunstone actually needed for lighting, one portion in use, another portion in storage for replacing the ones that started getting dim, and the third portion being heated.
-
-Sewage is the nutrient source. It isn't used directly, but is composted with vegetable table scraps plus sawdust and wood chips. The compost is mixed into existing soil and spread across especially level cavern floors or on terraces lining the sides of caverns. When a new section of farming area is opened up the dwarves have been known to actually import solid waste from humans, both human waste and animal manure, along with vast amounts of sawdust and wood chips from logging and lumber operations, to make huge amounts of compost. The first layer in a new field in a cavern is rubble, waste from rock carving in pieces walnut-size or smaller, then river sand and gravel topped with ordinary dirt, and finally their compost soil mix.
-
-
-### The Tolfoddund Mines
-
-The southern mine system on the Glasrath Mountains was created by dwarves coming from the town of Tolfoddund, two centuries ago (3671 NC). These dwarves were not as advanced as the Nargun dwarves, but made enough wealth by trading dwarven goods with Watheton (especially Yeswite), which then traded them to other peoples of the Kuzar County and, more broadly, with the Khathan empire.
-
-The mine's southern entrance is 90 Km through a clean trail on the foot of the mountains, northeast from Watheton. The mine system is roughly 50 x 50 Km. These mines were home for 2800 dwarves in its apex prosperity but, around the year 3867 NC it was raided by the dragonborn clans from Nurderad. Most of the people of the region do not know that the raid was done by the dragonborn, as it was executed very fast and silently. The Nurderad raided the mines due to control from Aivridyt, operating under the power of The Silk - but very few would know that (none in the region). With the dragonborn, also came a necromancer, which is why there will be undead in the mines. The raid did not advance to the Nargun mines, but due to the necromancer spells, a horde of undead started invading the cities of the Nargun dwarves. This is why the passes between both systems will all be sealed.
-
-The trail from Watheton ends in the bottom of the Glasrath Mountains, with a colossal entrance to the Tolfoddund mines. The massive main door is broken and left open.
-
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
-
-
-After entering, the group find themselves in a very rough large room, which gives access to the actual mine through a 10m tall arch. In this room, there are logistics equipment (crates, barrels), chains and platforms for lifting. It smells of animal manure.
-
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
-
-Everywhere you see is filled with signs of battle. You see dwarven and other taller humanoid armours, equipment and weapons. You also see the carcasses of very few of the giant lizards, and none of humanoid creatures.
-
-
-### The Nargun Mines and the City of Khathadzig
-
-The Nargun was a strong Dwarven empire founded in 3217 NC.
-
-In 3867 NC, when the Tolfoddund mines were raided, the Nargun mines closed the intermine access to protect themselves against the incoming undead. Two years later, undead started arriving from the Ammuinoth too, on the south of the intermine - attacking both the mines and the Khathadzig city. During the months of battle that followed, Orduki Fieryshoulder, the Nargun King, was killed with all his family. The body of the youngest heir (Gitmoc Fieryshoulder) was never found - and because of that the Greybow regent never took the title of king. They continue in search for Gitmoc.
-
-In 3872 NC the Nargun finally decided to abandon the Khathadzig city, moving all the population to the intermine.
-
-The city of Khathadzig is surrounded by farms that are set on large faults, with bronze sheets covering it from wind, rain and snow. On these faults, coal is alit for heat, and compost from the mines is used to grow food for the inhabitants.
-
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
-
-
-<span style="text-decoration:underline;">Technology</span>
-
-
-
-* `"dvpdOrder": ["agriculture", "pottery", "animal husbandry", "archery", "mining", "sailing", "optics", "writing", "calendar", "drama and poetry", "masonry", "bronze working", "philosophy"],`
-* `"unitsAvailable": ["Worker, Settler, Warrior, Scout, Atlatlist, Jaguar, Maori warrior, Pathfinder, Work boat, Trireme, Dromon, Quinquereme, Cargo ship, Spearman, Hoplite, Immortal, Pictish warrior, Battering ram, Caravan, Archer, Bowman, Slinger"],`
-
-
-### Aivridyt's dominion
-
-
-
-
-### The Glasrath Alliance
+![naragzah](locations/naragzah.md)
 
 After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
-
-
 
 * Watheton: Nosbelbeyn and Ondor perished, <span style="text-decoration:underline;">their units are gone</span>.
 * Gorthugke: **<span style="text-decoration:underline;">Ghuse survived</span>**, Umryn and Tristhil perished. They have left 69 Inf3 and 25 Inf2Arch.
@@ -252,8 +100,6 @@ After the large battle with the undead, the military units of the cities of Wath
 * Delmuth: **<span style="text-decoration:underline;">Theklurth is missing in combat</span>**. Yncyn perished. <span style="text-decoration:underline;">Their units are gone.</span>
 
 The new organisation of the Glasrath Alliance is:
-
-
 
 * King regent: Whursock Greybow (Nargun)
 * Guard Regiment Capitain: Serhan (Gamunz)

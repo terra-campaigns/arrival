@@ -1,12 +1,14 @@
 # Metadata model
 
 - `type`
-	- `NPC`
-	- `PC`
+	- `chapter` (adopted)
+	- `history` (adopted)
+	- `location` (adopted)
+	- `npc` (adopted)
+	- `pc` (adopted)
 	- `shop`
 	- `place`
 	- `item`
-	- `session` for D&D play sessions
 	- `quest`
 	- `race`
 	- `faction`
@@ -15,27 +17,32 @@
 	- `condition`
 	- `deity`
 	- `other` for anything else
-- `characters` (for sessions): characters involved in this session
-- `deceased`
+- `pcs` (for chapter): characters involved in a chapter
+- `game_date` (for chapter)
+- `faction` (for pcs and npcs, sometimes for locations)
+- `relations` (for pcs and npcs)
+- `species` (for pcs and npcs)
+- `gender` (for pcs and npcs)
+- `chatType` (for pcs and npcs): class and level or type of monster / statblock used
+- `deceased` (for pcs or npcs)
 	- `true`
 	- `false`
-- `family`
-- `faction`
-- `race`
-- `gender`
-- `class`
-- `description`
-- `date`
-- `game_date`
+- `locType` (for locations): type of location
+	- `empire`
+	- `tunnel`
+	- `castle`
+	- `city`
+- `continent` (for locations)
+	- `Easteros`
 - `world`
-	- `Exandria`
-	- `Forgotten Realms`
-	- `Exandya`
+	- `Guemenos`
 - `campaign`
-	- `Order of the Wandering Mind`
-	- `The Slayers Five`
-	- `Die vergessene Schwester`
-	- `Temporary White Circle`
+	- `Arrival`
+- `tags`
+	- `revision` for files that need revision
+
+
+
 - `shop` (for proprietors)
 - `shop_type` (for shops)
 	- `general` : general goods store

@@ -40,9 +40,10 @@
 - Tales of the Glasrath battle sang by bards 
 
 ### Snoozed hooks
+
 - In 3877.65 NC the Lady Scurvy spreads to another region
-- In 3878.4 NC Theklurth will come back for a revenge on the party (and Miraak)
 - Aivridyt's eggs hatch in the Darklake
+- In 3878.4 NC Theklurth will come back for a revenge on the party (and Miraak)
 - 3882 NC Sulpraxae scorching ends
 - In 3894 NC Theklurth's child (demon dragonborn) will revenge it's mother
 - 3902 NC Acrisae finish building fortresses

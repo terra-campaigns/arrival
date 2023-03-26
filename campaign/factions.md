@@ -7,6 +7,7 @@ flowchart LR
     Nek --> Bonnalurie
     Nek --> Falet
     Nek --> Kimbarak
+    Nek --> ImprisionedChildren
     
     Mystra --> Rurkinar
     Mystra --> MystraTemple
