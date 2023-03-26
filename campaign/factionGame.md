@@ -1,4 +1,6 @@
+# Faction Game Log
 
+State as of 
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -66,3 +68,8 @@ flowchart LR
     Nargun
     end
 ```
+
+- [ ] Turf > 3: dark thunderstorms and energy overflow
+- [ ] Turf > 6: energy umbilicals are made from Holzander to NE and SW
+- [ ] Turf > 9: energy umbilicals take over the ammuinoth - setback for the Acrisae, who will reach out for help or attempt another approach as a backup
+- [ ] Turf = 12: the acrisae camp is taken

@@ -18,7 +18,7 @@
 - 3627 NC Gerhardt Holzander starts building the Holzander Castle on Brezal Paths in the Ammuinoth
 - 3671 NC Tolfoddund mines are founded in the Naragzah mountains
 - 3727 NC Duergar moves into the Holzander Castle
-- 3767 NC Acrisae Scouts attack the Holzander Castle, but the FFKA claims the attack
+- 3767 NC Acrisae Scouts attack and burn down the Holzander Castle, but the FFKA claims the attack
 - 3774 NC Fūko is born in the Upper Ghost Domain
 - 3834 NC Dorfund Frostbraid joins the Paragon Force and falls in love with Gaelira
 - 3837 NC Dolman Frostbraid is born in the Kiranu Mines
@@ -26,16 +26,16 @@
 - 3850 NC Aivridyt, The Creep takes lair in the Naragzah mountains
 - 3855 NC Acrisius scouts leave Katho
 - 3856 NC Aivridyt is severely wounded by alliance of Tolfoddund and Nargun warriors in the Naragzah mountains
+- 3857 NC Gaelira and the Paragon Force goes to the Ammuinoth
 - 3860 NC Kethra Stormwind is born in a village north of the Naragzah mountains
 - 3867 NC Aivridyt comes back from Shadowfell and lay eggs in the caverns of the Naragzah mountains
 - 3867 NC Kethra's parents are killed by Aivridyt, Aivridyt disguises as a sage and raises Kethra
 - 3868 NC Tolfoddund mines are raided by the dragonborn, under the influence of Aivridyt (disguised as Grezar, a drow necromancer)
 - 3869 NC Ghuse (Aivridyt) joins the military in Gorthugke
+- 3870 NC Galiera and the Paragon Force are caught by the Trollkin and sent to be tortured by the Gaoler
+- 3871 NC The Angel Hound is imprisoned in the Holzander Castle
 - 3876 NC Nilperto is killed in Watheton
+- 3872 NC Galiera is sent to Gellert who infuses her with void magic and turns her into a vampire
+- 3875 NC Lady Ruby and the Youngblood (Gaelira and the Paragon Force, now vampires) take lair in Throtha and starts spreading the Lady Scurvy
 - 3877 NC Acrisae arrive with the Sulpraxae in the South Desert
 - 3877 NC The Glasrath Alliance is formed, Fuko perishes in the bartle with the undead in the Naragzah mountains
-
-- Galiera & Paragon goes to the Ammuinoth
-- Galiera is tortured by the Gaoler
-- Galiera is sent to Gellert and turned into a vampire, then sent to Throta to spread the Lady Scurvy
-- FFKA or Acrisae scouts destruction of Holzander
