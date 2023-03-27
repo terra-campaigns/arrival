@@ -87,30 +87,3 @@ In the year 3877 NC dozens of Sulpraxae and thousands of soldiers from the Acris
 Sulpraxae can use the Uli power to scorch the land, raising temperatures to above 60C temporarily, and keeping them around 50C for years, if necessary. The intent is to stop scorching after the first 5 years, but maintain pressure on people to not come close to the chosen place of the city-state, with targeted attacks when necessary.
 
 ## The Glasrath Alliance
-
-![naragzah](locations/naragzah.md)
-
-After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
-
-* Watheton: Nosbelbeyn and Ondor perished, <span style="text-decoration:underline;">their units are gone</span>.
-* Gorthugke: **<span style="text-decoration:underline;">Ghuse survived</span>**, Umryn and Tristhil perished. They have left 69 Inf3 and 25 Inf2Arch.
-* Tolfoddund: Sin-shar-ishkun and Gunk perished. They have left 24 Inf3.
-* Gamunz: **<span style="text-decoration:underline;">Singlestrike and Serhan survived</span>**, Umonar perished. They have left 9 Inf3, 98 Inf2, 46 Inf2Arch and 7 Inf1.
-* Nargun: **<span style="text-decoration:underline;">Umimnumi and Whursock (new regent) survived</span>**. Sitmeak perished. They have left 103 Inf3 and 20 Inf2Arch.
-* Delmuth: **<span style="text-decoration:underline;">Theklurth is missing in combat</span>**. Yncyn perished. <span style="text-decoration:underline;">Their units are gone.</span>
-
-The new organisation of the Glasrath Alliance is:
-
-* King regent: Whursock Greybow (Nargun)
-* Guard Regiment Capitain: Serhan (Gamunz)
-* Mayor for the mines and city: Singlestrike (Gamunz)
-* Army General and Cleric of Algath: Ghuse
-* Army soldiers: 205 Inf3, 91 Inf2Arch, 50 Inf2
-* Guards: 48 Inf2 and 7 Inf1
-* Civilians from all the cities: 13.000.
-
-<!-- Footnotes themselves at the bottom. -->
-## Notes
-
-[^1]:
-     The measure of technology maturity is a quantitative proxy to enable comparison of different civilisations. For reference, developing beyond technology from the ancient era requires a maturity of 500, while reaching the level of Greeks and Romans would require 1800. The mediaeval technology would have a maturity of 5700, while developing all the required technologies to complete the Renaissance era would need a maturity 15000 for then entering the industrial era.
