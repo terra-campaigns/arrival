@@ -3,7 +3,7 @@
 - `type`
 	- `chapter` (adopted)
 	- `history` (adopted)
-	- `location` (adopted)
+	- `location` (with subtypes)
 	- `npc` (adopted)
 	- `pc` (adopted)
 	- `shop`
@@ -27,11 +27,6 @@
 - `deceased` (for pcs or npcs)
 	- `true`
 	- `false`
-- `locType` (for locations): type of location
-	- `empire`
-	- `tunnel`
-	- `castle`
-	- `city`
 - `continent` (for locations)
 	- `Easteros`
 - `world`
