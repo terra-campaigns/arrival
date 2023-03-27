@@ -1,7 +1,8 @@
-# Faction Game Rules
+# Faction Game Rules v3
 
 The faction game mechanics follows [Godbound: A Game of Divine Heroes (Free Edition)](https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition) also available [here](https://drive.google.com/file/d/14SRyFtMkRqaKUZZHpBN39FBYyrbyaa5S/view?usp=sharing) - page 134. Other sources are [Stars Without Number: Revised Edition (Free Version)](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) and [r/RPGdesign: How to Have Well Designed Factions in Your Campaign](https://www.reddit.com/r/RPGdesign/comments/iz762t/how_to_have_well_designed_factions_in_your/).
 
+### Tiers and action dice
 | Tier | Size                                  | Action die |
 | ---- | ------------------------------------- | ---------- |
 | 1    | Village, neighborhood, guild, cabal   | 1d6        |
@@ -10,15 +11,47 @@ The faction game mechanics follows [Godbound: A Game of Divine Heroes (Free Edit
 | 4    | Nation, realm-wide faith              | 1d12       |
 | 5    | Empire ruling an entire realm         | 1d20       |
 
-## Faction Turns, Trouble, and Conflict
 
-Factions do things during the faction turn. It's usually safe to run a faction turn once per game month, though in times of great excitement it might be run more often, or less often for larger factions that don't change with the rapidity of a village in motion. The GM decides when it's time to run a faction turn and what factions should act during it.
+### Features
+| Mod on tier | Description |
+| ----------- | ----------- |
+| -2          | Hopeless    |
+| -1          | Troubled    |
+| 0           | Normal      |
+| +1          | Organised   |
+| +2          | Blessed     |
 
-Factions act in random order each turn. Every turn, the faction can perform one internal action affecting their own internal state of affairs, and one or more external actions affecting their neighbours. A faction can take as many external actions in a turn as they have Power, but they can't use more than one action on a specific neighbour in a turn.
+### Problems
+| Proportion of<br />action die | Description  |
+| ----------------------------- | ------------ |
+| 1/4                           | Well-run     |
+| 1/3                           | Impoverished |
+| 1/2 ~ 3/4                     | In crisis    |
 
-Some actions require Trouble checks. To make a Trouble check, roll the faction's action die. If the number rolled is greater than the faction's Trouble score, it passes the check. If equal or less, it fails. You can compare the roll to the faction's list of Problems to find out which Problem was instrumental in causing the check to fail, or simply pick an appropriate one to blame.
+### Dominion costs
 
-Other actions require Contests between factions. For a Contest, each faction rolls their action die and the higher score wins, with ties going to the higher-Power faction, or the defender if both are equal.
+Godbound, page 129.
+| Scope   | Base cost | Impact                                       |
+| ------- | --------- | -------------------------------------------- |
+| Village | 1         | Villages, a few square miles, 1,000 people   |
+| City    | 2         | Major city, ten miles square, 100,000 people |
+| Region  | 4         | Province, a thousand square miles, 1 million |
+| Nation  | 8         | An entire kingdom, 100 million people        |
+| Realm   | 16        | The whole world, Billions of people          |
 
-### Common Faction Actions
+| Multiplier | Likelihood  | Description                                            |
+| ---------- | ----------- | ------------------------------------------------------ |
+| x1         | Plausible   | Does not violate laws of nature or angers local powers |
+| x2         | Implausible | Bends the rules of nature or human behaviour           |
+| x4         | Impossible  | Politically unthinkable or physically impossible       |
 
+| Resistance | Type of enemy                                 |
+| ---------- | --------------------------------------------- |
+| 1          | Minor spirits, lesser undead, angry priest    |
+| 2          | Skilled mage, Strong local ruler, Misbegotten |
+| 4          | Eldritch, Uncreated hulk, Major bestial thing |
+| 6          | Minor parasite god                            |
+| 8          | Major parasite god                                              |
+
+### Faction turns
+Two turns every month of game time (20 turns per year). See [calendar](../campaign/calendar.md).
