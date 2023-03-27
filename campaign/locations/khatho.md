@@ -1,10 +1,9 @@
 ---
-type: location
+type: location/empire
 name: Khathan Empire
 world: Guemenos
 continent: Easteros
 campaign: Arrival
-locType: empire
 tags: 
 ---
 
@@ -47,3 +46,11 @@ You see that most of the region is a cold desert, called the Jade Wasteland. Ave
 The very large desert in the region is known as the Desolate Flats
 
 ![](_aux/Pasted%20image%2020230326110032.png)
+
+## North Kathan Empire
+
+### Linhe
+
+All this cities (except Gimorkoc, which still follows the Yotunn Ancestors religion) have been over the decades converting to the northern religion known as Faletism. You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+
+![](_aux/Pasted%20image%2020230327223917.png)

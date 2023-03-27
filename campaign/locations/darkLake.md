@@ -1,0 +1,1 @@
+You found on an old scripture that the lake is controlled by the Cultists of Cuncharn, which is a minor deity under Algath (god that Ghuse follows). The symbol of Cuncharn is the same as the one Ghuse uses (and you found in Nilperto, and the red dragon had - according to the Nargun).

@@ -1,10 +1,9 @@
 ---
-type: location
+type: [location/mines, location/empire]
 name: Kingdom of Naragzah
 world: Guemenos
 continent: Easteros
 campaign: Arrival
-locType: empire
 tags: 
 ---
 
@@ -36,6 +35,8 @@ After entering, the group find themselves in a very rough large room, which give
 
 Everywhere you see is filled with signs of battle. You see dwarven and other taller humanoid armours, equipment and weapons. You also see the carcasses of very few of the giant lizards, and none of humanoid creatures.
 
+![](_aux/Pasted%20image%2020230327222344.png)
+
 ## The Nargun Mines and the City of Khathadzig
 
 The Nargun was a strong Dwarven empire founded in 3217 NC.
@@ -47,6 +48,10 @@ In 3872 NC the Nargun finally decided to abandon the Khathadzig city, moving all
 The city of Khathadzig is surrounded by farms that are set on large faults, with bronze sheets covering it from wind, rain and snow. On these faults, coal is alit for heat, and compost from the mines is used to grow food for the inhabitants.
 
 ![](_aux/Pasted%20image%2020230326110955.png)
+
+**The intermine**
+
+![](_aux/Pasted%20image%2020230327222715.png)
 
 ## Technology
 
