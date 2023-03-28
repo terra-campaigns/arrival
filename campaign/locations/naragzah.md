@@ -55,7 +55,7 @@ The city of Khathadzig is surrounded by farms that are set on large faults, with
 
 ## Technology
 
-![technology](../technology.md)
+![technology](../../rules/technology.md)
 
 * `"dvpdOrder": ["agriculture", "pottery", "animal husbandry", "archery", "mining", "sailing", "optics", "writing", "calendar", "drama and poetry", "masonry", "bronze working", "philosophy"],`
 * `"unitsAvailable": ["Worker, Settler, Warrior, Scout, Atlatlist, Jaguar, Maori warrior, Pathfinder, Work boat, Trireme, Dromon, Quinquereme, Cargo ship, Spearman, Hoplite, Immortal, Pictish warrior, Battering ram, Caravan, Archer, Bowman, Slinger"],`

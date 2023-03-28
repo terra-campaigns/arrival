@@ -119,19 +119,6 @@ Ghuse will climb to power every time based on faction code (current simulation):
 
 
 
-1. Turf > 3: starts having large festivities celebrating Algath: ¼ of the leadership and population is in full support.
-2. Turf > 6: number of undead greatly surpasses the number of alive people (2-to-1), mostly working the mines: ½ of the leadership (lowest turf factions) and population is in full support - if characters haven't noticed yet, they notice now, that people are looking more pale and seem a bit brain drained.
-3. Turf > 9: known people from the first days of the alliance are raised, including the dragon and Fuko - ¾ of the leadership and population is in full support.
-4. Turf = 12: the alliance is now Ghuse's, and he turns to his Aivrindyt form now.
-
-How PCs can slow down Ghuse's ascension:
-
-
-
-* If they actively foil Ghuse, Ghuse's tenacity is reduced
-* If they actively strengthen one of the other factions, their tenacity is increased
-* If they appoint a new leader (from outside the current alliance), another faction can be created and take over some of the turf
-* If they kill Ghuse/Aivrindyt.
 
 
 ### Locations

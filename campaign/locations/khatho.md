@@ -13,7 +13,7 @@ tags:
 
 The Khatan Empire, specially south of the Naragzah mountains, is hardly technologically developed. The Kuzar province has a technology maturity of 420, while the Tolfoddund province (not the mines) has a similar development, when excluding the dwarven technology. Slightly more advanced is the Kostoch province, with a maturity of 470.
 
-![technology](../technology.md)
+![technology](../../rules/technology.md)
 
 ### Political perspective
 

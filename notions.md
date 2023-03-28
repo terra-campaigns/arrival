@@ -11,6 +11,7 @@
 - [ ] Segarus leads a subfaction of FFKA that is aligned with the Mercian  
 - [ ] Some land has a usurper  
 - [ ] Ffka appoints the king of olivepia (and influence other lands)
+- [ ] 4 artifacts must be found in the castle: life death time void
 
 ## Films, books
 - [ ] Elizabeth 1998 for an evil priest 

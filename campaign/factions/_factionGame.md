@@ -1,7 +1,5 @@
 # Faction Game Log
 
-State as of 
-
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 flowchart LR
@@ -90,6 +88,7 @@ flowchart LR
 	- INT Build strength: 1d10 DC 4 to get 2 dominion. Outcome 7.
 
 **Summary before actions**
+
 | Faction   | Tier | Feat | Trouble | Cohesion | Dominion |
 | --------- | ---- | ---- | ------- | -------- | -------- |
 | Glasrath  | 2    | 2    | 3       | 2        | 2        |
