@@ -23,7 +23,7 @@ tags:
 	- They might be messing up with powers beyond their control (1 pt)
 	- Everyone has reservations with the Mercians (1 pt)
 - **Interests**
-	- FFKA East (rival): use their influence to weaken the Yotunn and Nurfirth
+	- [FFKA East](ffkaEast.md) (rival): use their influence to weaken the Yotunn and Nurfirth
 	- Turnskull (ally)
 - **Goals**
 	- [ ] Feature: energy overflow and sky umbilicals to Hincland and Turnskull (cost 16: region, impossible)

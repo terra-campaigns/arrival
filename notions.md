@@ -12,11 +12,14 @@
 - [ ] Some land has a usurper  
 - [ ] Ffka appoints the king of olivepia (and influence other lands)
 - [ ] 4 artifacts must be found in the castle: life death time void
+- [ ] demon on level 2 can explain the brezal paths: can be freed into a magic item 
 
 ## Films, books
 - [ ] Elizabeth 1998 for an evil priest 
 - [ ] Dracula (book)
 
+
+https://koboldpress.com/kpstore/product-category/guides/page/2/
 
 ## Background & lore
 
@@ -32,7 +35,7 @@
 
 ### Rumours
 - Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a doppelganger
-- Random rumours [hundredsRumours](resources/hundredsRumours.md)
+- Random rumours [curatedRumours](campaign/resources/curatedRumours.md)
 
 
 ## Arcs & hooks

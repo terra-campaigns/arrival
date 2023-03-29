@@ -40,6 +40,7 @@ Description of your strong start.
   
 ### Fantastic locations  
 - **Location** (2/h): 3 aspects for each (and a picture and/or link)
+- What is the history of your fantastic location? What happened here before?
   
 ### Important NPCs  
 - **Name.** Description (put yourself in their minds), add link if a file is created
@@ -49,6 +50,7 @@ Description of your strong start.
 
 ### Potential treasures  
 - Description
+- Give magic items a unique name and history
 
 
 Source: https://slyflourish.notion.site/Session-Notes-Template-Sample-5dd292cce3134ed7aa11237a4ab4848f

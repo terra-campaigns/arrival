@@ -1,62 +1,62 @@
-Alil Yourner was killed by ghouls in the hills outside town
-6	The spiders of the Prison of Kas the Bloody are powerful spellcasters
-7	An iron golem has escaped from the tower of Saltesyas the Conjurer
-8	A pack of aberrant monsters prowls through the Amber Heath
-9	A ring of magical stone monoliths lies deep within the Trollcrags
-10	The king's guard have captured a mysterious red-robed assassin
-11	A band of orcs is in town looking for mercenary work
-12	The queen is a descendant of Muabura the Enchantress
-13	A ring of magical stone monoliths lies deep within the Shattered Lands
-14	An ancient sunken city lies somewhere beneath the Bene Heath
-15	A gang of thieves accidentally set fire to the Pantheon of the Astral Lords
-16	Warder the fletcher stole something from the Quartermasters Guild and then disappeared
-17	Ellyn was killed by orcs in the hills outside town
-18	Ghosts walk the ramparts of Modison's Hold during the full moon
-19	There is a secret entrance to the Secret Delve of Nightmares in the cellar beneath the Cursed Candle on Archer's Way
-20	The Temple of Angels is a front for the Thieves Guild
-21	The brigands of the March of the Broken Crown have been joined by a band of orcs and ogres
-22	A star has fallen into the Bede Fells
-23	Dainan's Delve is beseiged by the armies of the Wraith Princess
-24	A giant with a hundred arms dwells in the Marsh of Decay
-25	The chancellor of the treasury has been murdered by a red-robed assassin
-26	A caravan of merchants has discovered a lost city in the Paggeca Hills
-29	Scores of dragons have been gathering in the Anvil Hills
-30	The master of the Crossbowmen Guild has been murdered by a red-robed assassin
-31	A pack of flesh-eating ghouls lurks in the ruins of Gery Tower
-33	The city of Cofield is besieged by demon-possessed goats
-34	The dragon Sumula has destroyed the city of Eacham
-35	The wizard Aches the Unearthly has disappeared, along with her collection of visions and prophecies
-36	Bizarre monsters have been encountered in the Frostwood Forest
-37	The innkeeper's daughter disappeared about when he got his new cat.
-38	Agents of the Vampire Empress have stolen an ancient artifact from the lost city of Kinbuzund in the Knifeblade Hills
-39	An iron golem has escaped from the tower of Odon the Artificer
-40	A star has fallen into Haven Island
-41	Brose has been spending strange coins, each bearing the image of a fanged skull
-42	An evil curse has befallen the elven city of Ellorlon
-43	A dwarven caravan is expected to arrive, carrying exotic weapons from the distant lands of Adech
-46	Marger stole something from the Trapwrights Guild and then disappeared
-47	The master of the Diviners Guild has been murdered by a red-robed assassin
-48	Willan the calligrapher was killed by orcs in the hills outside town
-49	Lady Constie is dying of an incurable affliction
-50	Idel stole something from the Clockmakers Guild and then disappeared
-51	A spectral dragon has been seen in the Cairn Hills
-53	A patrol of soldiers has stumbled upon the secret temple of an ancient cult in the Aqtambori Jungle
-54	The town of Porthca has mysteriously disappeared
-55	Lady Aendent has been murdered by a red-robed assassin
-56	A perpetual storm rages over the Ceada Hills
-57	A spectral dragon has been seen in the Naver Woods
-58	A noble djinni is held imprisoned within the Lost Chambers of Annihilation, trapped behind a magical door with nine seals
-59	An undead knight in the ruins of Barad Ahil sometimes helps worthy adventurers
-60	Bizarre monsters have been encountered in the Kibuzund Crags
-61	There are still many undiscovered chambers in the Secret Dungeon of Secrets
-62	An elven princess is held captive within the Lost Tomb of Zeiram the Lich
-63	The bridge across the Iron River has been destroyed by brigands
-64	The Crossed Candles has mysteriously moved to the other side of town
-65	The wizard Lolesicl's toad is actually a polymorphed wizard
-66	The boss of the Butlers Guild is conspiring to overthrow the king
-67	A coven of cruel hags lurks in the ruins of Barad Enegor
-68	Aethed lost all his silver gambling at the Silver Shield
-69	An insane lich lurks in the ruins of Castow Castle
+- [ ] Alil Yourner was killed by ghouls in the hills outside town
+- [ ] The spiders of the Prison of Kas the Bloody are powerful spellcasters
+- [ ] An iron golem has escaped from the tower of Saltesyas the Conjurer
+- [ ] A pack of aberrant monsters prowls through the Amber Heath
+- [ ] A ring of magical stone monoliths lies deep within the Trollcrags
+- [ ] The king's guard have captured a mysterious red-robed assassin
+- [ ] A band of orcs is in town looking for mercenary work
+- [ ] The queen is a descendant of Muabura the Enchantress
+- [ ] A ring of magical stone monoliths lies deep within the Shattered Lands
+- [ ] An ancient sunken city lies somewhere beneath the Bene Heath
+- [ ] A gang of thieves accidentally set fire to the Pantheon of the Astral Lords
+- [ ] Warder the fletcher stole something from the Quartermasters Guild and then disappeared
+- [ ] Ellyn was killed by orcs in the hills outside town
+- [ ] Ghosts walk the ramparts of Modison's Hold during the full moon
+- [ ] There is a secret entrance to the Secret Delve of Nightmares in the cellar beneath the Cursed Candle on Archer's Way
+- [ ] The Temple of Angels is a front for the Thieves Guild
+- [ ] The brigands of the March of the Broken Crown have been joined by a band of orcs and ogres
+- [ ] A star has fallen into the Bede Fells
+- [ ] Dainan's Delve is beseiged by the armies of the Wraith Princess
+- [ ] A giant with a hundred arms dwells in the Marsh of Decay
+- [ ] The chancellor of the treasury has been murdered by a red-robed assassin
+- [ ] A caravan of merchants has discovered a lost city in the Paggeca Hills
+- [ ] Scores of dragons have been gathering in the Anvil Hills
+- [ ] The master of the Crossbowmen Guild has been murdered by a red-robed assassin
+- [ ] A pack of flesh-eating ghouls lurks in the ruins of Gery Tower
+- [ ] The city of Cofield is besieged by demon-possessed goats
+- [ ] The dragon Sumula has destroyed the city of Eacham
+- [ ] The wizard Aches the Unearthly has disappeared, along with her collection of visions and prophecies
+- [ ] Bizarre monsters have been encountered in the Frostwood Forest
+- [ ] The innkeeper's daughter disappeared about when he got his new cat.
+- [ ] Agents of the Vampire Empress have stolen an ancient artifact from the lost city of Kinbuzund in the Knifeblade Hills
+- [ ] An iron golem has escaped from the tower of Odon the Artificer
+- [ ] A star has fallen into Haven Island
+- [ ] Brose has been spending strange coins, each bearing the image of a fanged skull
+- [ ] An evil curse has befallen the elven city of Ellorlon
+- [ ] A dwarven caravan is expected to arrive, carrying exotic weapons from the distant lands of Adech
+- [ ] Marger stole something from the Trapwrights Guild and then disappeared
+- [ ] The master of the Diviners Guild has been murdered by a red-robed assassin
+- [ ] Willan the calligrapher was killed by orcs in the hills outside town
+- [ ] Lady Constie is dying of an incurable affliction
+- [ ] Idel stole something from the Clockmakers Guild and then disappeared
+- [ ] A spectral dragon has been seen in the Cairn Hills
+- [ ] A patrol of soldiers has stumbled upon the secret temple of an ancient cult in the Aqtambori Jungle
+- [ ] The town of Porthca has mysteriously disappeared
+- [ ] Lady Aendent has been murdered by a red-robed assassin
+- [ ] A perpetual storm rages over the Ceada Hills
+- [ ] A spectral dragon has been seen in the Naver Woods
+- [ ] A noble djinni is held imprisoned within the Lost Chambers of Annihilation, trapped behind a magical door with nine seals
+- [ ] An undead knight in the ruins of Barad Ahil sometimes helps worthy adventurers
+- [ ] Bizarre monsters have been encountered in the Kibuzund Crags
+- [ ] There are still many undiscovered chambers in the Secret Dungeon of Secrets
+- [ ] An elven princess is held captive within the Lost Tomb of Zeiram the Lich
+- [ ] The bridge across the Iron River has been destroyed by brigands
+- [ ] The Crossed Candles has mysteriously moved to the other side of town
+- [ ] The wizard Lolesicl's toad is actually a polymorphed wizard
+- [ ] The boss of the Butlers Guild is conspiring to overthrow the king
+- [ ] A coven of cruel hags lurks in the ruins of Barad Enegor
+- [ ] Aethed lost all his silver gambling at the Silver Shield
+- [ ] An insane lich lurks in the ruins of Castow Castle
 70	Most of the town guards are evil cultists
 71	An undead knight in the ruins of Praham Stronghold holds a demon imprisoned for eternity
 72	Wine the woodcutter has been missing for days, and was last seen buying arms and armor from the market

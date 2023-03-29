@@ -3,19 +3,20 @@
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 flowchart TD
-    Mystra
-    Bonnalurie
-    Falet
-    Kimbarak
-    
-    Mystra --> Rurkinar
-    
-    Algath
-    Merdijad
-	
+subgraph Edraihil
+	Mystra
+	Bonnalurie
+	Falet
+	Kimbarak
+end
+subgraph Kyri
+	Algath
+	Merdijad
+end
+	Mystra --> Rurkinar
 	Algath --> Curcharn
-	
 	Merdijad --> Lorqiroth
+	Mondendovil
 ```
 
 ## Mystra, the Lady of Mysteries
@@ -48,7 +49,8 @@ Falet is a revered deity worshipped by many inhabitants of Guemenos. The high ch
 
 For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit of the Kiranu mountains, as their protector and savior. They praised his strength, his courage, and his unwavering commitment to justice and honor.
 
-![secretsReligion#kimbarak](secrets/secretsReligion.md)
+![Kimbarak](secrets/secretsReligion.md#Kimbarak)
+
 
 ## Algath, Goddess of Life and Death
 
@@ -68,6 +70,10 @@ Merdijad is one of the most powerful gods of Guemenos. She is a manupulative god
 
 ### Lorquiroth, Commander of Turnskull
 
-Deep in the icy wastelands in the south lived a minor deity known as Frosthelm, the god of ice and war. Frosthelm had always been drawn to the frigid wilderness, where his powers were at their strongest, and the thrill of battle was never far away.
+Deep in the icy wastelands in the south lived a minor deity known as Frosthelm, the god of ice and war. Frosthelm had always been drawn to the frigid wilderness, where his powers were at their strongest, and the thrill of battle was never far away. However, he was not entirely alone in his icy domain, sharing it with his mighty companion, a dire polar werewolf named Frostfang. Together they roamed the vast expanses of the ice sheets, hunting prey and battling any foes that dared to challenge them. Frostfang was a fearsome creature, with gleaming white fur and eyes that shone like ice crystals. He was as much a part of Frosthelm's domain as the snow and the cold.
 
-Thousands of years ago Merdijad came to him, promising untold power and glory if he would swear his allegiance to her. Frosthelm, hungry for greater strength, eagerly accepted her offer. Under the new name of Lorquiroth he joined her ranks as the loyal commander of her armies. Under Merdijad's guidance, his power grew beyond anything he had ever imagined. From his throne in the legendary fortress of Turnskull in the ice sheets, he could summon blizzards and ice storms with a flick of his wrist, and his armies of ice warriors were invincible on the battlefield.
+Once Merdijad came to Frosthelm with promise of untold power and glory, he eagerly sworn allegiance to her. Under the new name of Lorquiroth he joined her ranks as the loyal commander of her armies. From his throne in the legendary fortress of Turnskull in the ice sheets, together with Frostfang, Lorquiroth ruled the icy wastelands with an iron fist, feared and respected by all who dwelled there
+
+## Mondendovil, the Forefather
+
+Mondendovil, the Forefather of Mercian gods, was a being of immense power and ancient knowledge. His followers revered him as a god of magic, but his true nature was far more sinister than they could ever imagine. Mondendovil's obsession with the dark arts led him to create a secret school of magic known as the Wandering Crow, which delved into the most forbidden and dangerous practices imaginable. For centuries, the school flourished, attracting the most twisted and malevolent practitioners of the arcane. But as time passed, the knowledge of the Wandering Crow was lost, and the school faded into obscurity. But in the shadows of the forgotten school, something dark and malevolent still lingers. The whispers of Mondendovil's dark magic can still be heard, and those who dare to venture too close risk being consumed by the madness and horror that lie at the heart of the Wandering Crow

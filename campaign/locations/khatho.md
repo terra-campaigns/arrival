@@ -9,7 +9,7 @@ tags:
 
 # Khathan Empire
 
-## South Kathan Empire
+## South Kathan Empire (Jade Desert)
 
 The Khatan Empire, specially south of the Naragzah mountains, is hardly technologically developed. The Kuzar province has a technology maturity of 420, while the Tolfoddund province (not the mines) has a similar development, when excluding the dwarven technology. Slightly more advanced is the Kostoch province, with a maturity of 470.
 
@@ -48,6 +48,10 @@ The very large desert in the region is known as the Desolate Flats
 ![](_aux/Pasted%20image%2020230326110032.png)
 
 ## North Kathan Empire
+
+### Dust elves
+
+Dust Elves are exceptional traders that live a nomadic life in the desert north of the Glasrath mountains (think of the Bedouin people). They believe in nature gods and are generally trustworthy. They are not known for their fighting skills (for that you are better off with the people in your own alliance). You did not find any reference to enemies of the Dust Elves.
 
 ### Linhe
 
