@@ -41,6 +41,10 @@ Everywhere you see is filled with signs of battle. You see dwarven and other tal
 
 The Nargun was a strong Dwarven empire founded in 3217 NC.
 
+![](_aux/Pasted%20image%2020230401100636.png)
+
+The King was killed about 15 years ago, in an attack that came from the Ammuinoth, alongside his son and heir. Sitmeak Greybow, was then appointed as regent and has been the regent since - he is in charge. The brother, Whursock Greybow, is the commander of the army.
+
 In 3867 NC, when the Tolfoddund mines were raided, the Nargun mines closed the intermine access to protect themselves against the incoming undead. Two years later, undead started arriving from the Ammuinoth too, on the south of the intermine - attacking both the mines and the Khathadzig city. During the months of battle that followed, Orduki Fieryshoulder, the Nargun King, was killed with all his family. The body of the youngest heir (Gitmoc Fieryshoulder) was never found - and because of that the Greybow regent never took the title of king. They continue in search for Gitmoc.
 
 ### Khathadzig

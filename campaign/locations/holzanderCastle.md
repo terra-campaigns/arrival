@@ -29,3 +29,34 @@ Over the next 100 years, foul creatures have arrived and departed from the ruins
 > Probably 100 years later (150 years ago), duegar from the Ammuinoth took a keen interest in House Holzanger. These duegar agreed with Gerhardt III to protect the Citadel and, suddenly, there was a company of one hundred duegar and a half-dozen ring mages in the region. The duegar chased down and tamed owlbears from the steppes as hunting animals and guardians, and brought them to the Ammuinoth. With an even tighter collaboration between the Holzanger and the Duegar, the Citadel was expanded into a large castle and a vast subterranean dungeon. However, 40 years later, the Faithful Faletist Knights of the Arch burnt the castle down under the Faletist Law of Magic, which prohibited earth magic investigation in the empire. Gerhardt IV was killed and his children disappeared.
 > 
 > Over the next 100 years (up to 50 years ago), foul creatures have arrived and departed from the ruins and dungeons of the Burnt Castle of Holzander. These included cultists of Cuncharn, drows, demons and bandits alike. Void magic was developed within the walls of the castle and its dungeons, and often fractures to the obscure Ophaire were open. It is told that a missing child of Gerhardt IV, Gerhardt the Changeling, came back to the castle with his son, Gellert the Gruesome, in company of the powerful arcane researchers Cagoth-ze and Imortra the Debased.
+
+
+The structure stands atop a low hill that slopes off gradually all around. The slope is gentle but the ground is rugged, broken by mushrooms and revines that you have never seen before. The fort was breached at the northwest and southeast corners, but the rest of the walls and the main keep still stand. The outer walls are 15 feet high. The main tower rises 40 feet, and the secondary keep is 30 feet tall but heavily damaged. Despite the damage and decay, it’s still an impressive place that seems to have been built by skilled builders.
+
+![](_aux/Pasted%20image%2020230401095100.png)
+
+Vision of the void
+![](_aux/Pasted%20image%2020230401095216.png)
+
+Catacombs and door to the Ophaire
+![](_aux/Pasted%20image%2020230401095239.png)
+Catacombs and door to the Ophaire
+One [2d4] roll every 1d4 rounds
+[2 & 8] Nothing
+[3] Wights (CR 3)
+[4] Shadows (CR ½)
+[5] Skeletons (CR ¼)
+[6] Spectres (CR 1)
+[7] Wraiths (CR 5)
+
+Ossuary connects to the Ophaire. If PCs look into the pool they see this and, on a mountain slope that takes to the pool, a contiguous line of undead climbing towards the PCs in slow motion. Any PCs that look into the pool must do a sanity check [DC 10] or lose a point of sanity and gain a long term madness. Closing the portal is beyond the characters level, or even anyone on this level on the castle [Arcana DC 20 to realise that].
+
+
+
+Mystra's Door
+- Access to the surface is on the collapsed tunnel close to the Holzander's catacombs.
+- The tunnel goes up for about 1 km, and then there is a silver door that is magically locked by a Mystra protection spell [WIS Religion DC 15].
+- The key to open can be found in the library in Mystra's temple [WIS Investigation DC 15], but can also be remembered by Amyria [WIS Religion DC 18].
+- In an ancient Elvish language: "Héri -o mysterime, palime- sina door ar láv- us varna pak", which means "Lady of mystery, open this door and allow us safe passage"
+- After the door, it is another 500m to get to the surface. The access to the surface is hidden in the middle of the desert with a large wooden trap door. It has been buried for a long time.
+- After finding the door, even without unlocking it, PCs can try to estimate the location of the entrance on the surface [INT Investigation DC 18] and then find it from above [WIS Survival DC 16].

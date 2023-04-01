@@ -33,7 +33,13 @@ tags:
 Description of your strong start.  
 
 ### Potential scenes  
-* Small scene descriptions (2/h)
+* Small scene description (2/h)
+* Every situation needs to have a draw or a threat embedded in it.
+* Dramatic question
+* Source of conflicts
+* Beats: fear or hope
+* Type: combat, social, exploration
+* End conditions
 
 ### Secrets & Clues    
 - [ ] Secret descriptions (10)
@@ -54,3 +60,5 @@ Description of your strong start.
 
 
 Source: https://slyflourish.notion.site/Session-Notes-Template-Sample-5dd292cce3134ed7aa11237a4ab4848f
+
+Integrate with: https://docs.google.com/document/d/1tZmujENXS6DnNTk3cCfRajd2Dvyg2067X247kwObL-8/edit
