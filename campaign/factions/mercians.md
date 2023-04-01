@@ -5,6 +5,10 @@ world: Guemenos
 continent: Easteros
 campaign: Arrival
 tier: 3
+features: 4
+trouble: 3
+cohesion: 3
+dominion: 12
 tags: 
 ---
 

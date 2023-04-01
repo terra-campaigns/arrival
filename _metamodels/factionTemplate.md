@@ -4,18 +4,29 @@ name: template
 world: Guemenos
 continent: Easteros
 campaign: Arrival
-tier: 
+tier:
+features:
+trouble:
+cohesion:
+dominion:
 tags: 
 ---
 
-- **Tier**:  y - action die 1dx
-- **Features**: (equal y)
-	- ...
-- **Trouble**: (equal x/4 to 2x/3)
-	- ...
-- **Interests**
-	- ...
-- **Goals**
-	- [ ] ...
+# Name of Faction
 
-See [factionRules](../rules/factionRules.md).
+## Summary
+
+### Features
+
+- ...
+
+### Troubles
+
+- ...
+
+### Goals
+
+- [ ] ...
+
+
+Reference: see [factionRules](../rules/factionRules.md).

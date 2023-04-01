@@ -4,27 +4,27 @@
 
 Acrisae and Turnskull: 7 fronts in total, 3 each plus the deflagration of full war.
 
-Roll a d20 every time party level reaches a new integer (from 6 onwards), against dc 10. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last.
+Roll a d20 every time party level reaches a new integer (from 6 onwards), against dc 11. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last.
 
 Statistically this gives the following distribution
 
 | Quantile | Party level at 7th front |
 | -------- | ------------------------ |
-| 10%      | 14                       |
-| 30%      | 16                       |
-| 50%      | 17                       |
-| 70%      | 19                       |
-| 90%      | 22                       |
+| 10%      | 15                       |
+| 30%      | 17                       |
+| 50%      | 19                       |
+| 70%      | 21                       |
+| 90%      | 24                       |
 
 Acrisae fronts
-- [ ] A1
-- [ ] A2
-- [ ] A3
+- [ ] Supraxae are now flying everywhere to maintain reconnaissance 
+- [ ] Acrisae establish lines to the west with other civilisations to prepare for the war (Avryindt is in the way)
+- [ ] Acrisae brings military positioning to the surface and redies for war
 
 Turnskull fronts
-- [ ] T1
-- [ ] T2
-- [ ] T3
+- [ ] Khato's armies lose in the south
+- [ ] Big freeze from the south
+- [ ] Turnskull takes the entirety of south Easteros, ready for war
 
 Party level and outcome
 - [ ] 6:
