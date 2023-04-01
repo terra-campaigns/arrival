@@ -47,7 +47,7 @@ Falet is a revered deity worshipped by many inhabitants of Guemenos. The high ch
 
 ## Kimbarak, the Dwarven Spirit
 
-For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit of the Kiranu mountains, as their protector and savior. They praised his strength, his courage, and his unwavering commitment to justice and honor.
+For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit of the Kiranu mountains, as their protector and savior. They praised his strength, his courage, and his unwavering commitment to justice and honour.
 
 ![Kimbarak](secrets/secretsReligion.md#Kimbarak)
 

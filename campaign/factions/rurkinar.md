@@ -33,7 +33,7 @@ tags:
 
 ## Details
 
-![Rurkinar, the Brown Eagle](../religions.md#Rurkinar,%20the%20Brown%20Eagle)
+![Rurkinar, the Brown Eagle](../context/religions.md#Rurkinar,%20the%20Brown%20Eagle)
 
 They have currently lost the Angel Hound, a major spirt ally. The Angel Hound has been imprisoned in the [Holzander Castle](../locations/holzanderCastle.md) since 3871 NC. Although the Yotunn are in conflict with the Trow in the southwest, this has very little direct impact on the Rurkinar.
 

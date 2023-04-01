@@ -54,4 +54,4 @@ Godbound, page 129.
 | 8          | Major parasite god                                              |
 
 ### Faction turns
-Two turns every month of game time (20 turns per year). See [calendar](../campaign/calendar.md).
+Two turns every month of game time (20 turns per year). See [calendar](../campaign/context/calendar.md).

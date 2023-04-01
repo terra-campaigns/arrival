@@ -33,7 +33,7 @@ The Upper Domain is about 4 Km deep, and it is inhabited by many dark-loving cre
 
 Although the Kyri power touched the drow and duergar before, it was only when the most evil creatures living the Ophaire explored the depths of Shadowfell that the Kyri themselves were awoken. The story is not fully known, but it is said 4500 IT is when Ulkrunnar and his sons and daughters became active in Guemenos.
 
-![ammuinoth](locations/ammuinoth.md)
+[ammuinoth](locations/ammuinoth.md)
 
 
 ## The Kyri
@@ -56,12 +56,11 @@ Around the year 13000 TK, Ulkrunnar's daughter Merdijad devised a plan to conque
 
 Merdijad's and Gronz' brother, Wuvarax, being drawn by his jealousy of Merdijad's control scheme and Gronz staff, decided to come up with something as powerful and important as his siblings' ideas. He worked for hundreds of years with his sect of mages and dark clerics and built a portal in the castle of Atfordbury, in the Duchy of Hinckley. This portal enabled Wuvarax to move armies and peoples to the inhabited world of Arkul. Wuvarax and his followers begin to form a civilisation in Arkul, to protect Ulkrunnar's followers in case the world of Guemenos was reconquered by Nek's followers.
 
-
 ## Absent children of Nek
 
 Nek's children gods were imprisoned by Gronz, and it was for minor deities such as Mystra, Bonnalurie, Falet and Kimbarak to envision a plan to regain Guemenos. These three gods have hold conclaves every a thousand years in Acrisius, where their plan is revised and put in practice. In the 6th conclave Bonnalurie proposed the New Calender to start - it was implemented in the 7th conclave (8000 AT).
 
-![calendar](calendar.md)
+[calendar](context/calendar.md)
 
 ### Acrisius
 
@@ -74,7 +73,7 @@ Around the year 11500 AT, known in Guemenos as 3499 of the new calendar (NC), th
 
 The first stage of the campaign is to arrive in the barren plains of the Tolfoddund county, south of the Naragzah mountains, in the Khathan Empire and set up a large scale military camp. 
 
-![khatho](locations/khatho.md)
+[khatho](locations/khatho.md)
 
 The location will be chosen so that access to Ammuinoth is possible, and the construction can be used to disguise Acrisae operations such as mining, construction and training. To make sure the region is empty of curious eyes, the Acrisae, with support from the Sulpraxae, will cause fear to the region inhabitants by scorching the earth and forcing them to neighbouring regions, including the mountains and its caves and mines.
 
@@ -86,4 +85,4 @@ In the year 3877 NC dozens of Sulpraxae and thousands of soldiers from the Acris
 
 Sulpraxae can use the Uli power to scorch the land, raising temperatures to above 60C temporarily, and keeping them around 50C for years, if necessary. The intent is to stop scorching after the first 5 years, but maintain pressure on people to not come close to the chosen place of the city-state, with targeted attacks when necessary.
 
-## The Glasrath Alliance
+![](https://lh5.googleusercontent.com/mgRcMPrPEzluHmWyzkP6fk3TiKA91CIkqZvSOxJW-hRc6l2DVVEl9cCfK_u_anDkYZj2oAHQLdjx8dAxCyzobEzpCXYj5wAxQ5HIFAfdO7maDmbZi8-SbTfXEVQmlirq8bsG6mPXfxzTD7dabQJEq_Y)
