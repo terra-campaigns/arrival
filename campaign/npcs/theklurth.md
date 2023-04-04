@@ -10,3 +10,8 @@ Shape of Drow:
 Theklurth  was really sad when Wyvern died, as if she has lost a family member or someone very close to her. None of you knew (or saw anything unusual) that would suggest they were so close.
 
 When she was asked about it she said she does not know why she felt like this. She is currently MIA
+
+```statblock
+creature: Succubus/Incubus
+name: Theklurth
+```

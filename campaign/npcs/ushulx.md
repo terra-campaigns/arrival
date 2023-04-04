@@ -1,4 +1,4 @@
-![](_aux/Pasted%20image%2020230401093903.png)
+![|500](_aux/Pasted%20image%2020230401093903.png)
 
 **Background notes**
 -   Ushulx aids the Gaoler just enough to keep him from turning against her. In exchange, he hands his victims over to her when they are on death’s door so she can sacrifice their last whispers of life to Curcharn.

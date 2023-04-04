@@ -13,7 +13,7 @@ tags:
 
 Aivridyt, the Creep, was a young ferocious female red dragon who took lair in the Naragzah mountains in 3850 NC. As she dwelled in the mountains she became even more interested in the caverns below it, and would cross the two dwarven clans when venturing into the mines. The frequent encounters with The Creep culminated in an alliance between the Tolfoddund and Nargun warriors and, in a battle in the mountains, they severely wounded Aivridyt in 3856 NC.
 
-![naragzah](../locations/naragzah.md)
+[naragzah](../locations/naragzah.md)
 
 Hurt, the Creep delved deeper into the caverns seeking rest and recovery and, eventually, walked into the depths of the Ghost Domain (also called Underdark by the drows). Aivridyt slept for 6 years and, during her sleep, a passage to the Dead Echo (also known as Shadowfell) opened and took her. When the Creep woke up, she was not a red dragon anymore, but had turned into a shadow red dragon, with colours resembling petroleum and accents of purple. The Creep was turned into the Purple Evil.
 
@@ -47,4 +47,5 @@ Ghuse's Prayer
 
 ```statblock
 creature: Young Red Shadow Dragon
+name: Aivridyt
 ```
