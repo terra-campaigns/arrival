@@ -14,7 +14,23 @@ tags:
 
 # Glasrath Alliance
 
-## Metrics
+## Organisation summary
+
+- **Type**: Community
+- **Power structure**: Consensus, but going to autocratic
+- **Temperament**: Martial, expecting violence from the world
+- **Major actors**
+	- Ghuse
+	- Whursock Greybow
+- **Minor actors**
+	- Serhan
+	- Singlestrike
+- **Conflicts**
+	- Ghuse has been using too much dark magic, Whursock does not agree but have limited power over Ghuse.
+- **Consequence of its destruction**: The people currently living in Glasrath will suffer lack of trade and production
+- **Defences**: Army of undead
+
+## Faction summary
 
 - **Tier**:  2 - action die 1d8
 - **Features**: 2
@@ -32,7 +48,7 @@ tags:
 
 ## Details
 
-Located in [Naragzah](locations/naragzah.md)
+Located in [Naragzah](../locations/tfddMines.md)
 
 After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
 
@@ -59,8 +75,6 @@ The new organisation of the Glasrath Alliance is:
 4. Turf = 12: the alliance is now Ghuse's, and he turns to his Aivrindyt form now.
 
 How PCs can slow down Ghuse's ascension:
-
-
 
 * If they actively foil Ghuse, Ghuse's tenacity is reduced
 * If they actively strengthen one of the other factions, their tenacity is increased

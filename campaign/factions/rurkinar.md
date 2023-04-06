@@ -14,21 +14,37 @@ tags:
 
 # Rurkinar Cultists
 
-## Metrics
+## Organisation summary
 
-- **Features**:
+- **Type**: Community
+- **Power structure**: autocratic (Chieftain has largely unchallenged control)
+- **Temperament**: Insular, polite but reluctant to deal with strangers
+- **Major actors**
+	- Otaehryn Valdove, male dust goblin [chieftain](https://open5e.com/monsters/dust-goblin-chieftain): very personally formidable in a fight
+	- Imra Advyre, female dust elf high [shaman](https://open5e.com/monsters/junk-shaman): have a huge family that backs them
+- **Minor actors**
+	- Dirue Petmaris, female halfling old [shaman](https://open5e.com/monsters/junk-shaman): outcast, suspected of crow magic
+	- Ailen Eilpetor (male human [cultist](https://open5e.com/monsters/cultist-a5e) ) leads a group of young cultists: who is a barflies, and hears too much gossip
+- **Conflicts**
+	- The kin of the Otaehryn (chieftan) is missing, and Ailen (barfly) tells it was Dirue (outcast) who did it. 
+- **Consequence of its destruction**: The dust elf trade link will collapse
+- **Defences**: a mob of angry [peasants](https://open5e.com/monsters/commoner)
+
+## Faction summary
+
+- **Features**
 	- Strong shaman powers (druidic)
 	- High Shaman can speak with Rurkinar
-- **Trouble**:
+
+- **Trouble**
 	- Lost their strongest ally - the Angel Hond (1 pt)
 	- Are losing followers to the FFKA fast (1 pt)
 	- Are in general afraid, that something dark is brewing in the air (1 pt)
 	- High Shaman is troubled (acquired from a foil from FFKA East in [3877.5B](_factionGame.md#3877.5B))
 	- something else because of new feature.... roleplay during chap 7: maybe the Shamans are killed, or many followers are killed in a fight with FFKA?
-- **Interest**
-	- Mystra's priesthood (ally)
+
 - **Goals**
-	- [ ] Feature: communication with Rurkinar and find the Angel Hound (cost 2: village, implausible). Succeeded in 3877.5B.
+	- [x] Feature: communication with Rurkinar and find the Angel Hound (cost 2: village, implausible). Succeeded in 3877.5B.
 	- [ ] Reduce problems
 
 ## Details

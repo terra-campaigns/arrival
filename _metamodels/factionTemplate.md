@@ -14,19 +14,35 @@ tags:
 
 # Name of Faction
 
-## Summary
+## Organisation summary
 
-### Features
+- **Type**: 
+- **Power structure**: 
+- **Major actors**
+	- ...
+- **Minor actors**
+	- ...
+- **Temperament**: 
+- **Conflicts**
+	- ...
+- **Defences**: 
+- **Consequence of its destruction**: 
 
-- ...
+<iframe src="https://perchance.org/hiq856wnoc" width="100%" height=800>
+</iframe>
 
-### Troubles
+## Faction summary
 
-- ...
+- **Relationship with PCs**
+	- ...
 
-### Goals
+- **Features**
+	- ...
 
-- [ ] ...
+- **Troubles**
+	- ...
 
+- **Goals** 
+	- [ ] ...
 
-Reference: see [factionRules](../rules/factionRules.md).
+For reference: see [factionRules](../rules/factionRules.md) and [organisationRules](../rules/organisationRules.md).

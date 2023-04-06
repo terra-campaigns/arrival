@@ -14,7 +14,24 @@ tags:
 
 # Faithful Faletist Knights of the Arch, East Branch
 
-## Metrics
+## Organisation summary
+
+- **Type**: Temple
+- **Power structure**: Figurehead. A public leader is actually controlled by one or more hidden figures.
+- **Temperament**: Careless, members little interested in spiritual duties
+- **Major actors**
+	- Sergarus, who knows a wealth of secrets and confessions
+	- Aged holy figure, who controls a vital relic of the religion - the actual leader
+	- Eager reformer, who has strong magical powers and wants to drive the organisation out of main FFKA
+- **Minor actors**
+	- Relic vendor
+	- Dusty librarian
+- **Conflicts**
+	- Silencing of a priest
+- **Consequence of its destruction**: some cities depend on the organisation charity, which would not be uptaken by Olivepia's FFKA.
+- **Defences**: strong military organisation
+
+## Faction summary
 
 - **Tier**: 2 - action die 1d8
 - **Features**: 2 (normal)
@@ -24,8 +41,6 @@ tags:
 	- Sergarus, the commander, is not in good relationship with Olivepia's FFKA (1 pt)
 	- Deflection of members to the Dark Cavalry (1 pt)
 	- Many members do not trust Sergarus anymore (1 pt)
-- **Interest**
-	- Olivepia's FFKA (ally that is growing apart)
 - **Goals**
 	- [ ] Remove problem: Strengthen its hold on its members (cost 4: city + skilled mage opposition - Gellert, plausible)
 
