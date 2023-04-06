@@ -1,3 +1,14 @@
+---
+type: location/temple
+name: Temple of Mystra
+world: Guemenos
+continent: Easteros
+state: Kathan Empire
+province: Linhe
+campaign: Arrival
+tags: 
+---
+
 ![](_aux/Pasted%20image%2020230401092920.png)
 
 ![](_aux/Pasted%20image%2020230401092901.png)
