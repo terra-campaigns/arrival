@@ -22,7 +22,8 @@ Living conditions are very tough for the Nulfirth, and those who reach adult age
 
 The Kimbarak people are made of dwarves, living in the Glasrath Mountains in the [Naragzah Dwarven Empire](realms.md#Naragzah%20Dwarven%20Empire) or in [Kiranu](realms.md#Kiranu), in the eastern mountain range. They are more open to magic than the Nulfirth people. The Naragzah Empire and Kiranu both speak the High Kimbarak language.
 
-#### Kimbarak mines
+#### Kimbarakhesms
+***Kimbarak Mines***
 
 The mine caves are very tall, with most main ways well above 10m tall. The tunnels are also very wide (sometimes kilometres), with full height for about 50-100m in width in the centre, while the borders are where excavation, extraction and processing takes place. The centre is dedicated to the main mine logistics, which rely on giant lizards that run a chain cycle, pulling massive mine carts round the mine. Half tunnels are built on the top part of abandoned extraction areas, and these are living accommodations and civil spaces. Multiple ditches are built on the tunnels, where sewage and animal waste is collected. Clean water still runs on a few heightened ditches.
 
@@ -38,4 +39,4 @@ To the west of the Naragzah mountains lies the Thymar people, which are mostly D
 
 ### Mercian
 
-A mostly human culture, that originates in the [Mercian](religions.md#Mondendovil,%20the%20Mercian%20Forefather) religion. Most of the culture is now converted to other religions such as [Faletism](religions.md#Faletism) and [Yotunn Ancestors](religions.md#Yotunn%20Ancestors) - so the mercian culture is non a non-religious one.
+A mostly human culture, that originates in the [Mercian](religions.md#Mondendovil) religion. Most of the culture is now converted to other religions such as [Faletism](religions.md#Faletism) and [Yotunn Ancestors](religions.md#Yotunn) - so the mercian culture is non a non-religious one.

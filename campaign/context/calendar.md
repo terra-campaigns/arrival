@@ -11,7 +11,8 @@ tags:
 ![Old Ages](secrets/secretsCalendar.md#Old%20Ages)
 
 
-# New Calendar
+## NC
+***New Calendar***
 
 The New Calendar (NC) is defined as the years from the 8th Conclave from Nek. It is written as `[Year].[Month][Week].[Day]`. Each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, E) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
 
@@ -47,31 +48,31 @@ The last documented season cycles are represented below.
 ## Timeline
 
 - 0 NC The New Calendar (NC) starts in 8000 GP/AT, 18000 TK, 25000 IT, under the influence of the 6th and 7th Conclave for Nek
-- 3217 NC [Nargun Dwarves](realms.md#Nargun%20Dwarves) is founded in the Naragzah mountains
+- 3217 NC [Nargun Dwarves](realms.md#Nargunhesm) is founded in the Naragzah mountains
 - 3300 NC Katho-D'elsin war starts
 - 3450 NC The Faithful Faletist Knights of the Arc are founded
 - 3499 NC Reclaim Campaign starts, Acrisius scouts arrive in Katho
 - 3600 NC Expansion of [Faletism](religions.md#Faletism) starts from Olivepia.
-- 3627 NC Gerhardt Holzander starts building the [holzanderCastle](../locations/holzanderCastle.md) on Brezal Paths in the [The Ammuinoth](realms.md#The%20Ammuinoth)
-- 3671 NC [Tolfonddund Dwarves](realms.md#Tolfonddund%20Dwarves) mines are founded in the Naragzah mountains
+- 3627 NC Gerhardt Holzander starts building the [holzanderCastle](../locations/holzanderCastle.md) on Brezal Paths in the [The Ammuinoth](realms.md#Ammuinoth)
+- 3671 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are founded in the Naragzah mountains
 - 3727 NC Duergar moves into the [holzanderCastle](../locations/holzanderCastle.md)
-- 3750 NC Apex of the [Yotunn Ancestors](religions.md#Yotunn%20Ancestors)
+- 3750 NC Apex of the [Yotunn Ancestors](religions.md#Yotunn)
 - 3767 NC Acrisae Scouts attack and burn down the [holzanderCastle](../locations/holzanderCastle.md), but the FFKA claims the attack
-- 3774 NC Fūko is born in the Upper [The Ghost Domain](realms.md#The%20Ghost%20Domain%20and%20the%20Ophaire)
+- 3774 NC Fūko is born in the Upper [The Ghost Domain](realms.md#Underdark)
 - 3834 NC Dorfund Frostbraid joins the Paragon Force and falls in love with Gaelira
 - 3837 NC Dolman Frostbraid is born in the [Kiranu](realms.md#Kiranu) Mines
 - 3849 NC Guilf is born in [Romburghia](realms.md#Romburghia)
 - 3850 NC Aivridyt, The Creep takes lair in the Naragzah mountains
-- 3855 NC Acrisius scouts leave [The Kathan Empire](realms.md#The%20Kathan%20Empire)
+- 3855 NC Acrisius scouts leave [The Kathan Empire](realms.md#Katho)
 - 3856 NC
 	- Aivridyt is severely wounded by alliance of Tolfoddund and Nargun warriors in the Naragzah mountains
 	- Miraar is born in Nurderad
-- 3857 NC Gaelira and the Paragon Force goes to the [The Ammuinoth](realms.md#The%20Ammuinoth)
+- 3857 NC Gaelira and the Paragon Force goes to the [The Ammuinoth](realms.md#Ammuinoth)
 - 3860 NC Kethra Stormwind is born in a village north of the Naragzah mountains
 - 3867 NC
 	- Aivridyt comes back from Shadowfell and lay eggs in the caverns of the Naragzah mountains
 	- Kethra's parents are killed by Aivridyt, Aivridyt disguises as a sage and raises Kethra
-- 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddund%20Dwarves) mines are raided by the dragonborn, under the influence of Aivridyt (disguised as Grezar, a drow necromancer)
+- 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are raided by the dragonborn, under the influence of Aivridyt (disguised as Grezar, a drow necromancer)
 - 3869 NC Ghuse (Aivridyt) joins the military in Gorthugke
 - 3870 NC Galiera and the Paragon Force are caught by the Trollkin and sent to be tortured by the Gaoler
 - 3871 NC The Angel Hound is imprisoned in the [holzanderCastle](../locations/holzanderCastle.md)

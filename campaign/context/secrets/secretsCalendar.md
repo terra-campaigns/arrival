@@ -10,8 +10,8 @@ tags:
 
 - Iopothae Time (IT) calendar
 	- 0 IT The rule of the three oldest Edrahil starts
-	- 1000 IT [The Ammuinoth](../realms.md#The%20Ammuinoth) starts being build by elves and dwarves
-	- 3000 IT [The Ghost Domain](../realms.md#The%20Ghost%20Domain%20and%20the%20Ophaire) is found by the drow
+	- 1000 IT [The Ammuinoth](../realms.md#Ammuinoth) starts being build by elves and dwarves
+	- 3000 IT [The Ghost Domain](../realms.md#Underdark) is found by the drow
 	- 4500 IT Ulkrunnar and the Kyri are awoken
 	- 6000 IT Dark creatures start populating The Ophaire
 	- 7000 IT The Kyti and the Ophaire creatures start the War for Guemenos against the Edrahil

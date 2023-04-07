@@ -15,7 +15,8 @@ tags:
 
 ![](_aux/Pasted%20image%2020230405140259.png)
 
-### The Kathan Empire
+### Katho
+***The Kathan Empire***
 
 In the vast desert of Easteros lies Katho, an empire built on the ruins of a long-forgotten civilisation. The people of the empire are hardy and resourceful, able to survive in the harsh conditions of the desert through their ingenuity and determination. The rulers of the empire are shrouded in mystery, and their true identities are known only to a select few. Some say that they are descendants of the ancient civilisation upon which the empire was built, while others believe that they are immortal beings who have existed since the dawn of time. Regardless of their true origins, the rulers of the empire are feared and revered by their subjects, who see them as both protectors and oppressors. 
 
@@ -25,13 +26,14 @@ As the war persist, people of the desert empire have grown weary of the conflict
 
 Near the southern border, in the provinces where this enduring conflict has ravaged for centuries, entire lifetimes have been spent amidst the horrors, with generations being born and dying within its vicious cycle. Cities have become twisted and warped by the darkness that permeates their every corner. Many settlements have even adopted human sacrifice rituals and even cannibalism. Some of the ancient ruins have been repurposed, with dark and sinister magic used to reshape them into towering fortresses and twisted citadels. Those who venture and live too close to the conflict risk being dragged down into the depths of its desolate nightmares, long forgetting what life in Katho was like before.
 
-#### Linhe County
+#### Linhe
 
-All this cities (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn%20Ancestors) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+All this cities (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
 
 ![](_aux/Pasted%20image%2020230327223917.png)
 
-#### Dust Desert (Nargun Captaincy)
+#### Nargun
+***Nargun Captaincy of the Dust Desert***
 
 Home of the Dust Elves, exceptional traders that live a nomadic life in the desert north of the Glasrath mountains. They believe in nature gods and are generally trustworthy.
 
@@ -39,29 +41,33 @@ Home of the Dust Elves, exceptional traders that live a nomadic life in the dese
 
 Romburghia is a troubled land, rife with tension, secrets and fear. Its people are divided by culture and religion, and its aristocracy is on the brink of collapse. A coastal kingdom, located on the east of Easteros, Romburghia is bordered by the Khathan Empire to the west. It is also the only land access of Hincland to the continent, making it a strategically important location. At the heart of Romburghia's power struggles lies a fragmented aristocratic organisation, where no one is sure of their own power. The titular ruler, surrounded by a web of spying and blackmail, is feared by all who cross their path. Meanwhile, the ruler's lover and the court sorcerer hold strong position and influence, using their power to manipulate the court's fragile balance.
 
-The kingdom is a patchwork of cultures, with the north being dominated by the ancient Mercian ways, while the south is a vast expanse of nomadic Nurfirth. However, the original Mercian religion has long been in decline, with most of the country now following either the church of Falet or the gods of the [Yotunn Ancestors](religions.md#Yotunn%20Ancestors) pantheon. The [Faletism](religions.md#Faletism) religion has officially been adopted by the kingdom, but it is a decision made out of fear, for the Mercians of Hincland have long been rumored to dabble in black magic. The rulers have turned a blind eye to non-conventional approaches to converting folk religion followers to the official religion of Falet, desperately seeking to expand its reach and hold over the kingdom.
+The kingdom is a patchwork of cultures, with the north being dominated by the ancient Mercian ways, while the south is a vast expanse of nomadic Nurfirth. However, the original Mercian religion has long been in decline, with most of the country now following either the church of Falet or the gods of the [Yotunn Ancestors](religions.md#Yotunn) pantheon. The [Faletism](religions.md#Faletism) religion has officially been adopted by the kingdom, but it is a decision made out of fear, for the Mercians of Hincland have long been rumored to dabble in black magic. The rulers have turned a blind eye to non-conventional approaches to converting folk religion followers to the official religion of Falet, desperately seeking to expand its reach and hold over the kingdom.
 
 
 ### Kiranu
 
 
-### Naragzah Dwarven Empire
+### Naragzah
+***The Glasrath Dwarven Empire***
 
-#### Tolfonddund Dwarves
+#### Tolfonddundhesm
+***Tolfonddund Dwarven Mines***
 
 The southern mine system on the Glasrath Mountains was created by dwarves coming from the town of Tolfoddund, two centuries ago (3671 NC). These dwarves were not as advanced as the Nargun dwarves, but made enough wealth by trading dwarven goods with Watheton (especially Yeswite), which then traded them to other peoples of the Kuzar County and, more broadly, with the Khathan empire.
 
-#### Nargun Dwarves
+#### Nargunhesm
+***Nargun Dwarven Mines***
 
 The Nargun was a strong Dwarven empire founded in 3217 NC.
 
 The King was killed about 15 years ago, in an attack that came from the Ammuinoth, alongside his son and heir. Sitmeak Greybow, was then appointed as regent and has been the regent since - he is in charge. The brother, Whursock Greybow, is the commander of the army.
 
-### The Ammuinoth, the Ghost Domain and the Ophaire
+### Underworld
+***The Ammuinoth, the Ghost Domain and the Ophaire***
 
-#### The Ammuinoth
+#### Ammuinoth
 
-The kingdom of Iopothae was a very advanced kingdom from ancient times. It is said it covered a larger region than the current [The Kathan Empire](realms.md#The%20Kathan%20Empire). One of the features of the kingdom of Iopothae was the creation of the Ammuinoth (starting around year 1000 IT), a subterranean superstructure that traversed the kingdom (SW to NE), following what is known as the Brezal Paths. These paths are believed to carry intensified earth energy. Some researchers believe the energy paths are not real, and that the construction, in a leaf shape, was in deference to the old nature gods. In the Ammuinoth tunnels, castles, shrines and temples were built, as presents to the old gods.
+The kingdom of Iopothae was a very advanced kingdom from ancient times. It is said it covered a larger region than the current [The Kathan Empire](realms.md#Katho). One of the features of the kingdom of Iopothae was the creation of the Ammuinoth (starting around year 1000 IT), a subterranean superstructure that traversed the kingdom (SW to NE), following what is known as the Brezal Paths. These paths are believed to carry intensified earth energy. Some researchers believe the energy paths are not real, and that the construction, in a leaf shape, was in deference to the old nature gods. In the Ammuinoth tunnels, castles, shrines and temples were built, as presents to the old gods.
 
 ![](_aux/Pasted%20image%2020230406194443.png)
 
@@ -77,7 +83,8 @@ Nowadays, thousands of years later, some of these temples are in ruins and some 
 
 ![Ammuinoth secrets](secrets/secretsRealms.md#Ammuinoth%20secrets)
 
-#### The Ghost Domain and the Ophaire
+#### Underdark
+***The Ghost Domain and the Ophaire***
 
 The Ghost Domain is grouped in layers: the Upper Domain (also known as Upperdark), the Lower Domain (also known as Middledark) and the Ophaire (also known as the Lowerdark, or the Dark Primitive). In the region where there is the Ammuinoth, it connects the surface to the Upper Domain, but it is also possible to go directly from the Upper Domain to the surface, although in very challenging cavern openings, mostly inaccessible for human sized creatures. As time went by, the drow and duergar grew apart: the duergar living in the Ammuinoth and in the north east area of the Upper Domain, while the drow lived in more deep areas of the Ghost Domain, mostly towards the south.
 
