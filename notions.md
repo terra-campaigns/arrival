@@ -2,17 +2,23 @@
 
 ## Inbox
 - [ ] Prepare next session lazyly  
-- [ ] Fix timeline  
-- [ ] Create PC focused background file  
-	- [ ] religions  
-	- [ ] lore
-- [ ] Prepare map for players  
+- [ ] rename Easteros to Etor
+- [ ] make one word headings and update links
+- [ ] Fix timeline  for PCa
+- [x] Create PC focused background file  
+	- [x] religions  
+	- [x] lore
+- [x] Prepare map for players  
 - [ ] Below the Engineer is the drow and duegar on the faction tree
 - [ ] Segarus leads a subfaction of FFKA that is aligned with the Mercian  
 - [ ] Some land has a usurper  
 - [ ] Ffka appoints the king of olivepia (and influence other lands)
 - [ ] 4 artifacts must be found in the castle: life death time void
 - [ ] demon on level 2 can explain the brezal paths: can be freed into a magic item 
+- [ ] Brilhorte & Salaico
+- [ ] If things get uggly with Aivridyt, use the werebear to save PCs
+- [ ] the works in the Holzander castle is making the desert even more bare
+- [ ] check if Tom is fine with miraak being an undead
 
 ## Films, books
 - [ ] Elizabeth 1998 for an evil priest 
