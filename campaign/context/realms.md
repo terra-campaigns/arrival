@@ -15,11 +15,13 @@ tags:
 
 ![](_aux/Pasted%20image%2020230405140259.png)
 
-### The Kathan Empire
+### The Kathan Empire ^a0af6c
 
 In the vast desert of Easteros lies Katho, an empire built on the ruins of a long-forgotten civilisation. The people of the empire are hardy and resourceful, able to survive in the harsh conditions of the desert through their ingenuity and determination. The rulers of the empire are shrouded in mystery, and their true identities are known only to a select few. Some say that they are descendants of the ancient civilisation upon which the empire was built, while others believe that they are immortal beings who have existed since the dawn of time. Regardless of their true origins, the rulers of the empire are feared and revered by their subjects, who see them as both protectors and oppressors. 
 
 Katho's lands in the sourth have always been coveted by the aberrations and frozen monstrosities of the D'elsinese Empire. The war between the two kingdoms has lasted for centuries, with neither side gaining a clear military advantage. The current rulers of Katho have already committed most of their available armies to the war, and the empire is now anguished. Military alliances have been in talks for the last ten years. Neighbouring lands such as Foucheresia (to the west), and their fierce dragonborn host, and Romburghia (to the east) have pledged support.
+
+### The Kathan Empire 2
 
 As the war persist, people of the desert empire have grown weary of the conflict. Some in the north are questioning the motives of their rulers and their willingness to sacrifice so many lives for the sake of power and control. Whispers of rebellion and unrest are growing louder in the capital in the north, Throtha. Meanwhile, the entire northern region has been battling their own problems, including the spree of Lady Scurvy and the [Faletism](religions.md#Faletism) religious takeover.
 
