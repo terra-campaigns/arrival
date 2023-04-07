@@ -10,3 +10,5 @@ Test Link with [Kathan](context/realms.md#^a0af6c)
 
 test [Romburghia](context/realms.md#Romburghia)
 
+test [NaragzahDwarvenEmpire](context/realms.md#NaragzahDwarvenEmpire)
+

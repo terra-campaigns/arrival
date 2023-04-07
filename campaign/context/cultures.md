@@ -20,7 +20,7 @@ Living conditions are very tough for the Nulfirth, and those who reach adult age
 
 ### Kimbarak
 
-The Kimbarak people are made of dwarves, living in the Glasrath Mountains in the [Naragzah Dwarven Empire](realms.md#Naragzah%20Dwarven%20Empire) or in [Kiranu](realms.md#Kiranu), in the eastern mountain range. They are more open to magic than the Nulfirth people. The Naragzah Empire and Kiranu both speak the High Kimbarak language.
+The Kimbarak people are made of dwarves, living in the Glasrath Mountains in the [Naragzah Dwarven Empire](realms.md#NaragzahDwarvenEmpire) or in [Kiranu](realms.md#Kiranu), in the eastern mountain range. They are more open to magic than the Nulfirth people. The Naragzah Empire and Kiranu both speak the High Kimbarak language.
 
 #### Kimbarak mines
 
