@@ -47,40 +47,28 @@ The last documented season cycles are represented below.
 
 ## Timeline
 
-- 0 NC The New Calendar (NC) starts in 8000 GP/AT, 18000 TK, 25000 IT, under the influence of the 6th and 7th Conclave for Nek
-- 3217 NC [Nargun Dwarves](realms.md#Nargunhesm) is founded in the Naragzah mountains
-- 3300 NC Katho-D'elsin war starts
-- 3450 NC The Faithful Faletist Knights of the Arc are founded
-- 3499 NC Reclaim Campaign starts, Acrisius scouts arrive in Katho
-- 3600 NC Expansion of [Faletism](religions.md#Faletism) starts from Olivepia.
+- 3217 NC [Nargun Dwarven Mine](realms.md#Nargunhesm) is founded in the Naragzah mountains
 - 3627 NC Gerhardt Holzander starts building the [holzanderCastle](../locations/holzanderCastle.md) on Brezal Paths in the [The Ammuinoth](realms.md#Ammuinoth)
 - 3671 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are founded in the Naragzah mountains
-- 3727 NC Duergar moves into the [holzanderCastle](../locations/holzanderCastle.md)
-- 3750 NC Apex of the [Yotunn Ancestors](religions.md#Yotunn)
-- 3767 NC Acrisae Scouts attack and burn down the [holzanderCastle](../locations/holzanderCastle.md), but the FFKA claims the attack
+- 3727 NC Duergar moves into the [Holzander Castle](../locations/holzanderCastle.md)
+- 3767 NC FFKA burns down the [Holzander Castle](../locations/holzanderCastle.md)
 - 3774 NC Fūko is born in the Upper [The Ghost Domain](realms.md#Underdark)
 - 3834 NC Dorfund Frostbraid joins the Paragon Force and falls in love with Gaelira
 - 3837 NC Dolman Frostbraid is born in the [Kiranu](realms.md#Kiranu) Mines
 - 3849 NC Guilf is born in [Romburghia](realms.md#Romburghia)
 - 3850 NC Aivridyt, The Creep takes lair in the Naragzah mountains
-- 3855 NC Acrisius scouts leave [The Kathan Empire](realms.md#Katho)
 - 3856 NC
 	- Aivridyt is severely wounded by alliance of Tolfoddund and Nargun warriors in the Naragzah mountains
 	- Miraar is born in Nurderad
 - 3857 NC Gaelira and the Paragon Force goes to the [The Ammuinoth](realms.md#Ammuinoth)
 - 3860 NC Kethra Stormwind is born in a village north of the Naragzah mountains
-- 3867 NC
-	- Aivridyt comes back from Shadowfell and lay eggs in the caverns of the Naragzah mountains
-	- Kethra's parents are killed by Aivridyt, Aivridyt disguises as a sage and raises Kethra
-- 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are raided by the dragonborn, under the influence of Aivridyt (disguised as Grezar, a drow necromancer)
-- 3869 NC Ghuse (Aivridyt) joins the military in Gorthugke
-- 3870 NC Galiera and the Paragon Force are caught by the Trollkin and sent to be tortured by the Gaoler
-- 3871 NC The Angel Hound is imprisoned in the [holzanderCastle](../locations/holzanderCastle.md)
-- 3872 NC Galiera is sent to Gellert who infuses her with void magic and turns her into a vampire
-- 3875 NC Lady Ruby and the Youngblood (Gaelira and the Paragon Force, now vampires) take lair in Throtha and starts spreading the Lady Scurvy
+- 3867 NC Kethra's parents are killed by a purple dragon who disguises as a sage and raises Kethra
+- 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are raided by the dragonborn
+- 3869 NC Ghuse joins the military in Gorthugke
+- 3876 NC Lady Scurvy starts spreading in Throtha
 - 3876 NC Nilperto is killed in Watheton
 - 3877 NC
-	- Acrisae arrive with the Sulpraxae in the South Desert
+	- Golden army with golden mechanical dragons arrive in the South Desert
 	- The Glasrath Alliance is formed, Fuko perishes in the battle with the undead in the Naragzah mountains
 
-
+![Modern](secrets/secretsCalendar.md#Modern)
