@@ -11,14 +11,14 @@ tags:
 ![](https://lh5.googleusercontent.com/mgRcMPrPEzluHmWyzkP6fk3TiKA91CIkqZvSOxJW-hRc6l2DVVEl9cCfK_u_anDkYZj2oAHQLdjx8dAxCyzobEzpCXYj5wAxQ5HIFAfdO7maDmbZi8-SbTfXEVQmlirq8bsG6mPXfxzTD7dabQJEq_Y)
 
 
-## Easteros
+## Etor
 
 ![](_aux/Pasted%20image%2020230405140259.png)
 
 ### Katho
 ***The Kathan Empire***
 
-In the vast desert of Easteros lies Katho, an empire built on the ruins of a long-forgotten civilisation. The people of the empire are hardy and resourceful, able to survive in the harsh conditions of the desert through their ingenuity and determination. The rulers of the empire are shrouded in mystery, and their true identities are known only to a select few. Some say that they are descendants of the ancient civilisation upon which the empire was built, while others believe that they are immortal beings who have existed since the dawn of time. Regardless of their true origins, the rulers of the empire are feared and revered by their subjects, who see them as both protectors and oppressors. 
+In the vast desert of Etor lies Katho, an empire built on the ruins of a long-forgotten civilisation. The people of the empire are hardy and resourceful, able to survive in the harsh conditions of the desert through their ingenuity and determination. The rulers of the empire are shrouded in mystery, and their true identities are known only to a select few. Some say that they are descendants of the ancient civilisation upon which the empire was built, while others believe that they are immortal beings who have existed since the dawn of time. Regardless of their true origins, the rulers of the empire are feared and revered by their subjects, who see them as both protectors and oppressors. 
 
 Katho's lands in the sourth have always been coveted by the aberrations and frozen monstrosities of the D'elsinese Empire. The war between the two kingdoms has lasted for centuries, with neither side gaining a clear military advantage. The current rulers of Katho have already committed most of their available armies to the war, and the empire is now anguished. Military alliances have been in talks for the last ten years. Neighbouring lands such as Foucheresia (to the west), and their fierce dragonborn host, and Romburghia (to the east) have pledged support.
 
@@ -39,7 +39,7 @@ Home of the Dust Elves, exceptional traders that live a nomadic life in the dese
 
 ### Romburghia
 
-Romburghia is a troubled land, rife with tension, secrets and fear. Its people are divided by culture and religion, and its aristocracy is on the brink of collapse. A coastal kingdom, located on the east of Easteros, Romburghia is bordered by the Khathan Empire to the west. It is also the only land access of Hincland to the continent, making it a strategically important location. At the heart of Romburghia's power struggles lies a fragmented aristocratic organisation, where no one is sure of their own power. The titular ruler, surrounded by a web of spying and blackmail, is feared by all who cross their path. Meanwhile, the ruler's lover and the court sorcerer hold strong position and influence, using their power to manipulate the court's fragile balance.
+Romburghia is a troubled land, rife with tension, secrets and fear. Its people are divided by culture and religion, and its aristocracy is on the brink of collapse. A coastal kingdom, located on the east of Etor, Romburghia is bordered by the Khathan Empire to the west. It is also the only land access of Hincland to the continent, making it a strategically important location. At the heart of Romburghia's power struggles lies a fragmented aristocratic organisation, where no one is sure of their own power. The titular ruler, surrounded by a web of spying and blackmail, is feared by all who cross their path. Meanwhile, the ruler's lover and the court sorcerer hold strong position and influence, using their power to manipulate the court's fragile balance.
 
 The kingdom is a patchwork of cultures, with the north being dominated by the ancient Mercian ways, while the south is a vast expanse of nomadic Nurfirth. However, the original Mercian religion has long been in decline, with most of the country now following either the church of Falet or the gods of the [Yotunn Ancestors](religions.md#Yotunn) pantheon. The [Faletism](religions.md#Faletism) religion has officially been adopted by the kingdom, but it is a decision made out of fear, for the Mercians of Hincland have long been rumored to dabble in black magic. The rulers have turned a blind eye to non-conventional approaches to converting folk religion followers to the official religion of Falet, desperately seeking to expand its reach and hold over the kingdom.
 

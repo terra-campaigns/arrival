@@ -28,7 +28,7 @@
 	- `true`
 	- `false`
 - `continent` (for locations)
-	- `Easteros`
+	- `Etor`
 - `world`
 	- `Guemenos`
 - `campaign`

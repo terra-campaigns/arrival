@@ -2,7 +2,7 @@
 type: faction
 name: FFKA East
 world: Guemenos
-continent: Easteros
+continent: Etor
 campaign: Arrival
 tier: 2
 features: 2

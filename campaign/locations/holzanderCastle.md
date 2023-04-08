@@ -2,7 +2,7 @@
 type: [location/castle, location/tunnel]
 name: Castle of Holzander
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: 
 province: 
 campaign: Arrival

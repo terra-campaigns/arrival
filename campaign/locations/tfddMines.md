@@ -2,7 +2,7 @@
 type: location/mine
 name: Tolfonddund Mines
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: Duchy of Unburakhath
 province: Tolfonddund Area
 campaign: Arrival

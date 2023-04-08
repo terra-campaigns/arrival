@@ -2,7 +2,7 @@
 type: location/temple
 name: Temple of Mystra
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: Kathan Empire
 province: Linhe
 campaign: Arrival

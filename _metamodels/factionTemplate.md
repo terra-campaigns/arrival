@@ -2,7 +2,7 @@
 type: faction
 name: template
 world: Guemenos
-continent: Easteros
+continent: Etor
 campaign: Arrival
 tier:
 features:

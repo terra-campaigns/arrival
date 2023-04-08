@@ -8,7 +8,7 @@ tags:
 
 # The Cultures of Guemenos
 
-## Easteros
+## Etor
 
 ![](_aux/Pasted%20image%2020230405141419.png)
 

@@ -2,7 +2,7 @@
 type: location/settlement
 name: Fort City of Eyaram
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: Khathan Empire
 province: Linhe County
 campaign: Arrival

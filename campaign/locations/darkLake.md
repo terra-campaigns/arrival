@@ -2,7 +2,7 @@
 type: [location/water, location/tunnel]
 name: Darklake
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: 
 province: 
 campaign: Arrival

@@ -2,7 +2,7 @@
 type: [location/water, location/tunnel]
 name: Ethereal River
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: 
 province: 
 campaign: Arrival

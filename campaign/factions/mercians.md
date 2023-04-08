@@ -2,7 +2,7 @@
 type: faction
 name: Mercians
 world: Guemenos
-continent: Easteros
+continent: Etor
 campaign: Arrival
 tier: 3
 features: 4

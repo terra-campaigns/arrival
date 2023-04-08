@@ -2,7 +2,7 @@
 
 ## Inbox
 - [ ] Prepare next session lazyly  
-- [ ] rename Easteros to Etor
+- [ ] rename Etor to Etor
 - [ ] make one word headings and update links
 - [ ] Fix timeline  for PCa
 - [x] Create PC focused background file  

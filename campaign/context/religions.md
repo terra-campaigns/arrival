@@ -77,7 +77,7 @@ Falet, the Almighty Lord, is a revered deity worshipped by many inhabitants of G
 ## Trow
 ***Trow Ancestors***
 
-The Trow Ancestors is a religion group with strong presence in the south of Easteros, and in most of the Ghost Domain.
+The Trow Ancestors is a religion group with strong presence in the south of Etor, and in most of the Ghost Domain.
 
 ### Algath
 ***Goddess of Life and Death***

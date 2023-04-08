@@ -24,7 +24,7 @@ Acrisae fronts
 Turnskull fronts
 - [ ] Khato's armies lose in the south
 - [ ] Big freeze from the south
-- [ ] Turnskull takes the entirety of south Easteros, ready for war
+- [ ] Turnskull takes the entirety of south Etor, ready for war
 
 Party level and outcome
 - [ ] 6:

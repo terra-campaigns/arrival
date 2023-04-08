@@ -16,7 +16,7 @@ tags:
 
 The New Calendar (NC) is defined as the years from the 8th Conclave from Nek. It is written as `[Year].[Month][Week].[Day]`. Each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, E) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
 
-The years are not defined based on translations around the sun, but rather a purely mathematical number. For this reason, although the NC is mostly used everywhere in Easteros, many regions have additional calendars based on sun and moon time cycles. Nevertheless, the 25 hours day is defined based on daily cycles.
+The years are not defined based on translations around the sun, but rather a purely mathematical number. For this reason, although the NC is mostly used everywhere in Etor, many regions have additional calendars based on sun and moon time cycles. Nevertheless, the 25 hours day is defined based on daily cycles.
 
 ## Seasons
 

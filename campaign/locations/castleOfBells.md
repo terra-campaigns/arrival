@@ -2,7 +2,7 @@
 type: [location/temple, location/tunnel]
 name: Castle of Bells
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: 
 province: 
 campaign: Arrival

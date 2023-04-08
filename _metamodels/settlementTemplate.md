@@ -2,7 +2,7 @@
 type: location/settlement
 name: template
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: 
 province:
 campaign: Arrival

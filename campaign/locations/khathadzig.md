@@ -2,7 +2,7 @@
 type: location/settlement
 name: Khathadzig
 world: Guemenos
-continent: Easteros
+continent: Etor
 state: Duchy of Unburakhath
 province: Nargun Zone
 campaign: Arrival
