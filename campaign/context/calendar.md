@@ -26,24 +26,22 @@ There are 4 seasons: Winter, Spring, Summer and Autumn. They are defined by seve
 - Planet pulsing energy
 - Moon cycles, which emits shadow energy
 
-Guemenos have very long winters (3 to 5 years) every 20 years or so. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 year), where average temperatures are 10 to 15 degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
+Guemenos have very long winters (3 to 5 years) every 20 years or so. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 year), where average temperatures are 10 to 15C degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
 
 The last documented season cycles are represented below.
 
-| primaveras | veroes | outonos    | invernos |
-|:-----------|:-------|:-----------|:---------|
-|       3672 |   3677 |       3681 |     3686 |
-|       3693 |   3698 |       3699 |     3704 |
-|       3709 |   3713 |       3716 |     3720 |
-|       3729 | 3731.5 |     3735.5 |     3738 |
-|       3745 |   3752 |       3754 |     3761 |
-|       3765 | 3772.5 |     3775.5 |     3783 |
-|       3787 | 3792.5 |     3795.5 |     3801 |
-|       3807 |   3812 |       3816 |     3821 |
-|       3829 | 3834.5 |     3835.5 |     3841 |
-|       3847 |   3855 |       3858 |     3866 |
-|       3870 |   3875 | 3878 (exp) |    ?      |  
+|     | primaveras | veroes |      outonos | invernos |
+|:--- | ----------:| ------:| ------------:| --------:|
+| 225 |     3744.9 | 3751.1 |       3751.7 |   3757.9 |
+| 226 |     3765.2 | 3773.4 |       3773.6 |   3781.8 |
+| 227 |     3786.6 | 3795.3 |       3795.6 |   3804.3 |
+| 228 |     3802.7 | 3807.6 |       3807.7 |   3812.6 |
+| 229 |     3821.1 | 3827.6 |       3828.2 |   3834.7 |
+| 230 |     3841.0 | 3846.8 |       3847.6 |   3853.4 |
+| 231 |     3859.0 | 3865.8 |       3866.1 |   3872.9 |
+| 232 |     3874.0 | 3877.5 | 3877.6 (exp) |    |
 
+![Seasons](_r/seasons.md#Seasons)
 
 ## Timeline
 

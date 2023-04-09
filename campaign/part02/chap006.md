@@ -4,7 +4,8 @@ part: 2
 name: The Torturer of Holzander
 world: Guemenos
 campaign: Arrival
-game_date: 3877.52
+game_date: 3877.5B
+season: summer
 location: [Holzander Castle]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4 (est)

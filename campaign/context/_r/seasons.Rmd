@@ -1,0 +1,59 @@
+---
+title: "Seasons"
+output:
+  md_document:
+     variant: markdown_github
+date: "2023-04-09"
+---
+
+# Season generator
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(EnvStats)
+```
+
+## Inputs
+
+```{r inputs}
+set.seed(2)
+
+# Inputs
+noOfCycles <- 300
+cycleLength <- round(rtri(noOfCycles, min = 10, max = 25, mode = 15), 1)
+winterLength <- round(rtri(noOfCycles, min = 3, max = 9, mode = 5), 1)
+summerLength <- round(rtri(noOfCycles, min = 0, max = 0.9, mode = 0.8), 1)
+shoulderLength <- round((cycleLength - winterLength - summerLength) / 2, 1)
+
+cyclesLengths <- data.frame(cycle = cycleLength,
+                            winter = winterLength,
+                            summer = summerLength,
+                            shoulder = shoulderLength)
+
+knitr::kable(cyclesLengths[225:235,], format = 'pipe')
+```
+
+## Simulation
+
+```{r sim}
+yearStart <- 1
+cyclesEnd <- yearStart + cumsum(cycleLength)
+cyclesStart <- c(yearStart, (lag(cyclesEnd)[-1] + 1))
+
+primaveras <- cyclesStart
+veroes <- primaveras + shoulderLength
+outonos <- veroes + summerLength
+invernos <- outonos + shoulderLength
+
+iniSeasons <- data.frame(primaveras = primaveras,
+                         veroes = veroes,
+                         outonos = outonos,
+                         invernos = invernos)
+```
+
+## Seasons
+
+```{r seasons}
+knitr::kable(iniSeasons[225:235,], format = 'pipe')
+```

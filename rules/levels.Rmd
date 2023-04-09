@@ -1,0 +1,74 @@
+---
+title: "Levels"
+output:
+  md_document:
+    variant: markdown_github
+date: "2023-03-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+```
+
+## Table of levels
+
+```{r levelTbl}
+levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 48000,
+                            64000, 85000, 100000, 120000, 140000, 165000, 195000,
+                            225000, 265000, 305000, 355000),
+                     level = 1:20,
+                     tier = c(rep(1, 4), rep(2, 6), rep(3, 6), rep(4, 4))) %>% 
+  mutate(xpPerChap = 393 * tier^2 + 434 * level - 800,
+         xpPerChap = pmax(xpPerChap, 300),
+         lvlUpXp = xp - lag(xp, default = first(xp)),
+         lvlUpXp = lead(lvlUpXp, default = last(lvlUpXp)),
+         chapToLevel = round(lvlUpXp / xpPerChap, 1),
+         easyDC = round(level/2.2 + 10, 0))
+
+knitr::kable(levelTbl, format = 'pipe')
+```
+
+## PCs current development
+
+Current PCs level and estimated deadly CR (lazy benchmark).
+
+```{r currentPCs}
+pcs <- data.frame(name = c('Miraak', 'Guilf', 'Dolman', 'Kethra', 'Amyria'),
+                  level = c(5,        5,       5,        5,        4)) %>%
+  mutate(cr = ifelse(level < 5, level/4, level/2))
+
+knitr::kable(pcs, format = 'pipe')
+
+```
+
+Current group average level, tier, estimated deadly CR and modified DC for easy checks.
+
+
+```{r currentGroup}
+levelAvg <- mean(pcs$level)
+tierGroup <- levelTbl$tier[round(levelAvg * 1.1, 0) == levelTbl$level]
+crDealdy <- sum(pcs$cr)
+easyDC <- round(levelAvg/2.2 + 10, 0)
+
+currGrp <- data.frame(PartyVariable = c('Level', 'Tier', 'Deadly CR', 'Easy DC'),
+           Value = round(c(levelAvg, tierGroup, crDealdy, easyDC), 0))
+
+knitr::kable(currGrp, format = 'pipe')
+```
+
+Current group proposed XP per chapter.
+
+```{r currentGroupXP}
+xpAltTbl <- data.frame(levelAlt = seq(from = levelAvg - 0.6,
+                                      to = levelAvg + 0.6, by = 0.2),
+                       tierAlt = seq(from = tierGroup - 0.9,
+                                     to = tierGroup + 0.9, by = 0.3)) %>%
+  mutate(xpPerChapAlt = 393 * tierAlt^2 + 434 * levelAlt - 800,
+         xpPerChapAlt = round(xpPerChapAlt / 100, 0) * 100,
+         xpPerChapAlt = pmax(xpPerChapAlt, 300))
+
+knitr::kable(xpAltTbl, format = 'pipe')
+
+```

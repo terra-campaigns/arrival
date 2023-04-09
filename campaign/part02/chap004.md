@@ -4,7 +4,8 @@ part: 2
 name: Going to Holzander
 world: Guemenos
 campaign: Arrival
-game_date: 3877.4
+game_date: 3877.4E
+season: spring
 location: [Ammuinoth]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4 (est)

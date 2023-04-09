@@ -86,8 +86,8 @@ Current group proposed XP per chapter.
 ``` r
 xpAltTbl <- data.frame(levelAlt = seq(from = levelAvg - 0.6,
                                       to = levelAvg + 0.6, by = 0.2),
-                       tierAlt = seq(from = tierGroup - 0.3,
-                                     to = tierGroup + 0.3, by = 0.1)) %>%
+                       tierAlt = seq(from = tierGroup - 0.9,
+                                     to = tierGroup + 0.9, by = 0.3)) %>%
   mutate(xpPerChapAlt = 393 * tierAlt^2 + 434 * levelAlt - 800,
          xpPerChapAlt = round(xpPerChapAlt / 100, 0) * 100,
          xpPerChapAlt = pmax(xpPerChapAlt, 300))
@@ -97,10 +97,10 @@ knitr::kable(xpAltTbl, format = 'pipe')
 
 | levelAlt | tierAlt | xpPerChapAlt |
 |---------:|--------:|-------------:|
-|      4.2 |     1.7 |         2200 |
-|      4.4 |     1.8 |         2400 |
-|      4.6 |     1.9 |         2600 |
+|      4.2 |     1.1 |         1500 |
+|      4.4 |     1.4 |         1900 |
+|      4.6 |     1.7 |         2300 |
 |      4.8 |     2.0 |         2900 |
-|      5.0 |     2.1 |         3100 |
-|      5.2 |     2.2 |         3400 |
-|      5.4 |     2.3 |         3600 |
+|      5.0 |     2.3 |         3400 |
+|      5.2 |     2.6 |         4100 |
+|      5.4 |     2.9 |         4800 |

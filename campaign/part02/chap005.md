@@ -4,7 +4,8 @@ part: 2
 name: A breath from the desert
 world: Guemenos
 campaign: Arrival
-game_date: 3877.45
+game_date: 3877.5A
+season: summer
 location: [North Desert, Ammuinoth]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4 (est)
