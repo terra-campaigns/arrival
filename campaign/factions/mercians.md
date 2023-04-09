@@ -20,12 +20,12 @@ tags:
 - **Power structure**: Autocratic. One person has largely unchallenged control over the court.
 - **Temperament**: Blackmailing and spying for their leadership
 - **Major actors**
-	- Gellert: powerful magic, and the executor of the plan
+	- [Gellert](../npcs/gellert.md): powerful magic, and the executor of the plan
 	- Bekhud Jastul, Ghost rider commander: military arm with undead forces at disposal, provides muscle to the organisation
 	- Ogam Muz, Hincland gang leader: knows secrets paths through the Ammuinoth, Ghost Domain, and surface to get anywhere
 - **Minor actors**
 	- Roving pickpocket
-	- Reluctant debtor to Ogam
+	- [Imotra](../npcs/imotra.md), debtor to Ogam, disciple of Gellert
 	- Canny smugler for Ogam
 - **Conflicts**
 	- Disputes over weather to kill Sergarus (FFKA): Gellert does not trust Sergarus, but Bekhud, who used to be an FFKA, trusts him. Ogam also believes he is better kept under tight control, so has been blackmailing Sergarus.
@@ -39,7 +39,7 @@ tags:
 - **Tier**: 3 - action die 1d10
 - **Features**: 4 (organised)
 	- Strong magical investigation
-	- Access to strong magic sources
+	- Lady scurvy
 	- Cavalry of Ghost Riders
 	- Cunning behaviour
 - **Trouble**: 3 (well-run)
@@ -66,3 +66,8 @@ Overview of the mercian culture region of strong influence:
 Mercian people are mostly humans, very cunning, and prefer to act on the background. Their influence also expands towards the Ghost Domain, where they lead a cavalry of Ghost Riders. The military strength is mostly used to avoid investigations from other groups on their works in Hincland (surface and subsurface). Most of the Mercian power comes from magic investigation. The faction intention is to expand its influence towards the southeast, and build a contiguous Ulkrunnar realm with Turnskull. When needed, they would also influence the FFKA in the east through an alliance with Sergarus.
 
 Outside their strongest influence areas, mercians meet in what they call Mercian houses, and are very secretive.
+
+**Ghost rider cavalry**
+
+![](_aux/Pasted%20image%2020230327202308.png)
+

@@ -21,7 +21,7 @@ tags:
 - **Temperament**: Insular, polite but reluctant to deal with strangers
 - **Major actors**
 	- Otaehryn Valdove, male dust goblin [chieftain](https://open5e.com/monsters/dust-goblin-chieftain): very personally formidable in a fight
-	- Imra Advyre, female dust elf high [shaman](https://open5e.com/monsters/junk-shaman): have a huge family that backs them
+	- Imra Advyre, female dust elf high [shaman](https://open5e.com/monsters/junk-shaman): have a huge family that backs them ^imraAdvyre
 - **Minor actors**
 	- Dirue Petmaris, female halfling old [shaman](https://open5e.com/monsters/junk-shaman): outcast, suspected of crow magic
 	- Ailen Eilpetor (male human [cultist](https://open5e.com/monsters/cultist-a5e) ) leads a group of young cultists: who is a barflies, and hears too much gossip
