@@ -97,6 +97,7 @@ WHERE contains(type, "faction")=true
 sort file.name asc
 ```
 
+![_fronts](_fronts.md#fronts)
 
 ### 3877.5B
 
