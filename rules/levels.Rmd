@@ -25,9 +25,21 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
          lvlUpXp = xp - lag(xp, default = first(xp)),
          lvlUpXp = lead(lvlUpXp, default = last(lvlUpXp)),
          chapToLevel = round(lvlUpXp / xpPerChap, 1),
+         campComplete = round(cumsum(chapToLevel) / sum(chapToLevel),2),
          easyDC = round(level/2.2 + 10, 0))
 
 knitr::kable(levelTbl, format = 'pipe')
+```
+
+Sessions per tier of play.
+
+```{r levelTblPerTier}
+levelTblPerTier <- levelTbl %>%
+  group_by(tier) %>%
+  summarise(totSessions = round(sum(chapToLevel))) %>%
+  mutate(ratioCampaign = round(totSessions / sum(totSessions), 2))
+
+knitr::kable(levelTblPerTier, format = 'pipe')
 ```
 
 ## PCs current development
