@@ -73,6 +73,7 @@ For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit
 
 Falet, the Almighty Lord, is a revered deity worshipped by many inhabitants of Guemenos. The high church of Falet, situated in the region of Olivepia, holds significant influence in the empire through its powerful military organization. As the almighty lord of the realm, Falet is believed to have created the world and all its creatures, imbuing them with magic and power. The followers of Falet believe that the god is able to grant them blessings and favors, including divine protection and guidance in times of war. The military forces of the high church are renowned for their strength and strategic prowess, and are often called upon to defend the empire against external threats. The high priests of Falet hold great power and influence, and are widely respected and feared throughout the land of Guemenos.
 
+![Faletism](secrets/secretsReligions.md#Faletism)
 
 ## Trow
 ***Trow Ancestors***

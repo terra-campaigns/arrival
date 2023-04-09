@@ -25,3 +25,7 @@ Kimbarak himself was immune to the nightmares, his mind already consumed by the 
 The dwarves began to fear Kimbarak, but they were powerless to stop him. He was too powerful, too entrenched in the mountains to be dislodged. And so they continued to live in fear, never knowing when Kimbarak's inner demons would be unleashed upon them.
 
 For Kimbarak, there was no redemption, no salvation. He was forever trapped in the darkness of the Ophaire, his mind consumed by the horrors he had endured. And so he remained, a powerful, twisted, and horrifying presence in the Kiranu mountains, forever haunting the dreams and nightmares of those he had sworn to protect.
+
+## Faletism
+
+The Church of Falet appoints the king of Olivepia.

@@ -14,7 +14,12 @@ The group meets the Nargun Dwarves in their stronghold, where they have been hol
 
 ## Chapter 3 Battle from Ammuinoth
 
-The Glasrath Alliance now faces the undead from the Ammuinoth. The battle starts, and three clashes happen in the mines. Miraak is killed, but was lucky enough to be close to Ghuse who starts a long ritual to resurrect him. Fuko also falls in battle, but she is unlucky to sink in the lake, only to be found too late. In the end, the alliance is victorious, but not without many casualties - including the wyrmling gold dragon that was freed by the Glasrath Defenders (the name given to Miraak, Guilf, Kethra, Dolman and the now deceased Fuko). 
+The Glasrath Alliance now faces the undead from the Ammuinoth. The battle starts, and three clashes happen in the mines. Miraak is killed, but was lucky enough to be close to Ghuse who starts a long ritual to resurrect him. Fuko also falls in battle, but she is unlucky to sink in the lake, only to be found too late. In the end, the alliance is victorious, but not without many casualties - including the wyrmling gold dragon that was freed by the Glasrath Defenders (the name given to Miraak, Guilf, Kethra, Dolman and the now deceased Fuko). Access to the city of Khatdzig is established again.
+
+![](_aux/Pasted%20image%2020230322230543.png)
+
+
+### Alliance
 
 After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
 - Watheton: Nosbelbeyn and Ondor perished, their units are gone.
@@ -32,9 +37,6 @@ The new organisation of the Glasrath Alliance is:
 - Army soldiers: 205 Inf3, 91 Inf2Arch, 50 Inf2
 - Guards: 48 Inf2 and 7 Inf1
 - Civilians from all the cities: 13.000.
-
-Access to the city of Khatdzig is established again.
-![](_aux/Pasted%20image%2020230322230543.png)
 
 # Part 2 Darkness Deepens
 
