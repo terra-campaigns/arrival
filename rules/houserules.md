@@ -1,3 +1,9 @@
+---
+type: rule
+application: house
+tags: 
+---
+
 # Rules adopted for Arrival
 
 ## Rest

@@ -1,3 +1,0 @@
-# Technology
-
-The measure of technology maturity is a quantitative proxy to enable comparison of different civilisations. For reference, developing beyond technology from the ancient era requires a maturity of 500, while reaching the level of Greeks and Romans would require 1800. The mediaeval technology would have a maturity of 5700, while developing all the required technologies to complete the Renaissance era would need a maturity 15000 for then entering the industrial era.

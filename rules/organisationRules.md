@@ -1,3 +1,8 @@
+---
+type: rule
+application: [organisation, political, courts] 
+tags: 
+---
 
 ![](_aux/Godbound_FreeVersion-062516.pdf#page=106)
 

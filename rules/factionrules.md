@@ -1,3 +1,8 @@
+---
+type: rule
+application: [faction, political] 
+tags: 
+---
 # Faction Game Rules v3
 
 The faction game mechanics follows [Godbound: A Game of Divine Heroes (Free Edition)](https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition) also available [here](https://drive.google.com/file/d/14SRyFtMkRqaKUZZHpBN39FBYyrbyaa5S/view?usp=sharing) - page 134. Other sources are [Stars Without Number: Revised Edition (Free Version)](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version) and [r/RPGdesign: How to Have Well Designed Factions in Your Campaign](https://www.reddit.com/r/RPGdesign/comments/iz762t/how_to_have_well_designed_factions_in_your/). Plan to have 3-6 active factions all the time.
