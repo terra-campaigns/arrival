@@ -1,8 +1,3 @@
-type: rule
-application: levels 
-tags: 
----
-
 ## Table of levels
 
 ``` r
