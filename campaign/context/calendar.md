@@ -57,12 +57,13 @@ The last documented season cycles are represented below.
 - 3850 NC Aivridyt, The Creep takes lair in the Naragzah mountains
 - 3856 NC
 	- Aivridyt is severely wounded by alliance of Tolfoddund and Nargun warriors in the Naragzah mountains
-	- Miraar is born in Nurderad
+	- Miraak is born in Nurderad
 - 3857 NC Gaelira and the Paragon Force goes to the [The Ammuinoth](realms.md#Ammuinoth)
 - 3860 NC Kethra Stormwind is born in a village north of the Naragzah mountains
 - 3867 NC Kethra's parents are killed by a purple dragon who disguises as a sage and raises Kethra
 - 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are raided by the dragonborn
 - 3869 NC Ghuse joins the military in Gorthugke
+- 3875 NC Miraak drops out of his clan
 - 3876 NC Lady Scurvy starts spreading in Throtha
 - 3876 NC Nilperto is killed in Watheton
 - 3877 NC

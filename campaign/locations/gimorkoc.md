@@ -37,7 +37,7 @@ tags:
 		- He has the [FFKA East](../factions/ffkaEast.md) that backs him.
 		- Tall, with copper hair and hazel eyes. He wears leather armour and wields a dagger.
 - **Minor actors**
-	- Eirzaren (CG), male [outcast](https://open5e.com/monsters/apprentice-mage-a5e) suspected of evil magic, backed by the [Mercians](../factions/mercians.md).
+	- **Eirzaren (CG)**, male [outcast](https://open5e.com/monsters/apprentice-mage-a5e) suspected of evil magic, backed by the [Mercians](../factions/mercians.md).
 - **Temperament**: The community court **is amoral, indifferent to harm to outsiders or strangers**.
 - **Conflicts**: Tanina is very cautious with Alben **who might be using dark magic**.
 - **Defences**: If threatened with destruction, the court is defended by **a guardian spirit or entity**.

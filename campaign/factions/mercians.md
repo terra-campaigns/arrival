@@ -28,7 +28,7 @@ tags:
 	- [Imotra](../npcs/imotra.md), debtor to Ogam, disciple of Gellert
 	- Canny smugler for Ogam
 - **Conflicts**
-	- Disputes over weather to kill Sergarus (FFKA): Gellert does not trust Sergarus, but Bekhud, who used to be an FFKA, trusts him. Ogam also believes he is better kept under tight control, so has been blackmailing Sergarus.
+	- Disputes over weather to kill [Sergarus (FFKA East)](../npcs/sergarus.md): Gellert does not trust Sergarus, but Bekhud, who used to be an FFKA, trusts him. Ogam also believes he is better kept under tight control, so has been blackmailing Sergarus.
 - **Consequence of its destruction**: Finances of Hincland and Rombhurgia depend on the Mercians
 - **Defences**:
 	- Magical prowess of Gellert
@@ -47,8 +47,8 @@ tags:
 	- They might be messing up with powers beyond their control (1 pt)
 	- Everyone has reservations with the Mercians (1 pt)
 - **Goals**
-	- [ ] Island the FFKA East, pincer move with Gellert in the south, lady scurvy in the north and the rest of the Mercians from the east.
 	- [ ] Feature: energy overflow and sky umbilicals to Hincland and Turnskull (cost 16: region, impossible)
+	- [ ] Island the FFKA East, pincer move with Gellert in the south, lady scurvy in the north and the rest of the Mercians from the east.
 	- [ ] Feature: energy overflow and umbilicals in the Ammuinoth, seising the tunnels from Hincland to Turnskull and creating a portal between the two regions (cost 32: kingdom, impossible)
 
 ## Details

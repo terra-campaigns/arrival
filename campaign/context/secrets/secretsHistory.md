@@ -14,7 +14,7 @@ Nek created Guemenos (the world) with the help of his sons and daughters. He pop
 
 ![](_aux/Pasted%20image%2020230326094838.png)
 
-### Kingdom of Iopothae
+### Iopothae
 `0 to 5500 Iopothae Time (IT)`
 
 When the ancient kingdom of Iopothae was created they also created the calendar. The kingdom of Iopothae was the most advanced kingdom of the Edraihil.

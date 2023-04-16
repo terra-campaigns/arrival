@@ -1,64 +1,103 @@
-# Chapter Number & Name
-`Date, Expected xp, deadly CR Benchmark, avg level & DC`
-
-### Metadata
-Needs to come as the first thing on the file
-
-```
 ---
-type: chapter
-part: 2
+type: template
+part: 
 name: 
 world: Guemenos
 campaign: Arrival
-game_date: 3877.53
-location: [entries]
+game_date: 
+season: 
+location: 
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
-party_level: 5
-easy_dc: 12
-deadly_cr: 11
+party_level: 
+party_tier: 
+deadly_cr: 
+easy_dc: 
+hoardTreasure: 
+consMgcItem: 
+singPermMgcItem: 
 xp: 
-tags: 
+tags:  
 ---
-```
 
-### Characters' motivations
+# Chapter Number & Name
+
+## Reviews for planning
+***Delete from template after done***
+
+- [ ] Summarise previous chapter
+- [ ] Review [Abridged](../context/abridged.md)
+- [ ] Review and organise [Notions](../../notions.md)
+- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
+- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
+- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks
+- [ ] Think about characters, write motivations & links
+- [ ] Detail strong start
+- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed
+- [ ] Define secrets & clues, reviewing scenes
+- [ ] Outline fantastic locations, reviewing scenes and secrets
+- [ ] Outline potential NPCs, reviewing all above
+- [ ] Outline potential foes, if not all in an appendix
+- [ ] Define treasure
+- [ ] Prepare Owlbear, if applicable
+- [ ] Move big texts to appendix in the file
+- [ ] Delete this checklist
+
+## Characters' motivations
 - **Dolman**: 
 - **Miraak**: 
 - **Guilf**: 
 - **Amyria**: 
 - **Kethra**: 
 
-### Strong start 
+## Intro
+- Things to discuss before game starts
+
+## Strong start 
 Description of your strong start.  
 
-### Potential scenes  
-* Small scene description (2/h)
-* Every situation needs to have a draw or a threat embedded in it.
-* Dramatic question
-* Source of conflicts
-* Beats: fear or hope
-* Type: combat, social, exploration
-* End conditions
+## Potential scenes 
+**Scene name** (outline 6 possible scenes)
+- Small scene description, including location and environment
+- Dramatic question: Every situation needs to have a draw or a threat embedded, with a call to action
+- Source of conflicts: Determine source of conflicts (foes, environment) that will drive the conflicting goals and objectives - including internal conflicts and multiple possibilities for ending (DM has to think of a couple)
+- End conditions: Scene ends when the dramatic question is answered, no more conflicts are left or PCs do not have decision points anymore.
+- Scoreboard (if applicable): HP for combat and [progress clocks](https://bladesinthedark.com/progress-clocks) for non-combat
 
-### Secrets & Clues    
-- [ ] Secret descriptions (10)
+## Secrets & Clues    
+
+**Factions (1 to 3)**
+- [ ] ...
+
+**Fronts (0 to 1)**
+- [ ] ...
+
+**Context (1 to 3)**
+- [ ] ...
+
+**Advancing arcs (2 to 3)**
+- [ ] ...
+
+**Rumours (2)**
+- [ ] ...
+
   
-### Fantastic locations  
-- **Location** (2/h): 3 aspects for each (and a picture and/or link)
+## Fantastic locations  
+- **Location** (6): Each with 3 [aspects](https://perchance.org/fantastic-locations) (and a picture and/or link)
 - What is the history of your fantastic location? What happened here before?
   
-### Important NPCs  
-- **Name.** Description (put yourself in their minds), add link if a file is created
+## Important NPCs  
+- **NPC Names** (6): Description (put yourself in their minds), each with a file created
 
-### Potential foes 
+## Potential foes 
 - Name and link
 
-### Potential treasures  
-- Description
-- Give magic items a unique name and history
+## Potential treasures  
+- Consumables can be generated from the [shop](https://5emagic.shop/inventory)
+- Give permanent magic items a unique name and history
+
+## Appendices
 
 
-Source: https://slyflourish.notion.site/Session-Notes-Template-Sample-5dd292cce3134ed7aa11237a4ab4848f
+### References
 
-Integrate with: https://docs.google.com/document/d/1tZmujENXS6DnNTk3cCfRajd2Dvyg2067X247kwObL-8/edit
+- https://slyflourish.notion.site/Session-Notes-Template-Sample-5dd292cce3134ed7aa11237a4ab4848f

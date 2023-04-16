@@ -115,32 +115,6 @@ N.B. 2: During combat, using any skill is an action (also somewhere in the PHB).
 5. GM describe the actions of all NPCs
 6. Sometimes between rounds, on the same turn, the GM will need to update the scene (when something big changes, e.g. an area effect, someone falling, etc)
 
-## Magical items tables
-
-### Consumables
-
-- 1 common consumable every level from 1 to 5
-	- Table A has a 90% chance of generating a common item, and a 10% chance of generating an uncommon item.
-	- At level 4,4,4,4,3 they got 15, still missing 4
-- 1 uncommon consumable every level from 6 to 10
-	- Table B only generates uncommon items. 
-- 1 rare consumable every level from 11 to 15
-	- Table C has a 96% chance of generating a rare item and a 4% chance of generating an uncommon item. 
-- 1 very rare consumable every level from 16 to 19
-	- Table D has a 99% chance of generating a very rare item, and a 1% chance of generating a rare item.
-- 1 legendary consumable at level 20
-	- Table E has a 50-50 chance of generating either a very rare or a legendary item. 
-
-### Permanent
-
-- 1 uncommon permanent item at level 4, and another at level 7:
-	- Table F only generates uncommon items.
-	- At level 4,4,4,4,2 they got 4, all ok
-- 1 rare permanent item at level 10 and another at level 13
-	- Table G has a 98% chance of generating a rare item and a 2% chance of generating an uncommon item.
-- 1 very rare permanent item at level 16
-	- Table H has a 92% chance of generating a very rare item, a 6% chance of generating a rare item, and a 2% chance of generating an uncommon item. 
-- 1 legendary permanent item at level 19.
 
 ## Travel rules
 

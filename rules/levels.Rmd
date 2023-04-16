@@ -16,17 +16,26 @@ library(dplyr)
 
 ```{r levelTbl}
 levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 48000,
-                            64000, 85000, 100000, 120000, 140000, 165000, 195000,
-                            225000, 265000, 305000, 355000),
-                     level = 1:20,
-                     tier = c(rep(1, 4), rep(2, 6), rep(3, 6), rep(4, 4))) %>% 
+                  64000, 85000, 100000, 120000, 140000, 165000, 195000,
+                  225000, 265000, 305000, 355000),
+           level = 1:20,
+           tier = c(rep(1, 4), rep(2, 6), rep(3, 6), rep(4, 4))) %>% 
   mutate(xpPerChap = 393 * tier^2 + 434 * level - 800,
          xpPerChap = pmax(xpPerChap, 300),
          lvlUpXp = xp - lag(xp, default = first(xp)),
          lvlUpXp = lead(lvlUpXp, default = last(lvlUpXp)),
          chapToLevel = round(lvlUpXp / xpPerChap, 1),
          campComplete = round(cumsum(chapToLevel) / sum(chapToLevel),2),
-         easyDC = round(level/2.2 + 10, 0))
+         easyDC = round(level/2.2 + 10, 0),
+         consMgcItm = c(rep('3xA', 5), rep('2xB', 5), rep('2xC', 5),
+                        rep('2xD', 4), '2xE'),
+         permMgcItem = c(rep(c('--', 'F'), 3), 'F', rep(c('--', 'G'), 3),
+                         '--', 'H', 'H', rep(c('--', 'Lgdry'), 2))) %>%
+  group_by(tier) %>%
+  mutate(tierSum = pmax(1, 1.4 * cumsum(tier) / min(tier) - 0.5),
+         hoardTreasure = round(tierSum / chapToLevel, 1)) %>%
+  ungroup() %>%
+  select(-tierSum)
 
 knitr::kable(levelTbl, format = 'pipe')
 ```
@@ -55,17 +64,25 @@ knitr::kable(pcs, format = 'pipe')
 
 ```
 
-Current group average level, tier, estimated deadly CR and modified DC for easy checks.
-
+Current group average level, tier, estimated deadly CR, modified DC for easy checks, treasure and boss lair probability.
 
 ```{r currentGroup}
 levelAvg <- mean(pcs$level)
 tierGroup <- levelTbl$tier[round(levelAvg * 1.1, 0) == levelTbl$level]
 crDealdy <- sum(pcs$cr)
 easyDC <- round(levelAvg/2.2 + 10, 0)
+hoardTreasure <- levelTbl$hoardTreasure[levelTbl$level == round(levelAvg)]
+consMgcItem <- levelTbl$consMgcItm[levelTbl$level == round(levelAvg)]
+permMgcItem <- levelTbl$permMgcItem[levelTbl$level == round(levelAvg)]
 
-currGrp <- data.frame(PartyVariable = c('Level', 'Tier', 'Deadly CR', 'Easy DC'),
-           Value = round(c(levelAvg, tierGroup, crDealdy, easyDC), 0))
+currGrp <- data.frame(PartyVariable = c(
+  'Level', 'Tier', 'Deadly CR', 'Easy DC', 'Hoard Treasure (of correct tier)',
+  'Consumable Magic Items', 'Single Permanent Magic Item'
+),
+Value = c(
+  round(levelAvg), tierGroup, crDealdy, easyDC, hoardTreasure,
+  consMgcItem, permMgcItem
+))
 
 knitr::kable(currGrp, format = 'pipe')
 ```
