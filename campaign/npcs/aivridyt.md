@@ -1,9 +1,11 @@
 ---
 type: npc
+species: dragon
 name: Aivridyt
 world: Guemenos
 campaign: Arrival
-faction: 
+location: glasrath
+faction: glasrath
 deceased: false
 tags:
 ---
@@ -13,7 +15,7 @@ tags:
 
 Aivridyt, the Creep, was a young ferocious female red dragon who took lair in the Naragzah mountains in 3850 NC. As she dwelled in the mountains she became even more interested in the caverns below it, and would cross the two dwarven clans when venturing into the mines. The frequent encounters with The Creep culminated in an alliance between the Tolfoddund and Nargun warriors and, in a battle in the mountains, they severely wounded Aivridyt in 3856 NC.
 
-[naragzah](../locations/naragzah.md)
+[tfddMines](../locations/tfddMines.md)
 
 Hurt, the Creep delved deeper into the caverns seeking rest and recovery and, eventually, walked into the depths of the Ghost Domain (also called Underdark by the drows). Aivridyt slept for 6 years and, during her sleep, a passage to the Dead Echo (also known as Shadowfell) opened and took her. When the Creep woke up, she was not a red dragon anymore, but had turned into a shadow red dragon, with colours resembling petroleum and accents of purple. The Creep was turned into the Purple Evil.
 
@@ -27,7 +29,7 @@ Aivridyt hid herself under the skin of a gentle sage, and took the 7 year old ch
 
 While Aivridyt looked after Kethra she hungered for power in the region, and decided to impersonate Ghuse, a human guard captain and cleric of Algath (goddess of life and death) in the city of Gorthugke, and Grezar, a drow necromancer living in the Middledark in the Ghost Domain. While Ghuse steadily rises to military command power in Gorthugke and in the region, Grezar has a role to unbalance alliances and strong clans in the underdark. Greza was behind the attack from the Nurderad dragon people to the Tolfoddund dwarves.
 
-Aivridyt wanted revenge against the dwarves. As Grezar she drove the dragonborn to attack the Tolfoddund mines. The attack was successful but they never reached the Nargun, who sealed themselves. Aivridyt then lost interest in the mines and has been working to get influence in Gorthugke as a military cleric commander - attempting to form the Aivridyt faction.
+Aivridyt wanted revenge against the dwarves. As Grezar she drove the dragonborn of north Nurderad to attack the Tolfoddund mines. The attack was successful but they never reached the Nargun, who sealed themselves. Aivridyt then lost interest in the mines and has been working to get influence in Gorthugke as a military cleric commander - attempting to form the Aivridyt faction.
 
 Aivridyt's eggs haven't hatched, but the still young dragon continues to keep them in her new lair in the Dark Lake, in the Ghost Domain.
 
