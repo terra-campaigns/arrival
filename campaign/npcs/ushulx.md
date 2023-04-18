@@ -32,4 +32,4 @@ After meeting the characters Ushulx now likes them, as she thinks they are necro
 - [ ]   The FFKA have interrogated her once in a visit to Red Tower - they are desperate to know the entrance to the Ammuinoth
 - [ ]   If asked about the FFKA and their understanding of the castle: She believes the FFKA do not know the access, but keep trying to find - and they are close.
 
-![](_aux/Pasted%20image%2020230401094019.png)
+![](https://i.imgur.com/0dCEhLE.jpg)
