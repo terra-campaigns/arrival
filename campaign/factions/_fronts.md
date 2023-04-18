@@ -23,23 +23,23 @@ Acrisae and Turnskull: 7 fronts in total, 3 each plus the deflagration of full w
 - [ ] Acrisae brings military positioning to the surface and redies for war
 
 **Turnskull fronts**
-- [ ] Khato's armies lose in the south, Kiranu and others will need to move north
+- [ ] Khato's armies lose in the south, Kiranu and others will need to migrate north
 - [ ] Big freeze from the south
 - [ ] Turnskull takes the entirety of south Etor, ready for war
 
 **Party level and outcome**
 - [ ] 6:
-- [ ] 7:
-- [ ] 8:
-- [ ] 9:
-- [ ] 10:
-- [ ] 11:
+- [ ] 7: Foreshadowing for Part 3 - Supraxae is destroyed by Holzander's umbilical and falls
+- [ ] 8: (mandatory 1st front) - think on active closure of Part 2 by PCs. Maybe battle with Ghost Riders? 
+- [ ] 9: Foreshadowing for Part 3 - Thick mist starts
+- [ ] 10: (mandatory 2nd front) - closes Part 2
+- [ ] 11: 
 - [ ] 12:
-- [ ] 13:
-- [ ] 14 (mandatory 1st front)
-- [ ] 15 (mandatory 2nd front)
-- [ ] 16 (mandatory 3rd front)
-- [ ] 17 (mandatory 4th front)
+- [ ] 13: (mandatory 3rd front)
+- [ ] 14: (mandatory 4th front) - closes Part 3
+- [ ] 15:
+- [ ] 16:
+- [ ] 17:
 - [ ] 18 (mandatory 5th front)
 - [ ] 19 (mandatory 6th front)
 - [ ] 20 (mandatory 7th front)
