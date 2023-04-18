@@ -1,4 +1,4 @@
-![](_aux/Pasted%20image%2020230401093125.png)
+![](https://i.imgur.com/i9RtfVN.png)
 
 Shape of Drow:
 - Female Drow Monk

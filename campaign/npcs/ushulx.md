@@ -1,7 +1,8 @@
 # Ushulx
 ***Cultist of Curcharn***
 
-![|500](_aux/Pasted%20image%2020230401093903.png)
+![](https://i.imgur.com/wxLL7d3.png)
+
 
 ## Background
 

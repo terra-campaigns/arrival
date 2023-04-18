@@ -1,4 +1,4 @@
-![|500](_aux/Pasted%20image%2020230327224503.png)
+![](https://i.imgur.com/ZgVbLtv.png)
 
 - D6 roll: 1 & 2 Weldon is in the Castle of Bells calm (human form), 3 & 4 he is not in, 5 he is in and very nervous (glabro, hispo or bear form), 6 he is in and chained - completely out of control (in crinos form).
 - Weldon is 2m tall in human form, 2.7m in bear form and 3.4m in crinos form.

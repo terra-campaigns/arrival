@@ -10,6 +10,7 @@ deceased: false
 tags:
 ---
 
-![|500](_aux/Pasted%20image%2020230329201131.png)
+![](https://i.imgur.com/5ywTE10.png)
 
-![](_aux/Pasted%20image%2020230401093819.png)
+
+![](https://i.imgur.com/enzVsiK.png)

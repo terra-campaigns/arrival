@@ -10,4 +10,4 @@ deceased: NA
 tags:
 ---
 
-![](_aux/Pasted%20image%2020230327222849.png)
+![](https://i.imgur.com/W26ZSVp.png)

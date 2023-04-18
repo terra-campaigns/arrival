@@ -23,7 +23,7 @@ Hurt, the Creep delved deeper into the caverns seeking rest and recovery and, ev
 
 When the Purple Evil woke up she was surprised (but not necessarily happy) that she was ready to lay eggs. However, not being a full grown adult dragon, she was not ready to care for them. Aivridyt ended up laying her eggs in an easily accessible area of the caverns, and was unlucky enough that a very poor family, living close to the mountains, encountered them. The Purple Evil quickly killed the parents, but had other plans for the 7 year old child.
 
-![](_aux/Pasted%20image%2020230326123500.png)
+![](https://i.imgur.com/fOycPBy.png)
 
 Aivridyt hid herself under the skin of a gentle sage, and took the 7 year old child, Kethra Stormwind. The Purple Evil used illusion magic and fooled Kethra to think she was raised by the sage in her house, while Kethra was actually kept in a permanent drowsy state with Aivridyt magic and potions. The Purple Evil had no definite plan for Kethra, but continued keeping her mostly prisoner of the illusion for almost 8 years. Due to lack of careful planning, Kethra ended up waking up from the torpor and left the camp she was kept for so long. Aivridyt and Kethra have not seen each other since.
 
@@ -45,7 +45,8 @@ Ghuse, Cleric and Captain of Algath, goddess of life and death `NE, Life and Dea
 Ghuse's Prayer
 > I invoke the key and the gate, i summon the messeng'r to announceth mine own w'rds. I, awaketh, the high augurer of thy dreams of life and death, Algath. Taketh hence our pride, god of dusteth and dusteth, recognizeth the insignificance of this w'rld and humanity yond fears and rejects thy gift. But giveth us life, until thee giveth us death
 
-![](_aux/Pasted%20image%2020230326124117.png)
+![](https://i.imgur.com/BerDgmv.png)
+
 
 ```statblock
 creature: Young Red Shadow Dragon

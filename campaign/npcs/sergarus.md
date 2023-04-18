@@ -6,7 +6,8 @@ He had seen first-hand the atrocities committed by those who had turned away fro
 
 Sergarus does not have a base in the FFKA East region of influence, prefering to travel often between posts.
 
-![|500](_aux/Pasted%20image%2020230327202544.png)
+![](https://i.imgur.com/b6epeEa.png)
+
 
 ```statblock
 creature: Knight
