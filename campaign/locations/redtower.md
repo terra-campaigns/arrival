@@ -13,7 +13,8 @@ tags:
 
 ## Info Block
 
-![|500](_aux/Pasted%20image%2020230404215339.png)
+![](https://i.imgur.com/9RIj0O4.png)
+
 
 ## City summary
 
@@ -41,4 +42,5 @@ tags:
 - City social encounters (roll 11+ per day): SC24
 - Outskirts encounters (roll 14+ per day): SC28
 
-![](_aux/Pasted%20image%2020230404220947.png)
+![](https://i.imgur.com/FIlxVxB.jpg)
+

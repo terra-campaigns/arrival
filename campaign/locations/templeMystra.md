@@ -9,9 +9,9 @@ campaign: Arrival
 tags: 
 ---
 
-![](_aux/Pasted%20image%2020230401092920.png)
+![](https://i.imgur.com/fofoMct.png)
 
-![](_aux/Pasted%20image%2020230401092901.png)
+![](https://i.imgur.com/hw7JKC0.png)
 
 The temple is a protected place and only major harm can be done to it (i.e. it is immune to minor harm)
 

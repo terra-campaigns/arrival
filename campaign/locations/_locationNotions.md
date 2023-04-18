@@ -2,8 +2,12 @@
 - Prison is a weird place: island, ship, etc
 
 
-![](_aux/Pasted%20image%2020230401100124.png)
+![](https://i.imgur.com/oX5hzpp.png)
 
-![](_aux/Pasted%20image%2020230401100134.png)
 
-![](_aux/Pasted%20image%2020230401100226.png)
+![](https://i.imgur.com/meDHTSH.png)
+
+
+Labyrinth citadel:
+
+![](https://i.imgur.com/AwdBPhb.png)

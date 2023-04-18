@@ -19,6 +19,8 @@ Probably 100 years later, duegar from the Ammuinoth took a keen interest in Hous
 
 Over the next 100 years, foul creatures have arrived and departed from the ruins and dungeons of the Burnt Castle of Holzander. These included cultists of Cuncharn (a minor deity under Algath), drows, demons and bandits alike. Void magic was developed within the walls of the castle and its dungeons, and often fractures to the obscure Ophaire were open. It is told a missing child of Gerhardt IV, Gerhardt the Changeling, came back to the castle with his son, Gellert the Gruesome, in company of the powerful arcane researchers Cagoth-ze and Imortra the Debased.
 
+## Histories
+
 ### Version from research in Khazadzig
 
 > You did find specific reference to the Burnt Castle of Holzander: The Holzander family took residence in it in 3627 NC and, 100 years later, made an alliance with the duegar. The duegar further expanded what was before a citadel in a massive castle, with expanded dungeons below. The duegar also brought in and bred ownbears in the tunnels.However, 40 years after that, the Faithful Faletist Knights of the Arch burnt the castle down under the Faletist Law of Magic, which prohibited earth magic investigation in the empire. The castle changed hands for many years and, more recently, is is lair of a psychotic, sadistic torturer and serial killer known  as the Gaoler, who seems to work under the command of the last Holzander: Gerhardt the Changeling.
@@ -32,30 +34,26 @@ Over the next 100 years, foul creatures have arrived and departed from the ruins
 > 
 > Over the next 100 years (up to 50 years ago), foul creatures have arrived and departed from the ruins and dungeons of the Burnt Castle of Holzander. These included cultists of Cuncharn, drows, demons and bandits alike. Void magic was developed within the walls of the castle and its dungeons, and often fractures to the obscure Ophaire were open. It is told that a missing child of Gerhardt IV, Gerhardt the Changeling, came back to the castle with his son, Gellert the Gruesome, in company of the powerful arcane researchers Cagoth-ze and Imortra the Debased.
 
-
 The structure stands atop a low hill that slopes off gradually all around. The slope is gentle but the ground is rugged, broken by mushrooms and revines that you have never seen before. The fort was breached at the northwest and southeast corners, but the rest of the walls and the main keep still stand. The outer walls are 15 feet high. The main tower rises 40 feet, and the secondary keep is 30 feet tall but heavily damaged. Despite the damage and decay, it’s still an impressive place that seems to have been built by skilled builders.
 
-![](_aux/Pasted%20image%2020230401095100.png)
+![](https://i.imgur.com/Xvwv5n1.png)
 
-Vision of the void
-![](_aux/Pasted%20image%2020230401095216.png)
+## Internal locations
 
-Catacombs and door to the Ophaire
-![](_aux/Pasted%20image%2020230401095239.png)
-Catacombs and door to the Ophaire
-One [2d4] roll every 1d4 rounds
-[2 & 8] Nothing
-[3] Wights (CR 3)
-[4] Shadows (CR ½)
-[5] Skeletons (CR ¼)
-[6] Spectres (CR 1)
-[7] Wraiths (CR 5)
+### Vision of the void
+
+![](https://i.imgur.com/xH7SwoN.png)
+
+### Catacombs
+
+![](https://lh4.googleusercontent.com/Xo-h6pYZOhYftOsO5Eo6JMw-5sSSdtFPFEaUIAao-M0aJa7mqwh9dCcc2r1Gez2voTBmwivYD_wkgBRT1MMxYWcFTu3PDIvknjUvWnhdhejkPdh6vTujNebhHvUX-VnavNRV-TJYH1oVVBlFj3IltTQ)
 
 Ossuary connects to the Ophaire. If PCs look into the pool they see this and, on a mountain slope that takes to the pool, a contiguous line of undead climbing towards the PCs in slow motion. Any PCs that look into the pool must do a sanity check [DC 10] or lose a point of sanity and gain a long term madness. Closing the portal is beyond the characters level, or even anyone on this level on the castle [Arcana DC 20 to realise that].
 
 
 
-Mystra's Door
+### Mystra's Door
+
 - Access to the surface is on the collapsed tunnel close to the Holzander's catacombs.
 - The tunnel goes up for about 1 km, and then there is a silver door that is magically locked by a Mystra protection spell [WIS Religion DC 15].
 - The key to open can be found in the library in Mystra's temple [WIS Investigation DC 15], but can also be remembered by Amyria [WIS Religion DC 18].

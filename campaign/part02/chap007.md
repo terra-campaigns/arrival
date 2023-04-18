@@ -39,7 +39,7 @@ tags:
 - [x] Link potential foes
 - [x] Define treasure
 - [ ] Prepare Owlbear, if applicable
-- [ ] Add Danaska to NPCs
+- [ ] Add Danaska and Imortra to NPCs
 - [x] Move big texts to appendix in the file
 - [ ] Delete this checklist
 
@@ -110,7 +110,7 @@ end
 - Conflict: When characters reach the Ardismouth temple, it is now a camp of dust goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them.
 - End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Goblins are dealt with
 
-**Mystra's Temple**
+**Mystra's Temple** ([location link](../locations/templeMystra.md))
 - Draw: Find the password for Mystra's door
 - Give hint that the Rurkinar have been trying to communicate with the Angel Hound, with no success, and that a festival and ritual on his behalf will happen in [eyaram](../locations/eyaram.md)
 - NPCs in the temple are: priests, cultists and traders (commoners)
@@ -127,6 +127,7 @@ end
 
 **Rurkinar festival and ritual, and FFKA censoring**
 - Scene: Arrival in one of the Linhe cities - Rukinar festival and ritual is happening, [FFKA](../factions/ffkaEast.md) is in position and ready to censor the cultists.
+- Consider having Imortra observing.
 - Tense situation that ends up with the cultists imprisoned.
 - [Sergarus](../npcs/sergarus.md) arrive in the next day to interrogate cultists.
 - The ritual finally completes in an unexpected way: the Angel Hound communicates with [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) in imprisoned in the lost castle of the Holzander's.
@@ -157,11 +158,15 @@ end
 
 ### Pool portal to the Ophaire
 
+![Catacombs](../locations/holzanderCastle.md#Catacombs)
+
 ![|500](https://lh4.googleusercontent.com/Xo-h6pYZOhYftOsO5Eo6JMw-5sSSdtFPFEaUIAao-M0aJa7mqwh9dCcc2r1Gez2voTBmwivYD_wkgBRT1MMxYWcFTu3PDIvknjUvWnhdhejkPdh6vTujNebhHvUX-VnavNRV-TJYH1oVVBlFj3IltTQ)
 
 ![|500](https://cdn.vox-cdn.com/thumbor/0LUFTZ4yq4u_ZIbvybb7ci4orDo=/0x0:2040x1360/1400x933/filters:focal(1288x183:1614x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65197198/descent_art.0.jpg)
 
 ### Mystra's Door in the tunnel
+
+![Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
 
 ![|500](https://i.imgur.com/R8njhtR.png)
 

@@ -11,6 +11,7 @@ tags:
 
 # Ardismouth Temple
 
-![](_aux/Pasted%20image%2020230329205544.png)
+![](https://i.imgur.com/gQhgUpE.png)
+
 
 The last tower (partially collapsing) allows you to climb through a passage to the surface.

@@ -15,12 +15,13 @@ The mine's southern entrance is 90 Km through a clean trail on the foot of the m
 
 The trail from Watheton ends in the bottom of the Glasrath Mountains, with a colossal entrance to the Tolfoddund mines. The massive main door is broken and left open.
 
-![](_aux/Pasted%20image%2020230326110900.png)
+![](https://i.imgur.com/O4pxlc1.png)
 
 After entering, the group find themselves in a very rough large room, which gives access to the actual mine through a 10m tall arch. In this room, there are logistics equipment (crates, barrels), chains and platforms for lifting. It smells of animal manure.
 
-![](_aux/Pasted%20image%2020230326110920.png)
+![](https://i.imgur.com/PhKTSBW.jpg)
 
 Everywhere you see is filled with signs of battle. You see dwarven and other taller humanoid armours, equipment and weapons. You also see the carcasses of very few of the giant lizards, and none of humanoid creatures.
 
-![](_aux/Pasted%20image%2020230327222344.png)
+![](https://i.imgur.com/oQwlmsA.png)
+

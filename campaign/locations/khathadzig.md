@@ -13,10 +13,11 @@ tags:
 
 In 3872 NC the Nargun finally decided to abandon the Khathadzig city, moving all the population to the intermine. The city of Khathadzig is surrounded by farms that are set on large faults, with bronze sheets covering it from wind, rain and snow. On these faults, coal is alit for heat, and compost from the mines is used to grow food for the inhabitants.
 
-![](_aux/Pasted%20image%2020230326110955.png)
+![](https://i.imgur.com/8cZ7CSJ.png)
 
-![|500](_aux/Pasted%20image%2020230329203303.png) 
-![|500](_aux/Pasted%20image%2020230329203318.png)
+![](https://i.imgur.com/4LI8qt5.png)
+
+![](https://i.imgur.com/0mT9yCX.png)
 
 **Roads**
 Road South: to the intermines (2Km)

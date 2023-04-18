@@ -13,7 +13,7 @@ tags:
 
 ## Info Block
 
-![|500](https://lh3.googleusercontent.com/tLV78CwqsmTawjhMimknjGiNfZ4uR5h_GRASR9hkIm45PYg0jGExy1KytFki7nv2IN4w_X7TQcR4HBBoRhvo1yCfywf9eIXvKY_VZTTKSRTDY6_J-btQla3Lxk3LphSmWkcSlFWliesPgkSXh959i1Y)
+![](https://i.imgur.com/WfGaEgs.png)
 
 ## City summary
 
@@ -50,5 +50,4 @@ tags:
 - Rurkinar temple **in the desert**
 - Mercian house
 
-<iframe src="https://watabou.github.io/city-generator/?size=15&seed=9365024010471&name=Gimorkoc&population=1477&greens=0&farms=0&citadel=1&urban_castle=0&plaza=1&temple=0&walls=0&shantytown=0&coast=0&river=0&hub=1" width="100%" height=800>
-</iframe>
+![](https://i.imgur.com/5GguJgV.png)

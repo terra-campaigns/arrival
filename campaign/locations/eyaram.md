@@ -13,7 +13,8 @@ tags:
 
 ## Info Block
 
-![|500](_aux/Pasted%20image%2020230402210631.png)
+![](https://i.imgur.com/YN6i2S4.png)
+
 
 ## City summary
 
@@ -54,6 +55,6 @@ tags:
  - The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
 -   A Mercian house outside the city
 
-<iframe src="https://watabou.github.io/city-generator/?size=10&seed=9365024010452&name=Eyaram&population=511&greens=0&farms=0&citadel=1&urban_castle=1&plaza=1&temple=0&walls=1&shantytown=0&coast=0&river=0&hub=1" width="100%" height=800>
-</iframe>
+![](https://i.imgur.com/DEgikot.png)
+
 
