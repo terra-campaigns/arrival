@@ -10,7 +10,7 @@ tags:
 
 ## Etor
 
-![](_aux/Pasted%20image%2020230405141419.png)
+![](https://i.imgur.com/fvH71H0.png)
 
 ### Nulfirth
 

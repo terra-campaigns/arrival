@@ -12,7 +12,8 @@ tags:
 
 Nek created Guemenos (the world) with the help of his sons and daughters. He populated it with several races and wished good for Guemenos' inhabitants. For thousands of years Guemenos prospered under the rule of the three oldest Edrahil (Nek's children).
 
-![](_aux/Pasted%20image%2020230326094838.png)
+![](https://i.imgur.com/Dh68Ea5.png)
+
 
 ### Iopothae
 `0 to 5500 Iopothae Time (IT)`
@@ -56,7 +57,7 @@ The first stage of the campaign is to arrive in the barren plains of the Tolfodd
 
 The location will be chosen so that access to Ammuinoth is possible, and the construction can be used to disguise Acrisae operations such as mining, construction and training. To make sure the region is empty of curious eyes, the Acrisae, with support from the Sulpraxae, will cause fear to the region inhabitants by scorching the earth and forcing them to neighbouring regions, including the mountains and its caves and mines.
 
-![](_aux/Pasted%20image%2020230326110340.png)
+![](https://i.imgur.com/svplP5E.png)
 
 It would cause suffering to the inhabitants of the region, but a large enough proportion can save themselves and create a new life for them. After the final conflict with the Kyri is finished, the world would be free of Ulkrunnar and his children. To the Acrisae that seems like an acceptable trade off.
 

@@ -28,7 +28,8 @@ end
 	Mondendovil
 ```
 
-![](_aux/Pasted%20image%2020230405164046.png)
+![](https://i.imgur.com/U9pWVCe.png)
+
 
 ## Protodeities
 ***Nek and Ulkrunnar***
@@ -57,7 +58,8 @@ In the heart of the north desert, where the sun always shines on the endless san
 
 Rurkinar, the Brown Eagle, is the second highest deity in Mystra's pantheon, behind only Mystra herself. The Rurkinar followers, and cultists, are the most relevant Yotunn representation on the northeast (to the east of Mystra's).
 
-![](_aux/Pasted%20image%2020230326213948.png)
+![](https://i.imgur.com/TMc86Ig.png)
+
 
 The Rurkinar Cultists are a group of shamans that believe in direct communication with the Brown Eagle through rituals.
 
