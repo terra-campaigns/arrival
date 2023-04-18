@@ -14,6 +14,7 @@ flowchart LR
     Mystra --> MystranPriesthood
     
     Bonnalurie --> Acrisae
+    Bonnalurie --> Duergar
     Falet --> FFKA
     FFKA --> FFKA_East
 	
@@ -74,6 +75,7 @@ flowchart LR
 	Thymar
 	Drows
 	Kiranu
+	Duergar
 	end
 	
 	subgraph Tier2
@@ -215,7 +217,7 @@ flowchart LR
 	style RurkinarCultists stroke:#333,stroke-width:4px
 ```
 
-![](_aux/Pasted%20image%2020230409160055.png)
+![](https://i.imgur.com/wrS0yP7.png)
 
 * Human factions pressing on the Nulfirth people
     * Mercian culture expanding and gaining territory NE -> SW

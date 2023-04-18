@@ -45,7 +45,7 @@ tags:
 
 ## Details
 
-![](_aux/Pasted%20image%2020230327202214.png)
+![](https://i.imgur.com/M5bxluE.png)
 
 ### Members
 
