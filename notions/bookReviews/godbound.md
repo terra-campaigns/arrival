@@ -1,4 +1,6 @@
-![](image/DeluxeVersionThumb.jpg)
+# Godbound
+
+## Book exported to md below
 
 []{#Godbound_DeluxeVersion-EpubBlank-062516.xhtml}
 
