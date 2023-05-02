@@ -6,16 +6,18 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
                               225000, 265000, 305000, 355000),
                        level = 1:20,
                        tier = c(rep(1, 4), rep(2, 6), rep(3, 6), rep(4, 4))) %>% 
-  mutate(rank = round((level - 1) / 3),
+  mutate(rank = as.integer(round((level - 1) / 3)),
          xpPerChap = 200 * rank^2 + 500 * level - 500,
-         xpPerChap = pmax(xpPerChap, 300),
+         xpPerChap = as.integer(pmax(xpPerChap, 300)),
+         xpPerChapBound = paste0('[', xpPerChap * 0.8, ', ', xpPerChap * 1.2, ']'),
          lvlUpXp = xp - lag(xp, default = first(xp)),
          lvlUpXp = lead(lvlUpXp, default = last(lvlUpXp)),
          chapToLevel = round(lvlUpXp / xpPerChap, 1),
-         campComplete = round(cumsum(chapToLevel) / sum(chapToLevel),2),
-         CR5e = (rank * 3 + 1) / 4,
-         CRlazy = ifelse(level < 5, level / 4, level / 2),
-         minDC = 12 + rank,
+         DCmin = as.integer(12 + rank),
+         CRsolo = rank * 3 + tier + 1,
+         CR1vs1 = round(CRsolo / 3 + (level - 8) * tier / 20, 1),
+         CR2vs1 = round(CR1vs1 * 0.6 * 2, 1),
+         CR4vs1 = round(CR1vs1 * 0.4 * 4, 1),
          consMgcItm = c(rep('3xA', 5), rep('2xB', 5), rep('2xC', 5),
                         rep('2xD', 4), '2xE'),
          permMgcItem = c(rep(c('--', 'F'), 3), 'F', rep(c('--', 'G'), 3),
@@ -29,28 +31,28 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
 knitr::kable(levelTbl, format = 'pipe')
 ```
 
-|     xp | level | tier | rank | xpPerChap | chapToLevel | campComplete | CR5e | CRlazy | minDC | consMgcItm | permMgcItem | hoardTreasure |
-|----:|----:|---:|---:|------:|-------:|-------:|---:|----:|----:|:------|:-------|--------:|
-|      0 |     1 |    1 |    0 |       300 |         1.0 |         0.02 | 0.25 |   0.25 |    12 | 3xA        | –           |           1.0 |
-|    300 |     2 |    1 |    0 |       500 |         1.2 |         0.04 | 0.25 |   0.50 |    12 | 3xA        | F           |           1.9 |
-|    900 |     3 |    1 |    1 |      1200 |         1.5 |         0.07 | 1.00 |   0.75 |    13 | 3xA        | –           |           2.5 |
-|   2700 |     4 |    1 |    1 |      1700 |         2.2 |         0.12 | 1.00 |   1.00 |    13 | 3xA        | F           |           2.3 |
-|   6500 |     5 |    2 |    1 |      2200 |         3.4 |         0.19 | 1.00 |   2.50 |    13 | 3xA        | –           |           0.3 |
-|  14000 |     6 |    2 |    2 |      3300 |         2.7 |         0.24 | 1.75 |   3.00 |    14 | 2xB        | F           |           0.9 |
-|  23000 |     7 |    2 |    2 |      3800 |         2.9 |         0.30 | 1.75 |   3.50 |    14 | 2xB        | F           |           1.3 |
-|  34000 |     8 |    2 |    2 |      4300 |         3.3 |         0.36 | 1.75 |   4.00 |    14 | 2xB        | –           |           1.5 |
-|  48000 |     9 |    2 |    3 |      5800 |         2.8 |         0.42 | 2.50 |   4.50 |    15 | 2xB        | G           |           2.3 |
-|  64000 |    10 |    2 |    3 |      6300 |         3.3 |         0.48 | 2.50 |   5.00 |    15 | 2xB        | –           |           2.4 |
-|  85000 |    11 |    3 |    3 |      6800 |         2.2 |         0.53 | 2.50 |   5.50 |    15 | 2xC        | G           |           0.5 |
-| 100000 |    12 |    3 |    4 |      8700 |         2.3 |         0.57 | 3.25 |   6.00 |    16 | 2xC        | –           |           1.0 |
-| 120000 |    13 |    3 |    4 |      9200 |         2.2 |         0.62 | 3.25 |   6.50 |    16 | 2xC        | G           |           1.7 |
-| 140000 |    14 |    3 |    4 |      9700 |         2.6 |         0.67 | 3.25 |   7.00 |    16 | 2xC        | –           |           2.0 |
-| 165000 |    15 |    3 |    5 |     12000 |         2.5 |         0.72 | 4.00 |   7.50 |    17 | 2xC        | H           |           2.6 |
-| 195000 |    16 |    3 |    5 |     12500 |         2.4 |         0.77 | 4.00 |   8.00 |    17 | 2xD        | H           |           3.3 |
-| 225000 |    17 |    4 |    5 |     13000 |         3.1 |         0.83 | 4.00 |   8.50 |    17 | 2xD        | –           |           0.3 |
-| 265000 |    18 |    4 |    6 |     15700 |         2.5 |         0.88 | 4.75 |   9.00 |    18 | 2xD        | Lgdry       |           0.9 |
-| 305000 |    19 |    4 |    6 |     16200 |         3.1 |         0.94 | 4.75 |   9.50 |    18 | 2xD        | –           |           1.2 |
-| 355000 |    20 |    4 |    6 |     16700 |         3.0 |         1.00 | 4.75 |  10.00 |    18 | 2xE        | Lgdry       |           1.7 |
+|     xp | level | tier | rank | xpPerChap | xpPerChapBound   | chapToLevel | DCmin | CRsolo | CR1vs1 | CR2vs1 | CR4vs1 | consMgcItm | permMgcItem | hoardTreasure |
+|---:|---:|---:|---:|-----:|:-------|------:|---:|---:|---:|---:|---:|:-----|:------|------:|
+|      0 |     1 |    1 |    0 |       300 | \[240, 360\]     |         1.0 |    12 |      2 |    0.3 |    0.4 |    0.5 | 3xA        | –           |           1.0 |
+|    300 |     2 |    1 |    0 |       500 | \[400, 600\]     |         1.2 |    12 |      2 |    0.4 |    0.5 |    0.6 | 3xA        | F           |           1.9 |
+|    900 |     3 |    1 |    1 |      1200 | \[960, 1440\]    |         1.5 |    13 |      5 |    1.4 |    1.7 |    2.2 | 3xA        | –           |           2.5 |
+|   2700 |     4 |    1 |    1 |      1700 | \[1360, 2040\]   |         2.2 |    13 |      5 |    1.5 |    1.8 |    2.4 | 3xA        | F           |           2.3 |
+|   6500 |     5 |    2 |    1 |      2200 | \[1760, 2640\]   |         3.4 |    13 |      6 |    1.7 |    2.0 |    2.7 | 3xA        | –           |           0.3 |
+|  14000 |     6 |    2 |    2 |      3300 | \[2640, 3960\]   |         2.7 |    14 |      9 |    2.8 |    3.4 |    4.5 | 2xB        | F           |           0.9 |
+|  23000 |     7 |    2 |    2 |      3800 | \[3040, 4560\]   |         2.9 |    14 |      9 |    2.9 |    3.5 |    4.6 | 2xB        | F           |           1.3 |
+|  34000 |     8 |    2 |    2 |      4300 | \[3440, 5160\]   |         3.3 |    14 |      9 |    3.0 |    3.6 |    4.8 | 2xB        | –           |           1.5 |
+|  48000 |     9 |    2 |    3 |      5800 | \[4640, 6960\]   |         2.8 |    15 |     12 |    4.1 |    4.9 |    6.6 | 2xB        | G           |           2.3 |
+|  64000 |    10 |    2 |    3 |      6300 | \[5040, 7560\]   |         3.3 |    15 |     12 |    4.2 |    5.0 |    6.7 | 2xB        | –           |           2.4 |
+|  85000 |    11 |    3 |    3 |      6800 | \[5440, 8160\]   |         2.2 |    15 |     13 |    4.8 |    5.8 |    7.7 | 2xC        | G           |           0.5 |
+| 100000 |    12 |    3 |    4 |      8700 | \[6960, 10440\]  |         2.3 |    16 |     16 |    5.9 |    7.1 |    9.4 | 2xC        | –           |           1.0 |
+| 120000 |    13 |    3 |    4 |      9200 | \[7360, 11040\]  |         2.2 |    16 |     16 |    6.1 |    7.3 |    9.8 | 2xC        | G           |           1.7 |
+| 140000 |    14 |    3 |    4 |      9700 | \[7760, 11640\]  |         2.6 |    16 |     16 |    6.2 |    7.4 |    9.9 | 2xC        | –           |           2.0 |
+| 165000 |    15 |    3 |    5 |     12000 | \[9600, 14400\]  |         2.5 |    17 |     19 |    7.4 |    8.9 |   11.8 | 2xC        | H           |           2.6 |
+| 195000 |    16 |    3 |    5 |     12500 | \[10000, 15000\] |         2.4 |    17 |     19 |    7.5 |    9.0 |   12.0 | 2xD        | H           |           3.3 |
+| 225000 |    17 |    4 |    5 |     13000 | \[10400, 15600\] |         3.1 |    17 |     20 |    8.5 |   10.2 |   13.6 | 2xD        | –           |           0.3 |
+| 265000 |    18 |    4 |    6 |     15700 | \[12560, 18840\] |         2.5 |    18 |     23 |    9.7 |   11.6 |   15.5 | 2xD        | Lgdry       |           0.9 |
+| 305000 |    19 |    4 |    6 |     16200 | \[12960, 19440\] |         3.1 |    18 |     23 |    9.9 |   11.9 |   15.8 | 2xD        | –           |           1.2 |
+| 355000 |    20 |    4 |    6 |     16700 | \[13360, 20040\] |         3.0 |    18 |     23 |   10.1 |   12.1 |   16.2 | 2xE        | Lgdry       |           1.7 |
 
 Sessions per tier of play.
 
@@ -76,74 +78,47 @@ Current PCs level and estimated deadly CR (lazy benchmark).
 
 ``` r
 pcs <- data.frame(name = c('Miraak', 'Guilf', 'Dolman', 'Kethra', 'Amyria'),
-                  level = c(5,        5,       5,        5,        4)) %>%
-  mutate(cr = ifelse(level < 5, level/4, level/2))
+                  level = c(5,        5,       5,        5,        4))
 
 knitr::kable(pcs, format = 'pipe')
 ```
 
-| name   | level |  cr |
-|:-------|------:|----:|
-| Miraak |     5 | 2.5 |
-| Guilf  |     5 | 2.5 |
-| Dolman |     5 | 2.5 |
-| Kethra |     5 | 2.5 |
-| Amyria |     4 | 1.0 |
+| name   | level |
+|:-------|------:|
+| Miraak |     5 |
+| Guilf  |     5 |
+| Dolman |     5 |
+| Kethra |     5 |
+| Amyria |     4 |
 
-Current group average level, tier, estimated deadly CR, modified DC for
-easy checks, treasure and boss lair probability.
-
-``` r
-levelAvg <- mean(pcs$level)
-tierGroup <- levelTbl$tier[round(levelAvg * 1.1, 0) == levelTbl$level]
-crDealdy <- sum(pcs$cr)
-easyDC <- round(levelAvg/2.2 + 10, 0)
-hoardTreasure <- levelTbl$hoardTreasure[levelTbl$level == round(levelAvg)]
-consMgcItem <- levelTbl$consMgcItm[levelTbl$level == round(levelAvg)]
-permMgcItem <- levelTbl$permMgcItem[levelTbl$level == round(levelAvg)]
-
-currGrp <- data.frame(PartyVariable = c(
-  'Level', 'Tier', 'Deadly CR', 'Easy DC', 'Hoard Treasure (of correct tier)',
-  'Consumable Magic Items', 'Single Permanent Magic Item'
-),
-Value = c(
-  round(levelAvg), tierGroup, crDealdy, easyDC, hoardTreasure,
-  consMgcItem, permMgcItem
-))
-
-knitr::kable(currGrp, format = 'pipe')
-```
-
-| PartyVariable                    | Value |
-|:---------------------------------|:------|
-| Level                            | 5     |
-| Tier                             | 2     |
-| Deadly CR                        | 11    |
-| Easy DC                          | 12    |
-| Hoard Treasure (of correct tier) | 0.3   |
-| Consumable Magic Items           | 3xA   |
-| Single Permanent Magic Item      | –     |
-
-Current group proposed XP per chapter.
+Current party average level, tier, estimated CR, minimal DC for checks,
+treasures and
 
 ``` r
-xpAltTbl <- data.frame(levelAlt = seq(from = levelAvg - 0.6,
-                                      to = levelAvg + 0.6, by = 0.2),
-                       tierAlt = seq(from = tierGroup - 0.9,
-                                     to = tierGroup + 0.9, by = 0.3)) %>%
-  mutate(xpPerChapAlt = 393 * tierAlt^2 + 434 * levelAlt - 800,
-         xpPerChapAlt = round(xpPerChapAlt / 100, 0) * 100,
-         xpPerChapAlt = pmax(xpPerChapAlt, 300))
+currentParty <- data.frame(level = as.integer(round(mean(pcs$level))),
+                           members = nrow(pcs)) %>%
+  left_join(levelTbl, by = 'level') %>%
+  select(-xp, - chapToLevel) %>%
+  mutate(tier = as.integer(tier),
+         CRsolo = as.integer(CRsolo + members - 4),
+         CR1vs1 = as.integer(round(CR1vs1 * members)),
+         CR2vs1 = as.integer(round(CR2vs1 * members)),
+         CR4vs1 = as.integer(round(CR4vs1 * members)))
 
-knitr::kable(xpAltTbl, format = 'pipe')
+cat(as.yaml(currentParty))
 ```
 
-| levelAlt | tierAlt | xpPerChapAlt |
-|---------:|--------:|-------------:|
-|      4.2 |     1.1 |         1500 |
-|      4.4 |     1.4 |         1900 |
-|      4.6 |     1.7 |         2300 |
-|      4.8 |     2.0 |         2900 |
-|      5.0 |     2.3 |         3400 |
-|      5.2 |     2.6 |         4100 |
-|      5.4 |     2.9 |         4800 |
+    ## level: 5
+    ## members: 5
+    ## tier: 2
+    ## rank: 1
+    ## xpPerChap: 2200
+    ## xpPerChapBound: '[1760, 2640]'
+    ## DCmin: 13
+    ## CRsolo: 7
+    ## CR1vs1: 8
+    ## CR2vs1: 10
+    ## CR4vs1: 14
+    ## consMgcItm: 3xA
+    ## permMgcItem: --
+    ## hoardTreasure: 0.3
