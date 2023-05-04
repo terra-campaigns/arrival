@@ -34,9 +34,9 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
          CR2vs1 = round(CR1vs1 * 0.6 * 2, 1),
          CR4vs1 = round(CR1vs1 * 0.4 * 4, 1),
          consMgcItm = c(rep('3xA', 5), rep('2xB', 5), rep('2xC', 5),
-                        rep('2xD', 4), '2xE'),
-         permMgcItem = c(rep(c('--', 'F'), 3), 'F', rep(c('--', 'G'), 3),
-                         '--', 'H', 'H', rep(c('--', 'Lgdry'), 2))) %>%
+                        rep('2xD', 3), rep('2xE', 2)),
+         permMgcItem = c(rep('--', 2), rep('F', 5), '--', rep('G', 5),
+                         rep('H', 3), '--', rep('Lgdry', 3))) %>%
   group_by(tier) %>%
   mutate(tierSum = pmax(1, 1.4 * cumsum(tier) / min(tier) - 0.5),
          hoardTreasure = round(tierSum / chapToLevel, 1)) %>%
