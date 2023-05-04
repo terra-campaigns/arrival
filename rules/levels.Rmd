@@ -24,7 +24,11 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
   mutate(rank = as.integer(round((level - 1) / 3)),
          xpPerChap = 200 * rank^2 + 500 * level - 500,
          xpPerChap = as.integer(pmax(xpPerChap, 300)),
-         xpPerChapBound = paste0('[', xpPerChap * 0.8, ', ', xpPerChap * 1.2, ']'),
+         xpPerChapL = dplyr::lag(xpPerChap, default = 300),
+         xpPerChapR = dplyr::lead(xpPerChap, default = 16700),
+         xpPerChapL = (xpPerChap + xpPerChapL) / 2,
+         xpPerChapR = (xpPerChap + xpPerChapR) / 2,
+         xpPerChapBound = paste0('[', xpPerChapL, ', ', xpPerChapR, ']'),
          lvlUpXp = xp - lag(xp, default = first(xp)),
          lvlUpXp = lead(lvlUpXp, default = last(lvlUpXp)),
          chapToLevel = round(lvlUpXp / xpPerChap, 1),
@@ -41,7 +45,7 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
   mutate(tierSum = pmax(1, 1.4 * cumsum(tier) / min(tier) - 0.5),
          hoardTreasure = round(tierSum / chapToLevel, 1)) %>%
   ungroup() %>%
-  select(-tierSum, -lvlUpXp)
+  select(-tierSum, -lvlUpXp, -xpPerChapL, -xpPerChapR)
 
 knitr::kable(levelTbl, format = 'pipe')
 ```
