@@ -27,6 +27,8 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000, 4800
          xpPerChapL = dplyr::lag(xpPerChap, default = 300),
          xpPerChapR = dplyr::lead(xpPerChap, default = 16700),
          xpPerChapL = (xpPerChap + xpPerChapL) / 2,
+         xpPerChapL = (xpPerChap + xpPerChapL) / 2,
+         xpPerChapR = (xpPerChap + xpPerChapR) / 2,
          xpPerChapR = (xpPerChap + xpPerChapR) / 2,
          xpPerChapBound = paste0('[', xpPerChapL, ', ', xpPerChapR, ']'),
          lvlUpXp = xp - lag(xp, default = first(xp)),
