@@ -60,7 +60,7 @@ knitr::kable(levelTbl, format = 'pipe')
 | 305000 |    19 |    4 |    6 |     16200 | \[16075, 16325\] |         3.1 |    18 |     23 |    9.9 |   11.9 |   15.8 | 2xE        | Lgdry       |           1.2 |
 | 355000 |    20 |    4 |    6 |     16700 | \[16575, 16700\] |         3.0 |    18 |     23 |   10.1 |   12.1 |   16.2 | 2xE        | Lgdry       |           1.7 |
 
-Sessions per tier of play.
+Sessions per tier and rank of play.
 
 ``` r
 levelTblPerTier <- levelTbl %>%
@@ -77,6 +77,25 @@ knitr::kable(levelTblPerTier, format = 'pipe')
 |    2 |          18 |          0.36 |
 |    3 |          14 |          0.28 |
 |    4 |          12 |          0.24 |
+
+``` r
+levelTblPerRank <- levelTbl %>%
+  group_by(rank) %>%
+  summarise(totSessions = round(sum(chapToLevel))) %>%
+  mutate(ratioCampaign = round(totSessions / sum(totSessions), 2))
+
+knitr::kable(levelTblPerRank, format = 'pipe')
+```
+
+| rank | totSessions | ratioCampaign |
+|-----:|------------:|--------------:|
+|    0 |           2 |          0.04 |
+|    1 |           7 |          0.14 |
+|    2 |           9 |          0.18 |
+|    3 |           8 |          0.16 |
+|    4 |           7 |          0.14 |
+|    5 |           8 |          0.16 |
+|    6 |           9 |          0.18 |
 
 ## PCs current development
 
@@ -109,22 +128,24 @@ currentParty <- data.frame(level = as.integer(round(mean(pcs$level))),
          CRsolo = as.integer(CRsolo + members - 4),
          CR1vs1 = as.integer(round(CR1vs1 * members)),
          CR2vs1 = as.integer(round(CR2vs1 * members)),
-         CR4vs1 = as.integer(round(CR4vs1 * members)))
+         CR4vs1 = as.integer(round(CR4vs1 * members)),
+         cr_gauges = paste0('[', CRsolo, ', ', CR1vs1, ', ',
+                            CR2vs1, ', ', CR4vs1, ']')) %>%
+  select(-CRsolo, -CR1vs1, -CR2vs1, -CR4vs1, -members) %>%
+  rename(party_level = level, party_tier = tier, party_rank = rank,
+         xp = xpPerChap, xp_bounds = xpPerChapBound, dc_min = DCmin) %>%
+  relocate(cr_gauges, .after = dc_min)
 
 cat(as.yaml(currentParty))
 ```
 
-    ## level: 5
-    ## members: 5
-    ## tier: 2
-    ## rank: 1
-    ## xpPerChap: 2200
-    ## xpPerChapBound: '[2075, 2475]'
-    ## DCmin: 13
-    ## CRsolo: 7
-    ## CR1vs1: 8
-    ## CR2vs1: 10
-    ## CR4vs1: 14
+    ## party_level: 5
+    ## party_tier: 2
+    ## party_rank: 1
+    ## xp: 2200
+    ## xp_bounds: '[2075, 2475]'
+    ## dc_min: 13
+    ## cr_gauges: '[7, 8, 10, 14]'
     ## consMgcItm: 3xA
     ## permMgcItem: F
     ## hoardTreasure: 0.3
