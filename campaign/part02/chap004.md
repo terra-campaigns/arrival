@@ -9,8 +9,8 @@ season: spring
 location: [Ammuinoth]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4 (est)
-easy_dc: 12
-deadly_cr: 5
+dc_min: 13
+cr_gauges: '[6, 8, 9, 12]'
 xp: 1112
 tags: 
 ---
