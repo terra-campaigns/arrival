@@ -297,3 +297,48 @@ name: Spawn
 creatures:
  - 1: Vampiric Mind Flayer
 ```
+
+### Holzander Level 2
+
+#### 202
+
+- [Maksilov](../npcs/maksilov.md) and Bastron (CR 4)
+- Jelly hybrid (CR 3)
+![|400](https://i.imgur.com/GcEA6jh.png)
+![|400](https://i.imgur.com/CKyP2Qw.png)
+
+![|500](https://i.imgur.com/OirmZpf.png)
+
+```encounter
+name: Holzander 202 (CR 1.5)
+creatures:
+ - 1: Ice Mephit
+ - 1: Dust Mephit
+ - 1: Magma Mephit
+ - 1: Steam Mephit
+```
+
+- Damage Immunities. Add acid.
+- Death Burst. A creature that fails its saving throw also takes 3 (1d6) acid damage in addition to the standard effects.
+- Innate Spellcasting. The mephit can choose between its listed spell or acid splash (7 [2d6] damage).
+- Claws. A hit deals 2 (1d4) acid damage in addition to other listed damage.
+- Breath Weapon. The attack deals 5 (2d4) acid damage in addition to other listed damage and effects.
+
+#### 203
+
+![|600](https://i.imgur.com/O9bF8XY.png)
+
+```encounter
+name: Holzander 203 (CR 2)
+creatures:
+ - 1: Gelatinous Cube
+```
+
+#### 204
+
+```encounter
+name: Holzander 204 (CR 4)
+creatures:
+ - 1: Goblin Boss
+ - 6: Hobgoblin
+```
