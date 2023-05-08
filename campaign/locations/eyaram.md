@@ -13,8 +13,7 @@ tags:
 
 ## Info Block
 
-![](https://i.imgur.com/YN6i2S4.png)
-
+![|500](https://i.imgur.com/YN6i2S4.png)
 
 ## City summary
 

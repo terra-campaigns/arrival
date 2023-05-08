@@ -16,6 +16,7 @@ After meeting the characters Ushulx now likes them, as she thinks they are necro
 
 **Generic**
 - [ ] She notices that Miraak is an undead and praise for such a great work - she thinks the PCs are into necromancy and will be very curious with it.
+- [ ] Ushulx is a blood cultist who venerates [Curcharn](../context/religions.md#Curcharn) in the domain of death.
 
 **Castle lore**
 - [ ] Tells characters how to reach the staircase down (Area 112)
@@ -25,11 +26,19 @@ After meeting the characters Ushulx now likes them, as she thinks they are necro
 - [ ] Not very friendly with Danaska Maksilov (the Ooze thing is disgusting)
 - [ ] She is afraid of Gellerth
 - [ ] Warns them the crypts are extremely dangerous, but she would go with them if they are inclined - she's always wanted to explore them but it was too dangerous to do so alone
+- [ ] Many believe the halls of the Holzander Castle is dead or stagnant or stationary. They couldn’t be more wrong. Things are happening on every level of the vast ruin. It is a living world down beneath.
+- [ ] [Curcharn](../context/religions.md#Curcharn) is the God of Death, Master of the Rivers Styx and Lethe, Guardian of Souls, Watcher at the Door, Patron of Sailors and Gravediggers
+- [ ] Curcharn oversees the passage of souls: at birth, at death, and in the afterlife, maintaining the proper steps along the natural roads. He protects planar travelers, especially mortals, from demons and celestials alike. The god uses the undead as tools and servants, though he sees them as the damaged shells of his charges, holding only a few scattered memories.
+- [ ] She perceives the river as a metaphor for blood flowing through arteries and believes Charun is connected to the Deadecho because of the proximity of this shrine to the crypt (Areas 116–120) and its connection to the dry lands.
+- [ ] This philosophy is heretical both in mainstream views of Charun and in most blood cults, which is why Ushulx skulks here beneath the Scarlet Citadel.
+- [ ] The statue was created and placed here by the elves before the coming of the Holzangers. It has two magical properties: one was instilled centuries ago by the elves, the other by Cagoth-ze and Ushulx working together.
+- [ ] Another powerful wizard resides in the chambers below the dungeon named Cagoth-ze – Twister of Time.
+- [ ] Cagoth-ze is a powerful wizard but completely obsessed with acquiring knowledge of the elves who used to be here. The elves managed to hide their lore not in a place, but in a time, and that steered Cagoth-ze into the twisted practice of Time Magic. It’s amazing he hasn’t torn himself into pieces spread over thousands of years practicing this type of heretical magic.
 
 **World lore**
 - [ ]  She is searching for Aivridyt, the creep, the red dragon who a legend say was blessed into a deep death dragon by Algath herself
 - [ ]  A fire demon knight is the messenger between Gellert and the high septon of Mondendovil, the Forefather
-- [ ]   The FFKA have interrogated her once in a visit to Red Tower - they are desperate to know the entrance to the Ammuinoth
-- [ ]   If asked about the FFKA and their understanding of the castle: She believes the FFKA do not know the access, but keep trying to find - and they are close.
+- [ ]  The FFKA have interrogated her once in a visit to Red Tower - they are desperate to know the entrance to the Ammuinoth
+- [ ]  If asked about the FFKA and their understanding of the castle: She believes the FFKA do not know the access, but keep trying to find - and they are close.
 
 ![](https://i.imgur.com/0dCEhLE.jpg)

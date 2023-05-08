@@ -10,13 +10,15 @@ location: [Holzander Castle]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 5
 party_tier: 2
-deadly_cr: 11
-easy_dc: 12
-hoardTreasure: 0.4
-consMgcItem: 3xA
-singPermMgcItem: 
-xp: 1600
+party_rank: 1
+xp: 2075
+dc_min: 13
+cr_gauges: '[7, 8, 10, 14]'
+consMgcItm: 3xA
+permMgcItem: F
+hoardTreasure: 0.3
 tags: 
+
 ---
 
 # Chapter 7 Holzander Ancestral Shrine
@@ -38,30 +40,37 @@ tags:
 - [x] List potential NPCs
 - [x] Link potential foes
 - [x] Define treasure
+- [x] Check secrets from 30/oct
 - [ ] Prepare Owlbear, if applicable
 - [ ] Add Danaska and Imortra to NPCs
 - [x] Move big texts to appendix in the file
-- [ ] Delete this checklist
 
 ## Characters' motivations & links
 - **Dolman**: get information on [Gaelira](../npcs/gaelira.md)'s torment
-- **Miraak**: meet [Gulthas Morseth](chap007.md#^Gulthas)
-- **Guilf**: feel the sensonring of [FFKA](../factions/ffkaEast.md) again
+- **Miraak**: meet [Gulthas Morseth](chap007.md#^Gulthas) and learn more about being an undead
+- **Guilf**: feel the censoring of [FFKA](../factions/ffkaEast.md) again
 - **Amyria**: learn more about the [Ammuinoth](../context/realms.md#Ammuinoth) and the Brezal Paths
 - **Kethra**: through [Gulthas Morseth](chap007.md#^Gulthas) possibly realise that Ghuse is [Aivridyt](../npcs/aivridyt.md)
 
 ## Intro
-- Summary read aloud
-- How does the fact that Miraak is a zombie affects you now?
+- Read aloud:
+	- [Abridged for chapter 6](https://github.com/efsalvarenga/arrival_open/blob/main/context/abridged.md#chapter-6-the-torturer-of-holzander)
+	- [Linhe](https://github.com/efsalvarenga/arrival_open/blob/main/context/realms.md#linhe)
+	- [Rurkinar](https://github.com/efsalvarenga/arrival_open/blob/main/context/religions.md#rurkinar)
 
 ## Strong start
 A resting conversation with [Ushulx](../npcs/ushulx.md), Dugan, Red Hart, Ichbon about the current lore, touching subjects such as:
-- [ ] Ushulx searching for Aivryndt, who went to the Dead Echo and was blessed by [Algath](../npcs/algath.md) herself
+- [ ] Ushulx searching for Aivryndt, who went to the Deadecho and was blessed by [Algath](../npcs/algath.md) herself
+- [ ] The Holzander catacombs are rife with undead, thanks to a weak spot in the dimensional barrier between here and the Deadecho
+- [ ] The Deadecho, the dominion of [Algath](../context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
+- [ ] Closing the portal requires more than just traditional magic or arcane manipulation. A darkness deep below the Scarlet Citadel is responsible for the open wound leading to the Dry Lands.
+- [ ] Location of Mystra's door in the castle
 - [ ] Ichbon researching the Lady Scurvy
 - [ ] Traders mentioning the desert is getting colder and even more bare
-- [ ] Location of Mystra's door in the castle
 - [ ] Torture of Gaelira (including screaming the name "Angel Hound"), which stoped and she was sent downstairs
-- [ ] Other conversation points from [Conversation guide](../npcs/ushulx.md#Conversation%20guide) if necessary
+- [ ] Other conversation points from below:
+
+![Conversation guide](../npcs/ushulx.md#Conversation%20guide) 
 
 ## Potential scenes
 
@@ -91,6 +100,8 @@ subgraph someLinheCity
    RurkinarRitual
    FFKACensoring
 end
+
+closeOut
 ```
 
 **Catacombs and vision of the Ophaire (as set out in SC45)** ([Pool portal to the Ophaire](chap007.md#Pool%20portal%20to%20the%20Ophaire) and [Ophaire undead encounter](chap007.md#Ophaire%20undead%20encounter))
@@ -106,8 +117,8 @@ end
 
 **Ardismouth to desert thunderstorm** ([Desert thunderstorm encounter](chap007.md#Desert%20thunderstorm%20encounter))
 - Location: Exit from the Ardismouth temple
-- Threat: Pressured by goblins and a thunderstorm with an elemental
-- Conflict: When characters reach the Ardismouth temple, it is now a camp of dust goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them.
+- Threat: Pressured by frost goblins and a thunderstorm with an elemental
+- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them.
 - End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Goblins are dealt with
 
 **Mystra's Temple** ([location link](../locations/templeMystra.md))
@@ -116,8 +127,8 @@ end
 - NPCs in the temple are: priests, cultists and traders (commoners)
 
 **Lady scurvy infected** ([Spawn encounter](chap007.md#Spawn%20encounter))
-- Scene: At night, a collapsed statue near a freshly-dug hollow (desert or tunnels). An adolescent is sitting inside the hollow, apparently sobbing. She is actually a vampire spawn feeding on rats.
-- Dramatic question: overshadowing the spawn disease
+- Scene: At night, a collapsed statue and ruins. An adolescent-shaped hooded humanoid is walking around, sounds of sobbing. She is actually a vampiric mind flayer.
+- Dramatic question: overshadowing a different lady scurvy
 - Sources of conflict: Spawns are hungry
 - End conditions: Spawns are dealt with
 
@@ -134,7 +145,19 @@ end
 - Imra becomes troubled and mad.
 - Something else has to create a problem - tbd at table.
 
-## Secrets & clues
+> **Mad poem about the staff**
+> 
+> *Mmm... the staff, the Thalia's one,
+> It's got the power, oh yes, it's second to none,
+> Lightning and thunder, its magic can stun,
+> She imbued the gods, and their power she spun.
+> 
+> Thalia was an acolyte, young but wise,
+> She brought the old pantheon to rise,
+> Restored their strength with magic ties,
+> And now she serves as an Angel in the skies.*
+
+## Information Pool
 
 **Factions (1 to 3)**
 - [ ] Lady Scurvy linked with a specific type of death lycanthropy that have arrived in the region of Katho about an year ago - source of death lycanthropy in old ages to the south east
@@ -144,11 +167,14 @@ end
 **Context (1 to 3)**
 - [ ] Avrindyt, the Creep, the red dragon who a legend say was blessed into a deep death dragon by Algath herself
 - [ ] Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
+- [ ] The monuments, tombs, and pyramids of past golden ages litter Linhe. These countless tombs are interconnected, forming a vast, semi-hidden underground network through the Ammuinoth and the Ghost Domain.
+- [ ] Linhe is a land of vast deserts and rare, but deadly, storms.
 
 **Advancing arcs (2 to 4)**
 - [ ] Cagoth-ze and Danaska Maksilov's works in the second level
 - [ ] Torture of Galiera and the calling for the Angel Hound
 - [ ] Dark thunderstorms a becoming very frequent and the [Desolate Flats](../context/environments.md#Desolate) are becoming even more bare - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing)
+- [ ] Every few months, on the night of the new moon, hordes of undead appear from the Ghost Domain and invade Linhe.
 
 **Rumours (2)**
 - [ ] Foucheresia is joining Katho in the war, and sending the Thymar host south
@@ -159,8 +185,6 @@ end
 ### Pool portal to the Ophaire
 
 ![Catacombs](../locations/holzanderCastle.md#Catacombs)
-
-![|500](https://lh4.googleusercontent.com/Xo-h6pYZOhYftOsO5Eo6JMw-5sSSdtFPFEaUIAao-M0aJa7mqwh9dCcc2r1Gez2voTBmwivYD_wkgBRT1MMxYWcFTu3PDIvknjUvWnhdhejkPdh6vTujNebhHvUX-VnavNRV-TJYH1oVVBlFj3IltTQ)
 
 ![|500](https://cdn.vox-cdn.com/thumbor/0LUFTZ4yq4u_ZIbvybb7ci4orDo=/0x0:2040x1360/1400x933/filters:focal(1288x183:1614x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65197198/descent_art.0.jpg)
 
@@ -195,8 +219,11 @@ A flooded monumental hall of brass, in terrible decay, with sweeping passageways
 
 ## Potential treasures
 
+- [Mercian Draining Cloak](../context/artifacts.md#Mercian%20Draining%20Cloak)
 - 1500gp
-- Amber (translucent rich gold, 100gp), Jade (translucent white, 100gp), Jade (translucent white, 100gp)
+- Stones
+	- Amber (translucent rich gold, 100gp)
+	- Jade (translucent white, 100gp) x2
 - [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)
 - [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
 - [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
@@ -204,9 +231,11 @@ A flooded monumental hall of brass, in terrible decay, with sweeping passageways
 ## Appendices
 
 ### Ophaire undead encounter
+
 Ossuary connects to the Ophaire. If PCs look into the pool they see this and, on a mountain slope that takes them to the pool, a contiguous line of undead climbing towards the PCs in slow motion. Any PCs that look into the pool must do a sanity check {DC 10} or lose a point of sanity and gain a long term madness. Closing the portal is beyond the characters level, or even anyone on this level on the castle {Arcana DC 20 to realise that} .
 
-Keep adding foes as necessary to make this area a tough one.
+Keep adding foes as necessary to make this area a tough one. A rule of thumb, when combat starts roll a 1d4. That is the number of monsters that (if below), would trigger another incoming foe. When a new foe comes, roll again. And keep doing it.
+
 | 1d12 roll | Outcome            |
 | --------- | ------------------ |
 | 1 - 4     | Skeletons (CR 1/4) |
@@ -220,9 +249,11 @@ Keep adding foes as necessary to make this area a tough one.
 name: Catacombs
 creatures:
  - 1: Wight
- - 1d2: Shadows
- - 1d4: Skeletons
+ - 1d2: Shadow
+ - 1d4: Skeleton
 ```
+
+
 
 ### Desert thunderstorm encounter
 
@@ -247,14 +278,22 @@ creatures:
 ```encounter
 name: Desert Thunderstorm
 creatures:
- - 2d6: Goblin
- - 1d2: Water Elemental
+ - 2: Bugbear
+ - 12: Goblin
+ - 10: Hobgoblin
+ - 2: Air Elemental
 ```
 
-### Spawn encounter
+### Lady scurvy encounter
+
+![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
+
+![|500](https://i.imgur.com/uBDSGix.jpeg)
+
+![|500](https://i.imgur.com/0FUfyoN.png)
 
 ```encounter
 name: Spawn
 creatures:
- - 1: Vampire Spawn
+ - 1: Vampiric Mind Flayer
 ```

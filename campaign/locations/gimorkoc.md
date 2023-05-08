@@ -13,7 +13,7 @@ tags:
 
 ## Info Block
 
-![](https://i.imgur.com/WfGaEgs.png)
+![|500](https://i.imgur.com/WfGaEgs.png)
 
 ## City summary
 
@@ -21,6 +21,8 @@ tags:
 - **Religion**: Mostly Yotunn Ancestors, with some Faletism
 - **Culture**: Nulfirth
 - **Races**: mixed dwarf, gnomes, humans and dust elves.
+
+Groups of fractious survivors claim sections of this small city's ruins, scavenging and skirmishing over territory and resources. The survivors are unified in their commitment to silence, to avoid attracting the notice of zombies - and whoever makes their home in the ominously lit Deovan Temple overlooking the ruins.
 
 ## Organisation
 
@@ -45,9 +47,9 @@ tags:
 
 ## Locations
 
-- The Squirrel and Dragon: A poor dwarven tavern, built around a hewn stone impaled by a sword.
-- FFKA control post: A small stone house, close to stables, where a small FFKA office is located. Three FFKA brothers are here (Gilpin, Harman, Imbert)
-- Rurkinar temple **in the desert**
-- Mercian house
+- **The Squirrel and Dragon**: A poor dwarven tavern, built around a hewn stone impaled by a sword.
+- **FFKA control post**: A small stone house, close to stables, where a small FFKA office is located. Three FFKA brothers are here (Gilpin, Harman, Imbert)
+- **Rurkinar Deovan Temple** in the desert, overlooking the ruined city.
+- **Mercian house**
 
 ![](https://i.imgur.com/5GguJgV.png)
