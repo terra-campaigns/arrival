@@ -1,5 +1,8 @@
 # Danaska Maksilov
 
+![|200](https://i.imgur.com/flD3Toy.png)
+
+
 If characters talk to her (she’s highly suspicious of arcane characters and doesn’t tolerate anyone interfering with her work), she explains warily that she’s working toward perfecting a formula for prima materia. A character with a background in alchemy knows what that is (the primordial matter from which everything originates); a character with training in Arcana can attempt a DC 20 Intelligence (Arcana) check to recognize it. Maksilov won’t explain it—she has no time to waste on random intruders.
 
 If characters leave Maksilov completely alone, she does the same for them.
@@ -23,4 +26,4 @@ creature: Quasit
 
 Have potions of 
 - [heroism](http://dnd5e.wikidot.com/wondrous-items:potion-of-heroism)
-- [hill giant strength] (https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength)
+- [hill giant strength](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 

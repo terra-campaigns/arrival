@@ -9,14 +9,15 @@ season: summer
 location: [Holzander Castle]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 5
+members: 5
 party_tier: 2
 party_rank: 1
-xp: 2075
+xp: 1480
 dc_min: 13
 cr_gauges: '[7, 8, 10, 14]'
 consMgcItm: 3xA
-permMgcItem: F
-hoardTreasure: 0.3
+permMgcItem: --
+hoardTreasure: 0.2
 tags: 
 
 ---
@@ -29,10 +30,11 @@ tags:
 - [x] Summarise previous chapter
 - [x] Review [Abridged](../context/abridged.md)
 - [x] Review and organise [Notions](../../notions.md)
+- [x] Think about characters, write motivations & links
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
-- [x] Think about characters, write motivations & links
+- [x] Decide what NPCs are doing, and their respective checks
 - [x] Detail strong start
 - [x] Think and write potential scenes
 - [x] Choose secrets & clues
@@ -41,11 +43,15 @@ tags:
 - [x] Link potential foes
 - [x] Define treasure
 - [x] Check secrets from 30/oct
-- [ ] Prepare Owlbear, if applicable
-- [ ] Add Danaska and Imortra to NPCs
+- [x] Prepare Owlbear, if applicable
+- [x] Add Danaska
+- [x] Add Imortra to NPCs
 - [x] Move big texts to appendix in the file
 
 ## Characters' motivations & links
+
+![pcsQuery](../pcsQuery.md)
+
 - **Dolman**: get information on [Gaelira](../npcs/gaelira.md)'s torment
 - **Miraak**: meet [Gulthas Morseth](chap007.md#^Gulthas) and learn more about being an undead
 - **Guilf**: feel the censoring of [FFKA](../factions/ffkaEast.md) again
@@ -165,10 +171,12 @@ closeOut
 - [ ] A fire demon knight is the messenger between Gellert and the high septon of Mondendovil, the Forefather
 
 **Context (1 to 3)**
+- [ ] **Major secret (i.e. gold dragons, undead horde, etc.) exists in an ancient elven library in the Holzander**
 - [ ] Avrindyt, the Creep, the red dragon who a legend say was blessed into a deep death dragon by Algath herself
 - [ ] Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
 - [ ] The monuments, tombs, and pyramids of past golden ages litter Linhe. These countless tombs are interconnected, forming a vast, semi-hidden underground network through the Ammuinoth and the Ghost Domain.
 - [ ] Linhe is a land of vast deserts and rare, but deadly, storms.
+
 
 **Advancing arcs (2 to 4)**
 - [ ] Cagoth-ze and Danaska Maksilov's works in the second level
@@ -219,11 +227,11 @@ A flooded monumental hall of brass, in terrible decay, with sweeping passageways
 
 ## Potential treasures
 
-- [Mercian Draining Cloak](../context/artifacts.md#Mercian%20Draining%20Cloak)
-- 1500gp
+- [Mercian Draining Cloak](../context/artefacts.md#Mercian%20Draining%20Cloak)
+- 1000gp
 - Stones
 	- Amber (translucent rich gold, 100gp)
-	- Jade (translucent white, 100gp) x2
+	- Jade (translucent white, 100gp)
 - [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)
 - [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
 - [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
@@ -252,8 +260,6 @@ creatures:
  - 1d2: Shadow
  - 1d4: Skeleton
 ```
-
-
 
 ### Desert thunderstorm encounter
 
@@ -300,17 +306,16 @@ creatures:
 
 ### Holzander Level 2
 
-#### 202
+#### 202 (CR 4.5)
 
-- [Maksilov](../npcs/maksilov.md) and Bastron (CR 4)
 - Jelly hybrid (CR 3)
-![|400](https://i.imgur.com/GcEA6jh.png)
-![|400](https://i.imgur.com/CKyP2Qw.png)
+
+![](https://i.imgur.com/XL49tHG.png)
 
 ![|500](https://i.imgur.com/OirmZpf.png)
 
 ```encounter
-name: Holzander 202 (CR 1.5)
+name: Mephits
 creatures:
  - 1: Ice Mephit
  - 1: Dust Mephit
@@ -324,21 +329,92 @@ creatures:
 - Claws. A hit deals 2 (1d4) acid damage in addition to other listed damage.
 - Breath Weapon. The attack deals 5 (2d4) acid damage in addition to other listed damage and effects.
 
-#### 203
+#### 203 (CR 1 + 2)
 
-![|600](https://i.imgur.com/O9bF8XY.png)
+![](https://i.imgur.com/U6lDRyc.png)
+
 
 ```encounter
-name: Holzander 203 (CR 2)
+name: 203 secret (CR 2)
 creatures:
  - 1: Gelatinous Cube
 ```
 
-#### 204
+#### 204 (CR 4)
 
 ```encounter
-name: Holzander 204 (CR 4)
+name: Frost Goblins (CR 4)
 creatures:
  - 1: Goblin Boss
  - 6: Hobgoblin
 ```
+
+#### 206 (CR 7.5)
+
+- [Maksilov](../npcs/maksilov.md) and Bastron (CR 4)
+
+Potion of heroism and hill giant strength. Bastron keeps the small potion vial on a string around its neck. When it looks like a fight is about to break out he drinks **before**.
+
+```encounter
+name: Mephits (CR 1.5)
+creatures:
+ - 1: Ice Mephit
+ - 1: Dust Mephit
+ - 1: Magma Mephit
+ - 1: Steam Mephit
+```
+- Damage Immunities. Add acid.
+- Death Burst. A creature that fails its saving throw also takes 3 (1d6) acid damage in addition to the standard effects.
+- Innate Spellcasting. The mephit can choose between its listed spell or acid splash (7 [2d6] damage).
+- Claws. A hit deals 2 (1d4) acid damage in addition to other listed damage.
+- Breath Weapon. The attack deals 5 (2d4) acid damage in addition to other listed damage and effects.
+
+- **On round 2 or 3: Ochre Jelly (CR 2)falls from ceiling and receives [potion of growth](https://roll20.net/compendium/dnd5e/Enlarge%20Reduce?expansion=0#content)**
+
+#### 207 (CR 4)
+
+The green ink is actually an ink guardian ooze (Creature Codex). Its instructions don’t include stopping people from leafing casually through the notebook. It attacks if anyone damages anything in the room, alters the notebook in any way, or pockets something from the desk.
+
+![](https://i.imgur.com/imx9xUM.png)
+
+#### 208 (CR 2)
+
+**Mention an invisible field in the air that somehow seizes onto and discorporates whatever it touches, like some sort of slow-acting stasis or disintegration field.** Active successful DC 15 Wisdom (Perception) check to spot it. Even then, it looks like an out-of-focus disturbance in the air, not a solid object.
+
+![](https://i.imgur.com/55qmtZe.png)
+
+When the dire gelatinous cube first starts its turn with 28 or fewer hit points, it reflexively strikes the cracked holding tank as a bonus action. This ruptures the tank and floods the room with ooze plasma. Every space from the top of the stairs to the door into Area 202 quickly becomes ankle-deep in ooze plasma, making it difficult terrain and dealing (2) 1d4 acid damage to every creature standing in the stuff at the start of their turn. The dire gelatinous cube heals 18 (4d4 + 8) hit points thanks to the infusion of plasma. In addition, every creature in that area when the tank is ruptured must make a successful DC 13 Dexterity saving throw or fall prone as the corrosive plasma envelops their feet. The cube tries to engulf as many prone characters as possible, and prone characters attempt to save against the attack with disadvantage.
+
+Finally, just because the cube is eventually killed doesn’t mean it stops being a threat. It can still block the passage (invisibly), and it’s still powerfully acidic to anyone and anything attempting to climb over it or squeeze through it.
+
+#### 209
+
+If creature touches the time tributary allow a Constitution saving through DC 15. Regardless of the result, effect of 5 of lower happens and character falls **inconscient** (they have time to undevelop their character back to level 1). The other result would be age until death. Make sure to make second character touching it in line with the first result.
+
+#### 211
+
+Baska (Lasbascilag) - Ice Barbed Devil
+
+![|500](https://i.imgur.com/rV7eNk6.png)
+
+```encounter
+name: Summoning circle (CR 5)
+creatures:
+ - 1: Barbed Devil
+```
+#### 213
+
+![](https://i.imgur.com/imx9xUM.png)
+
+#### Scriptorium
+
+![|400](https://i.imgur.com/7CU16zR.png)
+
+
+![](https://i.imgur.com/clvmAx4.png)
+
+![](https://i.imgur.com/BNt8jay.png)
+
+#### 217
+
+- [cagothze](../npcs/cagothze.md)
