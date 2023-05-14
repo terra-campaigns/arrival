@@ -105,9 +105,6 @@ Description of your strong start.
 ## Important NPCs  
 - **NPC Names** (6): Description (put yourself in their minds), each with a file created
 
-## Potential foes 
-- Name and link
-
 ## Potential treasures  
 - Consumables can be generated from the [shop](https://5emagic.shop/inventory)
 - Give permanent magic items a unique name and history ([guidance](https://slyflourish.com/lazy_magic_items.html))

@@ -38,32 +38,34 @@ My suggestion is we use the DMG rules as I explained (not exactly what is in the
 
 The rule is the simplified DMG rule for sanity (WIS + INT + 11) / 3 rounded up as the Sanity ability. We would use checks as described in the DMG, with the DC on the table I published here. For fails you lose a point. You regain with magic or treatment.
 
-|                                    **Event**                                   | **Sanity DC** |
+|                                   **Event**                                    | **Sanity DC** |
 |:------------------------------------------------------------------------------:|:-------------:|
-|                         Studying the works of a lunatic                        |       8       |
+|                        Studying the works of a lunatic                         |       8       |
 |                     Recalling horrific events or knowledge                     |       8       |
-|                                 Being tortured                                 |       10      |
-|                Encountering a gargantuan-sized beast or monster                |       10      |
-|                 Engaging with a hostile fey or elemental being                 |       10      |
-|               Suffering severe shock, physiologically or mentally              |       11      |
-|                      Torturing another creature or person                      |       11      |
-|                   Being banished or teleported to a new realm                  |       11      |
-|                          Becoming maimed or disfigured                         |       12      |
-|                     Reading text from an eldritch language                     |       12      |
-|            Shell-shock from battle or explosions, including magical            |       12      |
-|           Experiencing the death or maiment of someone you care about          |       12      |
-|                      Realizing you have a modified memory                      |       12      |
-|             Being haunted by a monster such as a night hag or ghost            |       12      |
-|                       Encountering a mind-bending monster                      |       13      |
-|                  Casting a harmful spell on an innocent target                 |       13      |
-|                        Hearing an eldritch entity speak                        |       14      |
-|                            Finding a gruesome scene                            |       14      |
-|                Discovering forbidden or ancient arcane knowledge               |       14      |
-| Encountering and forcing oneself to face a personal phobia                     |       14      |
-|                 Learning spells or secrets of a forbidden tome                 |       15      |
-|     Witnessing the death of a party member in a gruesome or horrific manner    |       15      |
-| Experiencing a minor supernatural situation (involving deities or aberrations) |       16      |
-| Experiencing a major supernatural situation                                    |       19      |
+|                                 Being tortured                                 |      10       |
+|                Encountering a gargantuan-sized beast or monster                |      10       |
+|                 Engaging with a hostile fey or elemental being                 |      10       |
+|              Suffering severe shock, physiologically or mentally               |      11       |
+|                      Torturing another creature or person                      |      11       |
+|                  Being banished or teleported to a new realm                   |      11       |
+|                         Becoming maimed or disfigured                          |      12       |
+|                     Reading text from an eldritch language                     |      12       |
+|            Shell-shock from battle or explosions, including magical            |      12       |
+|          Experiencing the death or maiment of someone you care about           |      12       |
+|                      Realizing you have a modified memory                      |      12       |
+|            Being haunted by a monster such as a night hag or ghost             |      12       |
+|                      Encountering a mind-bending monster                       |      13       |
+|                 Casting a harmful spell on an innocent target                  |      13       |
+|                        Hearing an eldritch entity speak                        |      14       |
+|                            Finding a gruesome scene                            |      14       |
+|               Discovering forbidden or ancient arcane knowledge                |      14       |
+|           Encountering and forcing oneself to face a personal phobia           |      14       |
+|                 Learning spells or secrets of a forbidden tome                 |      15       |
+|    Witnessing the death of a party member in a gruesome or horrific manner     |      15       |
+| Experiencing a minor supernatural situation (involving deities or aberrations) |      16       |
+|                  Experiencing a major supernatural situation                   |      19       |
+
+Integrate with Fear and Stress vRgtR 195
 
 ## Downtime activities
 
@@ -85,11 +87,14 @@ I've separated application of skills in 4 types: physical, perceptive, social an
 
 - **Physical**: only used when actively doing something. Players have to describe intention and approach. Passive checks (reflexes) are done using saving throws. E.g.: Acrobatics, Athletics, Sleigh of hand, Stealth, Tool proficiencies.
 - **Perceptive**: are always **on** passively, against which DCs are checked. Players can actively choose to use them as well - which will call for a dice roll (unless DC is impossible). Intention and approach must be described by the player for using the skill actively. E.g.: Animal handling, Insight, Investigation, Medicine, Nature, Perception, Survival
-- **Social**: are always **on** passively, against which DCs are checked. If a passive check is not enough to succeed, the GM might call for a roll (unless DC is impossible). Intention and approach will be assumed by the GM (i.e. it is expected sometimes the GM will assume them wrongly). This assumption by the GM is a trade-off tool we will use to avoid going off-character often. E.g.: Deception, Intimidation, Performance, Persuasion
+- **Social**: are always **on** passively, against which DCs are checked. If a passive check is not enough to succeed, the GM might call for a roll (unless DC is impossible). Intention and approach will be assumed by the GM when using passively (i.e. it is expected sometimes the GM will assume them wrongly). This assumption by the GM is a trade-off tool we will use to avoid going off-character often ([more detail on social skills](https://tabletopjoab.com/how-and-when-to-use-dd-social-skills/)). E.g.: Deception, Intimidation, Performance, Persuasion.
 - **Knowledge**: in general are always **on** passively (i.e. all the time the GM describes something a PC recognises). The players can also ask questions with regards the knowledge of their character any time - which will trigger a dice roll (unless it is clearly a success or impossible). Knowledge skills can also be used in long active actions, which requires description of intention and approach (i.e. research, rationalising about something the PC has experienced, documenting findings, etc). E.g., but not only, Arcana, History, Religion, sometimes Medicine, Animal Handling, Tools (even acrobatics could be checked this way, from a knowledge perspective).
 
 N.B. 1: For rules on scores for passive checks refer to PHB175.
 N.B. 2: During combat, using any skill is an action (also somewhere in the PHB).
+
+References:
+https://theangrygm.com/ask-angry-passive-skills-active-skills-perception-and-knowledge/
 
 ### Long skills
 
@@ -119,3 +124,18 @@ N.B. 2: During combat, using any skill is an action (also somewhere in the PHB).
 ## Travel rules
 
 https://docs.google.com/document/d/1cZzxZZwYov4Z_T8UHeJHB8tGnhpnQRnauK7LTtzUe5k/edit
+
+## Environment conditions
+
+### Thunderstorm
+
+- Visibility: The combined effects of precipitation and wind reduce visibility by three quarters, imposing a -8 penalty on Spot, Search, and Listen checks.
+- Ranged attacks: Thunderstorms make ranged weapon attacks impossible, except for those using siege weapons, which suffer a -4 penalty on attack rolls.
+- Light: Thunderstorms automatically extinguish candles, torches, and similar unprotected flames. They cause protected flames, such as those of lanterns, to dance wildly and have a 50% chance to extinguish these lights.
+- Wind:
+	- Creatures must succeed on a DC 15 Fort save or be blown away (Tiny or smaller creatures; knocked prone and rolled 1d4 x 10 feet, taking 1d4 points of non-lethal damage per 10 feet), knocked down (Small; prone), or checked (Medium; unable to move forward against the force of the wind).
+	- Airborne creatures are instead blown back 2d6 x 10 feet and dealt 2d6 points of non-lethal damage due to battering and buffeting (Small or smaller creatures), blown back 1d6 x 10 feet (Medium), or blown back 1d6 x 5 feet (Large).
+- In addition, thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armour). As a rule of thumb, assume one bolt per minute for a 1-hour period at the centre of the storm. Each bolt causes electricity damage equal to 1d10, DC 15 DEX ST reduces to half. 
+- An unprotected character in cold weather must make a **Fortitude save each hour (DC 15, + 1 per previous check) or take 1d6 points of non-lethal damage**. A character who has the Survival skill may receive a bonus on her saving throw and may be able to apply this bonus to other characters as well.
+- A character who takes any non-lethal damage from cold or exposure is beset by frostbite or hypothermia (treat her as fatigued). These penalties end when the character recovers the non-lethal damage she took from the cold and exposure.
+- Non-lethal damage from cold or exposure cannot be recovered until the character gets out of the cold and warms up again. Once a character is rendered unconscious through the accumulation of non-lethal damage, the cold and exposure begins to deal lethal damage at the same rate.

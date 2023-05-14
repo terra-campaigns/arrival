@@ -66,6 +66,11 @@ Haunting the dreams, of those he swore.
 
 The Church of Falet appoints the king of Olivepia.
 
-### Mondendovil
+## Mondendovil
 
 Through ages of empire and conflict, the Illithid elder brains indulged experiments without comparison or reference for lesser beings, explorations beyond the boundaries of time, reality, life and death. Many failed. To summarise an eon of atrocities, one elder brain's reality-bending research had an unexpected result, revealing to it a malignant truth for which existence was unprepared. Guided by this burgeoning revelation, the elder brain turned and preyed upon its peers, consuming their discoveries and their physical forms to fuel an impossible apotheosis, and was then expelled to the Void, ultimately becoming Mondendovil.
+
+## Curcharn
+
+-   [Curcharn](app://obsidian.md/context/religions.md#Curcharn) is the God of Death, Master of the Rivers Styx and Lethe, Guardian of Souls, Watcher at the Door, Patron of Sailors and Gravediggers
+-   Curcharn oversees the passage of souls: at birth, at death, and in the afterlife, maintaining the proper steps along the natural roads. He protects planar travelers, especially mortals, from demons and celestials alike. The god uses the undead as tools and servants, though he sees them as the damaged shells of his charges, holding only a few scattered memories.

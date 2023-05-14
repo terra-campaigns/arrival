@@ -96,6 +96,8 @@ At times, Algath and Curcharn worked together, their paths crossing as they guid
 
 Their relationship was a delicate balance of power and mistrust, with each deity constantly watching the other, waiting for the opportune moment to strike. But despite their differences, they both recognized eachother's role in matters of life and death.
 
+![Curcharn](secrets/secretsReligions.md#Curcharn)
+
 ### Lorquiroth
 ***Commander of Turnskull***
 
