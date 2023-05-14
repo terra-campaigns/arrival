@@ -39,4 +39,8 @@ To the west of the Naragzah mountains lies the Thymar people, which are mostly D
 
 ### Mercian
 
-A mostly human culture, that originates in the [Mercian](religions.md#Mondendovil) religion. Most of the culture is now converted to other religions such as [Faletism](religions.md#Faletism) and [Yotunn Ancestors](religions.md#Yotunn) - so the mercian culture is non a non-religious one.
+The Mercians are a non-religious, mostly human population with a rich oral tradition of storytelling and a love of music and dance. The Mercians date back to a religion group, but the religious aspects are mostly foregone now. Most of the population is now converted to other religions such as [Faletism](religions.md#Faletism) and [Yotunn Ancestors](religions.md#Yotunn).
+
+Their oral tradition, which often tells tales of heroes, mythical creatures, and gods, is an essential part of their culture, and they often use music and dance to celebrate important events. They also use runes for divination and magic, consult with rune masters for guidance, and have a distinctive fashion style that symbolises their status and identity, wearing dark clothing, often adorned with jewellery and tattoos. The Mercians value personal freedom, have a deep connection to the land, and rely on each other for support and protection.
+
+![Mercian](secretsCultures.md#Mercian)
