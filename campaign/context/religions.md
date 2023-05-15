@@ -85,6 +85,8 @@ The Trow Ancestors is a religion group with strong presence in the south of Etor
 ### Algath
 ***Goddess of Life and Death***
 
+![|500](https://i.imgur.com/W26ZSVp.png)
+
 In the darkness of the ancient temple, a group of hooded figures chanted in unison, their voices rising and falling in an eerie rhythm. They stood before a stone altar, upon which lay the remains of countless creatures: bones, feathers, fur, and scales. As the chanting grew louder, a sickly green light flickered to life, illuminating the twisted shapes of the figures. Suddenly, the air grew thick with the stench of death and decay, and the bones began to shift and writhe, as if possessed by a malevolent force. With a final, blood-curdling scream, the figures threw their arms wide, and from the maelstrom of bones emerged a figure, beautiful and terrible. This was Algath, Goddess of Life and Death, born of the sacrifice of countless creatures and the dark magic of her worshippers.
 
 ### Curcharn
