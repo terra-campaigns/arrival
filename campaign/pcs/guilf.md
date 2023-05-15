@@ -5,18 +5,23 @@ name: Guilf Ofandrus
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Bard 5
+level: Warlock 2
 ac: 15
-initiative: 14
-speed: 30
+initiative: 13
+speed: 25
 skills:
-  perception: 14
-  investigation: 15
-  insight: 14
-  persuasion: 20
-  stealth: 14
-magic_items: [Longsword +1, Hood of Void Telepathy]
+  perception: 10
+  investigation: 11
+  insight: 10
+  persuasion: 24
+  stealth: 13
+artefacts: [Maska]
 tags:
 ---
 
 # Guilf Ofandrus
+
+- [ ] FFKA Commander Sergarus ordered a mission in his city, taking everyone who did not follow the FFK ways
+- [ ] FFKA took Guilf's parents.
+- [ ] For a year, Guilf lived as a beggar, struggling to survive and swearing to avenge his parents by killing the general.
+- [ ] The Void saved him from the eternal time magic, binding him to a contract that he now serves.

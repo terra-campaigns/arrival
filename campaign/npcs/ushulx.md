@@ -15,17 +15,17 @@ After meeting the characters Ushulx now likes them, as she thinks they are necro
 ## Conversation guide
 
 **Generic**
-- [ ] She notices that Miraak is an undead and praise for such a great work - she thinks the PCs are into necromancy and will be very curious with it.
-- [ ] Ushulx is a blood cultist who venerates [Curcharn](../context/religions.md#Curcharn) in the domain of death.
+- [x] She notices that Miraak is an undead and praise for such a great work - she thinks the PCs are into necromancy and will be very curious with it.
+- [x] Ushulx is a blood cultist who venerates [Curcharn](../context/religions.md#Curcharn) in the domain of death.
 
 **Castle lore**
-- [ ] Tells characters how to reach the staircase down (Area 112)
+- [x] Tells characters how to reach the staircase down (Area 112)
 - [ ] The surface access is through the shrine's ruined tunnel on the NW, through a magic door
 - [x] She can show the vertical map of the first 3 levels of the castle
-- [ ] Ally of Cagoth-ze, who she thinks is a goblin, and is very smart and developing time magic
-- [ ] Not very friendly with Danaska Maksilov (the Ooze thing is disgusting)
-- [ ] She is afraid of Gellerth
-- [ ] Warns them the crypts are extremely dangerous, but she would go with them if they are inclined - she's always wanted to explore them but it was too dangerous to do so alone
+- [x] Ally of Cagoth-ze, who she thinks is a goblin, and is very smart and developing time magic
+- [x] Not very friendly with Danaska Maksilov (the Ooze thing is disgusting)
+- [x] She is afraid of Gellerth
+- [x] Warns them the crypts are extremely dangerous, but she would go with them if they are inclined - she's always wanted to explore them but it was too dangerous to do so alone
 - [ ] Many believe the halls of the Holzander Castle is dead or stagnant or stationary. They couldn’t be more wrong. Things are happening on every level of the vast ruin. It is a living world down beneath.
 - [ ] [Curcharn](../context/religions.md#Curcharn) is the God of Death, Master of the Rivers Styx and Lethe, Guardian of Souls, Watcher at the Door, Patron of Sailors and Gravediggers
 - [ ] Curcharn oversees the passage of souls: at birth, at death, and in the afterlife, maintaining the proper steps along the natural roads. He protects planar travelers, especially mortals, from demons and celestials alike. The god uses the undead as tools and servants, though he sees them as the damaged shells of his charges, holding only a few scattered memories.
@@ -36,7 +36,7 @@ After meeting the characters Ushulx now likes them, as she thinks they are necro
 - [ ] Cagoth-ze is a powerful wizard but completely obsessed with acquiring knowledge of the elves who used to be here. The elves managed to hide their lore not in a place, but in a time, and that steered Cagoth-ze into the twisted practice of Time Magic. It’s amazing he hasn’t torn himself into pieces spread over thousands of years practicing this type of heretical magic.
 
 **World lore**
-- [ ]  She is searching for Aivridyt, the creep, the red dragon who a legend say was blessed into a deep death dragon by Algath herself
+- [x]  She is searching for Aivridyt, the creep, the red dragon who a legend say was blessed into a deep death dragon by Algath herself
 - [ ]  A fire demon knight is the messenger between Gellert and the high septon of Mondendovil, the Forefather
 - [ ]  The FFKA have interrogated her once in a visit to Red Tower - they are desperate to know the entrance to the Ammuinoth
 - [ ]  If asked about the FFKA and their understanding of the castle: She believes the FFKA do not know the access, but keep trying to find - and they are close.

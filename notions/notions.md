@@ -1,36 +1,30 @@
 # Ideas, plans and misc content
 
 ## Inbox
-- how time tributary works sideways? Think for amyria, miraak, Dolman. Getting old is easy to implement.
-	- guilf: back to level 1 (can change the bard school to the spirits at level 3)
-	- Anyria
-	- Dolman
-	- wyvern
-	- Kethra: back to level 1 (can choose a fighter)
-- check random tables on DMG for chapters and campaign
+
+- Where is Galiera
+- trow culture is of goblinoids (not all bad - but closer to Turnskull other stuff, such as ancient vampires and lycantropes?)
+- start the vampire plot before they know it is Gaelira the vampire
+- define the utmost enemy of arrival - and think of an overshadowing that enables PCs to hurt it over time (think of Melkor that was hurt by many characters before he was destroyed )
 - ask players to work on "prepare to be scared" (Ravenloft pp13)
-- adapt Gellert and Avryindt to be a dark lord - Gellert is a mind flayer? If not, who is a mind flayer?
-- integrate Miraak's story
-- integrate pc sheets into JSON
-- integrate Nurderad and Miraak's story arc into world context
-- use combat tracker on obsidian
-- copy monster data base from sky flourish 
+- adapt Imotra, Gellert and Avryindt to be a dark lord -(VHgtR 39) Gellert is a mind flayer? If not, who is a mind flayer? Imotra might want to have one of the characters as her apprentice (VRgtR 44)
+- one of the magic weapons the PCs own has a story connected to part 2
+- where is the city of arches?
+- what is magic in Guemenos? Science, precious development by ancient civilisation, godbound? define technology scales per province
+- acrisae fort location breaks connection between Hincland and Turnskull
+- battle with wizard hunting as the goal of the PCs
+- campaign theme: alliances with evil 
 - If things get ugly with Aivridyt, use the werebear to save PCs
 - ask players to suggest legends and heroic tales that their characters like to build lore in the world - and maybe drive adventures
-- great magic items would have people wanting them
-- read DMG for creating NPCs and integrate it to the template.
-- add some detail about Westeros and Anthea (south)
-- expand on PCs loved ones?
 - layers upon layers of abandoned ancient infrastructure (subways from Contact)
-- add Mercian foreshadowing by playing it with factions
 - come up with the ancient and middle old empires and cultures, define their ruins and signs - and also how climate was different
-- define technology scales per province
 
 ## Films, books
 
 - [ ] Elizabeth 1998 for an evil priest 
 - [ ] Dracula (book)
-- [ ] Castlevania & Vinland Saga
+- [ ] Castlevania
+- [ ] Vinland Saga
 - [ ] The Stand Stephen king 
 - [ ] 1984
 - [ ] Check [RPG products](chrome://bookmarks/?id=747)
@@ -41,9 +35,6 @@
 - Shield of beauty is the vampire spreading the Lady Scurvy
 	- Galiera and the paragon force were captured by the gaoler, everyone was tortured and killed, but Galiera was spared and sent to Gellert as a present: Galiera was killed, but brought back by the evil gods as a vampire - with the spawn curse with her
 	- Lady Scurvy was created by the Shield of Beauty Vampire that took residence in a castle close to Throtha, and it is spreading. It is a vampirism disease that strongly affects all non-human races.
-- Sulpraxae are run by Seraphic Engines
-- Cold desert was created by a wall of fire magic gone awry in the old days' wars. This wall of fire burnt for for hundreds of years in the entire planet. Became no-man's land for the rest of the war. It used to be a forested land in the time of Iopothae.
-- Duergar and Drows were enslaved when they went too deep
 * Linhe is important as it is the last unconquered province of the north desert. Both FFKA and the Mercian take this conquest seriously, but neither wants to escalate it to military or clearly hostile action.
 * Something about Gellert and Imotra and the Mercians
 * Ghost cavalry (Nazgul) protects access to the NE port to the other dimension for evil
@@ -52,11 +43,12 @@
 * the works in the Holzander castle is making the desert even more bare
 * immortal men from the past come from the west, dwarves and elves from the east
 * A black dragon was seen wandering the Ghost Domain close to the Ammuinoth tunnel fractures
-* This confluence and pooling of energy is all but unique in the Castle of Holzanger, and it’s the most closely guarded secret about the site. The only way for low-level characters to uncover a bit of arcane history this esoteric would be to spend at least a month in research at one of the great libraries of the continent — or a few hours in the Arcane Scriptorium beneath the citadel.
 * Olivepia is where the head of the Faletist church sits. It is a religious empire with a strong hand on neighbour empires (other empires are vassals)
-- age of dragons in the past?
 - Monsters that pose a threat in the present may have been created as weapons of war by a fallen culture. 
-- [ ] The Gaoler talking with someone about a magic door to the castle and the Dannamore Hold ruins, and that he had the key
+- [ ] Memoria is a forgotten ruin, mostly vanished into the lowland bogs north of Redtower.
+- [ ] Some power in the White Forest drew the necromancers of Memoria as it has drawn others to the region.
+- [ ] Some power in the White Forest drew the necromancers of Memoria as it has drawn others to the region.
+- [ ] To achieve this vision, the Memorians devised a relic called the Light of Memoria to create a bridge to the afterlife and light the way for their ancestors’ spirits to cross into the mortal world.
 
 ### Rumours
 - Random rumours [curatedRumours](campaign/resources/curatedRumours.md)
@@ -71,6 +63,9 @@
 - Werebear mentions he has seen a shadow dragon
 - Demon on level 2 can explain the brezal paths: can be freed into a magic item 
 - Segarus FFKA East Chapter captain is nosy on the character if they get to red tower: Intent is to claim the destruction of Gellert if PCs do it. For that he might appoint a knight to go with PCs (as spy).
+
+#### Unused scenes
+
 
 
 ### Snoozed hooks
@@ -90,11 +85,18 @@
 - PCs hunt (Tom&Jerry) their own dark characters
 - Thymar and Kiranu can be called to save Glasrath
 - offer dark gift when the angel hound is saved
+- court in exile
+- heist?
+- Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
+- chase scene
+- scene with a sand giant (stone giant)
+- something in holzander gives a curse (VgtR192)
 
 ### Long arcs
 
 - Acrisae are orcs? Other alternative species... And they were destroyed by evil humans?
 - Seraphic engines: only Acrisae and Turnskull have them, but they haven't built them
+- Which god is a leviathan?
 
 ### Themes (??)
 
@@ -142,6 +144,8 @@
 
 ### NPCs
 - Three black halflings
+
+
 
 
 
