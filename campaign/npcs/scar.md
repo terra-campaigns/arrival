@@ -1,3 +1,15 @@
+---
+type: npc
+species: ogre
+name: Scar
+world: Guemenos
+campaign: Arrival
+location: Holzander
+faction: 
+deceased: false
+tags: relevant
+---
+
 ![](https://i.imgur.com/dkQzKdW.png)
 
 

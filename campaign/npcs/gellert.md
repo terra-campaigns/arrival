@@ -1,0 +1,13 @@
+---
+type: npc
+species: 
+name: Gellert
+world: Guemenos
+campaign: Arrival
+location: Glasrath
+faction: Glasrath
+deceased: false
+tags: 
+---
+
+The leader of a subterranean people who plots ... Ravenloft 50

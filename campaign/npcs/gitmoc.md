@@ -4,10 +4,10 @@ species: dwarf
 name: Gitmoc
 world: Guemenos
 campaign: Arrival
-location: 
-faction: 
-deceased: 
-tags:
+location: Glasrath
+faction: Glasrath
+deceased: false
+tags: relevant
 ---
 
 # Gitmoc Fieryshoulder

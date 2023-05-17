@@ -4,10 +4,10 @@ species: dragon
 name: Aivridyt
 world: Guemenos
 campaign: Arrival
-location: glasrath
-faction: glasrath
+location: Glasrath
+faction: Glasrath
 deceased: false
-tags:
+tags: relevant
 ---
 
 # Aivridyt, the Creep

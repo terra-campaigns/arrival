@@ -15,7 +15,7 @@ skills:
   insight: 10
   persuasion: 24
   stealth: 13
-artefacts: [Maska]
+artefacts: [Dreadmaska]
 tags:
 ---
 

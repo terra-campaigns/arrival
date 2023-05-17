@@ -1,12 +1,17 @@
 ---
-type: location/settlement
+type: settlement
 name: Nulukkzund (Red Tower)
 world: Guemenos
 continent: Etor
 state: Khathan Empire
 province: Linhe County
 campaign: Arrival
-tags: 
+population: 846
+culture: [Mercian]
+religion: [Faletism, Yotunn]
+factions: [FFKA East, Mercian, Rurkinar Cultists]
+tags: relevant
+
 ---
 
 # Nulukkzund (Red Tower)

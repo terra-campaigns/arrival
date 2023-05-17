@@ -6,11 +6,11 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Cleric 4
-xp:
+xp: 
 ac: 18
 initiative: (A)
-speed:
-darkvision:
+speed: 30
+darkvision: TRUE
 skills:
   perception: 15 (A)
   investigation: 14

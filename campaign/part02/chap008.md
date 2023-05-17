@@ -30,58 +30,223 @@ tags:
 - [x] Update template
 - [x] Move unused stuff from previous chapter (next chapter or notions)
 - [x] Review [Abridged](../context/abridged.md)
-- [ ] Review and organise [Notions](../../notions.md)
-- [ ] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
-- [ ] Think about characters, write motivations & links
-- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
-- [ ] Decide what remaining relevant NPCs are doing, and their respective checks
-- [ ] Detail strong start
+- [x] Review and organise [Notions](../../notions.md)
+- [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
+- [x] Think about characters, write motivations & links
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([chaptersQuery](_aux/chaptersQuery.md))
+- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
+- [x] Decide what remaining relevant NPCs are doing, and their respective checks
+- [x] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed
 - [ ] Define secrets & clues, reviewing scenes
-- [ ] Outline fantastic locations, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Outline potential foes, if not all in an appendix
-- [ ] Define treasure
-- [ ] Prepare Owlbear, if applicable
+- [x] Outline fantastic locations, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Outline potential foes, if not all in an appendix
+- [x] Define treasure
+- [x] Prepare Owlbear, if applicable
 - [ ] Move big texts to appendix in the file
 
 
 ## Characters
 
 ```dataview
-table without ID link(file.link, name) AS "Name", species AS "Species", level AS "Level", ac AS "AC", initiative AS "INI", speed, skills.perception AS "PCPT", skills.investigation AS "IVST", skills.insight AS "IGHT", skills.persuasion AS "PSON", skills.stealth AS "SLTH", artefacts AS "Artefacts"
+table without ID link(file.link, name) AS "Name", species AS "Species", level AS "Level", ac AS "AC", initiative AS "INI", speed, darkvision AS "DKVS", skills.perception AS "PCPT", skills.investigation AS "IVST", skills.insight AS "IGHT", skills.persuasion AS "PSON", skills.stealth AS "SLTH", artefacts AS "Artefacts"
 from "campaign"
 WHERE type = "pc"
 sort file.name asc
 ```
 
 ### Motivations
-- **Dolman**: 
-- **Miraak**: 
-- **Guilf**: 
-- **Amyria**: 
-- **Kethra**: 
-
+- **Dolman**: Find Galiera, learn about her stone
+- **Miraak**: Prove and learn about himself himself
+- **Guilf**: Find and kill Sergarus
+- **Amyria**: Libraries, libraries, books, books
+- **Kethra**: Find the purple dragon
 
 ## Intro
 - Things to discuss before game starts
 
 ## Strong start 
-Description of your strong start.  
+- 8-day trip to get to Mystra's temple, where characters will rest and recover.
+- Encounter: one encounter each 1d6 days [use link level 2, underdark, all sources, all types](https://www.chaosgen.com/dnd5e/encounter)
+
+### Mystra's Temple
+- Location: [Mystra's Temple](../locations/templeMystra.md)
+- Draw: Find the password for Mystra's door
+- NPCs in the temple are: priests, cultists and traders (commoners)
+- Consider having a [Thunderstorm](../rules/houseRules.md#Thunderstorm) 2d4 hours after leaving the temple
 
 ## Potential scenes 
-**Scene name** (outline 6 possible scenes)
-- Small scene description, including location and interactive environment (remember: combat is not an encounter, and NPCs don't start combat, PCs do)
-- Awareness triggers: what are the earliest moments PCs can become aware of the encounter and what happens if they don't 
-- Dramatic question: Every situation needs to have a draw or a threat embedded, with a call to action
-- Source of conflicts: Determine source of conflicts (foes, environment) that will drive the conflicting goals and objectives - including internal conflicts and multiple possibilities for ending (DM has to think of a couple)
-- What are the NPCs' goals and strategies (tactics are detailed in their statblocks)
-- End conditions: Scene ends when the dramatic question is answered, no more conflicts are left or PCs do not have decision points anymore. Combat can end before all foes are killed with theatrical ending when a winning side is clear.
-- Scoreboard (if applicable): HP for combat and [progress clocks](https://bladesinthedark.com/progress-clocks) for non-combat
 
-### Catacombs and vision of the Ophaire
+### Rurkinar festival and ritual, and FFKA censoring
+- *Awareness trigger*: As soon as arriving in the city, they see the tower of the temple and hear the movement of people towards it
+- *Location*: A flooded monumental hall of brass, in terrible decay, with sweeping passageways encircled by a graveyard. The construction follows the [Iopothae](../context/secrets/secretsHistory.md#Iopothae) style.
+- *Dramatic question*: which side will the PCs take, and how
+- *Source of conflicts*: Arrival in one of the Linhe cities - Rukinar festival and ritual is happening, [FFKA](../factions/ffkaEast.md) is in position and ready to censor the cultists.
+	- **Imortra (Guilf's mother) observing Guilf.**, Someone calls her by her name and she leaves for the Mercian house. If Guilf follows someone grabs him - what is this pert doing here?
+	- The ritual finally completes in an unexpected way: the Angel Hound communicates with [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) in imprisoned in the lost castle of the Holzander's.
+	- Tense situation, FFKA wants to find reason to imprison cultists
+	- [Sergarus](../npcs/sergarus.md) arrive in the next day to interrogate cultists.
+	- Imra becomes troubled and mad.
+	- *Something else has to create a problem - tbd at table.*
+
+![|500](https://i.imgur.com/FofQtfd.png)
+
+> **Mad poem about the staff**
+> 
+> *Mmm... the staff, the Thalia's one,
+> It's got the power, oh yes, it's second to none,
+> Lightning and thunder, its magic can stun,
+> She imbued the gods, and their power she spun.
+> 
+> Thalia was an acolyte, young but wise,
+> She brought the old pantheon to rise,
+> Restored their strength with magic ties,
+> And now she serves as an Angel in the skies.*
+
+### Dannamore to desert thunderstorm
+- Location: Exit from [dannamore](../locations/dannamore.md)
+- Environment: [Thunderstorm](../rules/houseRules.md#Thunderstorm)
+	- Temperature: [-10C, 0C]
+	- Wind: Severe, 50 Km/h
+	- Duration: 3 days
+	- Time of day: 1d4 x 6h, but it is dark due to the thunderstorm
+- Threat: Pressured by frost goblins and a thunderstorm with an elemental
+- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them.
+- End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Goblins are dealt with
+
+```encounter
+name: Desert Thunderstorm (CR 15)
+creatures:
+ - 2: Bugbear
+ - 12: Goblin
+ - 10: Hobgoblin
+ - 1: Air Elemental
+```
+
+### H114 Mystra's door
+- Location: [Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
+- Draw: Learn where the door is located for finding it from above
+- From the desert side it connects to [dannamore](../locations/dannamore.md)
+
+### Lady scurvy infected
+- Scene: At night, a collapsed statue and ruins. An adolescent-shaped hooded humanoid is walking around, sounds of sobbing. She is actually a vampiric mind flayer.
+- Dramatic question: overshadowing a different lady scurvy
+- Sources of conflict: Spawns are hungry
+- End conditions: Spawns are dealt with
+
+![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
+
+![|500](https://i.imgur.com/PGBhLdG.png)
+
+```encounter
+name: Lady Scurvy (CR 5)
+creatures:
+ - 1: Vampiric Mind Flayer
+```
+
+### Twice dead sandwich seller
+
+### Meet Nurderad outcast
+- Scene: While travelling, they meet Gulthas Morseth, a dragonborn outcast from north Nurderad.
+- Dramatic question: Information on the battlemage Grezar ([Aivridyt](../npcs/aivridyt.md)) and the attack under his influence. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
+
+### Arrive in the city of Linhe
+
+## Information Pool
+
+**Characters (0 to 1)**
+- [ ] Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
+
+**Factions (1 to 3)**
+- [ ] FFKA very little knowledge about the castle - and just a bunch of religious bullies
+- [ ] Every few months, on the night of the new moon, hordes of undead appear from the Ghost Domain and invade Linhe.
+
+**Fronts (0 to 1)**
+- [ ] Dark thunderstorms a becoming very frequent and the [Desolate Flats](../context/environments.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing)
+- [ ] Frost goblins came from D'Elsin.
+
+**Context (1 to 3)**
+- [ ] Location of the Ancient Elven Library: in a secret cavern in the Ammuinoth, where now is the Holzander castle.
+- [ ] Province of Linhe is the most important in Katho, after the capital - as the last territorial defence against the south.
+- [ ] Theory around existence of shadow dragons.
+- [ ] Age of dragons in the past, now they barely leave the Dragons' Island
+- [ ] Darklake in the Ghost Domain connects this world with the world of the dead. A great and terrible river runs underneath the world in Linhe – this is actually a branch of the River Styx.
+- [ ] Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin)
+- [ ] Frost goblins come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
+
+**Plots and arcs (2 to 3)**
+- [ ] Closing the portal requires more than just traditional magic or arcane manipulation. A darkness deep below the Scarlet Citadel is responsible for the open wound leading to the Dry Lands.
+- [ ] Torture of Galiera and the calling for the Angel Hound
+- [ ] Cagoth-ze is a powerful wizard but completely obsessed with acquiring knowledge of the elves who used to be here. The elves managed to hide their lore not in a place, but in a time, and that steered Cagoth-ze into the twisted practice of Time Magic. It’s amazing he hasn’t torn himself into pieces spread over thousands of years practicing this type of heretical magic.
+- [ ] One who possesses Cagoth-ze’s ring and the instructions for recalibrating the time construct can set it randomly so it will almost never return back here again. It will pull the time ley lines but not here or now. It will never return in your lifetime and who knows where it ends up.
+- [ ]  [Cagoth-ze – Twister of Time](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Cagoth-ze%20%E2%80%93%20Twister%20of%20Time%20258d80bb9a9e4adc85774c7c37768295.md) had [Imortra the Debased – Disciple of Gellart](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Imortra%20the%20Debased%20%E2%80%93%20Disciple%20of%20Gellart%200ca3a3bfcc6a4585b92d529b81cf1bf5.md) build a summoning circle and summon [Lasbascilag the Lesser Infernal Tutor](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Lasbascilag%20the%20Lesser%20Infernal%20Tutor%207cd37705079e4f3b8731d922b8382de4.md). Immorta wants nothing to do with the devil (she knows how dangerous it is). Cagoth thinks he can control the devil to get valuable information.
+- [ ]  [Cagoth-ze – Twister of Time](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Cagoth-ze%20%E2%80%93%20Twister%20of%20Time%20258d80bb9a9e4adc85774c7c37768295.md) has constructs traveling into the future to recover elven tomes hidden away in the future. They bring them back and attempt to copy them before those tomes disappear back to the future. It takes many runs on the same book to make a full copy. It’ll take years to get the whole library copied.
+- [ ] The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the citadel. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
+- [ ] Exit of Mystra's door is in the Dannamore Hold ruins
+- [ ] Similar creatures to the Lady Scurvy ghouls were once fought in the Katho-D'Elsin war - and are thrawls of the vampires, but not with the attached symbiont.
+- [ ] The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the citadel. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
+- [ ] The multiple nodes tying these lines of power together. Each must be disabled to release the tension of the lines.
+- [ ] Level 3 used to be the dwarven barracks of the dwarves who built the Scarlet Citadel but is now overrun with trollkin and dire owlbears bred by the dwarves long ago. Below are the unconstructed caverns of the Ghost Domain - where a dark river flows.
+- [ ] Give hint that the Rurkinar have been trying to communicate with the Angel Hound, with no success
+
+**Rumours (2)**
+- [ ] Foucheresia is joining Katho in the war, and sending the Thymar host south
+- [ ] Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a puppet
+
+**Ancient Elven Libraries**
+- [ ] Gold Dragons looks similar to Iopothae's constructs run by Seraphic Engines
+- [ ] Illithids were the ancient creatures that enslaved the Duergar and the Drow when they reached the depths of the Ghost Domain. They have been running experiments for millennia.
+- [ ] Great confluence and pooling of energy is all but unique in the Castle of Holzander
+- [ ] Partial map of the Ghost Domain
+- [ ] Perhaps no region inspires more tales of terror across the face of Guermenos than the ruined desert. A once-verdant land permanently ravaged by the Great War. A puckered, ragged scar of desiccated land.
+- [ ] For centuries, tyrannical arcanists dueled over the Brezal Paths. Tremendously powerful creatures built and abandoned principalities as the fickle Paths shifted, and the constant magical strife among the rivals drained the life from the land. Only the bones of these cities remain today, their tumbled stones and spires covering a landscape.
+- [ ] When the elves realized the enormity of what this library represented, they cast an enchantment over the place to protect it. Their enchantment threw the library and its contents 100,000 years into the future. That distant age is far beyond the collapse of all predicted civilizations. The elves reasoned that even if the library were discovered to exist in that time, it’s unlikely anyone of that era could understand its contents; according to elven oracles, whatever creatures inhabit Midgard 100,000 years in the future will have a completely different understanding of the fundamental underpinnings of magical philosophy.
+
+
+## Fantastic locations  
+
+
+### Relevant settlements
+
+```dataview
+table without ID link(file.link, name) AS "Name", province AS "Province", population AS "Population", culture AS "Cultures", religion AS "Religions", factions AS "Factions"
+from "campaign"
+WHERE type = "settlement" AND tags = "relevant"
+sort file.name asc
+```
+  
+## Important NPCs  
+
+### New NPCs
+- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
+- [Imra Advyrye](../factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
+
+### Long-lived relevant NPCs
+
+```dataview
+table without ID link(file.link, name) AS "Name", species, location, faction
+from "campaign"
+WHERE type = "npc" AND tags = "relevant"
+sort file.name asc
+```
+
+## Potential treasures  
+- [Bitterluchcloak](../context/secrets/secretsArtefacts.md#Bitterluchcloak)
+- 1000 gp
+- Stones
+	- Amber (translucent rich gold, 100gp)
+	- Jade (translucent white, 100gp)
+- [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)
+- [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
+- [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
+
+## Appendix
+
+## Additional unlikely scenes
+
+### H113 Catacombs and vision of the Ophaire
 - Location: [Catacombs](../locations/holzanderCastle.md#Catacombs) (as set out in SC45)
 - Threat: PCs may think there is something here, but except for the information of the Ophaire, there is nothing. 
 - Conflicts: Incoming undead never stops - Keep adding foes as necessary to make this area a tough one. A rule of thumb, when combat starts roll a 1d4. That is the number of monsters that (if below), would trigger another incoming foe (from table below). When a new foe comes, roll again. And keep doing it.
@@ -104,176 +269,7 @@ creatures:
  - 1d4: Skeleton
 ```
 
-### Mystra's door
-- Location: [Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
-- Draw: Learn where the door is located for finding it from above
-- From the desert side it connects to [dannamore](../locations/dannamore.md)
-
-### Invitation to Glasrath
-
-### Arrival in Glasrath
-- More alignment with Ghuse than before. Too many undead working on the mines. Trading is going well.
-
-### Dannamore to desert thunderstorm
-- Location: Exit from [dannamore](../locations/dannamore.md)
-- Environment: [Thunderstorm](../rules/houseRules.md#Thunderstorm)
-	- Temperature: [-10C, 0C]
-	- Wind: Severe, 50 Km/h
-	- Duration: 3 days
-	- Time of day: 1d4 x 6h, but it is dark due to the thunderstorm
-- Threat: Pressured by frost goblins and a thunderstorm with an elemental
-- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them.
-- End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Goblins are dealt with
-
-```encounter
-name: Desert Thunderstorm
-creatures:
- - 2: Bugbear
- - 12: Goblin
- - 10: Hobgoblin
- - 1: Air Elemental
-```
-
-### Mystra's Temple
-- Location: [Mystra's Temple](../locations/templeMystra.md)
-- Draw: Find the password for Mystra's door
-- Give hint that the Rurkinar have been trying to communicate with the Angel Hound, with no success, and that a festival and ritual on his behalf will happen in [eyaram](../settlements/eyaram.md)
-- NPCs in the temple are: priests, cultists and traders (commoners)
-- Consider having a [Thunderstorm](../rules/houseRules.md#Thunderstorm) 2d4 hours after leaving the temple
-
-### Lady scurvy infected
-- Scene: At night, a collapsed statue and ruins. An adolescent-shaped hooded humanoid is walking around, sounds of sobbing. She is actually a vampiric mind flayer.
-- Dramatic question: overshadowing a different lady scurvy
-- Sources of conflict: Spawns are hungry
-- End conditions: Spawns are dealt with
-
-![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
-
-![|500](https://i.imgur.com/uBDSGix.jpeg)
-
-![|500](https://i.imgur.com/0FUfyoN.png)
-
-```encounter
-name: Spawn
-creatures:
- - 1: Vampiric Mind Flayer
-```
-
-### Twice dead sandwich seller
-
-### Meet Nurderad outcast
-- Scene: While travelling, they meet Gulthas Morseth, a dragonborn outcast from north Nurderad.
-- Dramatic question: Information on the battlemage Grezar ([Aivridyt](../npcs/aivridyt.md)) and the attack under his influence. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
-
-### Rurkinar festival and ritual, and FFKA censoring
-- Location: A flooded monumental hall of brass, in terrible decay, with sweeping passageways encircled by a graveyard. The construction follows the [Iopothae](../context/secrets/secretsHistory.md#Iopothae) style.
-- Scene: Arrival in one of the Linhe cities - Rukinar festival and ritual is happening, [FFKA](../factions/ffkaEast.md) is in position and ready to censor the cultists.
-- Consider having Imortra observing.
-- Threat:
-	- Tense situation that ends up with the cultists imprisoned.
-- [Sergarus](../npcs/sergarus.md) arrive in the next day to interrogate cultists.
-- The ritual finally completes in an unexpected way: the Angel Hound communicates with [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) in imprisoned in the lost castle of the Holzander's.
-- Imra becomes troubled and mad.
-- Something else has to create a problem - tbd at table.
-
-![|500](https://i.imgur.com/FofQtfd.png)
-
-> **Mad poem about the staff**
-> 
-> *Mmm... the staff, the Thalia's one,
-> It's got the power, oh yes, it's second to none,
-> Lightning and thunder, its magic can stun,
-> She imbued the gods, and their power she spun.
-> 
-> Thalia was an acolyte, young but wise,
-> She brought the old pantheon to rise,
-> Restored their strength with magic ties,
-> And now she serves as an Angel in the skies.*
-
-
-## Information Pool
-
-**Characters (0 to 1)**
-- [ ] Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
-
-**Factions (1 to 3)**
-- [ ] FFKA very little knowledge about the castle - and just a bunch of religious bullies
-- [ ] Every few months, on the night of the new moon, hordes of undead appear from the Ghost Domain and invade Linhe.
-
-**Fronts (0 to 1)**
-- [ ] Dark thunderstorms a becoming very frequent and the [Desolate Flats](../context/environments.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing)
-- [ ] Frost goblins came from D'Elsin.
-
-**Context (1 to 3)**
-- [ ] Location of the Ancient Elven Library: in a secret cavern in the Ammuinoth, where now is the Holzander castle.
-- [ ] Province of Linhe is the most important in Katho, after the capital - as the last territorial defence against the south.
-- [ ] Theory around existence of shadow dragons.
-- [ ] Age of dragons in the past
-- [ ] Darklake in the Ghost Domain connects this world with the world of the dead. A great and terrible river runs underneath the world in Linhe – this is actually a branch of the River Styx.
-
-**Plots and arcs (2 to 3)**
-- [ ] Closing the portal requires more than just traditional magic or arcane manipulation. A darkness deep below the Scarlet Citadel is responsible for the open wound leading to the Dry Lands.
-- [ ] Torture of Galiera and the calling for the Angel Hound
-- [ ] Cagoth-ze is a powerful wizard but completely obsessed with acquiring knowledge of the elves who used to be here. The elves managed to hide their lore not in a place, but in a time, and that steered Cagoth-ze into the twisted practice of Time Magic. It’s amazing he hasn’t torn himself into pieces spread over thousands of years practicing this type of heretical magic.
-- [ ] One who possesses Cagoth-ze’s ring and the instructions for recalibrating the time construct can set it randomly so it will almost never return back here again. It will pull the time ley lines but not here or now. It will never return in your lifetime and who knows where it ends up.
-- [ ]  [Cagoth-ze – Twister of Time](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Cagoth-ze%20%E2%80%93%20Twister%20of%20Time%20258d80bb9a9e4adc85774c7c37768295.md) had [Imortra the Debased – Disciple of Gellart](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Imortra%20the%20Debased%20%E2%80%93%20Disciple%20of%20Gellart%200ca3a3bfcc6a4585b92d529b81cf1bf5.md) build a summoning circle and summon [Lasbascilag the Lesser Infernal Tutor](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Lasbascilag%20the%20Lesser%20Infernal%20Tutor%207cd37705079e4f3b8731d922b8382de4.md). Immorta wants nothing to do with the devil (she knows how dangerous it is). Cagoth thinks he can control the devil to get valuable information.
-- [ ]  [Cagoth-ze – Twister of Time](../Scarlet%20Citadel%20Database%206f1cc6531b5c4188a2e5f54716002c2a/Cagoth-ze%20%E2%80%93%20Twister%20of%20Time%20258d80bb9a9e4adc85774c7c37768295.md) has constructs traveling into the future to recover elven tomes hidden away in the future. They bring them back and attempt to copy them before those tomes disappear back to the future. It takes many runs on the same book to make a full copy. It’ll take years to get the whole library copied.
-- [ ] The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the citadel. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
-- [ ] Exit of Mystra's door is in the Dannamore Hold ruins
-- [ ] Similar creatures to the Lady Scurvy ghouls were once fought in the Katho-D'Elsin war - and are children of the vampires, but not with the attached symbiont.
-- [ ] The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the citadel. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
-- [ ] The multiple nodes tying these lines of power together. Each must be disabled to release the tension of the lines.
-- [ ] Level 3 used to be the dwarven barracks of the dwarves who built the Scarlet Citadel but is now overrun with trollkin and dire owlbears bred by the dwarves long ago. Below are the unconstructed caverns of the Ghost Domain - where a dark river flows.
-
-**Rumours (2)**
-- [ ] Foucheresia is joining Katho in the war, and sending the Thymar host south
-- [ ] Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a puppet
-
-**Ancient Elven Libraries**
-- [ ] Gold Dragons looks similar to Iopothae's constructs run by Seraphic Engines
-- [ ] Illithids were the ancient creatures that enslaved the Duergar and the Drow when they reached the depths of the Ghost Domain. They have been running experiments for millennia.
-- [ ] Great confluence and pooling of energy is all but unique in the Castle of Holzander
-- [ ] Partial map of the Ghost Domain
-- [ ] Perhaps no region inspires more tales of terror across the face of Guermenos than the ruined desert. A once-verdant land permanently ravaged by the Great War. A puckered, ragged scar of desiccated land.
-- [ ] For centuries, tyrannical arcanists dueled over the Brezal Paths. Tremendously powerful creatures built and abandoned principalities as the fickle Paths shifted, and the constant magical strife among the rivals drained the life from the land. Only the bones of these cities remain today, their tumbled stones and spires covering a landscape.
-- [ ] The war ended when The Dread Walkers arrived.
-- [ ] When the elves realized the enormity of what this library represented, they cast an enchantment over the place to protect it. Their enchantment threw the library and its contents 100,000 years into the future. That distant age is far beyond the collapse of all predicted civilizations. The elves reasoned that even if the library were discovered to exist in that time, it’s unlikely anyone of that era could understand its contents; according to elven oracles, whatever creatures inhabit Midgard 100,000 years in the future will have a completely different understanding of the fundamental underpinnings of magical philosophy.
-
-
-## Fantastic locations  
-- **Location** (6): Each with 3 [aspects](https://perchance.org/fantastic-locations) (and a picture and/or link)
-- What is the history of your fantastic location? What happened here before?
-  
-## Important NPCs  
-- **NPC Names** (6): Description (put yourself in their minds), each with a file created
-
-- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
-- [Imra Advyrye](../factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
-- [Sergarus](../npcs/sergarus.md)
-- **Danaska Maksilov** (unlikely)
-
-**(make this a dataview?)**
-
-## Potential treasures  
-- Consumables can be generated from the [shop](https://5emagic.shop/inventory)
-- Give permanent magic items a unique name and history ([guidance](https://slyflourish.com/lazy_magic_items.html))
-
-- [Mercian Draining Cloak](../context/artefacts.md#Mercian%20Draining%20Cloak)
-	- magic item that allows PCs to expend 1 sanity to change adv/disadv rolls.
-- 1000gp
-- Stones
-	- Amber (translucent rich gold, 100gp)
-	- Jade (translucent white, 100gp)
-- [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)
-- [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
-- [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
-
-
-## Appendices
-
-### Unlikely scenes
-
-#### H202 (CR 4.5)
+### H202 (CR 4.5)
 
 - Jelly hybrid (CR 3)
 
@@ -296,7 +292,7 @@ creatures:
 - Claws. A hit deals 2 (1d4) acid damage in addition to other listed damage.
 - Breath Weapon. The attack deals 5 (2d4) acid damage in addition to other listed damage and effects.
 
-#### H203 (CR 1 + 2)
+### H203 (CR 1 + 2)
 
 ![](https://i.imgur.com/U6lDRyc.png)
 
@@ -307,7 +303,7 @@ creatures:
  - 1: Gelatinous Cube
 ```
 
-#### H204 (CR 4)
+### H204 (CR 4)
 
 ```encounter
 name: Frost Goblins (CR 4)
@@ -316,7 +312,7 @@ creatures:
  - 6: Hobgoblin
 ```
 
-#### H206 (CR 7.5)
+### H206 (CR 7.5)
 
 - [Maksilov](../npcs/maksilov.md) and Bastron (CR 4)
 
@@ -338,7 +334,7 @@ creatures:
 
 - **On round 2 or 3: Ochre Jelly (CR 2)falls from ceiling and receives [potion of growth](https://roll20.net/compendium/dnd5e/Enlarge%20Reduce?expansion=0#content)**
 
-#### H208 (CR 2)
+### H208 (CR 2)
 
 **Mention an invisible field in the air that somehow seizes onto and discorporates whatever it touches, like some sort of slow-acting stasis or disintegration field.** Active successful DC 15 Wisdom (Perception) check to spot it. Even then, it looks like an out-of-focus disturbance in the air, not a solid object.
 
@@ -348,7 +344,7 @@ When the dire gelatinous cube first starts its turn with 28 or fewer hit points,
 
 Finally, just because the cube is eventually killed doesn’t mean it stops being a threat. It can still block the passage (invisibly), and it’s still powerfully acidic to anyone and anything attempting to climb over it or squeeze through it.
 
-#### H211
+### H211
 
 Baska (Lasbascilag) - Ice Barbed Devil
 
@@ -360,7 +356,7 @@ creatures:
  - 1: Barbed Devil
 ```
 
-#### Scriptorium
+### H216 Scriptorium
 
 - make new time travel table including:
 	- past is history context
@@ -385,6 +381,9 @@ creatures:
 
 ![](https://i.imgur.com/BNt8jay.png)
 
-#### H217
+### H217
 
 - [cagothze](../npcs/cagothze.md)
+
+### Arrival in Glasrath
+- More alignment with Ghuse than before. Too many undead working on the mines. Trading is going well.

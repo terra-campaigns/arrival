@@ -19964,7 +19964,7 @@
 			"alignment": [
 				"A"
 			],
-			"ac": "18 (plate)",
+			"ac": "18",
 			"hp": {
 				"average": 52,
 				"formula": "8d8+16"

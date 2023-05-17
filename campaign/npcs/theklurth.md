@@ -1,3 +1,16 @@
+---
+type: npc
+species: Fiend
+name: Theklurth
+world: Guemenos
+campaign: Arrival
+location: 
+faction: 
+deceased: false
+tags: 
+---
+
+
 ![](https://i.imgur.com/i9RtfVN.png)
 
 Shape of Drow:

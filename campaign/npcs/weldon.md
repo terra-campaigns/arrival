@@ -1,3 +1,15 @@
+---
+type: npc
+species: werebear
+name: Weldon
+world: Guemenos
+campaign: Arrival
+location: Glasrath
+faction: 
+deceased: false
+tags: relevant
+---
+
 ![](https://i.imgur.com/ZgVbLtv.png)
 
 - D6 roll: 1 & 2 Weldon is in the Castle of Bells calm (human form), 3 & 4 he is not in, 5 he is in and very nervous (glabro, hispo or bear form), 6 he is in and chained - completely out of control (in crinos form).

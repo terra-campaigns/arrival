@@ -15,7 +15,7 @@ skills:
   insight: 11
   persuasion: 9
   stealth: 12 (D)
-artefacts: [Kimbarakhanden]
+artefacts: [Kimbarakerhands]
 tags:
 ---
 

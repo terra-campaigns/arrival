@@ -1,12 +1,16 @@
 ---
-type: location/settlement
+type: settlement
 name: Fort City of Eyaram
 world: Guemenos
 continent: Etor
 state: Khathan Empire
 province: Linhe County
 campaign: Arrival
-tags: 
+population: 511
+culture: [Mercian, Nurfirth]
+religion: [Faletism, Yotunn]
+factions: [FFKA East, Mercian, Rurkinar Cultists]
+tags: relevant
 ---
 
 # Fort City of Eyaram

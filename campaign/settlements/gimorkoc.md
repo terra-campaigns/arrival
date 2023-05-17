@@ -1,12 +1,16 @@
 ---
-type: location/settlement
+type: settlement
 name: Gimorkoc
 world: Guemenos
 continent: Etor
 state: Khathan Empire
 province: Linhe County
 campaign: Arrival
-tags: 
+population: 1477
+culture: [Nulfirth, Mercian]
+religion: [Yotunn, Faletism]
+factions: [FFKA East, Mercian, Rurkinar Cultists]
+tags: relevant
 ---
 
 # Gimorkoc

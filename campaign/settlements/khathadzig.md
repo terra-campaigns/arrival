@@ -1,11 +1,15 @@
 ---
-type: location/settlement
+type: settlement
 name: Khathadzig
 world: Guemenos
 continent: Etor
 state: Duchy of Unburakhath
 province: Nargun Zone
 campaign: Arrival
+population: 1209
+culture: [Kimbarak]
+religion: 
+factions: [Glasrath]
 tags: 
 ---
 

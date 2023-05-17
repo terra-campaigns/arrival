@@ -1,3 +1,15 @@
+---
+type: npc
+species: Human
+name: Ushulx
+world: Guemenos
+campaign: Arrival
+location: Holzander
+faction: 
+deceased: false
+tags: relevant
+---
+
 # Ushulx
 ***Cultist of Curcharn***
 
