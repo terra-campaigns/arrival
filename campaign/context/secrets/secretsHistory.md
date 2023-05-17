@@ -29,6 +29,47 @@ The war lasted more than 10 thousand years and covered Guemenos with death, fire
 
 Gronz used his staff for hundreds of years and was able to eliminate all the large armies from Nek's followers. The staff was not enough for killing Nek and his gods, but it was enough to weaken them. They were later imprisoned by Ulkrunnar in his Forsaken Hall, under the fortress of Turnskull (located in the ice sheets in the south pole). For the non divine inhabitants, although it was thought they were killed, they were rather sent to a world they called Acrisius. The use of the staff was called The Great Purge, but this history is unknown to most current inhabitants.
 
+### The great purge
+
+Part 1 (Draconic)
+
+In eons past, the Kyri did awaken,
+And molded Ophaire to their heart's desire,
+They wrought their races and from the surface taken,
+Those they corrupted with their twisted fire.
+
+For centuries, the creatures of the dark,
+The dragons, fiends, and ooze, they did thrive,
+In Guemenos, the world's blackened mark,
+Where Kyri and their kin waged war to survive.
+
+Ten thousand years of darkness did ensue,
+The land awash with death and endless pain,
+Edraihil's domains were torn in two,
+As Kyri armies marched, with war their reign.
+
+Then Gronz, Ulkrunnar's son, did create,
+A staff of light that could destroy the foe,
+For hundreds of years, he did oblate,
+Nek's followers with Uli's fatal blow.
+
+Part 2 (Celestial)
+
+But Nek and his gods, they did survive,
+Though weakened by the Great Purge's fire,
+In Forsaken Hall, they did abide,
+Deep below the fortress of Turnskull's spire.
+
+For mortals, though, a fate worse than death,
+To Acrisius, they were cast away,
+A world unknown, where they drew their breath,
+Forevermore, in darkness they would stay.
+
+And so the world continued on,
+In darkness, death, and endless pain,
+The Great Purge's memory long gone,
+As life in darkness did remain.
+
 ### Puppet masters
 `17000 to 25000 IT, also known as 10000 to 18000 Time of the Kyri (TK)`
 

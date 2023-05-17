@@ -26,13 +26,21 @@ As the war persist, people of the desert empire have grown weary of the conflict
 
 Near the southern border, in the provinces where this enduring conflict has ravaged for centuries, entire lifetimes have been spent amidst the horrors, with generations being born and dying within its vicious cycle. Cities have become twisted and warped by the darkness that permeates their every corner. Many settlements have even adopted human sacrifice rituals and even cannibalism. Some of the ancient ruins have been repurposed, with dark and sinister magic used to reshape them into towering fortresses and twisted citadels. Those who venture and live too close to the conflict risk being dragged down into the depths of its desolate nightmares, long forgetting what life in Katho was like before.
 
-![Kathotech](secrets/secretsRealms.md#Kathotech)
-
 #### Linhe
 
-All this cities (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+The sands of time bury the deserts of Linhe. Here, the wonders of fallen empires and temples of forgotten kings crumble beneath a merciless sun. Untold generations of tombs and secrets lie beneath the sands, markers of a history the land's few residents know of only in story and song. Their interest in past splendor is smothered, as life is harsh in Linhe. Many of Linhe's settlements lie in the middle of old and new ruins, its cities crumbling and unprotected, its villages abandoned and overgrown. Still, bastions of civilisation hold out against the the terrifying dangers of the region.
 
-![](https://i.imgur.com/zjWYN3w.png)
+**Noteworthy Features**
+- Linhe is a land of vast deserts and rare, but deadly, storms.
+- Water is scarce beyond the land's few oases and the cities.
+- The monuments, tombs, and pyramids of past golden ages litter Linhe. These countless tombs are interconnected, forming a vast, semi-hidden underground network through the Ammuinoth and the Ghost Domain.
+- Linhans value music, and many locals are accomplished singers or proficient in playing the reed pipe, goblet drum, or arched harp.
+
+All the cities below (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+
+![](https://i.imgur.com/ZuFIpuA.png)
+
+![Linhe](secrets/secretsRealms.md#Linhe)
 
 #### Nargun
 ***Nargun Captaincy of the Dust Desert***
@@ -105,7 +113,8 @@ The Ghost Domain is grouped in layers: the Upper Domain (also known as Upperdark
 
 The Ghost Domain's underground landscape varies from small subterranean fissures almost impossible for adventurers to crawl through, to wide expanses of deep water that hides coral caves, hollowed out sections of ice in which creatures lived, and places where fungus, bones, or even pure force formed caves. This varied landscape is as dynamic as the surface. Some areas are always changing over time because of underground magma rivers or the emptying of underground lakes due to cracks in the rock formed by earthquakes. This meant maps of the Underdark were highly unreliable.
 
-The Upper Domain is about 4 Km deep, and it is inhabited by many dark-loving creatures (not necessarily evil ones). Some drow also live here, and sometimes some duergar too. The Lower Domain, 5 to 15 Km deep, is where the biggest drow cities exist, and drow nobility lives there. These drow are already too disconnected from the world above, and even duergar fear their evilness. Finally, deeper lies the Ophaire. It is not fully known if the dark primitive is still part of the world as a cavern system or if it is already some other type of dimension, as time and space seem to flow differently in such a depth. It is said the dark primitive lies between 20 and 100 Km from the surface, but these are all speculations. The deepest areas of the Ophaire are also known as Shadowfell, and in these regions it is said that only true evil and madness can live.
+The Upper Domain is about 4 Km deep, and it is inhabited by many dark-loving creatures (not necessarily evil ones). Some drow also live here, and sometimes some duergar too. The Lower Domain, 5 to 15 Km deep, is where the biggest drow cities exist, and drow nobility lives there. These drow are already too disconnected from the world above, and even duergar fear their evilness. Finally, deeper lies the Ophaire. It is not fully known if the dark primitive is still part of the world as a cavern system or if it is already some other type of dimension, as time and space seem to flow differently in such a depth. It is said the dark primitive lies between 20 and 100 Km from the surface, but these are all speculations. The deepest areas of the Ophaire are also known as Deadecho, and in these regions it is said that only true death can exist. It is said that in its depths, the shadow roads in the Ophaire access the Void - a region of madness and emptiness.
 
 ![Ghost Domain](secrets/secretsRealms.md#Underdark)
 
+![Deadecho](secrets/secretsRealms.md#Deadecho)
