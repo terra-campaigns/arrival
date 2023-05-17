@@ -79,24 +79,13 @@ Description of your strong start.
 
 ## Information Pool
 
-**Characters (0 to 1)**
-- [ ] ...
+- #strategic Strategic (advantage info): e.g. weaknesses
+- #puzzle Puzzle (incomplete info): e.g. rumours, character background, artefacts
+- #spoiler Spoiler (forward info): e.g. faction, fronts, plots and arcs
+- #context Context (backward info): e.g. context and lore
 
-**Factions (1 to 3)**
 - [ ] ...
-
-**Fronts (0 to 1)**
 - [ ] ...
-
-**Context (1 to 3)**
-- [ ] ...
-
-**Plots and arcs (2 to 3)**
-- [ ] ...
-
-**Rumours (2)**
-- [ ] ...
-
   
 ## Fantastic locations  
 - **Location** (6): Each with 3 [aspects](https://perchance.org/fantastic-locations) (and a picture and/or link)
