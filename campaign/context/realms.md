@@ -53,17 +53,14 @@ Romburghia is a troubled land, rife with tension, secrets and fear. Its people a
 
 The kingdom is a patchwork of cultures, with the north being dominated by the ancient Mercian ways, while the south is a vast expanse of nomadic Nurfirth. However, the original Mercian religion has long been in decline, with most of the country now following either the church of Falet or the gods of the [Yotunn Ancestors](religions.md#Yotunn) pantheon. The [Faletism](religions.md#Faletism) religion has officially been adopted by the kingdom, but it is a decision made out of fear, for the Mercians of Hincland have long been rumored to dabble in black magic. The rulers have turned a blind eye to non-conventional approaches to converting folk religion followers to the official religion of Falet, desperately seeking to expand its reach and hold over the kingdom.
 
-(LIGHT CALVARY)
+### Nurderad
 
-### Hincland
+In the heart of the Nurdead Prefecture, the capital city of Djerad Thymar stood as a testament to both grandeur and mystery. Whispers carried on the wind spoke of its renown, spreading tales of awe and trepidation throughout the realms. 
 
-(LIGHT CALVARY)
+Djerad Thymar, a name that resonated with both reverence and fear, boasted a breathtaking sight that defied mortal imagination. Rising from the earth like a colossal beast of ancient lore, the entire city took the form of a hollow pyramid. Its architecture, a testament to the architects' twisted genius, rendered it virtually impenetrable to all but the most daring of intruders. Built upon a foundation of unyielding granite, the pyramid stood proudly, its towering height reaching a dizzying 1,500 feet (460 meters) into the sky. A sight that evoked a mix of wonder and unease in the hearts of those who dared to gaze upon it. As if nature itself had conspired with the hands of men, a vast number of columns rose in unison, lending unwavering support to the massive structure above.
 
-### Foucheresia
+A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curious to venture into its depths. Guarded by ancient sentinels and encircled by a sparse collection of farms and humble homesteads, the city stood in stark contrast to the sprawling private domains of the opulent clans. These privileged elite, drawn to the power and allure of Djerad Thymar, chose to erect their opulent estates within the decaying remnants of the long-lost Iopothae civilization, their proximity to the city a constant reminder of the shadows that lingered in its wake.
 
-**seafarers**
-
-#### Thymar
 
 ### Olivepia
 ![Olivepia](secrets/secretsRealms.md#Olivepia)

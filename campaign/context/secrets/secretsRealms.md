@@ -8,9 +8,11 @@ tags:
 
 # Secrets for Realms of Guemenos
 
-## Katho
+## Etor
 
-### Linhe
+### Katho
+
+#### Linhe
 
 **Genre**: [dark fantasy](https://5e.tools/book.html#vrgr,-1,dark%20fantasy,0), [folk](https://5e.tools/book.html#vrgr,-1,folk%20horror,0_) and [disaster](https://5e.tools/book.html#vrgr,-1,disaster%20horror,0) horror
 **Hallmarks**: Dwindling resources, fickle hero worship, impending disaster, suspicion, totalitarianism, undead
@@ -32,31 +34,41 @@ Every few months a new zombie legion issues from the Ghost Domain through caves 
 
 References: [Har'Akir](https://5e.tools/book.html#vrgr,-1,har'akir,1) and [Falkovnia](https://5e.tools/book.html#vrgr,-1,falkovnia,0)
 
-## Nurderad
-
-I grew up in Djerad Thymar the capital city of the Nurdead Prececture. Djerad Thymar was considered by some as a renowned place throughout the kingdom of Foucheresia for its incredible size, unique shape, and virtually impenetrable architecture. Unique in its design, the entire city was one giant hollow pyramid, that rested on a granite foundation supported by a huge number of columns. The top of the pyramid reached 1,500 feet (460 meters) into the sky. A wide ramp was the only land entrance to the pyramid. The city was surrounded by a few farms and homesteads, as well as by the private states of the wealthy clans, which usually were built in Lopothae ruins near to Djerad Thymar. Djerad Thymar was ruled by the Vanquisher, who also ruled all of Tymanther. 
-
-## Olivepia
+### Olivepia
 
 Olivepia's king is an usurper. Olivepia has prohibition on magic. Olivepia is based in 1400- Portugal, with a lot of influence, science, but also strong inquisition and religious violence against non-humans.
 
-## D'Elsin
+### Romburghia
+
+(LIGHT CALVARY)
+
+### Hincland
+
+(LIGHT CALVARY)
+
+### Foucheresia
+
+**seafarers**
+
+### D'Elsin
 
 ![|500](https://i.imgur.com/1HdHyxC.png)
 
 
-## Ammuinoth
+### Underworld
+
+#### Ammuinoth
 
 On the map below, in red are Brezal Paths that are followed by roads in the surface; in blue are collapsed or partially collapsed tunnels and in black are tunnels in work order. 
 
 ![](https://i.imgur.com/1s32LJn.jpg)
 
 
-## Underdark
+#### Underdark
 
 Although the Kyri power touched the drow and duergar before, it was only when the most evil creatures living the Ophaire explored the depths of Shadowfell that the Kyri themselves were awoken. The story is not fully known, but it is said 4500 IT is when Ulkrunnar and his sons and daughters became active in Guemenos.
 
-## Deadecho
+#### Deadecho
 
 The Deadecho, the dominion of [Algath](../context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
 

@@ -151,6 +151,7 @@ creatures:
 ### Meet Nurderad outcast
 - Scene: While travelling, they meet Gulthas Morseth, a dragonborn outcast from north Nurderad.
 - Dramatic question: Information on the battlemage Grezar ([Aivridyt](../npcs/aivridyt.md)) and the attack under his influence. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
+- Grezar was responsible for Miraak's accident in the war in the south
 
 ### Arrive in the city of Linhe
 
