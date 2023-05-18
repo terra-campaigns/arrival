@@ -28,6 +28,7 @@ Acrisae and Turnskull: 7 fronts in total, 3 each plus the deflagration of full w
 - [ ] Turnskull takes the entirety of south Etor, ready for war
 
 **Party level and outcome**
+- [ ] 5 (party went back):
 - [ ] 6:
 - [ ] 7: Foreshadowing for Part 3 - Supraxae is destroyed by Holzander's umbilical and falls
 - [ ] 8: (mandatory 1st front) - think on active closure of Part 2 by PCs. Maybe battle with Ghost Riders? 
