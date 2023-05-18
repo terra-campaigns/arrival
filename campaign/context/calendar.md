@@ -60,9 +60,12 @@ The last documented season cycles are represented below.
 	- Miraak is born in Nurderad
 - 3857 NC Gaelira and the Paragon Force goes to the [The Ammuinoth](realms.md#Ammuinoth)
 - 3860 NC Kethra Stormwind is born in a village north of the Naragzah mountains
-- 3867 NC Kethra's parents are killed by a purple dragon who disguises as a sage and raises Kethra
+- 3867 NC 
+	- Kethra's parents are killed by a purple dragon who disguises as a sage and raises Kethra
+	- Grezar, a dragonborn battlemage joins the military in the remote northern Nurderad
 - 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are raided by the dragonborn
-- 3869 NC Ghuse joins the military in Gorthugke
+- 3869 NC Ghuse joins the military in Gorthugke, and takes his platoon on a desert bootcamp for 5 years
+- 3972 NC Grezar is sent to the Katho-D'Elsin war in the south
 - 3875 NC Miraak drops out of his clan
 - 3876 NC Lady Scurvy starts spreading in Throtha
 - 3876 NC Nilperto is killed in Watheton

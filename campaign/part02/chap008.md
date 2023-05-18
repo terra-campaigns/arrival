@@ -128,6 +128,7 @@ creatures:
 ### H114 Mystra's door
 - Location: [Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
 - Draw: Learn where the door is located for finding it from above
+- Password in ancient Elvish: "*Edr- dolenpant fen, a let golodh n-*" which means "Open resourceful door, and let knowledge be"
 - From the desert side it connects to [dannamore](../locations/dannamore.md)
 
 ### Lady scurvy infected
