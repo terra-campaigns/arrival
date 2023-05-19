@@ -46,6 +46,9 @@ tags:
 - [x] Define treasure
 - [x] Prepare Owlbear, if applicable
 - [x] Move big texts to appendix in the file
+- [x] Prepare time travel table (linked with secrets)
+- [x] Prepare random encounters (linked with secrets) - including random locations
+- [ ] Owlbear L3
 
 
 ## Characters
@@ -131,14 +134,19 @@ creatures:
 - Password in ancient Elvish: "*Edr- dolenpant fen, a let golodh n-*" which means "Open resourceful door, and let knowledge be"
 - From the desert side it connects to [dannamore](../locations/dannamore.md)
 
-### Lady scurvy infected
-- Scene: At night, a collapsed statue and ruins. An adolescent-shaped hooded humanoid is walking around, sounds of sobbing. She is actually a vampiric mind flayer.
-- Dramatic question: overshadowing a different lady scurvy
-- Sources of conflict: Spawns are hungry
-- End conditions: Spawns are dealt with
+### Arrive in the city of Linhe
 
-![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
+### Random scenes
 
+**Find ways to give secrets during random scenes.**
+
+| Roll     | 1d12 + 1d20 ([probability](https://anydice.com/))                                                    |
+| -------- | ---------------------------------------------------------------------------------------------------- |
+| 2:3      | It is a [location](https://donjon.bin.sh/fantasy/random/#type=location;location-loc_type=wilderness) |
+| 4:7      | It is a [location with creature](https://www.chaosgen.com/dnd5e/encounter)                           |
+| Settings | Level: Low (1-4), terrain [underdark, desert], sources: all, type: mix, generate: 10                                                                                                     |
+
+#### Lady scurvy infected (party)
 ![|500](https://i.imgur.com/PGBhLdG.png)
 
 ```encounter
@@ -147,14 +155,15 @@ creatures:
  - 1: Vampiric Mind Flayer
 ```
 
-### Twice dead sandwich seller
+#### Twice dead sandwich seller (party)
 
-### Meet Nurderad outcast
+#### Meet Nurderad outcast (party)
 - Scene: While travelling, they meet Gulthas Morseth, a dragonborn outcast from north Nurderad.
 - Dramatic question: Information on the battlemage Grezar ([Aivridyt](../npcs/aivridyt.md)) and the attack under his influence. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
 - Grezar was responsible for Miraak's accident in the war in the south
 
-### Arrive in the city of Linhe
+#### Temple of Remains (location)
+![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
 
 ## Information Pool
 
@@ -186,8 +195,7 @@ creatures:
 - [ ] #spoiler Frost goblins come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
 - [ ] #spoiler Theory around existence of shadow dragons.
 - [ ] #context  Age of dragons in the past, now they barely leave the Dragons' Island
-- [ ] 
-- [ ] #context Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin). These rocks were used in the long past by godbound bechanics.
+- [ ] #context Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin). These rocks were used in the long past by godbound mechanics.
 - [ ] #spoiler Foucheresia is joining Katho in the war, and sending the Thymar host south
 - [ ] #spoiler Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a puppet
 
@@ -200,6 +208,7 @@ creatures:
 - [ ] #context [The great purge](../context/secrets/secretsHistory.md#The%20great%20purge)
 - [ ] #context For centuries, tyrannical arcanists dueled over the Brezal Paths. Tremendously powerful creatures built and abandoned principalities as the fickle Paths shifted, and the constant magical strife among the rivals drained the life from the land. Only the bones of these cities remain today, their tumbled stones and spires covering a landscape.
 - [ ] #context When the elves realized the enormity of what this library represented, they cast an enchantment over the place to protect it. Their enchantment threw the library and its contents 100,000 years into the future. That distant age is far beyond the collapse of all predicted civilizations. The elves reasoned that even if the library were discovered to exist in that time, it’s unlikely anyone of that era could understand its contents; according to elven oracles, whatever creatures inhabit Midgard 100,000 years in the future will have a completely different understanding of the fundamental underpinnings of magical philosophy.
+- [ ] #context #spoiler Theurgy
 
 ## Fantastic locations  
 
@@ -354,21 +363,26 @@ creatures:
 
 ### H216 Scriptorium
 
-- make new time travel table including:
-	- past is history context
-	- much further away past which looks like today
-	- future that looks like the past
+**Timeline destination (d10 roll)**
 
-**Timeline destination (d8 roll)**
-1. *1,500 Years in the Past.* The characters are in a natural cavern. Four savage-looking dwarves squat around a fire, roasting meat on sticks. The dwarves cry out in an unrecognized, guttural language and grab stone-tipped spears lying in the dirt. Before they can hurl the spears, blue light engulfs the scene, and the characters find themselves falling again.
-2. *500 Years in the Past.* The walls and furnishings of the library are ornate. Three elves are in the room, reading or sorting material on the shelves. They look at the characters with mild curiosity. They’ve seen the construct before, or at least heard about its rare appearances from previous caretakers of the scriptorium. This is the first time it’s been accompanied by anyone other than the clockwork servants, though these elves might not know that. How long the construct remains is up to you. The elves are friendly and willing to talk, but they won’t allow any material to be taken from their library. They speak only archaic Elvish (which is difficult to understand) and Draconic. Should the characters decide to get hostile, these elves use the stats of an archmage, an assassin, and a gladiator. When the construct fires up to leave, the elves quickly step out of its range and remain behind in their own time.
-3. *500 Years in the Future.* The scriptorium has been converted into a temple to Mammon, god of greed and madness. The room is swelteringly hot from an immense oven shaped like a monstrously fat humanoid that stands in the southern portion of Area 215. Its open belly serves as the firebox, and flames within it are the only illumination. Six cultists and one cult fanatic in robes kneel before it. An orc, bound and gagged, lies on a table that can be tipped up to slide the orc into the blazing furnace. If characters do nothing, the sacrifice continues. If characters intervene, the cultists fight to the death. The freed orc is grateful but wants only to return to his village.
-4. *1,000 Years in the Future.* The characters land in the midst of a battle between six duergar and two gricks. No matter who wins, they aren’t welcoming toward the party. The structure of the scriptorium is still recognizable despite considerable damage wrought by time, earth tremors, burrowing monsters, and other stresses.
-5. *5,000 Years in the Future.* The chambers are barely recognizable from their earlier features. The hole in the floor of Area 215 has been repaired. Area 218 has been converted into a throne room for a clockwork king attended by six clockwork soldiers (Creature Codex) and four courtiers (clockwork servants). They have, of course, heard tales of the shining blue deity that appeared briefly to their foregears generations ago but never imagined it would return in their runtimes. King Zakchi assumes the characters are the organic slaves of the time construct and the obviously superior clockwork servants, and he tends to ignore them or even become slightly offended if characters speak to him directly.
-6. *20,000 Years in the Future.* The former scriptorium has overgrown into a subterranean garden filled with towering fungi, albino ferns, snaking vines, and human-sized carnivorous flowers. The northern portion of Area 216 and the rest of the scriptorium is inhabited by an organism that behaves as one immense shambling mound whose attacks have a 15-foot reach.
-7. *50,000 Years in the Future.* Undead from the Dry Lands have taken control of the now unrecognizable area. A wight, a ghast, and three ghouls are prowling through the chambers. The architecture looks as if the whole place was sculpted from worm-eaten bone. Over its bulky armor, the wight wears grave-stained priestly robes of dark maroon with a bright red sash. It confronts the characters in Darakhul that has evolved to the point where it’s incomprehensible; it switches to nearly unintelligible Common if they don’t understand its first attempts. The wight-priest demands to know why the intruders defy the holy commands of Syrinx. It does not explain what this means, and if characters protest their innocence in any way, the undead attack in a righteous fury. More undead can join in if you want to up the ante.
-8. *75,000 Years in the Future.* By this time, the upper layers of the citadel are gone, blasted away by some titanic cataclysm. The area is open to the sky, which is wreathed in sheets of perpetual green flame. The dominant life form is chuuls, and they’ve become considerably more intelligent over the millennia. Two chuuls stand nearby. Their stats are identical to standard chuuls except they have an Intelligence score of 24 and telepathy (240 feet). They are only momentarily perturbed by the arrival of the time construct and the characters. One of the chuuls issues a telepathic command to “surrender the devices and prepare for cranial cessation.” The other chuul levels a complex metal device about 9 feet long at the characters. The device is a lightning gun capable of shooting a lightning bolt every other round (100-foot line; 8d6 lightning damage; save DC 13; can be fired only by someone with chuul claws and telepathy).
+1. *27023 years in the past (1463 IT) Construction of the Ammuinoth.* The characters are in a natural cavern, with a single tunnel that goes east and ends in a wellbore opened to the surface above. Ancient Dwarves and Elves are building the Ammuinoth in the region.
+	![](https://i.imgur.com/H3JoaRX.png)
 
+2. 23521 years in the past (4523 IT) Awakening of the Kyri. The characters are in a natural cavern, with a single tunnel that goes east. The opening after the tunnel has a fully built Ammuinoth, with a passage to the surface. The construction utilises proto-seraphic engines and the existing upward wellbore has been vastly expanded expanded to the depths of the earth. The entire area has become an immense city with Dwarves and Elves that look more like Duergar and Drows, respectively.  
+	![](https://i.imgur.com/hsBK26m.png)
+
+3. *18009 years in the past (10567 IT), War for Guemenos.* The characters are in a natural cavern, with one single tunnel that goes north. Four savage-looking dwarves squat around a fire, roasting meat on sticks. The dwarves cry out in an difficult to recognise, guttural dwarvish language and grab stone-tipped spears lying in the dirt. If someone speaks with them in dwarvish they explain that a battle has been happening between two godly forces for the last 3000 years. If characters go through the tunnel, they can see scenes of the battle. 
+	![](https://i.imgur.com/lr4R0as.png)
+
+4. *9899 years in the past (18540 IT), After the Great Purge.* The characters are in a natural cavern, with one single tunnel that goes north. The cavern has been converted into a temple to Mammon, god of greed and madness. The room is swelteringly hot from an immense oven shaped like a monstrously fat humanoid that stands in the southern portion. Its open belly serves as the firebox, and flames within it are the only illumination. Six cultists and one cult fanatic in robes kneel before it. An orc, bound and gagged, lies on a table that can be tipped up to slide the orc into the blazing furnace. If characters do nothing, the sacrifice continues. If characters intervene, the cultists fight to the death. The freed orc is grateful but wants only to return to his village.
+	![](https://i.imgur.com/pFtxutb.png)
+
+5. *6512 years in the past (5181 GP), Passage to Arkul is opened.* The characters are in a natural cavern with a collapsed ceiling, with one single tunnel that goes north. The collapsed ceiling gives access the Ammuinoth. A flux of bright green high energy is going through the tunnels. The characters land in the midst of a battle between six duergar and two gricks. No matter who wins, they aren’t welcoming toward the party.
+6. *498 years in the past (3377 NC), before the Great Depart.* The walls and furnishings of the library are ornate. Three elves are in the room, reading or sorting material on the shelves. They look at the characters with mild curiosity. They’ve seen the construct before, or at least heard about its rare appearances from previous caretakers of the scriptorium. This is the first time it’s been accompanied by anyone other than the clockwork servants, though these elves might not know that. How long the construct remains is up to you. The elves are friendly and willing to talk, but they won’t allow any material to be taken from their library. They speak only archaic Elvish (which is difficult to understand) and Draconic. Should the characters decide to get hostile, these elves use the stats of an archmage, an assassin, and a gladiator. When the construct fires up to leave, the elves quickly step out of its range and remain behind in their own time.
+7. *1500 years in the future, realisation 982AC123.* The chambers are barely recognisable from their earlier features. The hole in the floor of Area 215 has been repaired. Area 218 has been converted into a throne room for a clockwork king attended by six clockwork soldiers (Creature Codex) and four courtiers (clockwork servants). They have, of course, heard tales of the shining blue deity that appeared briefly to their forebears generations ago but never imagined it would return in their runtimes. King Zakchi assumes the characters are the organic slaves of the time construct and the obviously superior clockwork servants, and he tends to ignore them or even become slightly offended if characters speak to him directly.
+8. *15000 years in the future, realisation D358A-B draft.* Doomsday has arrived, the characters are in the complete dark with only the floor around the construct holding them.
+9. *50,000 years in the future, realisation 3.* Undead from the Drylands have taken control of the now unrecognisable area. A wight, a ghast, and three ghouls are prowling through the chambers. The architecture looks as if the whole place was sculpted from worm-eaten bone. Over its bulky armor, the wight wears grave-stained priestly robes of dark maroon with a bright red sash. It confronts the characters in Darakhul that has evolved to the point where it’s incomprehensible; it switches to nearly unintelligible Common if they don’t understand its first attempts. The wight-priest demands to know why the intruders defy the holy commands of Syrinx. It does not explain what this means, and if characters protest their innocence in any way, the undead attack in a righteous fury. More undead can join in if you want to up the ante.
+10. *75,000 years in the future, realisation 789S.* By this time, the upper layers are gone, blasted away by some titanic cataclysm. The area is open to the sky, which is wreathed in sheets of perpetual green flame. The dominant life form is chuuls, and they’ve become considerably more intelligent over the millennia. Two chuuls stand nearby. Their stats are identical to standard chuuls except they have an Intelligence score of 24 and telepathy (240 feet). They are only momentarily perturbed by the arrival of the time construct and the characters. One of the chuuls issues a telepathic command to “surrender the devices and prepare for cranial cessation.” The other chuul levels a complex metal device about 9 feet long at the characters. The device is a lightning gun capable of shooting a lightning bolt every other round (100-foot line; 8d6 lightning damage; save DC 13; can be fired only by someone with chuul claws and telepathy).
 
 ![|400](https://i.imgur.com/7CU16zR.png)
 

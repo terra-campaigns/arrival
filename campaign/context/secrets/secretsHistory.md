@@ -51,7 +51,7 @@ As Kyri armies marched, with war their reign.
 Then Gronz, Ulkrunnar's son, did create,
 A staff of light that could destroy the foe,
 For hundreds of years, he did oblate,
-Nek's followers with Uli's fatal blow.
+Nek's followers theurgic fatal blow.
 
 Part 2 (Celestial)
 
@@ -60,7 +60,7 @@ Though weakened by the Great Purge's fire,
 In Forsaken Hall, they did abide,
 Deep below the fortress of Turnskull's spire.
 
-For mortals, though, a fate worse than death,
+For immortals, though, a fate worse than death,
 To Acrisius, they were cast away,
 A world unknown, where they drew their breath,
 Forevermore, in darkness they would stay.

@@ -34,7 +34,7 @@ Acrisae and Turnskull: 7 fronts in total, 3 each plus the deflagration of full w
 - [ ] 8: (mandatory 1st front) - think on active closure of Part 2 by PCs. Maybe battle with Ghost Riders? 
 - [ ] 9: Foreshadowing for Part 3 - Thick mist starts
 - [ ] 10: (mandatory 2nd front) - closes Part 2
-- [ ] 11: 
+- [ ] 11: PCs are now becoming godbounds, respected and feared by powerful creatures - making a strong name for themselves in the entire continent.
 - [ ] 12:
 - [ ] 13: (mandatory 3rd front)
 - [ ] 14: (mandatory 4th front) - closes Part 3

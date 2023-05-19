@@ -12,6 +12,8 @@ tags: relevant
 
 # Cagoth-ze
 
+![|500](https://i.imgur.com/XWEnZZC.png)
+
 The lower ranking of Gellert the Gruesome’s two lieutenants is the gnome wizard Cagoth-ze. He left his ancestral home in Neimheim decades ago after a long-running squabble with his brother turned deadly over a birthright. Fratricide isn’t that shocking in the Nine Cities, but Cagoth-ze was the unpopular one of the two siblings. His brother’s allies would have killed him (or worse), so he departed for safer territory. In light of his fascination with ley lines, conjurations, and time manipulation, he couldn’t have landed in a better spot than the ancient scriptorium of the elves beneath the Scarlet Citadel. The gnome bemusedly considers murdering his brother to be the best thing he ever did.
 
 ```statblock

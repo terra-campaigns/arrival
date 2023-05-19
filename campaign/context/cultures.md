@@ -16,7 +16,9 @@ tags:
 
 Nomadic and/or rural in nature. Very few cities lie in the desert, but some small cities are found in the coastal areas. Most of the Nulfirth people are mixed breed between several species such as dust elves, dwarves, gnomes, halflings and humans.
 
-Living conditions are very tough for the Nulfirth, and those who reach adult age are generally hardened by their survival. Magic is not widely accepted by the Nulfirth. Most are ok with it, but prefer it away from them (and don't like being involved with it). A few are very intolerant. The common language spoken by the south Nulfirth people is called the Cold Nulfirther. Younger people (20 years old or less) would also speak the Khathan language. In the north of the Glasrath Mountains, Nulfirth people speak a dialect called Sun Nulfirther, and the official Khathan language.
+Living conditions are very tough for the Nulfirth, and those who reach adult age are generally hardened by their survival. Magic is not widely accepted by the Nulfirth. Most are ok with it, but prefer it away from them (and don't like being involved with it). A few are very intolerant.
+
+The common language spoken by the south Nulfirth people is called the Cold Nulfirther. Younger people (20 years old or less) would also speak the Khathan language. In the north of the Glasrath Mountains, Nulfirth people speak a dialect called Sun Nulfirther, and the official Khathan language.
 
 ### Kimbarak
 
