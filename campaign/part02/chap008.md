@@ -1,7 +1,7 @@
 ---
 type: chapter
 part: 2
-name: 
+name: Lady Scurvy in the Ammuinoth
 world: Guemenos
 campaign: Arrival
 game_date: 3877.5B3
@@ -22,7 +22,7 @@ tags:
 
 ---
 
-# Chapter 8
+# Chapter 8 Lady Scurvy in the Ammuinoth
 
 ## Reviews for planning
 
@@ -68,17 +68,20 @@ sort file.name asc
 - **Kethra**: Find the purple dragon
 
 ## Intro
-- Things to discuss before game starts
+- Babi will play the sorcerer or the archer?
+- By the end of the session, or by Sunday evening, tell me what change in the world you want to do next
 
 ## Strong start 
-- 8-day trip to get to Mystra's temple, where characters will rest and recover.
-- Encounter: one encounter each 1d6 days [use link level 2, underdark, all sources, all types](https://www.chaosgen.com/dnd5e/encounter)
 
 ### Mystra's Temple
+- 8-day trip to get to Mystra's temple, where characters will rest and recover
 - Location: [Mystra's Temple](../locations/templeMystra.md)
 - Draw: Find the password for Mystra's door
 - NPCs in the temple are: priests, cultists and traders (commoners)
 - Consider having a [Thunderstorm](../rules/houseRules.md#Thunderstorm) 2d4 hours after leaving the temple
+
+### Ushulx' trap
+- She will try to communicate (sneak past PCs) with Cagoth-ze to warn of the intruders - and make a plan to get rid of them (e.g. arousing the undead to where they are resting, etc)
 
 ## Potential scenes 
 
@@ -173,29 +176,29 @@ creatures:
 - [ ] #strategic Cagoth-ze had Imortra build a summoning circle and summon Lasbascilag (the Lesser Infernal Tutor). Immorta wants nothing to do with the devil (she knows how dangerous it is). Cagoth thinks he can control the devil to get valuable information.
 - [ ] #strategic The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the citadel. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
 - [ ] #spoiler Closing the portal requires more than just traditional magic or arcane manipulation. A darkness deep below the Scarlet Citadel is responsible for the open wound leading to the Dry Lands.
-- [ ] #spoiler Torture of Galiera and the calling for the Angel Hound
+- [x] #spoiler Torture of Galiera and the calling for the Angel Hound
 - [ ] #spoiler Cagoth-ze is a powerful wizard but completely obsessed with acquiring knowledge of the elves who used to be here. The elves managed to hide their lore not in a place, but in a time, and that steered Cagoth-ze into the twisted practice of Time Magic. It’s amazing he hasn’t torn himself into pieces spread over thousands of years practicing this type of heretical magic.
 - [ ] #spoiler  Cagoth-ze has constructs traveling into the future to recover elven tomes hidden away in the future. They bring them back and attempt to copy them before those tomes disappear back to the future. It takes many runs on the same book to make a full copy. It’ll take years to get the whole library copied.
 - [ ] #puzzle Exit of Mystra's door is in the Dannamore Hold ruins
-- [ ] #puzzle The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the citadel. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
 - [ ] #puzzle The multiple nodes tying these lines of power together. Each must be disabled to release the tension of the lines.
 - [ ] #spoiler Level 3 used to be the dwarven barracks of the dwarves who built the Scarlet Citadel but is now overrun with trollkin and dire owlbears bred by the dwarves long ago. Below are the unconstructed caverns of the Ghost Domain - where a dark river flows.
+- [ ] #spoiler ?? not now Gaelira was sent to Raganni for a Lich ritual (wait for characters to be level 5?)
 
 **Linhe**
 - [ ] #puzzle FFKA very little knowledge about the castle - and just a bunch of religious bullies
-- [ ] #puzzle Every few months, on the night of the new moon, hordes of undead appear from the Ghost Domain and invade Linhe.
+- [x] #puzzle Every few months, on the night of the new moon, hordes of undead appear from the Ghost Domain and invade Linhe.
 - [ ] #puzzle Dark thunderstorms a becoming very frequent and the [Desolate Flats](../context/environments.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing).
-- [ ] #spoiler  Province of Linhe is the most important in Katho, after the capital - as the last territorial defence against the south.
+- [x] #spoiler  Province of Linhe is the most important in Katho, after the capital - as the last territorial defence against the south.
 - [ ] #context Darklake in the Ghost Domain connects this world with the world of the dead. A great and terrible river runs underneath the world in Linhe – this is actually a branch of the River Styx.
-- [ ] #puzzle Similar creatures to the Lady Scurvy ghouls were once fought in the Katho-D'Elsin war - and are thralls of the vampires, but not with the attached symbiont.
-- [ ] #spoiler Give hint that the Rurkinar have been trying to communicate with the Angel Hound, with no success
+- [x] #puzzle Similar creatures to the Lady Scurvy ghouls were once fought in the Katho-D'Elsin war - and are thralls of the vampires, but not with the attached symbiont.
+- [x] #spoiler Give hint that the Rurkinar have been trying to communicate with the Angel Hound, with no success
 
 **General**
-- [ ] #spoiler Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
+- [x] #spoiler Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
 - [ ] #spoiler Frost goblins come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
 - [ ] #spoiler Theory around existence of shadow dragons.
 - [ ] #context  Age of dragons in the past, now they barely leave the Dragons' Island
-- [ ] #context Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin). These rocks were used in the long past by godbound mechanics.
+- [ ] #context Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin). These rocks were used in the long past by Seraphic engine makers.
 - [ ] #spoiler Foucheresia is joining Katho in the war, and sending the Thymar host south
 - [ ] #spoiler Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a puppet
 
@@ -208,10 +211,19 @@ creatures:
 - [ ] #context [The great purge](../context/secrets/secretsHistory.md#The%20great%20purge)
 - [ ] #context For centuries, tyrannical arcanists dueled over the Brezal Paths. Tremendously powerful creatures built and abandoned principalities as the fickle Paths shifted, and the constant magical strife among the rivals drained the life from the land. Only the bones of these cities remain today, their tumbled stones and spires covering a landscape.
 - [ ] #context When the elves realized the enormity of what this library represented, they cast an enchantment over the place to protect it. Their enchantment threw the library and its contents 100,000 years into the future. That distant age is far beyond the collapse of all predicted civilizations. The elves reasoned that even if the library were discovered to exist in that time, it’s unlikely anyone of that era could understand its contents; according to elven oracles, whatever creatures inhabit Midgard 100,000 years in the future will have a completely different understanding of the fundamental underpinnings of magical philosophy.
-- [ ] #context #spoiler Theurgy
+- [ ] #context #spoiler Theurgy and Theotechnical mechanics
+
+## Potential treasures  
+- [Bitterluchcloak](../context/secrets/secretsArtefacts.md#Bitterluchcloak)
+- 1000 gp
+- Stones
+	- Amber (translucent rich gold, 100gp)
+	- Jade (translucent white, 100gp)
+- [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)
+- [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
+- [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
 
 ## Fantastic locations  
-
 
 ### Relevant settlements
 
@@ -236,16 +248,6 @@ from "campaign"
 WHERE type = "npc" AND tags = "relevant"
 sort file.name asc
 ```
-
-## Potential treasures  
-- [Bitterluchcloak](../context/secrets/secretsArtefacts.md#Bitterluchcloak)
-- 1000 gp
-- Stones
-	- Amber (translucent rich gold, 100gp)
-	- Jade (translucent white, 100gp)
-- [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/potion-of-healing)
-- [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
-- [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
 
 ## Appendix
 
@@ -380,7 +382,7 @@ creatures:
 5. *6512 years in the past (5181 GP), Passage to Arkul is opened.* The characters are in a natural cavern with a collapsed ceiling, with one single tunnel that goes north. The collapsed ceiling gives access the Ammuinoth. A flux of bright green high energy is going through the tunnels. The characters land in the midst of a battle between six duergar and two gricks. No matter who wins, they aren’t welcoming toward the party.
 6. *498 years in the past (3377 NC), before the Great Depart.* The walls and furnishings of the library are ornate. Three elves are in the room, reading or sorting material on the shelves. They look at the characters with mild curiosity. They’ve seen the construct before, or at least heard about its rare appearances from previous caretakers of the scriptorium. This is the first time it’s been accompanied by anyone other than the clockwork servants, though these elves might not know that. How long the construct remains is up to you. The elves are friendly and willing to talk, but they won’t allow any material to be taken from their library. They speak only archaic Elvish (which is difficult to understand) and Draconic. Should the characters decide to get hostile, these elves use the stats of an archmage, an assassin, and a gladiator. When the construct fires up to leave, the elves quickly step out of its range and remain behind in their own time.
 7. *1500 years in the future, realisation 982AC123.* The chambers are barely recognisable from their earlier features. The hole in the floor of Area 215 has been repaired. Area 218 has been converted into a throne room for a clockwork king attended by six clockwork soldiers (Creature Codex) and four courtiers (clockwork servants). They have, of course, heard tales of the shining blue deity that appeared briefly to their forebears generations ago but never imagined it would return in their runtimes. King Zakchi assumes the characters are the organic slaves of the time construct and the obviously superior clockwork servants, and he tends to ignore them or even become slightly offended if characters speak to him directly.
-8. *15000 years in the future, realisation D358A-B draft.* Doomsday has arrived, the characters are in the complete dark with only the floor around the construct holding them.
+8. *15000 years in the future, realisation D358A-B Uncreated.* Doomsday has arrived, the characters are in the complete dark with only the floor around the construct holding them.
 9. *50,000 years in the future, realisation 3.* Undead from the Drylands have taken control of the now unrecognisable area. A wight, a ghast, and three ghouls are prowling through the chambers. The architecture looks as if the whole place was sculpted from worm-eaten bone. Over its bulky armor, the wight wears grave-stained priestly robes of dark maroon with a bright red sash. It confronts the characters in Darakhul that has evolved to the point where it’s incomprehensible; it switches to nearly unintelligible Common if they don’t understand its first attempts. The wight-priest demands to know why the intruders defy the holy commands of Syrinx. It does not explain what this means, and if characters protest their innocence in any way, the undead attack in a righteous fury. More undead can join in if you want to up the ante.
 10. *75,000 years in the future, realisation 789S.* By this time, the upper layers are gone, blasted away by some titanic cataclysm. The area is open to the sky, which is wreathed in sheets of perpetual green flame. The dominant life form is chuuls, and they’ve become considerably more intelligent over the millennia. Two chuuls stand nearby. Their stats are identical to standard chuuls except they have an Intelligence score of 24 and telepathy (240 feet). They are only momentarily perturbed by the arrival of the time construct and the characters. One of the chuuls issues a telepathic command to “surrender the devices and prepare for cranial cessation.” The other chuul levels a complex metal device about 9 feet long at the characters. The device is a lightning gun capable of shooting a lightning bolt every other round (100-foot line; 8d6 lightning damage; save DC 13; can be fired only by someone with chuul claws and telepathy).
 

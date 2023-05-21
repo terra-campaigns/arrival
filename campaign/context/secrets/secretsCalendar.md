@@ -13,7 +13,9 @@ tags:
 ***Iopothae Time (IT) calendar***
 - 0 IT The rule of the three oldest Edrahil starts
 - 1000 IT [The Ammuinoth](../realms.md#Ammuinoth) starts being build by elves and dwarves
+- 1500 IT Powerful Edrahil tame the Theurgy powers through music
 - 3000 IT [The Ghost Domain](../realms.md#Underdark) is found by the drow
+- 3700 IT Development of Theotechnical disciplines start, with the first proto-seraphic engines created
 - 4500 IT Ulkrunnar and the Kyri are awoken
 - 6000 IT Dark creatures start populating The Ophaire
 - 7000 IT The Kyri and the Ophaire creatures start the War for Guemenos against the Edrahil
@@ -44,4 +46,4 @@ tags:
 - 3867 NC Aivridyt comes back from Shadowfell and lay eggs in the caverns of the Naragzah mountains
 - 3870 NC Galiera and the Paragon Force are caught by the Trollkin and sent to be tortured by the Gaoler
 - 3871 NC The Angel Hound is imprisoned in the [holzanderCastle](../locations/holzanderCastle.md)
-- 3872 NC Galiera is sent to Gellert who infuses her with void magic and turns her into a vampire
+- 3872 NC Galiera is sent to Gellert who sends her to a lich ritual
