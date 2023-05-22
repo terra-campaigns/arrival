@@ -1,6 +1,6 @@
 ---
 type: npc
-species: 
+species: human
 name: Danaska
 world: Guemenos
 campaign: Arrival

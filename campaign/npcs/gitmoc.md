@@ -7,7 +7,7 @@ campaign: Arrival
 location: Glasrath
 faction: Glasrath
 deceased: false
-tags: relevant
+tags: 
 ---
 
 # Gitmoc Fieryshoulder

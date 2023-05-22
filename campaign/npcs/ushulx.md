@@ -1,6 +1,6 @@
 ---
 type: npc
-species: Human
+species: human
 name: Ushulx
 world: Guemenos
 campaign: Arrival
@@ -23,6 +23,11 @@ tags: relevant
 -   In the end, Ushulx wants the characters dead, and she’s certain they’ll be killed if they proceed to deeper levels. Helping them head down to the arcane scriptorium or into the crypts is her way of sending them to their deaths. If the characters are disrespectful or try to bully her, Ushulx warns Cagoth-ze that intruders are on the way (assuming she isn’t killed in the crypts).
 
 After meeting the characters Ushulx now likes them, as she thinks they are necromancers.
+
+```statblock
+creature: Cult Fanatic
+```
+
 
 ## Conversation guide
 

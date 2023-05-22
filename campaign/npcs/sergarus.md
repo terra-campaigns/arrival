@@ -1,6 +1,6 @@
 ---
 type: npc
-species: 
+species: human
 name: Sergarus
 world: Guemenos
 campaign: Arrival
