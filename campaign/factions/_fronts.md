@@ -2,7 +2,7 @@
 
 ## Rules
 
-Roll a d20 every time party level reaches a new integer (from 6 onwards), against DC 11. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last - and it should happen at level 20 latest.
+Roll a d20 every time party level reaches a new integer (from 5 onwards), against DC 11. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last - and it should happen at level 20 latest.
 
 Statistically this gives the following distribution:
 
@@ -28,7 +28,7 @@ Acrisae and Turnskull: 7 fronts in total, 3 each plus the deflagration of full w
 - [ ] Turnskull takes the entirety of south Etor, ready for war
 
 **Party level and outcome**
-- [ ] 5 (party went back)
+- [ ] 5: 
 - [ ] 6: Random world shaking event A (dmg27)
 - [ ] 7: Foreshadowing for Part 3 - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202
 - [ ] 8: (mandatory 1st front)

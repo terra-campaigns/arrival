@@ -93,13 +93,33 @@ flowchart LR
 ```
 
 ```dataview
-table without ID link(file.link, name) AS "Faction", tier AS "Tier", features AS "Features", trouble AS "Trouble", cohesion AS "Cohesion", dominion as "Dominion"
+table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "I1", interest.ffkaEast AS "I2", interest.rurkinar AS "I3", interest.mercians AS "I4"
 from "campaign/factions"
 WHERE contains(type, "faction")=true
-sort file.name asc
+sort id asc
 ```
 
-![_fronts](_fronts.md#fronts)
+### 3877.5F
+
+- Order: 3, 1, 2, 4
+- Rurkinar
+	- INT build strength - 1d8 DC 6 to get 1 dominion, outcome 6 - pass
+	- EXT extend interest glasrah: extend trade route - automatic #info
+	- EXT extend interest mercians: protection prayer for Linhe - 1d8 Vs 1d10, outcome 2 Vs 9 - no change, not enough followers for the prayer
+- Glasrath
+	- INT build strength - 1d8 DC 4 to get 1 dominion, outcome 8 - pass
+	- EXT extend interest rurkinar: extend trade route (Whursock) - automatic #info
+	- EXT extend interest mercians: make some dark partnership - automatic #info
+- FFKA East
+	- INT build strength - 1d8 DC 4 to get 1 dominion, outcome 2 - fail
+	- EXT attack Rurkinar: try to incarcerate Otaehryn Valdove (chieftan) in linhe - 1d8 Vs 1d8, outcome 1 Vs 4 - no change #info
+	- EXT extend interest mercians: bully the mercians so they are watchful in Linhe - 1d8 Vs 1d10, 3 Vs 7 - no change, Mercians are too dodgy
+- Mercians
+	- INT build strength - 1d10 DC 4 to get 2 dominion, outcome 4 - pass
+	- EXT extend interest glasrath: expansion towards the mountains - automatic #info 
+	- EXT extend interest rurkinar: watchful of each other - 1d10 Vs 1d8, result 8 Vs 3 - pass #info
+	- EXT extend interest ffka: manipulate them - 1d10 Vs 1d8, result 7 Vs 6 - pass #info
+
 
 ### 3877.5B
 

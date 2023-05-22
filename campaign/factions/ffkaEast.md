@@ -1,6 +1,7 @@
 ---
 type: faction
 name: FFKA East
+id: 02
 world: Guemenos
 continent: Etor
 campaign: Arrival
@@ -9,6 +10,11 @@ features: 2
 trouble: 3
 cohesion: 2
 dominion: 1
+interest:
+  glasrath: 0
+  ffkaEast: 
+  rurkinar: -5
+  mercians: -6
 tags: 
 ---
 

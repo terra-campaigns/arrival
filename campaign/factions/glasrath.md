@@ -1,6 +1,7 @@
 ---
 type: faction
 name: Glasrath Alliance
+id: 01
 world: Guemenos
 continent: Etor
 campaign: Arrival
@@ -8,7 +9,12 @@ tier: 2
 features: 2
 trouble: 3
 cohesion: 2
-dominion: 3
+dominion: 4
+interest:
+  glasrath:
+  ffkaEast: 0
+  rurkinar: 2
+  mercians: 1
 tags: 
 ---
 
@@ -34,7 +40,7 @@ tags:
 
 - **Features**
 	- Being led by a necromancer, it is easy to keep a high number of members
-	- The leader is [Aivridyt](../npcs/aivridyt.md), a shadow dragon - which is very strong
+	- Serhan is a very loyal capitan 
 - **Trouble**
 	- Formed by many different origins during the escape to the mountains
 	- Scarcity of resources due to remoteness

@@ -1,6 +1,7 @@
 ---
 type: faction
 name: Rurkinar Cultists
+id: 03
 world: Guemenos
 continent: Etor
 campaign: Arrival
@@ -8,7 +9,12 @@ tier: 2
 features: 2
 trouble: 5
 cohesion: 2
-dominion: 0
+dominion: 1
+interest:
+  glasrath: 2
+  ffkaEast: -4
+  rurkinar: 
+  mercians: -3
 tags: 
 ---
 
@@ -33,9 +39,8 @@ tags:
 ## Faction summary
 
 - **Features**
-	- Strong shaman powers (druidic)
-	- High Shaman can speak with Rurkinar
-
+	- High shaman proven (druidic) powers, who can communicate with gods
+	- Strong cult believers, protectors of Linhe
 - **Trouble**
 	- Lost their strongest ally - the Angel Hond (1 pt)
 	- Are losing followers to the FFKA fast (1 pt)

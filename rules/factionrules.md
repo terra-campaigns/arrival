@@ -35,7 +35,8 @@ The faction game mechanics follows [Godbound: A Game of Divine Heroes (Free Edit
 
 ### Dominion costs
 
-Godbound, page 129.
+Godbound, page 129
+
 | Scope   | Base cost | Impact                                       |
 | ------- | --------- | -------------------------------------------- |
 | Village | 1         | Villages, a few square miles, 1,000 people   |

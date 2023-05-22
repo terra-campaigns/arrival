@@ -1,6 +1,7 @@
 ---
 type: faction
 name: Mercians
+id: 04
 world: Guemenos
 continent: Etor
 campaign: Arrival
@@ -8,7 +9,12 @@ tier: 3
 features: 4
 trouble: 3
 cohesion: 3
-dominion: 12
+dominion: 14
+interest:
+  glasrath: 1
+  ffkaEast: -10
+  rurkinar: -7
+  mercians: 
 tags: 
 ---
 
