@@ -20,6 +20,16 @@ tags:
 
 # Faithful Faletist Knights of the Arch, East Branch
 
+- **Features**:
+	- Faithful followers and members
+	- Organised military organisation
+- **Trouble**:
+	- Sergarus, the commander, is not in good relationship with Olivepia's FFKA (1 pt)
+	- Deflection of members to the Dark Cavalry (1 pt)
+	- Many members do not trust Sergarus anymore, and are very uncomfortable with the impalements (1 pt)
+- **Goals**
+	- [ ] Remove problem: Strengthen its hold on its members (cost 4: city + skilled mage opposition - Gellert, plausible)
+
 ## Court
 
 - **Type**: Temple
@@ -36,18 +46,6 @@ tags:
 	- Lack of trust in the figurehead.
 - **Consequence of its destruction**: some cities depend on the organisation charity, which would not be taken by Olivepia's FFKA.
 - **Defences**: strong military organisation
-
-## Faction
-
-- **Features**:
-	- Faithful followers and members
-	- Organised military organisation
-- **Trouble**:
-	- Sergarus, the commander, is not in good relationship with Olivepia's FFKA (1 pt)
-	- Deflection of members to the Dark Cavalry (1 pt)
-	- Many members do not trust Sergarus anymore, and are very uncomfortable with the impalements (1 pt)
-- **Goals**
-	- [ ] Remove problem: Strengthen its hold on its members (cost 4: city + skilled mage opposition - Gellert, plausible)
 
 ## Details
 

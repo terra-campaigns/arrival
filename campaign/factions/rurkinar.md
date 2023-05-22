@@ -20,7 +20,21 @@ tags:
 
 # Rurkinar Cultists
 
-## Organisation summary
+- **Features**
+	- High shaman proven (druidic) powers, who can communicate with gods
+	- Strong cult believers, protectors of Linhe
+- **Trouble**
+	- Lost their strongest ally - the Angel Hond (1 pt)
+	- Are losing followers to the FFKA fast (1 pt)
+	- Are in general afraid, that something dark is brewing in the air (1 pt)
+	- High Shaman is troubled (acquired from a foil from FFKA East in [3877.5B](_factionGame.md#3877.5B))
+	- something else because of new feature.... roleplay during chap 7: maybe the Shamans are killed, or many followers are killed in a fight with FFKA?
+
+- **Goals**
+	- [x] Feature: communication with Rurkinar and find the Angel Hound (cost 2: village, implausible). Succeeded in 3877.5B.
+	- [ ] Reduce problems
+
+## Court
 
 - **Type**: Community
 - **Power structure**: autocratic (Chieftain has largely unchallenged control)
@@ -35,22 +49,6 @@ tags:
 	- The kin of the Otaehryn (chieftan) is missing, and Ailen (barfly) tells it was Dirue (outcast) who did it. 
 - **Consequence of its destruction**: The dust elf trade link will collapse
 - **Defences**: a mob of angry [peasants](https://open5e.com/monsters/commoner)
-
-## Faction summary
-
-- **Features**
-	- High shaman proven (druidic) powers, who can communicate with gods
-	- Strong cult believers, protectors of Linhe
-- **Trouble**
-	- Lost their strongest ally - the Angel Hond (1 pt)
-	- Are losing followers to the FFKA fast (1 pt)
-	- Are in general afraid, that something dark is brewing in the air (1 pt)
-	- High Shaman is troubled (acquired from a foil from FFKA East in [3877.5B](_factionGame.md#3877.5B))
-	- something else because of new feature.... roleplay during chap 7: maybe the Shamans are killed, or many followers are killed in a fight with FFKA?
-
-- **Goals**
-	- [x] Feature: communication with Rurkinar and find the Angel Hound (cost 2: village, implausible). Succeeded in 3877.5B.
-	- [ ] Reduce problems
 
 ## Details
 
