@@ -1,10 +1,3 @@
-### Bitterluchcloak
-***Mercian cloak of bitter luck, requires attunement***
-
-Its textile was etched with ancient runes that glowed when activated with a pulsing, ethereal energy. The cloak had been woven by a long-dead wizard, who had imbued it with the power to harness the luck through air itself. It was said that the wizard had met a terrible fate, his body withered away from overuse of the cloak' power. But despite the risks, many still sought out the cloak, eager to wield its incredible power and claim their place among the greatest mages in the land. The cloak is full of runes written in Qualith.
-
-- You gain a +1 bonus to AC and saving throws while you wear this cloak.
-- Any friendly creature within 60ft of the cloak can expend one sanity point to re-roll any dice that directly impacts oneself.
 
 ## Unfinished ideas
 
