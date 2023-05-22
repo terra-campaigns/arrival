@@ -6,18 +6,19 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Cleric 4
-xp: 
+xp: 6238
 ac: 18
-initiative: (A)
+initiative: 12 (A)
 speed: 30
-darkvision: TRUE
+darkvision: 30
+sanity: 14
 skills:
   perception: 15 (A)
   investigation: 14
   insight: 15
   persuasion: 10
   stealth: 12 (D)
-artefacts: [Iopothaeshield]
+artefacts: [Iopothaeshield, Bitterluchcloak]
 tags:
 ---
 

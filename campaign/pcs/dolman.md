@@ -6,9 +6,12 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Fighter 4
-ac: 16
-initiative: 
-speed:
+xp: 9546
+ac: 18
+initiative: 12
+speed: 25
+darkvision: 30
+sanity: 11
 skills:
   perception: 13
   investigation: 10

@@ -6,14 +6,17 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Warlock 2
+xp: 2460
 ac: 15
 initiative: 13
 speed: 25
+darkvision: 30
+sanity: 11
 skills:
   perception: 10
   investigation: 11
   insight: 10
-  persuasion: 24
+  persuasion: 14
   stealth: 13
 artefacts: [Dreadmaska]
 tags:

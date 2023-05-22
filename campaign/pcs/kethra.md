@@ -6,9 +6,12 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Sorcerer 5
+xp: 8931
 ac: 13
-initiative: 
-speed:
+initiative: 10
+speed: 30
+darkvision: 
+sanity: 13
 skills:
   perception: 12
   investigation: 11
