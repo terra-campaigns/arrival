@@ -210,6 +210,7 @@ creatures:
 - [ ] #context Darklake in the Ghost Domain connects this world with the world of the dead. A great and terrible river runs underneath the world in Linhe – this is actually a branch of the River Styx.
 - [ ] #spoiler Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
 - [ ] #spoiler FFKA East tried to incarcerate Otaehryn Valdove (Rurkinar chieftan) in the city of Linhe
+- [ ] #spoiler An influential FFKA East plans to overthrow General Drakov during the next zombie assault on Linhe by sabotaging the city's defences and admitting the zombies to the Bastion Ward.
 
 **General**
 - [ ] #spoiler Frost goblins come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
