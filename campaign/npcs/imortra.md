@@ -13,8 +13,20 @@ tags: relevant
 # Imortra The Debased
 ***Guilf's mother***
 
+- **Ideal**: Addicted to knowledge, would give everything she has for a promise of knowledge.
+- **Traits**: 
+	- Independent, but cunning about it with everyone - even alies.
+	- Would never save anyone, unless if with a promise of knowledge.
+- **Bonds**:
+	- Wants to be embraced and loved by the void.
+	- Wants to make Sergarus suffer in the most horrible way.
+- **Flaws**: I'm distrustful of anyone who seems pure of heart and will prove to all their admirers how secretly ugly they are.
+- **Evil acts**: sold the soul of husband and son (Guilf) in a contract for deep knowledge with The Void 
+- **Transformation**: Imortra's most painful memories visually repeat in reflections around them or amid illusory projections.
+	- Ritual with the husband
+	- Ritual with Guilf
+	- Sergarus taking Imortra and husband
 
-**Make her a dark lord**
 
 ![](https://i.imgur.com/NddzXJG.png)
 
@@ -31,4 +43,3 @@ tags: relevant
 Imortra the Debased is an elf wizard who’s fanatically devoted to Gellert the Gruesome. She heard tales about the unique magical properties of the Scarlet Citadel region from elves who saw those properties firsthand centuries ago, before the Holzanger family laid any claim over the area. Those tales drew Imortra to the citadel to study, and Gellert was already there. Their peculiar interests overlapped, and because Gellert was far ahead of Imortra in knowledge and understanding, he became the master and she the student. But they are also collaborators.
 
 Imortra’s name originated during the years of her early adulthood, when her research and experiments in conjuring elementals and devils resulted in repeated tragedies. Traditional elements of her elven community considered such things to be “dark arts,” and they condemned her for tapping into evils she didn’t understand and couldn’t control. When her conjurations resulted in innocent deaths, Imortra was banned from the elven community for two centuries.
-
