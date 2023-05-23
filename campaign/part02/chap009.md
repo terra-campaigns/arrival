@@ -38,16 +38,15 @@ tags:
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks
 - [x] Detail strong start
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed
-- [ ] Define secrets & clues, reviewing scenes
-- [ ] Outline fantastic locations, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Outline potential foes, if not all in an appendix
-- [ ] Define treasure
-- [ ] Prepare Owlbear, if applicable
-- [ ] Move big texts to appendix in the file
-- [ ] Prepare time travel table (linked with secrets)
-- [ ] Prepare random encounters (linked with secrets) - including random locations
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed
+- [x] Define secrets & clues, reviewing scenes
+- [x] Outline fantastic locations, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Outline potential foes, if not all in an appendix
+- [x] Define treasure
+- [x] Prepare Owlbear, if applicable
+- [x] Move big texts to appendix in the file
+- [x] Prepare random encounters (linked with secrets) - including random locations
 - [x] Owlbear L3
 - [ ] Make reminders (2x2 index cards) for pacing
 	- [ ] combat: describe more and give secrets during it
@@ -100,6 +99,7 @@ sort file.name asc
 ## Potential scenes 
 
 ### Rurkinar festival and ritual, and FFKA censoring
+
 - The ritual finally completes in an unexpected way: a torrent of rain
 - [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) and 10 other cultist are imprisoned, and in the cell the Angel Hound communicates with the shaman, explaining he is imprisoned in the lost castle of the Holzander's.
 - [Sergarus](../npcs/sergarus.md) arrive in the next day to interrogate cultists.
@@ -118,62 +118,73 @@ sort file.name asc
 > Restored their strength with magic ties,
 > And now she serves as an Angel in the skies.*
 
-### Travel to the Dannamore ruins
+Travel to Holzander 
 
-### Dannamore to desert thunderstorm
-- Location: Exit from [dannamore](../locations/dannamore.md)
-- Environment: [Thunderstorm](../../rules/houseRules.md#Thunderstorm))
+### Dannamore's entrance - desert thunderstorm
+
+- Location: Entrance from [Dannamore](../locations/dannamore.md)
+- Environment: [Thunderstorm](../../rules/houseRules.md#Thunderstorm)
 	- Temperature: [-10C, 0C]
 	- Wind: Severe, 50 Km/h
 	- Duration: 3 days
 	- Time of day: 1d4 x 6h, but it is dark due to the thunderstorm
 - Threat: Pressured by frost goblins and a thunderstorm with an elemental
-- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them.
+- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost goblins - they are famished and would attempt to kill the characters to eat them, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them. **PCs might avoid the battle and join forces with elemental.** See [Dannamore](../locations/dannamore.md) for background story.
 - End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Goblins are dealt with
 
 ```encounter
 name: Desert Thunderstorm (CR 15)
 creatures:
  - 2: Bugbear
- - 12: Goblin
- - 10: Hobgoblin
+ - 6: Goblin
+ - 4: Hobgoblin
  - 1: Air Elemental
 ```
 
-### H114 Mystra's door
-- Location: [Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
-- Draw: Learn where the door is located for finding it from above
-- Password in ancient Elvish: "*Edr- dolenpant fen, a let golodh n-*" which means "Open resourceful door, and let knowledge be"
-- From the desert side it connects to [dannamore](../locations/dannamore.md)
-
 ### Cagoth-ze and Danaska pissed off with each other
 
-### Arrive in the city of Linhe
-
-### Ushulx' trap
-- She will try to communicate (sneak past PCs) with Cagoth-ze to warn of the intruders - and make a plan to get rid of them (e.g. arousing the undead to where they are resting, etc)
+- Roll a d4, 1, 2 they meet Cagoth-ze first; 3,4 they meet Danaska first
+- Whoever they meet first tries to identify if the PCs were responsible for the mess on level 2
+- If he/she think they were not responsible, he/she promises PCs gold and stones if they kill the other one
 
 ### Random scenes
 
 **Find ways to give secrets during random scenes.**
 
-| Roll     | 1d12 + 1d20 ([probability](https://anydice.com/))                                                    |
-| -------- | ---------------------------------------------------------------------------------------------------- |
-| 2:3      | It is a [location](https://donjon.bin.sh/fantasy/random/#type=location;location-loc_type=wilderness) |
-| 4:7      | It is a [location with creature](https://www.chaosgen.com/dnd5e/encounter)                           |
-| Settings | Level: Low (1-4), terrain [underdark, desert], sources: all, type: mix, generate: 10                                                                                                     |
+| Roll     | 1d20                                                                                 |
+| -------- | ------------------------------------------------------------------------------------ |
+| 1        | Encounter during travel (1d6: 1 location, 2/3 party, 4/5/6 party & location)         |
+| 2        | Encounter during rest (some wandering party - use creature)                          |
+| Settings | Level: Low (1-4), terrain: desert, sources: all, type: mix, generate: 10 |
 
-#### Twice dead sandwich seller (party)
+- Random [location](https://donjon.bin.sh/fantasy/random/#type=location;location-loc_type=wilderness)
+- Random [location with party](https://www.chaosgen.com/dnd5e/encounter)
 
-#### Meet Nurderad outcast (party)
+#### Twice dead sandwich seller
+
+#### Nurderad outcast
+
 - Scene: While travelling, they meet Gulthas Morseth, a dragonborn outcast from north Nurderad.
 - Dramatic question: Information on the battlemage Grezar ([Aivridyt](../npcs/aivridyt.md)) and the attack under his influence. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
 - Grezar was responsible for Miraak's accident in the war in the south
 
-#### Temple of Remains (location)
+#### Temple of Remains
+
+**Aspects:**
+- Huge gravel wall, in ruins, with tower fortifications
+- Plentiful cracked flasks seem to be decorating.
+- Great statue of beige brass.
+
+- **Original Purpose**: Prison for a supernatural entity
+- **Hazards**: Crumbling Structure
+- **Rewards**: Needed key to some other ruin, unlocking a vault
+
 ![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
 
-#### Hill of dead armies
+#### Dead Made God
+
+![|500](https://i.imgur.com/0dL6nxF.png)
+
 
 ## Information Pool
 
@@ -188,8 +199,10 @@ creatures:
 - [ ] #spoiler  Cagoth-ze has constructs traveling into the future to recover elven tomes hidden away in the future. They bring them back and attempt to copy them before those tomes disappear back to the future. It takes many runs on the same book to make a full copy. It’ll take years to get the whole library copied.
 - [ ] #puzzle Exit of Mystra's door is in the Dannamore Hold ruins
 - [ ] #puzzle The multiple nodes tying these lines of power together. Each must be disabled to release the tension of the lines.
-- [ ] #spoiler Level 3 used to be the dwarven barracks of the dwarves who built the Scarlet Citadel but is now overrun with trollkin and dire owlbears bred by the dwarves long ago. Below are the unconstructed caverns of the Ghost Domain - where a dark river flows.
-- [ ] #spoiler ?? not now Gaelira was sent to Raganni for a Lich ritual (wait for characters to be level 5?)
+- [ ] #spoiler Level 3 used to be the dwarven barracks of the dwarves who built the Scarlet Citadel but is now overrun with trollkin and dire owlbears bred by the dwarves long ago.
+- [ ] #spoiler Level 4 are the unconstructed caverns of the Ghost Domain, now territory of a bat cult - where a dark river flows.
+- [ ] #spoiler There are twenty five trollkin, eight lich hounds, and four dire owlbears in the Dwarven Ruins.
+- [ ] #spoiler ?? not now Gaelira was sent to Raganni for a Lich ritual (wait for party to be level 6)
 
 **Linhe**
 - [ ] #puzzle FFKA very little knowledge about the castle - and just a bunch of religious bullies
@@ -201,7 +214,7 @@ creatures:
 **General**
 - [ ] #spoiler Frost goblins come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
 - [ ] #spoiler Theory around existence of shadow dragons.
-- [ ] #context  Age of dragons in the past, now they barely leave the Dragons' Island
+- [ ] #context Age of dragons in the past, now they barely leave the Dragons' Island
 - [ ] #context Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin). These rocks were used in the long past by Seraphic engine makers.
 - [ ] #spoiler Foucheresia is joining Katho in the war, and sending the Thymar host south
 - [ ] #spoiler Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a puppet
@@ -218,7 +231,7 @@ creatures:
 - [ ] #context #spoiler Theurgy and Theotechnical mechanics
 
 ## Potential treasures  
-- ...
+- [Seraphic Goggles](http://dnd5e.wikidot.com/wondrous-items:goggles-of-night)
 - 1000 gp
 - Stones
 	- Amber (translucent rich gold, 100gp)
@@ -227,9 +240,7 @@ creatures:
 - [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
 - [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
 
-## Fantastic locations  
-
-### Relevant settlements
+## Settlements  
 
 ```dataview
 table without ID link(file.link, name) AS "Name", province AS "Province", population AS "Population", culture AS "Cultures", religion AS "Religions", factions AS "Factions"
@@ -252,7 +263,7 @@ sort file.name asc
 
 ## Appendix
 
-## Additional unlikely scenes
+## Holzander Castle
 
 ### H113 Catacombs and vision of the Ophaire
 - Location: [Catacombs](../locations/holzanderCastle.md#Catacombs) (as set out in SC45)
@@ -276,6 +287,12 @@ creatures:
  - 1d2: Shadow
  - 1d4: Skeleton
 ```
+
+### H114 Mystra's door
+- Location: [Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
+- Draw: Learn where the door is located for finding it from above
+- Password in ancient Elvish: "*Edr- dolenpant fen, a let golodh n-*" which means "Open resourceful door, and let knowledge be"
+- From the desert side it connects to [dannamore](../locations/dannamore.md)
 
 ### H202 (CR 4.5)
 
