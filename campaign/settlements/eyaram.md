@@ -14,19 +14,7 @@ tags: relevant
 ---
 
 # Fort City of Eyaram
-
-## Info Block
-
-![|500](https://i.imgur.com/YN6i2S4.png)
-
-## City summary
-
-- **One liner**: Old desert fort city
-- **Religion**: Former Yotunn ancestors, now converted to Faletism.
-- **Culture**: Former Nulfirth fort, now converted to Mercian.
-- **Races**: mostly humans, minority of non-human (dwarf, gnomes, dust elves)
-
-## Organisation
+***Old desert fort city***
 
 - **Type**: Community
 - **Power structure**: A community organisation led by majority rule, in which decisions are made by an elected council. (Democratic)
@@ -51,13 +39,12 @@ tags: relevant
 - **Defences**: If threatened with destruction, the court is defended by **a secret cult with potent magic**.
 - **Consequence of its destruction**: If the court is dissolved, **a dark power will recruit the survivors**.
 
+![](https://i.imgur.com/DEgikot.png)
+
 ## Locations
 
  - Fortress: Strong fort with moat, stables, barracks and a temple converted into a Faletist church.
  - A modest woodcarver's workshop, built around a large tree - it is a secret Rurkinar meeting place.
  - The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
--   A Mercian house outside the city
-
-![](https://i.imgur.com/DEgikot.png)
-
+-  A Mercian house outside the city
 

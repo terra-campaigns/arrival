@@ -45,6 +45,3 @@ tags:
 
 - ...
 
-LINK BELOW FOR EMBEDDING MAP
-<iframe src="PASTE LINK TO CITY MAP HERE" width="100%" height=800>
-</iframe>
