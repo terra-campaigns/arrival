@@ -6,36 +6,37 @@ campaign: Arrival
 tags: 
 ---
 
-
 # Religions of Guemenos
 
 ```mermaid
 %%{init: {'theme':'light'}}%%
-flowchart TD
+flowchart LR
+
 subgraph Edraihil
-	Mystra
 	Bonnalurie
 	Falet
+	Mystra -.-> Rurkinar
 	Kimbarak
 end
+
 subgraph Kyri
-	Algath
-	Merdijad
-end
-	Mystra --> Rurkinar
-	Algath --> Curcharn
-	Merdijad --> Lorqiroth
+	Algath -.-> Curcharn
+	Merdijad -.-> Lorqiroth
 	Mondendovil
+end
+
+subgraph idG1[Factions, Groups, Cults]
+	Rurkinar --> id1[Rurkinar Cultists]
+	Kimbarak --> id3[Glasrath Alliance]
+	Algath --> id3
+	Lorqiroth --> id4[...]
+	Bonnalurie --> id5[...]
+	Falet --> FFKA
+	Mondendovil --> id6[...]
+end
 ```
 
 ![](https://i.imgur.com/U9pWVCe.png)
-
-
-## Protodeities
-***Nek and Ulkrunnar***
-
-In the beginning, before the birth of time, there were two proto-gods, Nek and Ulkrunnar. Nek was the master of light, while Ulkrunnar was the lord of darkness. Together, they formed a deadly alliance, and from their union came the world as we know it. Ulkrunnar's dark essence gave birth to the vastness of space, while Neks's light created the suns and time. But as with all alliances, there came a time when Nek and Ulkrunnar's egos clashed. Their struggle for power caused the world to shudder, and from the chaos emerged the first beings, each bearing a fraction of the proto-gods' power. And thus, the current world was born, ruled by the eternal balance of light and darkness. From Nek's fractions emerged The Edraihil while Ulkrunnar's created the Kyri. These two pantheons have always competed for influence in the world.
-
 
 ## Yotunn
 ***Yotunn Ancestors***
