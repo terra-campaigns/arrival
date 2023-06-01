@@ -12,7 +12,7 @@ party_level: 4
 members: 5
 party_tier: 1
 party_rank: 1
-xp: 1350
+xp: 1400
 dc_min: 13
 cr_gauges: '[6, 8, 9, 12]'
 consMgcItm: 2xA
@@ -44,10 +44,12 @@ tags:
 - [x] Outline potential NPCs, reviewing all above
 - [x] Outline potential foes, if not all in an appendix
 - [x] Define treasure
+- [x] Prepare 2 day and night random encounters 
 - [x] Prepare Owlbear, if applicable
 - [x] Move big texts to appendix in the file
 - [x] Prepare random encounters (linked with secrets) - including random locations
-- [x] Owlbear L3
+- [x] Owlbear: Delamore and Remains
+- [ ] Owlbear L3
 - [ ] Make reminders (2x2 index cards) for pacing
 	- [ ] combat: describe more and give secrets during it
 	- [ ] upward and downward beats in sessions
@@ -71,7 +73,11 @@ sort file.name asc
 
 ## Intro
 
+- Should we change to bi-weekly and have a rule that if we have 3 players we go ahead?
+- Gritty healing revision - otherwise we penalise the warlock: use the variant RAW.
+	- if required, explain that the intended theme of the game does not match a superhero style (1h later full recover)
 - Take note of common languages PCs speak
+- 1d6 do decide who reads abridged?
 
 ## Strong start
 
@@ -83,6 +89,7 @@ sort file.name asc
 - 60ft Imortra
 - 0ft Dolman, Guilf, Amyria
 - -30ft (still pending one sneak action for second circle) Miraak
+- Mercian house is 350ft away, with two bends on the streets
 
 **Imortra's strategy:**
 1. Run to an empty area of the city
@@ -93,10 +100,12 @@ sort file.name asc
 	2. Chains of perdition
 	3. Banishment (for Guilf)
 	4. Phantasmal killer
-4. At any time, if struggling with chasers, cast polymorth and run to the mercian house
-	1. If followed, in the mercian house cast elemental
+4. At any time, if struggling with chasers, cast polymorf and run to the mercian house
+	1. Allow PCs to see the house she enters - with two Mercians guarding the door
+	2. If followed, in the mercian house begin to cast elemental
 
-## Potential scenes 
+
+## Storyline scenes 
 
 ### Rurkinar festival and ritual, and FFKA censoring
 
@@ -117,8 +126,6 @@ sort file.name asc
 > She brought the old pantheon to rise,
 > Restored their strength with magic ties,
 > And now she serves as an Angel in the skies.*
-
-Travel to Holzander 
 
 ### Dannamore's entrance - desert thunderstorm
 
@@ -147,18 +154,14 @@ creatures:
 - Whoever they meet first tries to identify if the PCs were responsible for the mess on level 2
 - If he/she think they were not responsible, he/she promises PCs gold and stones if they kill the other one
 
-### Random scenes
+## Exploration scenes
 
-**Find ways to give secrets during random scenes.**
+![|650](https://i.imgur.com/VMKmVPU.png)
 
-| Roll     | 1d20                                                                                 |
-| -------- | ------------------------------------------------------------------------------------ |
-| 1        | Encounter during travel (1d6: 1 location, 2/3 party, 4/5/6 party & location)         |
-| 2        | Encounter during rest (some wandering party - use creature)                          |
-| Settings | Level: Low (1-4), terrain: desert, sources: all, type: mix, generate: 10 |
-
-- Random [location](https://donjon.bin.sh/fantasy/random/#type=location;location-loc_type=wilderness)
-- Random [location with party](https://www.chaosgen.com/dnd5e/encounter)
+- **Find ways to give secrets during exploration scenes.**
+- If current hex has no important location yet, consider using one of the unused locations below
+- Consider using one of the storyline encounters below
+- [Encounter generation](https://www.chaosgen.com/dnd5e/encounter)
 
 #### Twice dead sandwich seller
 
@@ -170,18 +173,11 @@ creatures:
 
 #### Temple of Remains
 
-**Aspects:**
-- Huge gravel wall, in ruins, with tower fortifications
-- Plentiful cracked flasks seem to be decorating.
-- Great statue of beige brass.
-
-- **Original Purpose**: Prison for a supernatural entity
-- **Hazards**: Crumbling Structure
-- **Rewards**: Needed key to some other ruin, unlocking a vault
-
-![|500](https://rare-gallery.com/mocahbig/407675-fantasy-art-artwork-statue-ruin-ruins.jpg)
+[templeOfRemains](../locations/templeOfRemains.md)
 
 #### Dead Made God
+
+- In a more beaten path
 
 ![|500](https://i.imgur.com/0dL6nxF.png)
 
@@ -211,12 +207,14 @@ creatures:
 - [ ] #spoiler Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
 - [ ] #spoiler FFKA East tried to incarcerate Otaehryn Valdove (Rurkinar chieftan) in the city of Linhe
 - [ ] #spoiler An influential FFKA East plans to overthrow General Drakov during the next zombie assault on Linhe by sabotaging the city's defences and admitting the zombies to the Bastion Ward.
+- [ ] #puzzle The Rurkinar need rallying, otherwise they will collapse under the FFKA and the undead attacks
+- [ ] #puzzle The fort of Vorkeldond (last large fort in Linhe's south) is looking for patrons.
 
 **General**
 - [ ] #spoiler Frost goblins come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
 - [ ] #spoiler Theory around existence of shadow dragons.
 - [ ] #context Age of dragons in the past, now they barely leave the Dragons' Island
-- [ ] #context Stone from Gaelira in a book of Geology of Etor - where the Ghost Domain subsides with the surface [D'Elsin](../context/secrets/secretsRealms.md#D'Elsin). These rocks were used in the long past by Seraphic engine makers.
+- [ ] #context Stone from Gaelira in a book of Geology of Etor: Chronoliths.
 - [ ] #spoiler Foucheresia is joining Katho in the war, and sending the Thymar host south
 - [ ] #spoiler Agents of Silk have captured Daardendrien Turan, the Nurderad clan elder and replaced him with a puppet
 
@@ -241,7 +239,7 @@ creatures:
 - [Scroll of Ceremony](https://www.dndbeyond.com/spells/ceremony)
 - [Scroll of Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation)
 
-## Settlements  
+## Relevant settlements  
 
 ```dataview
 table without ID link(file.link, name) AS "Name", province AS "Province", population AS "Population", culture AS "Cultures", religion AS "Religions", factions AS "Factions"
@@ -250,7 +248,7 @@ WHERE type = "settlement" AND tags = "relevant"
 sort file.name asc
 ```
   
-## Important NPCs  
+## Relevant NPCs  
 
 - **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
 - [Imra Advyrye](../factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
