@@ -1,7 +1,7 @@
 ---
 type: chapter
 part: 2
-name: The Torturer of Holzander
+name: The torturer of Holzander
 world: Guemenos
 campaign: Arrival
 game_date: 3877.5B

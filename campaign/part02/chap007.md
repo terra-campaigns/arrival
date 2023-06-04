@@ -1,7 +1,7 @@
 ---
 type: chapter
 part: 2
-name: The Void Claim
+name: The Void claim
 world: Guemenos
 campaign: Arrival
 game_date: 3877.5B

@@ -1,7 +1,7 @@
 ---
 type: chapter
 part: 2
-name: The Rurkinar Ritual
+name: The Rurkinar ritual
 world: Guemenos
 campaign: Arrival
 game_date: 3877.5F6

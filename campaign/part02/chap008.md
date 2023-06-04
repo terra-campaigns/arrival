@@ -1,7 +1,7 @@
 ---
 type: chapter
 part: 2
-name: First Sight of Lady Scurvy
+name: First sight of Lady Scurvy
 world: Guemenos
 campaign: Arrival
 game_date: 3877.5B3
