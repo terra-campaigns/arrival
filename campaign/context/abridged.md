@@ -1,3 +1,6 @@
+***Arrival: A tale of wretched heroes in a broken world***
+***Abridged***
+
 # Part 1 A kiss from the dark
 
 ## Chapter 1 No options outside
@@ -25,8 +28,6 @@ With the clock ticking down and the undead army approaching, the group worked ti
 The Glasrath Alliance now faces a horde of undead marching from the [Ammuinoth](realms.md#Ammuinoth). The battle starts, and three clashes happen in the mines. Miraak is killed, but was lucky enough to be close to Ghuse who starts a long ritual to resurrect him. Fuko also falls in battle, but she is unlucky to sink in the lake, only to be found too late. In the end, the alliance is victorious, but not without many casualties - including the wyrmling gold dragon that was freed by the Glasrath Defenders (the name given to Miraak, Guilf, Kethra, Dolman, and the now deceased Fuko). Access to the city of Khatdzig is established again. The group is celebrated as heroes, and their names are forever etched in the history of these mines. They have faced insurmountable odds and emerged victorious, proving that even in the darkest of times, there is still hope.
 
 ![](https://i.imgur.com/8cZ7CSJ.png)
-
-### Alliance
 
 After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
 - Watheton: Nosbelbeyn and Ondor perished, their units are gone.
@@ -87,7 +88,7 @@ As the party deliberated their next steps, they noticed a clockwork servant skul
 
 ![](https://i.imgur.com/SleRiLY.png)
 
-## Chapter 8 Lady Scurvy in the Ammuinoth
+## Chapter 8 First Sight of Lady Scurvy
 
 With their strength waning and their wounds still fresh, the band of weary heroes embarked on a treacherous journey towards the revered temple of Mystra, their priorities aligned with rejuvenation and restoration. As they traversed the Ammuinoth, their footsteps weighed heavily while caring their wounded. It was during this perilous expedition that their eyes fell upon a grotesque sight—a creature, contorted and abominable, crawling with malevolence along the ceiling. Ichbon recognised the fiendish being as an unfortunate victim infected by the accursed Lady Scurvy disease. Miraak, ever vigilant, discerned disturbing similarities between the creature's combat tactics and the vile vampire spawns employed by the armies of D'Elsin during the savage southern war. A battle ensued, arduous and fraught with peril, but it culminated in a final, decisive blow dealt by Kethra.
 
@@ -96,3 +97,15 @@ Days later, they reached the temple and met an old acquaintance of Amyria's, Jan
 Rested, they headed to Gimorkoc, facing a rare thunderstorm. The storm, as abruptly as it had materialised, eventually receded. A Rurkinar ritual, an esoteric ceremony seldom witnessed, was poised to commence, orchestrated by the cultists' enigmatic high shaman. Their aim? To establish communion with the Angel Hound, a being of enigmatic power and purpose. Yet, amidst the gathering darkness and whispered incantations, Guilf, beset by a profound sense of disquiet, caught sight of a face within the throng—a visage hauntingly familiar, the countenance of his long-lost mother. Driven by an irresistible force, he chased after her, his companions hot on his heels.
 
 ![](https://i.imgur.com/XQExAKj.png)
+
+## Chapter 9 Contact with the Angel Hound
+
+The valiant champions pursued Guilf's enigmatic mother. Yet, as they delved deeper into the unfathomable abyss of her powers, their fortitude waned, and their resolute spirits trembled. Guilf's mother possessed an indomitable mastery of Theurgy, a formidable force that unleashed abominations that sent shivers crawling along their spines, freezing their very souls.
+
+Reluctantly, the group retraced their steps to the central square, drenched in a torrential downpour and an ethereal glow emanating from the ancient temple stones. The ritual to commune with the dreaded Angel Hound was underway. The air grew thick with anticipation as the incantations surged and chaos erupted, a violent upheaval that seized the cultists with ferocious might, wrenching them away to the somber castle ward under the merciless grip of the FFKA.
+
+Undeterred by the dark turn of events, the heroes, cloaked in the veils of night, ventured into the shadowed heart of the castle ward. It was Guilf, his heart filled with courage and empathy, who dared to breach the psychic barriers of the Rurkinar Shaman. The long-awaited culmination of the ritual revealed the prison that ensnared the Angel Hound - the enigmatic Holzander Castle. The Shaman's arduous work had reached its fateful conclusion.
+
+With the dawning of the morrow came the arrival of General Sergarus—a figurehead both dreaded and revered in Linhe. It was Sergarus who extended his impenetrable hand, granting clemency to the cultists detained in the night's embrace, save for the Shaman. In a damning judgment of treason, the Shaman was sentenced to the ghastly fate of impalement. Two hours later, under the watchful gaze of the village, the order was carried out by an FFKA knight with merciless precision.
+
+![](https://i.imgur.com/qKKz6RW.png)

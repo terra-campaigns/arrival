@@ -1,7 +1,7 @@
 ---
 type: chapter
 part: 2
-name: Lady Scurvy in the Ammuinoth
+name: First Sight of Lady Scurvy
 world: Guemenos
 campaign: Arrival
 game_date: 3877.5B3

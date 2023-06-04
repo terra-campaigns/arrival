@@ -29,3 +29,5 @@ The only big city left in the Linhe region, Linhe now bears the brunt of the zom
 The city's survivors face harsh conditions. FFKA soldiers patrol the walls and the streets, keeping peace in the cramped slums that now fill the city. Troops lead civilians outside the walls to scavenge from ruined settlements and work the fields of abandoned farms, but their harvests are never enough for the city's survivors. Though bitter and desperate, soldiers live marginally better than civilians, being assured of daily rations and housing in the Bastion Ward—the FFKA-only district around city hall where General Drakov established her command centre. From here, Sergarus orders daily public executions as conscripts dispense supplies to the masses, and she plans how to resist the next zombie attack.
 
 ![](https://i.imgur.com/QB3kSj3.png)
+
+***An influential FFKA East plans to overthrow General Drakov during the next zombie assault on Linhe by sabotaging the city's defences and admitting the zombies to the Bastion Ward.***
