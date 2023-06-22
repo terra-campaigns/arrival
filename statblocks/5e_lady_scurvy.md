@@ -8,6 +8,7 @@ hit_dice: 10d8 + 40
 speed: 30 ft., climb 30 ft.
 cr: "5"
 saves:
+  - Initiative (dex): +4
   - Reaction (cha): +4
   - Morale (wis): +2
   - Instinct (int): -3
@@ -19,7 +20,7 @@ traits:
   - Sunlight Sensitivity
   - desc: While in sunlight, the mind flayer has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 actions:
-  - name: Single target attacks
+  - name: Damage per attack
     desc: "3 attacks, each hit: 12 (3d6 + 2). Target can be grappled by tentacles."
   - name: Drink Sapience
     desc: "The mind flayer targets one creature it is grappling. The target must succeed on a DC 15 Wisdom saving throw or take 14 (4d6) psychic damage and gain 1 level of [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb). The mind flayer regains a number of hit points equal to the psychic damage dealt. A creature reduced to 0 hit points by the psychic damage dies."

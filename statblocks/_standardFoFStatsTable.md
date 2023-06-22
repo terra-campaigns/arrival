@@ -9,10 +9,10 @@ sort file.name asc
 ```encounter
 name: Catacombs
 creatures:
- - 1: 5e 04
+ - 1: 5e 05
  - 1d2: 5e 03
  - 1d4: 5e 01
- - 1: Vampiric Mind Flayer
+ - 1: Lady Scurvy
  - 1: Zombie Clot
 ```
 
