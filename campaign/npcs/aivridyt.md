@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: dragon
 name: Aivridyt
 world: Guemenos
@@ -7,7 +7,7 @@ campaign: Arrival
 location: Glasrath
 faction: Glasrath
 deceased: false
-tags: relevant
+tags: current
 ---
 
 # Aivridyt, the Creep

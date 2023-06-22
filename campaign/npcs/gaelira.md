@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: vampire
 name: Gaelira
 world: Guemenos

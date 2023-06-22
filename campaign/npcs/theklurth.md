@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: Fiend
 name: Theklurth
 world: Guemenos

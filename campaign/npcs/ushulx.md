@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: human
 name: Ushulx
 world: Guemenos
@@ -7,7 +7,7 @@ campaign: Arrival
 location: Holzander
 faction: 
 deceased: false
-tags: relevant
+tags: current
 ---
 
 # Ushulx

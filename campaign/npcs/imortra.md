@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: elf
 name: Imortra
 world: Guemenos
@@ -7,7 +7,7 @@ campaign: Arrival
 location: [Linhe, Holzander]
 faction: Mercians
 deceased: false
-tags: relevant
+tags: current
 ---
 
 # Imortra The Debased

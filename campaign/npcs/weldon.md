@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: werebear
 name: Weldon
 world: Guemenos
@@ -7,7 +7,7 @@ campaign: Arrival
 location: Glasrath
 faction: 
 deceased: false
-tags: relevant
+tags: current
 ---
 
 ![](https://i.imgur.com/ZgVbLtv.png)

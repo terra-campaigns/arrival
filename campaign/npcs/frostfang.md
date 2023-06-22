@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: werewolf
 name: Frostfang
 world: Guemenos

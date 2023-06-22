@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: elf
 name: Fuko
 world: Guemenos

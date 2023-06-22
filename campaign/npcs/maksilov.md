@@ -1,15 +1,41 @@
 ---
-type: npc
-species: human
-name: Danaska
+category: npc
+statblock: true
+source: Scarlet Citadel Homebrew
+name: Danaska Maksilov
+size: medium
+type: human
+alignment: lawful evil
+ac: 13
+hp: 65
+hit_dice: 4d8 + 47
+cr: "3"
+languages: Common, Elemental, Elvish, Kariv
+saves:
+  - Initiative (dex): +2
+  - Reaction (cha): +2
+  - Morale (wis): 0
+  - Instinct (int): +5
+traits:
+  - name: Proficient ability bonus
+    desc: "+5 to hit"
+  - name: Potion Drinker
+    desc: Maksilov can drink a potion as a bonus action. Besides the concoctions described below, she carries potions of flying, gaseous form, and superior healing. If she faces more than four enemies, she also has a potion of speed.
+actions:
+  - name: Poisoned dagger
+    desc: "1 attack with poisoned dagger, each 15 (2d8 + 5). The creature is poisoned until the start of Maksilov’s next turn. A successful DC 13 Constitution saving throw halves the poison damage and prevents the poisoned condition."
+  - name: Oozebomb concoction (4x)
+    desc: "11 (2d8 + 3), 10 feet area, additional 3 damage per turn until acid is cleand"
+  - name: Gelatinous Cloud concoction (4x)
+    desc: Creates a 15-foot cube of gelatinous vapor that lasts 1 minute. Every creature inside the cloud must make a DC 13 Constitution saving throw. On a failure, the creature takes 10 (3d6) acid damage, can’t breathe, and is restrained. A successful saving throw halves the damage and prevents restraint and suffocation. A creature that ends its turn inside the cloud takes 10 (3d6) acid damage. A restrained creature can escape by taking an action to make a DC 12 Strength (Athletics) check, freeing itself and moving into an empty space of its choice within 5 feet of the cloud on a success.
+
 world: Guemenos
 campaign: Arrival
 location: Holzander
 faction: 
 deceased: false
-tags: relevant
+tags: current
 ---
-
 
 # Danaska Maksilov
 
@@ -31,9 +57,6 @@ Maksilov’s greatest fear is that other mages and alchemists will steal her ide
 Her companion Bastronombecqua (“Bastron”) is a quasit. It was generated spontaneously inside the furnace during a transmutation that was a failure in all other respects. Bastron is technically a demon but it has never been to the Abyss or spent any time around other demons. It knows nothing about anything except the alchemist’s furnace and the first, second, and third layers of the Scarlet Citadel. It is entirely loyal to Maksilov, its creator.
 
 The resident alchemist who’s experimenting with the alchemist’s furnace is Danaska Maksilov. She was chased away from her home city of Khorsburg by a murderous mob after an experiment gone awry released clouds of maddening vapor that rolled through the neighborhood and transformed livestock and household pets into murderous oozes. As Maksilov fled westward, she heard rumors of the Scarlet Citadel and the legendary alchemical engine buried beneath it. She found the furnace idle and ignored, and she persuaded Cagoth-ze to let her study it in exchange for potions that could calm the voices in his head.
-
-![|400](https://i.imgur.com/92YSzyP.png)
-![|400](https://i.imgur.com/WjtfVV6.png)
 
 ```statblock
 creature: Quasit

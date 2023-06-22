@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: human
 name: Sergarus
 world: Guemenos
@@ -7,7 +7,7 @@ campaign: Arrival
 location: Linhe
 faction: FFKA East
 deceased: false
-tags: relevant
+tags: current
 ---
 
 # Sergarus Drakov

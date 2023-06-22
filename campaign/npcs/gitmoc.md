@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: dwarf
 name: Gitmoc
 world: Guemenos

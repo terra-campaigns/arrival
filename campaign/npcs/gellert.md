@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: 
 name: Gellert
 world: Guemenos

@@ -1,5 +1,5 @@
 ---
-type: npc
+category: npc
 species: gnome
 name: Cagoth-ze
 world: Guemenos
@@ -7,7 +7,7 @@ campaign: Arrival
 location: Holzander
 faction: Mercian
 deceased: false
-tags: relevant
+tags: current
 ---
 
 # Cagoth-ze
