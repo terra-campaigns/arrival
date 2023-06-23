@@ -46,3 +46,54 @@ The Mercians are a non-religious, mostly human population with a rich oral tradi
 Their oral tradition, which often tells tales of heroes, mythical creatures, and gods, is an essential part of their culture, and they often use music and dance to celebrate important events. They also use runes for divination and magic, consult with rune masters for guidance, and have a distinctive fashion style that symbolises their status and identity, wearing dark clothing, often adorned with jewellery and tattoos. The Mercians value personal freedom, have a deep connection to the land, and rely on each other for support and protection.
 
 ![Mercian](secretsCultures.md#Mercian)
+
+### Anak
+***Source: wwn306***
+
+Sages believe that the original Anakim were a spite-weap- on created by the Outsiders when the fall of their hegemony seemed imminent. Captured rebels, still-subject Deeps, and human traitors who were no longer needed were used as the feedstock for the transformation, one intended to create a sentient bioweapon for the destruction of all human and demihuman life in the Latter Earth.
+
+Later ages saw the Anakim modified by assorted Imperators, their original nature warped and tuned to serve the purposes of the experimenters. The resulting Anakim sub-species are sometimes drastically different from the ur-Anak, but the intrinsic selfishness, cruelty, and aggression of the base stock persist in most of them.
+
+#### Anak Physiology
+
+Anakim are divided into several sub-species and variant body plans, some more prevalent than others. The ur-Anak, or “Great Anak” is humanoid in shape, with males averaging six and a half feet in height and two hundred pounds, females being slightly smaller. Skin and hair tones vary based on the original human feedstock, but vivid and unnatural colors are introduced in some groups. Facial features and other bodily details are usually de- signed to play on primal human terrors, with skull-like features, claws, fangs, bestial muzzles, disease lesions, and other qualities common in different sub-strains.
+
+“Lesser Anakim” are a common smaller variant of the ur-Anak. Their origins are disputed among the sages, some believing them the result of an Imperator’s experimentations, while others crediting them as a natural evo- lution of the Great Anak. These creatures share many of the same features as their larger cousins, but are much smaller and spindlier in build.
+
+“Ogres”, “titans”, “hulks”, or “brute Anakim” are an uncommon expression of Anak nature in which one grows to a height and mass far beyond its peers, often standing as much as nine feet tall. This growth tends to come at the cost of neural development, and most hulks have the mentality of a small, particularly vicious child. While hulks breed true, their stupidity and aggression tend to control their numbers in the wild.
+
+All types of Anakim usually breed much more quickly than humans, with females bearing litters. This fecundity is necessary to maintain their numbers, as Anakim mature only slightly more quickly than humans. These three kinds of Anakim are merely the most common in the Latter Earth. Other varieties, including no-longer-humanoid strains are known in certain lands. Some even appear very similar to baseline humans, hav- ing a barbaric sort of handsomeness about them; most of these variants are just as vicious as their uglier brethren.
+
+Even so, a few Anakim strains are less aggressive than their kindred, and some can even maintain a wary sort of mutual non-slaughter with human neighbors, provided a safe distance is maintained.
+
+#### Anak Psychology
+
+All Anakim are touched to a greater or lesser degree by the “Hate”. This ancient Blight infects them with an overwhelming revulsion and loathing toward baseline humanity and most demihuman species. Some scholars believe that the Hate is triggered by some pheromon- al marker or arcane soul-dissonance. Others believe it is keyed on physical appearance, and is simply an un- bearably amplified natural response toward physical ug- liness. Whatever the source, Anakim find humans and human-like demihumans to be unendurably loathsome.
+
+This Hate is worsened by the naturally aggressive, vi- olent, and cruel instincts implanted in them by the Blight. Most Anakim behave in ways largely identical to human psychopaths, having no innate sense of empathy and no desire to obey any principles higher than their own plea- sure. They delight in torture, slaughter, and sordid excess, and other Anakim are perfectly acceptable targets.
+
+The only effective shackle for an Anak’s instinct is sheer terror. With nothing more precious to them than their own lives, a leader or opponent who can display overwhelming force and a certain ability to slaughter them will provoke a response of groveling obedience and abject submission. This submission will tend to last precisely until the Anak no longer feels this awe.
+
+Anakim society, such that it is, is held together by brute force and temporarily-shared ambition. A chieftain or warlord will arise, murder all nearby rivals, and force the local Anakim into obedience in order to plunder and slaughter all available targets. When that warlord shows weakness, he or she will be replaced by their most ruth- less underling. This churning chaos tends to limit the size of Anakim societies, with most existing on no more than a tribal basis in the absence of some overwhelming leader.
+
+#### Anakim Encounters
+
+Most Anakim will be encountered in groups, either as scouting parties, raiding bands, or the main encamp- ment of the tribe. Scouting parties will usually consist of 1d4+1 warriors, raiding bands might number 2d6+6, and main tribal camps might have as many as fifty or sixty combat-capable Anakim. Great warlords can weld together dozens of tribes into a single horde, as can other powerful entities capable of terrifying the Anakim.
+
+Anakim are vicious and cruel, but they are not particularly stupid. Most tribes have the services of at least one competent sorcerer, usually the equivalent of a first or second-level Elementalist or Necromancer in their abilities, though of a very different tradition. Es- pecially powerful tribes might have access to stronger mages. Tribes that are in service to some dark god or malevolent arch-sorcerer are particularly known for their magical prowess, with an Anak high priest sometimes attaining powers equal to sixth or even seventh level as a Mage. Were it not for the relentless backstabbing with- in Anakim society, it’s possible that these devil-sorcerers might become as skilled as any human mage.
+
+Despite the Hate, an encounter with Anakim does not inevitably devolve into immediate violence. An Anak loves nothing except his own life, and no warrior will fight unless victory seems assured or some present lead- er demands that they fight. Strong parties or those that offer some tempting inducement in place of bloodshed might be able to parley with Anakim, as some of them are known to speak Trade Cant in order to command slaves.
+
+One particular trait of almost all Anakim tribes is the sacred terror. This psychological instinct was em- bedded in them in order to give them some limited mech- anism for direction.
+
+When an Anak is faced with some overwhelming foe and fails a Morale check, they will either flee for their lives or immediately seek to placate and submit to the foe.
+
+Their choice will depend on whatever outcome seems most likely to keep them alive. This terror will persist until their new leader proves weak or pushes the Anak into a situation where disobedience seems more surviv- able than compliance. Exceptional temptations might cause temporary disobedience to the leader, however, if the Anak thinks its defiance can be hidden.
+
+#### Anakim and Others
+
+Anakim get along poorly with each other, let alone other species. Given that a single Great Anak warrior is worth almost two ordinary human soldiers, it’s only this conten- tiousness and grasping treachery that has kept them from overwhelming many of their hated neighbors.
+
+Few human nations have any formal relationship with the Anak raiders beyond their borders. Desperate kings may seek to bribe the tribes into a temporary peace, or make concessions until they’re able to muster their defenses, but only the most brutal and iron-fisted rulers can compel a lasting obedience from the Anak tribes.
+
+Trade with the Anakim is almost invariably viewed with horror by those subject to their raids, but that doesn’t stop smugglers and grasping merchants from seeking to trade weapons and luxuries for Anak loot. Sometimes these dealers even live to spend their profits.
