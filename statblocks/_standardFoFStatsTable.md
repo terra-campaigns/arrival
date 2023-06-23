@@ -1,5 +1,5 @@
 ```dataview
-table without ID link(file.link, name) AS "Name", cr AS "CR", ac AS "AC", hp AS "HP", hit_dice AS "HD",  traits.desc AS "Proef Ability", actions.desc AS "Damages"
+table without ID link(file.link, name) AS "Name", cr AS "CR", eq_level AS "Lvl", ac AS "AC", hp AS "HP", hit_dice AS "HD", skillsaves.Proeficient as "Modifiers", actions.desc AS "Damages"
 from "statblocks"
 WHERE statblock = true AND source = "Forge of Foes"
 sort file.name asc
@@ -17,7 +17,10 @@ creatures:
 ```
 
 ```statblock
-creature: Lady Scurvy
+creature: 5e 06
 ```
 
+```statblock
+creature: Frost Anak Warchief
+```
 

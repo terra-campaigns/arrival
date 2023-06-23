@@ -12,15 +12,13 @@ hit_dice: 4d8 + 47
 cr: "3"
 languages: Common, Elemental, Elvish, Kariv
 saves:
-  - Initiative (dex): +2
-  - Reaction (cha): +2
-  - Morale (wis): 0
-  - Instinct (int): +5
+  - Physical: 0
+  - Instinct: 5
+  - Morale: 1
+skillsaves:
+  - Proeficient: +5
 traits:
-  - name: Proficient ability bonus
-    desc: "+5 to hit"
-  - name: Potion Drinker
-    desc: Maksilov can drink a potion as a bonus action. Besides the concoctions described below, she carries potions of flying, gaseous form, and superior healing. If she faces more than four enemies, she also has a potion of speed.
+  - desc: "[Details](danaska.md)"
 actions:
   - name: Poisoned dagger
     desc: "1 attack with poisoned dagger, each 15 (2d8 + 5). The creature is poisoned until the start of Maksilov’s next turn. A successful DC 13 Constitution saving throw halves the poison damage and prevents the poisoned condition."
@@ -28,6 +26,9 @@ actions:
     desc: "11 (2d8 + 3), 10 feet area, additional 3 damage per turn until acid is cleand"
   - name: Gelatinous Cloud concoction (4x)
     desc: Creates a 15-foot cube of gelatinous vapor that lasts 1 minute. Every creature inside the cloud must make a DC 13 Constitution saving throw. On a failure, the creature takes 10 (3d6) acid damage, can’t breathe, and is restrained. A successful saving throw halves the damage and prevents restraint and suffocation. A creature that ends its turn inside the cloud takes 10 (3d6) acid damage. A restrained creature can escape by taking an action to make a DC 12 Strength (Athletics) check, freeing itself and moving into an empty space of its choice within 5 feet of the cloud on a success.
+bonus_actions:
+  - name: Potion Drinker
+    desc: Maksilov can drink a potion as a bonus action. Besides the concoctions described below, she carries potions of flying, gaseous form, and superior healing. If she faces more than four enemies, she also has a potion of speed.
 
 world: Guemenos
 campaign: Arrival
