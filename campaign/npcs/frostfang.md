@@ -14,3 +14,5 @@ tags:
 
 
 ![](https://i.imgur.com/enzVsiK.png)
+
+- growl like thunder and small beasts and birds died of its sound - ice werewolf 

@@ -33,7 +33,7 @@ tags:
 - [x] Review and organise [Notions](../../notions.md)
 - [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & links
-- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([chaptersQuery](_aux/chaptersQuery.md))
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([campaignTracker](_aux/campaignTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks
@@ -244,7 +244,7 @@ creatures:
 
 ### H206 (CR 7.5)
 
-- [Maksilov](../npcs/maksilov.md) and Bastron (CR 4)
+- [Maksilov](../npcs/danaska.md) and Bastron (CR 4)
 
 Potion of heroism and hill giant strength. Bastron keeps the small potion vial on a string around its neck. When it looks like a fight is about to break out he drinks **before**.
 

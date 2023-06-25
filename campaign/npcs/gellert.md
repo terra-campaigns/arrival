@@ -10,4 +10,6 @@ deceased: false
 tags: 
 ---
 
+Gellert is a mind flayer?
+
 The leader of a subterranean people who plots ... Ravenloft 50

@@ -2,13 +2,22 @@
 
 ## Inbox
 
-- define the utmost enemy of arrival - and think of an overshadowing that enables PCs to hurt it over time (think of Melkor that was hurt by many characters before he was destroyed )
-- adapt Imotra, Gellert and Avryindt to be a dark lord -(VHgtR 39) Gellert is a mind flayer? If not, who is a mind flayer? Imotra might want to have one of the characters as her apprentice (VRgtR 44)
-- where is the city of arches?
-- acrisae fort location breaks connection between Hincland and Turnskull
-- ask players to suggest legends and heroic tales that their characters like to build lore in the world - and maybe drive adventures
+- develop Avryindt to be a dark lord -(VHgtR 39)
+- Imotra might want to have one of the characters as her apprentice (VRgtR 44)
+- Dwarves have a subcouncious connection with the Legacy
+- evaluate time passed inside holzander using fey time passing rules (including previous sessions - adjust faction turns for it)
+- ammuinoth created by the first dynasty (when?)
+- tseb whii in the fall of the second dynasty had a bunch of outsiders attacking the land, coming from their holds in the mountains 
+- maqqatalba is a land of shrines and temple settlements, each with its Knights and/or sorcerers/clerics
+- maqqatalba knights and the Angels?
+- chap11: finding / investigation of the foundation Library 
 - layers upon layers of abandoned ancient infrastructure (subways from Contact)
-- every hex in the map has at least one interesting location / court
+- lingering injuries (https://www.flutesloot.com/lingering-grievous-injuries-dnd-5e/) and long term conditions
+- remember to do sanity saving throws. On fail PC loses one sanity or can choose to roll 1d6 for madness table: 1/2 short term, 3/4 long term, 5 long term with condition, 6 permanent (check the permanent table - original is not good)  maybe also add a dark vision (some secret from the campaign) together with their consequences (sl173)
+- options for hard mode: https://www.flutesloot.com/how-to-make-dd-5e-more-difficult-playing-in-hard-mode/?utm_content=cmp-true
+- choose one major and one minor monstrous horror per boss sl154
+- use mithos aberrations sl177 in one thing in each chapter
+- check dark gifts Ravelloft
 
 ## Films, books
 
@@ -17,6 +26,7 @@
 - [ ] Castlevania
 - [ ] Vinland Saga
 - [ ] The Stand Stephen king 
+- [ ] The mist Stephen king
 - [ ] 1984
 - [ ] Check [RPG products](chrome://bookmarks/?id=747)
 
@@ -29,31 +39,19 @@
 * Something about Gellert and Imotra and the Mercians
 * Ophaire = avernus (1st level of hell)
 * the works in the Holzander castle is making the desert even more bare
-* immortal men (angels) from the past come from the west, dwarves and elves from the east
 * A black dragon was seen wandering the Ghost Domain close to the Ammuinoth tunnel fractures
-* Olivepia is where the head of the Faletist church sits. It is a religious empire with a strong hand on neighbour empires (other empires are vassals)
-* what is magic in Guemenos? Science, precious development by ancient civilisation, godbound? define technology scales per province
 * silk infiltration in Nurderad 
-* trow culture is of goblinoids (not all bad - but closer to Turnskull other stuff, such as ancient vampires and lycantropes?)
-- [ ] Memoria is a forgotten ruin, mostly vanished into the lowland bogs north of Redtower.
-- [ ] Some power in the White Forest drew the necromancers of Memoria as it has drawn others to the region.
-- [ ] To achieve this vision, the Memorians devised a relic called the Light of Memoria to create a bridge to the afterlife and light the way for their ancestors’ spirits to cross into the mortal world.
-
-### Rumours
-- Random rumours [curatedRumours](campaign/resources/curatedRumours.md)
 
 ## Arcs & hooks
 
 ### Scenes
 
-- Brilhorte & Salaico' stories
 - Roll for adventure hooks in falkovia
 - mission to get something quick to help with the campaign?
 - Invitation to Glasrath by Ghuse
 - cultists where some of them are just drugged and not actually evil
 - Werebear tá acorrentado sendo flagelado por undead
 - Werebear mentions he has seen a shadow dragon
-- Demon on level 2 can explain the brezal paths: can be freed into a magic item 
 - Segarus FFKA East Chapter captain is nosy on the character if they get to red tower: Intent is to claim the destruction of Gellert if PCs do it. For that he might appoint a knight to go with PCs (as spy).
 
 #### Unused scenes
@@ -62,33 +60,24 @@
 
 ### Snoozed hooks
 
+- the guy that amyria spoke about destroying sergarus approaches her
 - Aivridyt's eggs hatch in the Darklake
 - 3878.4 NC Theklurth will come back for a revenge on the party (and Miraak)
 - 3894 NC Theklurth's child (demon dragonborn) will revenge it's mother
 - Huge shadow dragon comes looking for his mate (Avryindt)
 - If things get ugly with Aivridyt, use the werebear to save PCs
-- 
+
 ### Chapters
 
-- Montagem de uma viagem longa, including desert beast tracking the characters - when they go to find Gaelira?
-- Competing groups trying to retrieve something from somewhere
-- When will the dragonborn come in the story?
-- Next dungeon: look at dungeon hazards dmg105 and rules DMG290
-- Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
-- PCs hunt (Tom&Jerry) their own dark characters
-- Thymar and Kiranu can be called to save Glasrath
-- offer dark gift when the angel hound is saved
-- court in exile
-- heist?
-- Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
-- scene with a sand giant (stone giant)
-- something in holzander gives a curse (VgtR192)
+
 
 ### Long arcs
 
 - Seraphic engines: only Acrisae and Turnskull have them, but they haven't built them
 - part 2 closes with the nots of brezal paths in linhe undone
 - part 3 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
+- but being incarnate Morgoth was afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound
+- some spirit of great power that takes human form and accompanied a mortal
 
 ### Themes (??)
 
@@ -104,6 +93,62 @@
 	- Miraak: Undead - gets Relentless Endurance (1/Day). When reduced to 0 hit points, but not killed outright, he can drop to 1 hit point instead. However he should be treated as undead for any rule reason.
 	- Dolman: Vampire
 	- Someone else: Lycantropy
+
+## Chapter ideas
+
+### Templated material
+
+**Ravenloft**
+- Falkonia
+- Godbrain
+
+**WWN**
+- Wilderness exploration
+- Investigation (consider adding silent legions)
+- Combat
+- Social
+
+**US1**
+- Protect village
+- War
+- Heist
+- Beast
+- Traitor
+- Vengeance
+- Hunt for McGufin
+- Invaders
+- Summoning
+
+**Misc**
+- Alternate objectives (with examples)
+- Scarlet citadel
+- 12 towers
+- US1 Dungeon of Shadows
+- Boss lairs
+- Calamities
+
+### Random ideas
+
+- Montage de uma viagem longa, including desert beast tracking the characters - when they go to find Gaelira?
+- Competing groups trying to retrieve something from somewhere
+- When will the dragonborn come in the story?
+- Next dungeon: look at dungeon hazards dmg105 and rules DMG290
+- Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
+- PCs hunt (Tom&Jerry) their own dark characters
+- Thymar and Kiranu can be called to save Glasrath
+- offer dark gift when the angel hound is saved
+- court in exile
+- heist?
+- Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
+- scene with a sand giant (stone giant)
+- something in holzander gives a curse (VgtR192)
+- find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
+- [towerTreeTemple](../campaign/locations/towerTreeTemple.md)
+- if the ffka are overthrow, the rurkinar start to punish them for their doings and take their wealth 
+
+## History development ideas
+
+- siege of angband lasted 400 years
 
 ## Future parts
 
@@ -138,8 +183,3 @@
 
 ### NPCs
 - Three black halflings
-
-
-
-
-
