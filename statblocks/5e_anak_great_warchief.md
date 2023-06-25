@@ -1,7 +1,7 @@
 ---
 statblock: true
 source: Worlds Without Number Homebrew
-name: Frost Anak Warchief
+name: Great Anak Warchief
 size: Medium
 type: Anak
 subtype: Frost

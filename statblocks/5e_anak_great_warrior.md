@@ -1,7 +1,7 @@
 ---
 statblock: true
 source: Worlds Without Number Homebrew
-name: Frost Anak Warrior
+name: Great Anak Warrior
 size: Medium
 type: Anak
 subtype: Frost
