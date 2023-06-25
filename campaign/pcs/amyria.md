@@ -5,8 +5,8 @@ name: Amyria
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Cleric 4
-xp: 6238
+level: Cleric 5
+xp: 7638
 ac: 18
 initiative: 12 (A)
 speed: 30
@@ -18,7 +18,7 @@ skills:
   insight: 15
   persuasion: 10
   stealth: 12 (D)
-artefacts: [Iopothaeshield, Bitterluchcloak]
+artefacts: [Iopothaeshield]
 tags:
 ---
 

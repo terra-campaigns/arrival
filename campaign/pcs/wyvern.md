@@ -6,12 +6,12 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Rogue 5
-xp: 9077
+xp: 10477
 ac: 15
 initiative: 13
 speed: 30
 darkvision: 
-sanity: 12 (11)
+sanity: 12
 skills:
   perception: 15
   investigation: 14

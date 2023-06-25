@@ -5,8 +5,8 @@ name: Guilf Ofandrus
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Warlock 2
-xp: 2460
+level: Warlock 4
+xp: 3860
 ac: 15
 initiative: 13
 speed: 25
@@ -18,7 +18,7 @@ skills:
   insight: 10
   persuasion: 14
   stealth: 13
-artefacts: [Dreadmaska]
+artefacts: [Dreadmaska, Bitterluchcloak]
 tags:
 ---
 

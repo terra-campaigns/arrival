@@ -5,8 +5,8 @@ name: Dolman Frostbraid
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Fighter 4
-xp: 9546
+level: Fighter 5
+xp: 10946
 ac: 18
 initiative: 12
 speed: 25
