@@ -8,10 +8,10 @@ campaign: Arrival
 tier: 2
 features: 2
 trouble: 5
-cohesion: 2
+cohesion: 1
 dominion: 1
 interest:
-  glasrath: 2
+  glasrath: 3
   ffkaEast: -4
   rurkinar: 
   mercians: -3
@@ -21,14 +21,13 @@ tags:
 # Rurkinar Cultists
 
 - **Features**
-	- High shaman proven (druidic) powers, who can communicate with gods
+	- Guilf is now a weak channel from the Angel Hound
 	- Strong cult believers, protectors of Linhe
 - **Trouble**
 	- Lost their strongest ally - the Angel Hond (1 pt)
 	- Are losing followers to the FFKA fast (1 pt)
 	- Are in general afraid, that something dark is brewing in the air (1 pt)
-	- High Shaman is troubled (acquired from a foil from FFKA East in [3877.5B](_factionGame.md#3877.5B))
-	- something else because of new feature.... roleplay during chap 7: maybe the Shamans are killed, or many followers are killed in a fight with FFKA?
+	- (2) High Shaman is executed
 
 - **Goals**
 	- [x] Feature: communication with Rurkinar and find the Angel Hound (cost 2: village, implausible). Succeeded in 3877.5B.

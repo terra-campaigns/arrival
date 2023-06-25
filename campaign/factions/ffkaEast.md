@@ -28,7 +28,7 @@ tags:
 	- Deflection of members to the Dark Cavalry (1 pt)
 	- Many members do not trust Sergarus anymore, and are very uncomfortable with the impalements (1 pt)
 - **Goals**
-	- [ ] Remove problem: Strengthen its hold on its members (cost 4: city + skilled mage opposition - Gellert, plausible)
+	- [ ] Remove problem: Strengthen its hold on its members (cost 4: city + skilled mage opposition - Gellert, plausible) - create doctrine camps
 
 ## Court
 

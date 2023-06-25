@@ -99,6 +99,30 @@ WHERE contains(type, "faction")=true
 sort id asc
 ```
 
+### 3877.6A6
+
+- Order: 4, 2, 3, 1
+- Mercians
+	- INT build strength - 1d10 DC 4 to get 2 dominion, outcome 8 - pass
+	- EXT extend interest glasrath: expansion towards the mountains - automatic #info 
+	- EXT attack Rurkinar: Ravage the land of the Rurkinar: 1d10 Vs 1d8, outcome 10>1 - loose cohesion #info
+	- EXT extend interest ffka: manipulate them - 1d10 Vs 1d8, result 10>1 - pass #info
+- FFKA East
+	- INT build strength - 1d8 DC 4 to get 1 dominion, outcome 3 - fail
+	- EXT attack Rurkinar: try to incarcerate Otaehryn Valdove (chieftan) in linhe - 1d8 Vs 1d8, outcome 3<5 - fail again
+	- EXT extend interest mercians: bully the mercians so they are watchful in Linhe - 1d8 Vs 1d10, 2<4 - fail, mercians are too dodgy
+	- EXT extend interest glasrath: make contact with them to get info - 1d8 Vs 1d8, 6=6 - fail
+- Rurkinar
+	- INT build strength - 1d8 DC 6 to get 1 dominion, outcome 1 - fail
+	- EXT extend interest glasrah: extend trade route - automatic #info
+	- EXT extend interest mercians: protection prayer for Linhe - 1d8 Vs 1d10, outcome 5<6 - no change, not enough followers for the prayer
+	- EXT attack FFKA East: create convulsion in the city of Linhe, disorganise the FFKA - 1d8 vs 1d8, outcome 1<4 - fail
+- Glasrath
+	- INT enact change (remove problem) 1d8 roll <= 3, outcome 3 - pass: number of undead greatly surpasses the number of alive people (2-to-1), mostly working the mines. Singlestrike joins support for Ghuse and population is mostly in full support (about 200 soldiers and guards are supporting). If characters haven't noticed yet, they notice now, that people are looking more pale and seem a bit brain drained. #info
+	- EXT extend interest rurkinar: extend trade route (Whursock) - automatic #info
+	- EXT extend interest mercians: make some dark partnership - automatic #info
+- Background actors (wwn334)
+
 ### 3877.5F
 
 - Order: 3, 1, 2, 4

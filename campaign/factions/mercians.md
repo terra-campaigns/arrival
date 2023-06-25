@@ -9,10 +9,10 @@ tier: 3
 features: 4
 trouble: 3
 cohesion: 3
-dominion: 14
+dominion: 16
 interest:
-  glasrath: 1
-  ffkaEast: -10
+  glasrath: 2
+  ffkaEast: -11
   rurkinar: -7
   mercians: 
 tags: 
@@ -22,9 +22,9 @@ tags:
 
 - **Tier**: 3 - action die 1d10
 - **Features**: 4 (organised)
-	- Strong magical investigation
-	- Lady scurvy
-	- Cavalry of Ghost Riders and hoardes of undead
+	- Manipulating the Brezal Paths, Mercians can open rifts with the Ophaire in selected places - enabling indirect attacks
+	- Lady scurvy accosting the lands
+	- Mercian Battlemages (Maqqatba Knigths)
 	- Cunning behaviour
 - **Trouble**: 3 (well-run)
 	- FFKA influence taking over the Mercian religion (1 pt)
