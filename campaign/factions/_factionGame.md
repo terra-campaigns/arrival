@@ -122,6 +122,7 @@ sort id asc
 	- EXT extend interest rurkinar: extend trade route (Whursock) - automatic #info
 	- EXT extend interest mercians: make some dark partnership - automatic #info
 - Background actors (wwn334)
+	- [Ushulx](../npcs/ushulx.md) has built a sacrifica altar for [Scar](../npcs/scar.md) in the catacomb room, and will use the ritual (to be performed on 6D1) to ask Algath where Aivridyt can be found (DC 17 roll).
 
 ### 3877.5F
 

@@ -1,6 +1,6 @@
 ---
 category: npc
-species: ogre
+type: ogre
 name: Scar
 world: Guemenos
 campaign: Arrival

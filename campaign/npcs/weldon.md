@@ -1,6 +1,6 @@
 ---
 category: npc
-species: werebear
+type: werebear
 name: Weldon
 world: Guemenos
 campaign: Arrival

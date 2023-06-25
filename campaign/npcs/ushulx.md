@@ -1,6 +1,6 @@
 ---
 category: npc
-species: human
+type: human
 name: Ushulx
 world: Guemenos
 campaign: Arrival

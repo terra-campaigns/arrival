@@ -3,9 +3,9 @@ category: npc
 statblock: true
 source: Scarlet Citadel Homebrew
 name: Danaska Maksilov
-size: medium
-type: human
-alignment: lawful evil
+size: Medium
+type: Human
+alignment: Lawful Evil
 ac: 13
 hp: 65
 hit_dice: 4d8 + 47

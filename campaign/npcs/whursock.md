@@ -1,6 +1,6 @@
 ---
 category: npc
-species: dwarf
+type: dwarf
 name: Whursock
 world: Guemenos
 campaign: Arrival

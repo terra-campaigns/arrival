@@ -1,6 +1,6 @@
 ---
 category: npc
-species: frost goblin
+type: frost anak
 name: Keluikinj
 world: Guemenos
 campaign: Arrival

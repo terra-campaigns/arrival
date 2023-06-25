@@ -1,6 +1,6 @@
 ---
 category: npc
-species: dragon
+type: dragon
 name: Aivridyt
 world: Guemenos
 campaign: Arrival

@@ -1,10 +1,10 @@
 ---
 category: npc
-species: elf
+type: elf
 name: Imortra
 world: Guemenos
 campaign: Arrival
-location: [Linhe, Holzander]
+location: Holzander
 faction: Mercians
 deceased: false
 tags: current
