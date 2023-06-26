@@ -4,7 +4,7 @@ source: Worlds Without Number Homebrew
 name: Great Anak Warrior
 size: Medium
 type: Anak
-subtype: Frost
+subtype: 
 alignment: Neutral Evil
 ac: 16
 hp: 27
@@ -19,7 +19,7 @@ saves:
 skillsaves:
   - Proeficient: +5
 traits:
-  - desc: "[Details](5e_anak_frost_warrior.md)"
+  - desc: "[Details](5e_anak_great_warrior.md)"
   - name: Surprise attack
     desc: "If the anak surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack."
 actions:

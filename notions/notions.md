@@ -69,7 +69,7 @@
 
 ### Chapters
 
-
+- create chapter based on a random mythos aberration (sl177)
 
 ### Long arcs
 

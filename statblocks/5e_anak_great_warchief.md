@@ -4,7 +4,7 @@ source: Worlds Without Number Homebrew
 name: Great Anak Warchief
 size: Medium
 type: Anak
-subtype: Frost
+subtype: 
 alignment: Neutral Evil
 ac: 17
 hp: 39
@@ -17,7 +17,7 @@ saves:
 skillsaves:
   - Proeficient: 5
 traits:
-  - desc: "[Details](5e_anak_frost_warchief.md) and WWN306"
+  - desc: "[Details](5e_anak_great_warchief.md) and WWN306"
 actions:
   - name: Damage per attack
     desc: "Greatsword or javelin (melee/ranged): 2 attacks, each 9 (2d8)"

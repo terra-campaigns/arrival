@@ -1,5 +1,5 @@
 ---
-type: chapter
+category: chapter
 part: 2
 name: A breath from the desert
 world: Guemenos

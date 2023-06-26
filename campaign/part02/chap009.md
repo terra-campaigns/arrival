@@ -1,5 +1,5 @@
 ---
-type: chapter
+category: chapter
 part: 2
 name: The Rurkinar ritual
 world: Guemenos
