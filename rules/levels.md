@@ -156,7 +156,7 @@ Current PCs level and estimated deadly CR (lazy benchmark).
 
 ``` r
 pcs <- data.frame(name = c('Miraak', 'Guilf', 'Dolman', 'Kethra', 'Amyria'),
-                  level = c(5,        2,       5,        5,        4))
+                  level = c(5,        4,       5,        5,        5))
 
 knitr::kable(pcs, format = 'pipe')
 ```
@@ -164,10 +164,10 @@ knitr::kable(pcs, format = 'pipe')
 | name   | level |
 |:-------|------:|
 | Miraak |     5 |
-| Guilf  |     2 |
+| Guilf  |     4 |
 | Dolman |     5 |
 | Kethra |     5 |
-| Amyria |     4 |
+| Amyria |     5 |
 
 Current party average level, tier, estimated CR, minimal DC for checks,
 treasures and
@@ -194,14 +194,14 @@ currentParty <- data.frame(level = as.integer(round(mean(pcs$level))),
 cat(as.yaml(currentParty))
 ```
 
-    ## party_level: 4
+    ## party_level: 5
     ## members: 5
-    ## party_tier: 1
+    ## party_tier: 2
     ## party_rank: 1
-    ## xp: 1210
-    ## xp_bounds: '[1120, 1300]'
+    ## xp: 1570
+    ## xp_bounds: '[1480, 1770]'
     ## dc_min: 13
-    ## cr_gauges: '[6, 8, 9, 12]'
-    ## consMgcItmTbl: 2xA
-    ## permMgcItmTbl: F
-    ## hoardTreasure: 1.6
+    ## cr_gauges: '[7, 8, 10, 14]'
+    ## consMgcItmTbl: 3xA
+    ## permMgcItmTbl: --
+    ## hoardTreasure: 0.2
