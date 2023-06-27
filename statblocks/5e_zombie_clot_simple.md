@@ -1,7 +1,7 @@
 ---
 statblock: true
 source: Homebrew
-name: Zombie Clot
+name: Zombie Clot 5es
 ac: 12
 hp: 104
 hit_dice: 11d12 + 33

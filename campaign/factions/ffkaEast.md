@@ -51,39 +51,12 @@ tags:
 
 ![](https://i.imgur.com/M5bxluE.png)
 
-### Members
-
-- Captain: veteran (3)
-- Champion: gladiator (5)
-- Ranger: scout (1/2)
-- Cleric: priest (2)
-- Soldier: guard (1/8)
-
 ```encounter
-name: FFKA East Cluster 6 (CR 7.5)
+name: FFKA East Stochastic Tent
 creatures:
- - 1: Veteran
- - 1d2: Scout
- - 1d2-1: Priest
- - 2d6: Guard
-```
-
-```encounter
-name: FFKA East Cluster 14 (CR 13.5)
-creatures:
- - 1: Veteran
- - 1d2-1: Gladiator
- - 1d2+1: Scout
- - 1: Priest
- - 2d8: Guard
-```
-
-```encounter
-name: FFKA East Cluster 16 (CR 16.5)
-creatures:
- - 1: Veteran
- - 1d2-1: Gladiator
- - 1d4: Scout
- - 1d2: Priest
- - 2d10: Guard
+ - 3 + 1d100<=62: 5e 1/4
+ - 2 + 1d100<=12: 5e 01
+ - 1 + 1d100<=53: Priest
+ - 1d100<=43: Knight 5es
+ - 1d100<=30: Gladiator
 ```

@@ -1,13 +1,13 @@
 ---
 category: npc
 statblock: true
-source: Scarlet Citadel Homebrew
+source: Homebrew
 name: Sergarus Drakov
 size: Medium
 type: Human
 subtype: 
 alignment: 
-ac: 18 (plate armour)
+ac: 19 (plate armour, parry)
 hp: 52
 hit_dice: 8d8 + 16
 speed: 30
