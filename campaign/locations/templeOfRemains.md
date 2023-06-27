@@ -45,7 +45,7 @@ creatures:
 ```encounter
 name: Temple of Remains Room 4
 creatures:
- - 1: Zombie Clot
+ - 1: Zombie Clot 5es
  - 2d4+1: Zombie
 ```
 
