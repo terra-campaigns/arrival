@@ -80,12 +80,15 @@ sort file.name asc
 - FFKA is sending a patrol of 7 knights
 - Sergarus is staying behind.
 
+### Curfew in Eyaram
+
+- [Eyaram](../settlements/eyaram.md) streets are empty
+- Wandering encounter: 1d10 per hour: 1 city dweller, 9 city guard, 10 FFKA
+
 ## Exploration scenes
 ***Travel from Gimorkoc to Holzander (20 hexes)***
 
 ![|500](https://i.imgur.com/cERKKSF.png)
-
-![|650](https://i.imgur.com/VMKmVPU.png)
 
 - 1 in 8 for each new hex, run hex table below (done in prep)
 - 1 in 8 for night camping: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 5, Shadowfell, MM, mix, generate 10, roll 1d10
