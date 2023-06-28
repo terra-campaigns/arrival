@@ -9,7 +9,6 @@ speed: 40 ft.
 cr: "6"
 saves:
   - Initiative (dex): 0
-  - Reaction (cha): 0
   - Morale (wis): -1
   - Instinct (int): -4
 traits:

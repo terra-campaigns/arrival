@@ -19,8 +19,8 @@ saves:
 skillsaves:
   - Proeficient: +3
 traits:
-  - name: 
-    desc: 
+  - name: Armour
+    desc: Chain mail and shield
 actions:
   - name: Spear or short sword
     desc: "1 attack, each 4 (1d6 + 1)"

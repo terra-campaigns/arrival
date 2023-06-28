@@ -9,7 +9,6 @@ speed: 30 ft., climb 30 ft.
 cr: "5"
 saves:
   - Initiative (dex): +4
-  - Reaction (cha): +4
   - Morale (wis): +2
   - Instinct (int): -3
 traits:

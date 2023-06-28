@@ -19,8 +19,8 @@ saves:
 skillsaves:
   - Proeficient: +5
 traits:
-  - name: 
-    desc: 
+  - name: Armour
+    desc: Leather armour
 actions:
   - name: Ranged or melee
     desc: "2 attacks, each 6 (1d8 + 2)"

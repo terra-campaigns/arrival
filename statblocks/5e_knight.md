@@ -6,7 +6,7 @@ size:
 type: 
 subtype: 
 alignment: 
-ac: 19 (plate armour, parry)
+ac: 19
 hp: 52
 hit_dice: 8d8 + 16
 speed: 
@@ -19,9 +19,13 @@ saves:
 skillsaves:
   - Proeficient: +5
 traits:
+  - name: Armour
+    desc: Plate armour, parry (+1 to AC in melee, already acounted for on AC)
   - name: Brave
     desc: "The knight has advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb)."
 actions:
+  - name: Charge and joust
+    desc: "Charge one target, damage 20 (4d6 + 6), STR DC 15 or prone."
   - name: Greatsword
     desc: "2 attacks, each 10 (2d6 + 3)"
   - name: Great crossbow

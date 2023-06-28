@@ -7,7 +7,7 @@ size: Medium
 type: Human
 subtype: 
 alignment: 
-ac: 19 (plate armour, parry)
+ac: 19
 hp: 52
 hit_dice: 8d8 + 16
 speed: 30
@@ -21,6 +21,8 @@ skillsaves:
   - Proeficient: +5
 traits:
   - desc: "[Details](sergarus.md)"
+  - name: Armour
+    desc: Plate Armour, Parry
   - name: Brave
     desc: "The knight has advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb)."
 actions:
@@ -38,6 +40,7 @@ location: Linhe
 faction: FFKA East
 deceased: false
 tags: current
+init_PC_lvl: 5
 char_tags: [Hidden Origins, Blithe Idealist]
 ---
 
