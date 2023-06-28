@@ -7,24 +7,26 @@ tags:
 ---
 
 # The History of Guemenos
+***As told in the region of Maqqatba of the Latter Earth***
 
 ## TLDR
 
-**Creation: Weavers and Angels**
+**Weavers and Angels**
 - Nek created the world (Guemenos) and the tapestry of its reality (Theurgy)
 - Life emerged from this tapestry, including an ethereal race known as the Weavers, who could weave the reality itself
 - Over millennia, empires and kingdoms emerged, and wars amongst them were common
 - The Weavers decided to consult with Nek, so they would stop the wars and violence in Guemenos
 - Instead of being received by Nek, the Weavers were received by Nek's Angels, which enraged the Weavers
 - The Weavers decided to further expand their powers, through the creation of Theotechnical engines
-- Meanwhile, the Angels were also infuriated as Nek gave lesser cratures a beautiful world such as Guemenos
+- Meanwhile, the Angels were also infuriated as Nek gave lesser creatures a beautiful world such as Guemenos
 - For eons, the Angels and the Weavers fought, culminating with the Angels winning and pushing the Weavers to the depths of Guemenos
 
-**The Pantheons**
-- The Angels then took Guemenos for themselves and, over the centuries, while most of them waned in power and became mortal races, some became powerful and proclamed themselves as **The Edraihil**
+**The Edrahil and The Kyri**
+- The Angels then took Guemenos for themselves and, over the centuries, while most of them waned in power and became mortal races, some became powerful and proclaimed themselves as **The Edraihil**
 - Meanwhile, the Weavers and their peoples lived in the underworld, and through their Theotechnical engines they created the constructed gods, which became known as **The Kyri**
 - The Kyri were then awoken and declared war and defeated the Edraihil, banishing most of them from Guemenos
 - Guemenos now live in a unstable balance with the remaining Edrahil constantly challenged by the much stronger Kyri
+- The Angels and the Weavers are long gone, what is left is their waned races, cross-bred over thousands of years.
 
 ## The Creation
 
@@ -58,10 +60,7 @@ For millennia, Guemenos thrived under the rule of the three eldest Edrahil, each
 
 But deep within the heart of Guemenos, a foreboding darkness stirred. The cosmic fabric that held this twisted realm together quivered with an otherworldly anticipation, whispering of a lurking menace that threatened to shatter the fragile equilibrium. Shadows loomed larger, madness dripped like poison from the air, and whispers of an ancient, eldritch force began to echo through the ethereal halls of Guemenos.
 
-![](https://i.imgur.com/Dh68Ea5.png)
-
 ### Iopothae
-`0 to 5500 Iopothae Time (IT)`
 
 The kingdom of Iopothae stood as a testament to the Edrahil's mastery, surpassing all others in its ingenuity and sophistication, a beacon of advanced knowledge and arcane arts. Towering spires of obsidian and basalt pierced the heavens, their blackened peaks scraping against the ethereal veil. Marble palaces, adorned with intricate carvings that whispered tales of forgotten gods, sprawled across the landscape, testifying to the might and ambition of the Iopothaeans. It was here that the first recorded calendar was meticulously crafted, its intricate markings etched upon ancient stones known as Chronoliths, unraveling the mysteries of time itself.
 
@@ -71,4 +70,4 @@ Little did they know that their relentless pursuit of supremacy would beckon for
 
 ![The Kyri](secrets/secretsHistory.md#The%20Kyri)
 
-![Absent children of Nek](secrets/secretsHistory.md#Absent%20children%20of%20Nek)
+![Absent Angels](secrets/secretsHistory.md#Absent%20Angels)

@@ -9,13 +9,10 @@ tags:
 # Secrets for History
 
 ## The Kyri
-`4500 to 17000 IT`
 
-After the Kyri were awoken they started shaping the Ophaire as they saw fit, and created their own races while corrupting surface races and bringing them to the depthness of the world. It is in 6000 IT when the dragons, aberrations, fiends and ooze creatures started populating Guemenos' darkness. Around 7000 IT the Kyri and their creatures started attacking Edraihil's domains, and what is known as the War for Guemenos started.
+After the Kyri were awoken they started shaping the Ophaire as they saw fit, and created their own races while corrupting surface races and bringing them to the depths of the world. The war lasted more than 10 thousand years and covered Guemenos with death, fire and suffering. Ulkrunnar's son Gronz created a staff that had the power to obliterate large armies using a light power known as Uli.
 
-The war lasted more than 10 thousand years and covered Guemenos with death, fire and suffering. Around the year 17000 IT, Ulkrunnar's son Gronz created a staff that had the power to obliterate large armies using a light power known as Uli.
-
-Gronz used his staff for hundreds of years and was able to eliminate all the large armies from Nek's followers. The staff was not enough for killing Nek and his gods, but it was enough to weaken them. They were later imprisoned by Ulkrunnar in his Forsaken Hall, under the fortress of Turnskull (located in the ice sheets in the south pole). For the non divine inhabitants, although it was thought they were killed, they were rather sent to a world they called Acrisius. The use of the staff was called The Great Purge, but this history is unknown to most current inhabitants.
+Gronz used his staff for hundreds of years and was able to eliminate all the large armies from the Edrahil. The staff was not enough for killing the gods, but it was enough to weaken them. They were later imprisoned by Ulkrunnar in his Forsaken Hall, under the fortress of Turnskull (located in the ice sheets in the south pole). For the non divine inhabitants, although it was thought they were killed, they were rather sent to a world they called Acrisius. The use of the staff was called The Great Purge, but this history is unknown to most current inhabitants.
 
 ### The great purge
 
@@ -59,26 +56,18 @@ The Great Purge's memory long gone,
 As life in darkness did remain.
 
 ### Puppet masters
-`17000 to 25000 IT, also known as 10000 to 18000 Time of the Kyri (TK)`
 
 With Guemenos cleared out of the Edraihil, the Kyri started to shape the world to their liking. Many of the Kyri were amused by their power to silently corrupt peaceful civilisations and drive them to evil doings. This corruption became a game the evil gods played with the living creatures for thousands of years.
 
-Around the year 13000 TK, Ulkrunnar's daughter Merdijad devised a plan to conquer the remaining races or Guemenos by religion (even religions that follow Nek's imprisoned deities), culture and a network of multi-tiered treaties between different kingdoms and races. This plan is known as The Silk. In 18000 TK, most of the large civilisations are not aware of the indirect control by Turnskull, under Merdijad rule. During these milenia Merdijad has also installed her commander, Lorqiroth, in the D'elsinese Empire.
+Ulkrunnar's daughter Merdijad devised a plan to conquer the remaining races or Guemenos by religion (even religions that follow Nek's imprisoned deities), culture and a network of multi-tiered treaties between different kingdoms and races. This plan is known as The Silk. Most of the large civilisations are not aware of the indirect control by Turnskull, under Merdijad rule. During these millennia Merdijad has also installed her commander, Lorqiroth, in the D'elsinese Empire.
 
-### Wuvarax's passage to Arkul
+## Absent Angels
 
-Merdijad's and Gronz' brother, Wuvarax, being drawn by his jealousy of Merdijad's control scheme and Gronz staff, decided to come up with something as powerful and important as his siblings' ideas. He worked for hundreds of years with his sect of mages and dark clerics and built a portal in the castle of Atfordbury, in the Duchy of Hinckley. This portal enabled Wuvarax to move armies and peoples to the inhabited world of Arkul. Wuvarax and his followers begin to form a civilisation in Arkul, to protect Ulkrunnar's followers in case the world of Guemenos was reconquered by Nek's followers.
+Nek's children gods were imprisoned by Gronz, and it was for minor deities such as Mystra, Bonnalurie, Falet and Kimbarak to envision a plan to regain Guemenos.
 
-## Absent children of Nek
-
-Nek's children gods were imprisoned by Gronz, and it was for minor deities such as Mystra, Bonnalurie, Falet and Kimbarak to envision a plan to regain Guemenos. These three gods have hold conclaves every a thousand years in Acrisius, where their plan is revised and put in practice. In the 6th conclave Bonnalurie proposed the New Calender to start - it was implemented in the 7th conclave (8000 AT).
-
-### Acrisius
-
-In Acrisius, Nek's followers (now known as Acrisae) started from scratch, to build again all their technology and magic, while developing a strong and unbeatable army. For the Acrisae, this was the year 0 of the Acrisius time (AT).
+In Acrisius, the Angels (now known as Acrisae) started from scratch, to build again all their technology and magic, while developing a strong and unbeatable army.
 
 ### The Reclaim Campaign
-`Starting in 1150 AT, or 3499 of the New Calendar (NC)`
 
 Around the year 11500 AT, known in Guemenos as 3499 of the new calendar (NC), the Acrisae started executing their plan to reclaim Guemenos. Their first scouts came from Acrisius leveraging the same Uli power, reverse-engineering from the information Bonnalurie collected when she faced the same power from the staff. Bonnalurie built 10 rings that enabled the scouts to travel to Guemenos. They've scouted Guemenos until 3855 NC when they travelled back to Acrisius to further advance the plan. By then, Bonnalurie had developed the portal opening machines that look like golden mechanical dragons, the Sulpraxae. 
 

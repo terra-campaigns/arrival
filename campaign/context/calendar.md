@@ -8,15 +8,14 @@ tags:
 
 # Calendars and Timeline
 
-![Old Ages](secrets/secretsCalendar.md#Ancient)
-
-
 ## NC
 ***New Calendar***
 
-The New Calendar (NC) is defined as the years from the 8th Conclave for Nek. It is written as `[Year].[Month][Week].[Day]`. Each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, F) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
+The New Calendar (NC) was created two or three centuries after the event known as the Colligation of Epochs. It is estimated that the mark for year 0 on Latter Earth's After Landing (AL) calendar (the arrival of the Reaping King) was in the year 2822 NC. Dates are imprecise. For further information on Latter Earth's calendar, please refer to the [Atlas of The Latter Earth](https://www.drivethrurpg.com/product/416284/The-Atlas-of-the-Latter-Earth), pages 1 to 12..
 
-The years are not defined based on translations around the sun, but rather a purely mathematical number. For this reason, although the NC is mostly used everywhere in Etor, many regions have additional calendars based on sun and moon time cycles. Nevertheless, the 25 hours day is defined based on daily cycles.
+In the NC, each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, F) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
+
+The years are not defined based on translations around the sun, but rather a purely mathematical number. For this reason, although the NC is mostly used everywhere in Maqqatba, many regions have additional calendars based on sun and moon time cycles. Nevertheless, the 25 hours day is defined based on daily cycles.
 
 ## Seasons
 
@@ -26,7 +25,7 @@ There are 4 seasons: Winter, Spring, Summer and Autumn. They are defined by seve
 - Planet pulsing energy
 - Moon cycles, which emits shadow energy
 
-Guemenos have very long winters (3 to 5 years) every 20 years or so. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 year), where average temperatures are 10 to 15C degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
+The region of Maqqatba has very long winters (3 to 5 years) every 20 years or so. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 year), where average temperatures are 10 to 15C degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
 
 The last documented season cycles are represented below.
 
@@ -45,6 +44,7 @@ The last documented season cycles are represented below.
 
 ## Timeline
 
+- 0 NC The New Calendar (NC) starts two centuries after the event known as Colligation of Epochs
 - 3217 NC [Nargun Dwarven Mine](realms.md#Nargunhesm) is founded in the Naragzah mountains
 - 3627 NC Gerhardt Holzander starts building the [holzanderCastle](../locations/holzanderCastle.md) on Brezal Paths in the [The Ammuinoth](realms.md#Ammuinoth)
 - 3671 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are founded in the Naragzah mountains
@@ -73,4 +73,4 @@ The last documented season cycles are represented below.
 	- Golden army with golden mechanical dragons arrive in the South Desert
 	- The Glasrath Alliance is formed, Fuko perishes in the battle with the undead in the Naragzah mountains
 
-![Modern](secrets/secretsCalendar.md#Modern)
+![Modern](secrets/secretsCalendar.md)
