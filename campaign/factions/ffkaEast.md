@@ -54,9 +54,20 @@ tags:
 ```encounter
 name: FFKA East Stochastic Tent
 creatures:
- - 3 + 1d100<=62: 5e 1/4
- - 2 + 1d100<=12: 5e 01
- - 1 + 1d100<=53: Priest
+ - 3 + 1d100<=62: Guard City Watch
+ - 2 + 1d100<=12: War Scout
+ - 1 + 1d100<=53: Priest 5es
  - 1d100<=43: Knight 5es
- - 1d100<=30: Gladiator
+ - 1d100<=30: Maqqatba Lancer
 ```
+**Tent names:**
+- [ ] The Bravo Crew  
+- [ ] The Scourge Squad  
+- [ ] The Riot Crew  
+- [ ] The Rogues  
+- [ ] The Prodigies  
+- [ ] The Street Dogs  
+- [ ] Situational Evaluation Squadron  
+- [ ] Situational Pursuit Crew  
+- [ ] Standby Assemble Unit  
+- [ ] Trauma Salvage Squad
