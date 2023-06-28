@@ -1,5 +1,4 @@
 ***Arrival: A tale of wretched heroes in a broken world***
-***Abridged***
 
 # Part 1 A kiss from the dark
 
@@ -49,12 +48,14 @@ The new organisation of the Glasrath Alliance is:
 # Part 2 Darkness deepens
 
 ## Chapter 4 Going to Holzander
+***3877.4E, spring***
 
 A new party member joins the Glasrath Defenders - a dust elf cleric of [Mystra](religions.md#Mystra). With the goal of investigating the disappearance of the Gaelire Beikae, the Shield of Beauty, and her Paragon Force - which supposedly came to the Holzander burnt castle 10 years ago - the Glasrath Defenders went into the [Ammuinoth](realms.md#Ammuinoth). In the Castle of Bells they've met Weldon, a very pleasant werebear and then, in the Ardismouth Temple, they fought Tekerluth (who told them she was pregnant from Miraak). Due to combat injuries they decided to look for an exit towards the desert again. The Defenders reached Mystra's temple in the north desert, where they learned of other forces in play. One of them is a strange and powerful power within the Holzander castle. A second one is the religious and military organisation known as the Faithful Faletist Knights of the Arch (FFKA), which burned the Holzander castle 110 years ago, and apparently have some influence on the cities on the surface in the region.
 
 ![](https://i.imgur.com/0SFRF2o.png)
 
 ## Chapter 5 A Breath from the desert
+***3877.5A, summer***
 
 The Glasrath Defenders marched through the desolate landscape of Ammuinoth, their path illuminated only by the dim light of the Ghost Domain. As they approached the Holzander castle, they encountered a Ghost Rider, a cursed creature never before seen in the mortal. The Defenders clashed with the beast, their weapons and spells piercing its ethereal form.
 
@@ -65,6 +66,7 @@ As they searched for a way inside, they discovered a hole in the underkeep that 
 ![](https://i.imgur.com/SIVF88s.png)
 
 ## Chapter 6 The torturer of Holzander
+***3877.5B, summer***
 
 The Glasrath Defenders entered the first level of Holzander's castle, and saw psychotic scenes of torture and death. They met the responsible for them - a torturer known as the Gaoler - who threw in disturbing comments about having tortured Gaelira and killed the Paragon Force. The defenders decided it was too much of it and went on to kill the Gaoler - who had support from animated torture equipment and zombies. The battle that followed was challenging and some of the defenders were significantly hit. Especially Miraak who, during combat, realised he was not really brought back to life by Ghuse, but has been reanimated as an intelligent undead.
 
@@ -78,7 +80,8 @@ In this first level, several monuments existed: a frog statue of a long lost dei
 
 ![](https://i.imgur.com/bRldXlL.png)
 
-## Chapter 7 The Void Claim
+## Chapter 7 The Void claim
+***3877.5B, summer***
 
 After a much-needed rest, the defenders huddled together in a dimly lit cell, sharing their knowledge and plans. Amidst the whispers, Ushulx, Durgan, Red Hart, and Ichbon discussed the animosity between Algath and [Curcharn](religions.md#Curcharn), two deities from the Deadecho. They also revealed the presence of other formidable residents in the castle, such as Cagoth-ze, a master of time magic, Danaska, an expert in oozes, and the powerful beings Imortra and Gellert. Ushulx expressed her eagerness to locate Avrindt, the Creep, a red dragon rumoured to have transformed into a death dragon. Meanwhile, Ichbon shared his quest to find a long-lost elven library that may hold knowledge about the Lady Scurvy disease.
 
@@ -88,7 +91,8 @@ As the party deliberated their next steps, they noticed a clockwork servant skul
 
 ![](https://i.imgur.com/SleRiLY.png)
 
-## Chapter 8 First Sight of Lady Scurvy
+## Chapter 8 First sight of Lady Scurvy
+***3877.5B3, summer***
 
 With their strength waning and their wounds still fresh, the band of weary heroes embarked on a treacherous journey towards the revered temple of Mystra, their priorities aligned with rejuvenation and restoration. As they traversed the Ammuinoth, their footsteps weighed heavily while caring their wounded. It was during this perilous expedition that their eyes fell upon a grotesque sight—a creature, contorted and abominable, crawling with malevolence along the ceiling. Ichbon recognised the fiendish being as an unfortunate victim infected by the accursed Lady Scurvy disease. Miraak, ever vigilant, discerned disturbing similarities between the creature's combat tactics and the vile vampire spawns employed by the armies of D'Elsin during the savage southern war. A battle ensued, arduous and fraught with peril, but it culminated in a final, decisive blow dealt by Kethra.
 
@@ -98,7 +102,8 @@ Rested, they headed to Gimorkoc, facing a rare thunderstorm. The storm, as abrup
 
 ![](https://i.imgur.com/XQExAKj.png)
 
-## Chapter 9 Contact with the Angel Hound
+## Chapter 9 The Rurkinar ritual
+**3877.5F6, summer**
 
 The valiant champions pursued Guilf's enigmatic mother. Yet, as they delved deeper into the unfathomable abyss of her powers, their fortitude waned, and their resolute spirits trembled. Guilf's mother possessed an indomitable mastery of Theurgy, a formidable force that unleashed abominations that sent shivers crawling along their spines, freezing their very souls.
 
