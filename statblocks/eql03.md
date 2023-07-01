@@ -1,5 +1,6 @@
 ---
 statblock: true
+layout: WN 5e Integrated
 source: Forge of Foes WN Converted
 name: EqLevel 03 CR 1
 size: 
