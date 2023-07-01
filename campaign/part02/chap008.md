@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 game_date: 3877.5B3
 season: summer
-location: [Holzander Castle, Ammuinoth, North Desert]
+location: [Holzander Castle Level 1, Ammuinoth Bells-Holzander, Mystra's Temple]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4
 members: 5

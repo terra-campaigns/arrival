@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 game_date: 3877.4E
 season: spring
-location: [Ammuinoth]
+location: [Ammuinoth Bells-Holzander]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4 (est)
 dc_min: 13

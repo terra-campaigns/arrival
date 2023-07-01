@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 game_date: 3877.5B
 season: summer
-location: [Holzander Castle]
+location: [Holzander Castle Level 2]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 5
 members: 5

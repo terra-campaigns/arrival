@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 game_date: 3877.6A6
 season: autumn
-location: [Gimorcok, Eyaram, Holzander Castle]
+location: [Linhe wastelands]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 5
 members: 5
