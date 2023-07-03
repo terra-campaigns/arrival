@@ -78,8 +78,6 @@ In this first level, several monuments existed: a frog statue of a long lost dei
 
 ![](https://i.imgur.com/LWn8FZ1.png)
 
-![](https://i.imgur.com/bRldXlL.png)
-
 ## Chapter 7 The Void claim
 ***3877.5B, summer***
 
@@ -114,3 +112,20 @@ Undeterred by the dark turn of events, the heroes, cloaked in the veils of night
 With the dawning of the morrow came the arrival of General Sergarus—a figurehead both dreaded and revered in Linhe. It was Sergarus who extended his impenetrable hand, granting clemency to the cultists detained in the night's embrace, save for the Shaman. In a damning judgment of treason, the Shaman was sentenced to the ghastly fate of impalement. Two hours later, under the watchful gaze of the village, the order was carried out by an FFKA knight with merciless precision.
 
 ![](https://i.imgur.com/qKKz6RW.png)
+
+## Chapter 10 Desert road
+***3877.6A6, autumn***
+
+The party became aware that the Faithful Faletist Knights of the Arch (FFKA) marked them as a group consisting of two adults, two children, and one old brute - an unconventional combination that added an air of mystery to their reputation.  As the heroes delved deeper into the mysteries of the land, they discovered that the thunderstorms in the region of Linhe had grown increasingly frequent and perilous. Prayers to Rurkinar, the Brown Eagle god, had fallen upon deaf ears, leaving the land vulnerable to the raging storms that now wreaked havoc upon the countryside. This disquieting revelation hinted at a growing imbalance in the forces that governed the realm.
+
+Undeterred by these challenges, the group forged ahead, deciding to make their way towards Eyaram, where they would assess their options for reaching the Holzander castle from the desert. However, their plans took an unexpected turn when a scout arrived from the east, bearing troubling news. Another horde of undead had launched an attack on the countryside, specifically targeting the lands east of Eyaram. A detachment of the FFKA was dispatched to gather more information, while their commander, Sergarus, remained stationed in Gimorkoc.
+
+The journey towards Eyaram commenced, and for the first two days, the group's path remained uneventful, save for the peculiar sight of ancient organic structures that hinted at a forgotten past predating recorded history. On the third day, they found themselves navigating a treacherous gorge, realising that descending into its depths would render them vulnerable to unseen dangers. Opting for a safer route around the cliff, fate interceded in the form of a solitary figure - a protector of the road and an outcast of the Nurderad dragonborn known as Gulthas Morseth.
+
+Gulthas bore a burdened past, having been a participant in the raid of the mines under the influence of the battlemage Grezar. Near death's door, Gulthas uncovered the true nature of his tormentor - a shadow dragon in disguise. The revelation struck a chord with Amyria, who recognised the description of the shadow dragon from ancient lore. These creatures had long dwelled deep within the Earth, slumbering for ages. They had departed from the material world, received by Algath's blessings, only to return with nefarious intentions.
+
+Parting ways with Gulthas, the group continued their journey towards the ruined Temple of Remains. There, they engaged in skirmishes with weakened undead adversaries, their collective strength proving superior in combat. Kethra's devastating power nearly laid waste to the entire ruin, but amid the chaos, a discovery awaited them—a tight, cold, and ominously glowing dark red tunnel that seemed to descend into the depths, perhaps leading to the enigmatic Ophaire. Amyria, channeling the divine might of her goddess Mystra, unleashed a wave of holy energy that obliterated seven undead creatures with a mere sight. The potency of her connection to Mystra became evident, further solidifying her status as a beacon of divine power within the group.
+
+As they navigated the Temple of Remains, they unraveled its past purpose - a prison once held captive Algath, the goddess of death herself. The remnants of the ancient power that had resided within its walls left a haunting imprint, a reminder of the forces that once shaped the land. With caution and wisdom, the party decided to explore other areas of the ruined temple, aware that each step took them deeper into the heart of darkness that permeated the land. Uncertainty loomed over them, but their resilience and determination remained unwavering as they braced themselves for the secrets yet to be unveiled within the Temple of Remains.
+
+![](https://i.imgur.com/URnVs1k.png)
