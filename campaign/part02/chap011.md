@@ -4,7 +4,7 @@ part: 2
 name: xx
 world: Guemenos
 campaign: Arrival
-game_date: 3877.6A6
+game_date: 3877.6B4
 season: autumn
 location: [Linhe wastelands]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
@@ -25,10 +25,10 @@ tags:
 
 ## Reviews for planning
 
-- [ ] Summarise previous chapter
-- [ ] Clean up previous chapter files, final commit
-- [ ] Update inkarnate maps (if applicable)
-- [ ] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
+- [x] Summarise previous chapter
+- [x] Clean up previous chapter files, final commit
+- [x] Update inkarnate maps (if applicable)
+- [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [ ] Move unused stuff from previous chapter (next chapter or notions)
 - [ ] Review [Abridged](../context/abridged.md)
 - [ ] Review and organise [Notions](../../notions.md)
@@ -75,7 +75,7 @@ sort file.name asc
 ## Story scenes
 
 
-
+- Perception check
 - All the rest of the undead (average CR10) come to where the fireball has exploded.
 
 ### Curfew in Eyaram
