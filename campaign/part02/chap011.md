@@ -29,10 +29,10 @@ tags:
 - [x] Clean up previous chapter files, final commit
 - [x] Update inkarnate maps (if applicable)
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [ ] Move unused stuff from previous chapter (next chapter or notions)
-- [ ] Review [Abridged](../context/abridged.md)
-- [ ] Review and organise [Notions](../../notions.md)
-- [ ] Review and organise Sly Flourish secrets for Holzander
+- [x] Move unused stuff from previous chapter (next chapter or notions)
+- [x] Review [Abridged](../context/abridged.md)
+- [x] Review and organise [Notions](../../notions.md)
+- [x] Review and organise Sly Flourish secrets for Holzander
 - [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](_campaignTracker.md))
 - [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
@@ -77,6 +77,7 @@ sort file.name asc
 
 - Perception check
 - All the rest of the undead (average CR10) come to where the fireball has exploded.
+- how to kill a giant?
 
 ### Curfew in Eyaram
 
@@ -157,6 +158,8 @@ creatures:
 
 Ancient construction access for the Ammuinoth, which is not connected to the tunnels directly, but through the Ghost Domain. Small community (50 dwarves originally, reduced to 15) currently live in the area. They used to produce simple metals, that were traded with the dust elves. The undead hordes have raided them in the last months and they are in a state of despair and dull apathy.
 
+Secret: **Dwarves have a subcouncious connection with the Legacy**
+
 - E: Dust elves caravans are squeezing the last produce they can get, and community is under pressure to produce.
 - F: Young leader wants to the community to move to deeper regions, with less mineral resources, but more protected.
 - C: No alternative can get them to their original wealth position, unless the undead stop comming
@@ -177,6 +180,12 @@ An ancient Deep once was located here, but time caused it to collapse. Location 
 
 ![|500](https://i.imgur.com/juOfU3M.png)
 
+
+### Random Encounters
+
+Road CR 8 +/- 2, day and night/ammuinoth
+
+Off the road CR 10 +/- 4 and night/ammuinoth
 
 ## Information Pool
 
