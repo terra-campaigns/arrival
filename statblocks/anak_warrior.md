@@ -13,8 +13,8 @@ cr: "1"
 eq_level: 3
 stats:
   - Fortitude: 7 
-  - Instinct: 13
-  - Morale: 14
+  - Instinct: 10
+  - Morale: 10
 skillsaves:
   - Attack: +5
   - 5e: +2
@@ -32,5 +32,7 @@ bonus_actions:
 ---
 
 ![|500](https://i.imgur.com/0EyuYIv.png)
+
+Statblock based on 5e's [Bugbear](https://5e.tools/bestiary.html#bugbear_mm). One HD higher than original WN's.
 
 ![Anak](../campaign/context/cultures.md#Anak)

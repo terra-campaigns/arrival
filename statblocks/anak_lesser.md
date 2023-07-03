@@ -14,8 +14,8 @@ cr: "1/4"
 eq_level: 1
 stats:
   - Fortitude: 6
-  - Instinct: 13
-  - Morale: 11
+  - Instinct: 10
+  - Morale: 9
 skillsaves:
   - Attack: +3
   - 5e: +2
@@ -32,5 +32,6 @@ bonus_actions:
 
 ![|500](https://i.imgur.com/LQsAavW.png)
 
+Statblock based on 5e's [Goblin](https://5e.tools/bestiary.html#goblin_mm).  AC, HP and Attack modifier are a bit high for WN.
 
 ![Anak](../campaign/context/cultures.md#Anak)
