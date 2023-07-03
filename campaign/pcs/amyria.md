@@ -6,19 +6,10 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Cleric 5
-xp: 7638
+xp: 9420
 ac: 18
-initiative: 12 (A)
-speed: 30
-darkvision: 30
 sanity: 14
-skills:
-  perception: 15 (A)
-  investigation: 14
-  insight: 15
-  persuasion: 10
-  stealth: 12 (D)
-artefacts: [Iopothaeshield]
+artefacts: [Sentinel Shield]
 tags:
 ---
 

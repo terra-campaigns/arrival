@@ -12,7 +12,7 @@ party_level: 5
 members: 5
 party_tier: 2
 party_rank: 1
-xp: 1580
+xp: 1680
 dc_min: 13
 cr_gauges: '[7, 8, 10, 14]'
 consMgcItm: 3xA
@@ -33,11 +33,11 @@ tags:
 - [x] Review [Abridged](../context/abridged.md)
 - [x] Review and organise [Notions](../../notions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander
-- [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](_campaignTracker.md))
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
-- [ ] Decide what remaining relevant NPCs are doing, and their respective checks (wwn334)
+- [x] Think about characters, write motivations & hooks, and bring one background bit to the session
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](_campaignTracker.md))
+- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
+- [x] Decide what remaining relevant NPCs are doing, and their respective checks (wwn334)
 - [ ] Detail strong start
 - [ ] Define chapter template (combat, investigation, etc.)
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
@@ -55,7 +55,7 @@ tags:
 ## Characters
 
 ```dataview
-table without ID link(file.link, name) AS "Name", species AS "Species", level AS "Level", xp, ac AS "AC", initiative AS "INI", speed, darkvision AS "DKVS", sanity AS "SNTY", skills.perception AS "PCPT", skills.investigation AS "IVST", skills.insight AS "IGHT", skills.persuasion AS "PSON", skills.stealth AS "SLTH", artefacts AS "Artefacts"
+table without ID link(file.link, name) AS "Name", species AS "Species", level AS "Level", xp, ac AS "AC", sanity AS "Sanity", artefacts AS "Artefacts"
 from "campaign"
 WHERE type = "pc"
 sort file.name asc
@@ -63,10 +63,10 @@ sort file.name asc
 
 ### Motivations
 - **Dolman**: Find Galiera, learn about her stone
-- **Miraak**: Prove himself and win back the respect of the Nurderad
+- **Miraak**: Prove himself and win back the respect of the Nurderad, find the shadow dragon
 - **Guilf**: Find and kill Sergarus, talk with mother, scare the shit out of everyone
 - **Amyria**: Ammuinoth lore, protect little Guilf
-- **Kethra**: Find the purple dragon
+- **Kethra**: Find the purple dragon / shadow dragon
 
 ## Intro
 

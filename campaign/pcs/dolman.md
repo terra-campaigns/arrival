@@ -6,18 +6,9 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Fighter 5
-xp: 10946
+xp: 12730
 ac: 18
-initiative: 12
-speed: 25
-darkvision: 30
 sanity: 11
-skills:
-  perception: 13
-  investigation: 10
-  insight: 11
-  persuasion: 9
-  stealth: 12 (D)
 artefacts: [Kimbarakerhands]
 tags:
 ---

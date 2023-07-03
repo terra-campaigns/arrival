@@ -6,18 +6,9 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Warlock 4
-xp: 3860
+xp: 5640
 ac: 15
-initiative: 13
-speed: 25
-darkvision: 30
 sanity: 11
-skills:
-  perception: 10
-  investigation: 11
-  insight: 10
-  persuasion: 14
-  stealth: 13
 artefacts: [Dreadmaska, Bitterluchcloak]
 tags:
 ---
