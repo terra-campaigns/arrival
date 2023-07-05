@@ -50,7 +50,7 @@ Their oral tradition, which often tells tales of heroes, mythical creatures, and
 ### Anak
 ***Source: wwn306***
 
-Sages believe that the original Anakim were a spite-weap- on created by the Outsiders when the fall of their hegemony seemed imminent. Captured rebels, still-subject Deeps, and human traitors who were no longer needed were used as the feedstock for the transformation, one intended to create a sentient bioweapon for the destruction of all human and demihuman life in the Latter Earth.
+Sages believe that the original Anakim were a spite-weapon created by the Outsiders when the fall of their hegemony seemed imminent. Captured rebels, still-subject Deeps, and human traitors who were no longer needed were used as the feedstock for the transformation, one intended to create a sentient bioweapon for the destruction of all human and demihuman life in the Latter Earth.
 
 Later ages saw the Anakim modified by assorted Imperators, their original nature warped and tuned to serve the purposes of the experimenters. The resulting Anakim sub-species are sometimes drastically different from the ur-Anak, but the intrinsic selfishness, cruelty, and aggression of the base stock persist in most of them.
 

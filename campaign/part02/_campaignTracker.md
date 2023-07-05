@@ -7,7 +7,7 @@ WHERE contains(category, "chapter")=true
 sort file.name asc
 ```
 
-## Active vilains (2-4)
+## Active villains (2-4)
 
 - [Aivridyt](../../npcs/aivridyt.md)
 - [Sergarus](../../npcs/sergarus.md) built as a dark lord
