@@ -60,6 +60,8 @@ creatures:
  - 1d100<=43: Knight 5es
  - 1d100<=30: Maqqatba Lancer
 ```
+The Tent can use a phalanx formation, gaining +2 AC and immunity to ranged attacks except critical hits, if 6 or more members are available. Only piercing attacks can be made in this formation. The entire group moves at 10 ft. The formation can only protect in two directions at each round. Changing direction for protection costs the phalanx movement.
+
 **Tent names:**
 - [ ] The Bravo Crew  
 - [ ] The Scourge Squad  
