@@ -7,7 +7,7 @@ campaign: Arrival
 deceased: false
 level: Warlock 4
 xp: 5640
-ac: 15
+ac: 16
 sanity: 11
 artefacts: [Dreadmaska, Bitterluchcloak]
 tags:
