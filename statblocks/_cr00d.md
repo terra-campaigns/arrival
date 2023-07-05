@@ -2,33 +2,31 @@
 statblock: true
 layout: WN 5e Integrated
 source: Forge of Foes WN Converted
-name: EqLevel 09 CR 4
+name: CR 1/2 EqLevel 02
 size: 
 type: 
 subtype: 
 role: 
-ac: 14
-hp: 85
-hit_dice: 9d8 + 45
+ac: 12
+hp: 22
+hit_dice: 2d8 + 13
 speed: 
 stats:
-  - Fortitude: 10
+  - Fortitude: 7 
   - Instinct: 
   - Morale: 
-dc: 14
+dc: 12
 skillsaves:
-  - Attack: +6
+  - Attack: +4
   - 5e: +2
   - WN: +1
 languages: 
-cr: "4"
-eq_level: 9
+cr: "1/2"
+eq_level: 2
 traits:
   - name: 
     desc: 
 actions:
-  - name: Damage per round (half if AoE)
-    desc: "29 (7d6 + 5)"
   - name: Damage per attack
-    desc: "2 attacks, each 15 (3d8 + 2)"
+    desc: "1 attack, each 10 (2d6 + 3)"
 ---
