@@ -6,20 +6,23 @@ name: EqLevel 09 CR 4
 size: 
 type: 
 subtype: 
+role: 
 ac: 14
 hp: 85
 hit_dice: 9d8 + 45
 speed: 
-cr: "4"
-eq_level: 9
 stats:
   - Fortitude: 10
   - Instinct: 
   - Morale: 
+dc: 14
 skillsaves:
   - Attack: +6
   - 5e: +2
   - WN: +1
+languages: 
+cr: "4"
+eq_level: 9
 traits:
   - name: 
     desc: 

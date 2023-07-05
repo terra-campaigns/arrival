@@ -6,20 +6,23 @@ name: EqLevel 03 CR 1
 size: 
 type: 
 subtype: 
+role: 
 ac: 12
 hp: 33
 hit_dice: 3d8 + 20
 speed: 
-cr: "1"
-eq_level: 3
 stats:
   - Fortitude: 7 
   - Instinct: 
   - Morale: 
+dc: 12
 skillsaves:
   - Attack: +5
   - 5e: +2
   - WN: +1
+languages: 
+cr: "1"
+eq_level: 3
 traits:
   - name: 
     desc: 

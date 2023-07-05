@@ -27,10 +27,18 @@ Its textile was etched with ancient runes that glowed when activated with a puls
 - You gain a +1 bonus to AC and saving throws while you wear this cloak.
 - Any friendly creature within 60ft of the cloak can expend one sanity point to re-roll any dice that directly impacts oneself.
 
-### Angelblind
-***Blind Angel eyeband, requires attunement***
+### Angel Shroud
+***Angel Shroud mask, requires attunement***
 
-While wearing this black eyeband, you gain blindsight out to a range of 60 feet. Every time the eyeband is seen by Kyri creatures a new reaction roll should be made, with disadvantage. If the new result is better than the previous result it should be ignored.
+Made of a shard of a seraphic engine, this golden shroud presents itself as a thick metal necklace. When the attuned creature touches it in the back it is enabled in one of the two operation modes.
+
+Sensory shroud mode
+
+Made by the theurgic kings for their lich armies to fight the angels
+
+Can change the mode as a free action
+
+While wearing this black thick eyeband, you gain blindsight out to a range of 60 feet. Every time the eyeband is seen by Kyri creatures a new reaction roll should be made, with disadvantage. If the new result is better than the previous result it should be ignored.
 
 
 ![secretsArtefacts](secrets/secretsArtefacts.md)

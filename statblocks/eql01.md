@@ -6,20 +6,23 @@ name: EqLevel 01 CR 1/4
 size: 
 type: 
 subtype: 
+role: 
 ac: 11
 hp: 13
 hit_dice: 1d8 + 9
 speed: 
-cr: "1/4"
-eq_level: 1
 stats:
   - Fortitude: 6
   - Instinct: 
   - Morale: 
+dc: 11
 skillsaves:
   - Attack: +3
   - 5e: +2
   - WN: +1
+languages: 
+cr: "1/4"
+eq_level: 1
 traits:
   - name: 
     desc: 

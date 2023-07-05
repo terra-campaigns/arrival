@@ -6,15 +6,18 @@ name: Anak Warrior
 size: Medium,
 type: Anak
 subtype: (Great)
+role: Skirmisher
 ac: 16
 hp: 27
 hit_dice: 3d8 + 14
+speed: 30
 cr: "1"
 eq_level: 3
 stats:
   - Fortitude: 7 
   - Instinct: 10
   - Morale: 10
+dc: 12
 skillsaves:
   - Attack: +5
   - 5e: +2

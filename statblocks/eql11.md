@@ -6,20 +6,23 @@ name: EqLevel 11 CR 6
 size: 
 type: 
 subtype: 
+role: 
 ac: 15
 hp: 112
 hit_dice: 11d8 + 63
 speed: 
-cr: "6"
-eq_level: 11
 stats:
   - Fortitude: 11 
   - Instinct: 
   - Morale: 
+dc: 15
 skillsaves:
   - Attack: +7
   - 5e: +3
   - WN: +1
+languages: 
+cr: "6"
+eq_level: 11
 traits:
   - name: 
     desc: 

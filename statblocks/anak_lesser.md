@@ -5,17 +5,19 @@ source: Worlds Without Number Homebrew
 name: Anak
 size: Medium,
 type: Anak
-subtype: (Lesser)
+subtype: (Lesser),
+role: Skirmisher
 ac: 15
 hp: 7
 hit_dice: 1d8 + 3
-speed: 
+speed: 20
 cr: "1/4"
 eq_level: 1
 stats:
   - Fortitude: 6
   - Instinct: 10
   - Morale: 9
+dc: 11
 skillsaves:
   - Attack: +3
   - 5e: +2
