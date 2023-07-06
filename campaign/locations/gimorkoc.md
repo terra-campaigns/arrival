@@ -10,7 +10,9 @@ population: 1477
 culture: [Nulfirth, Mercian]
 religion: [Yotunn, Faletism]
 factions: [FFKA East, Mercian, Rurkinar Cultists]
-tags: relevant
+relevant: yes
+tags: 
+
 ---
 
 # Gimorkoc

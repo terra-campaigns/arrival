@@ -10,7 +10,8 @@ population: 846
 culture: [Mercian]
 religion: [Faletism, Yotunn]
 factions: [FFKA East, Mercian, Rurkinar Cultists]
-tags: relevant
+relevant: yes
+tags: 
 
 ---
 

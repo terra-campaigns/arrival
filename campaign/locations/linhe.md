@@ -10,7 +10,9 @@ population: 15000
 culture: [Nulfirth, Mercian]
 religion: [Faletism, Rurkinar]
 factions: [FFKA East, Mercian, Rurkinar Cultists]
-tags: relevant
+relevant: yes
+tags: 
+
 ---
 
 # Linhe

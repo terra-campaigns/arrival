@@ -10,7 +10,9 @@ population: 1209
 culture: [Kimbarak]
 religion: 
 factions: [Glasrath]
+relevant: 
 tags: 
+
 ---
 
 # Khathadzig
