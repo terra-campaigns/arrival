@@ -23,7 +23,7 @@ tags:
 
 # Chapter 11 xxx
 
-## Reviews for planning
+## Planning checklist
 
 - [x] Summarise previous chapter
 - [x] Clean up previous chapter files, final commit
@@ -34,22 +34,19 @@ tags:
 - [x] Review and organise [Notions](../../notions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](_campaignTracker.md))
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks (wwn334)
-- [ ] Detail strong start
-- [ ] Define chapter template (combat, investigation, etc.)
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
-- [ ] Define secrets & clues, reviewing scenes
-- [ ] Outline fantastic locations, reviewing scenes and secrets
+- [x] Detail strong start
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
+- [x] Define secrets & clues, adding links to them in scenes
+- [x] Outline fantastic locations, reviewing scenes and secrets
 - [ ] Outline potential NPCs, reviewing all above
 - [ ] Outline potential foes, if not all in an appendix
-- [ ] Define treasure
+- [x] Define treasure
 - [ ] Prepare 2 day and night random encounters 
 - [ ] Prepare Owlbear, if applicable
-- [ ] Move big texts to appendix in the file
-- [ ] Prepare random encounters (linked with secrets) - including random locations
 
 
 ## Characters
@@ -70,7 +67,7 @@ sort file.name asc
 
 ## Intro
 
-- Combat with dynamic positioning (smart creatures), using of terrain, strategy
+- **Combat with dynamic positioning (smart creatures), using of terrain, strategy**
 
 ## Strong start
 
@@ -83,27 +80,49 @@ sort file.name asc
 	- Tunnel to the Ammuinoth
 	- Pierce through the undead
 
-
 ## Potential scenes
 
+- PCs **flee to Ammuinoth** from tunnel on Temple of Remains, and find [Aivridyt](../npcs/aivridyt.md)'s abandoned nest.
+	- Secrets about imperator dragons in old parchment
+- Loot the Temple of remains (**crumbling**), now clear of undead
+	- **Statue of Ghuse and Grezar**, amongst other unknown
+- PCs find the **Dead God**, and meet a random encounter
+- Visit to the **dwarf enclave**
+	- Dwarves have a subconscious connection with the weaving of the world
+- Other random exploration locations (see tables below)
+- **Curfew in [Eyaram](../locations/eyaram.md)**, possible identification by the FFKA
+	- Highlight information about Linhe
+- **Dannamore** and entrance to Holzander, in a desert thunderstorm
+	- Anaks (who can be partnered with) and elemental
+	- Flee combat to within the castle
+
+## Information pool
+
+![_informationPool](_informationPool.md)
 
 ## Locations
 
 ```dataview
-table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Internal location", type as "Type", rank as "Rank"
+table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Location", type as "Type", rank as "Rank", status as "Status"
 from "campaign"
 WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
-sort file.name asc
+sort hex asc
 ```
 
 
+## Relevant NPCs
 
-### Curfew in Eyaram
+## Potential treasures
 
-- [Eyaram](../settlements/eyaram.md) streets are empty
-- Wandering encounter: 1d10 per hour: 1 city dweller, 9 city guard, 10 FFKA
+
+
+
 
 ## Exploration scenes
+
+make random encounters for:
+- desert road daytime
+- desert night / ammuinoth
 
 - 1 in 8 for each new hex, run hex table below (done in prep)
 - 1 in 8 for night camping: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 5, Shadowfell, MM, mix, generate 10, roll 1d10
@@ -111,39 +130,17 @@ sort file.name asc
 - 1 in 8 if foraging: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 3, Desert, MM, mix, generate 10, roll 1d10
 - **Find ways to give secrets during exploration scenes.**
 
-| HexNo | Type       | Description and tags                                                           |
-| ----- | ---------- | ------------------------------------------------------------------------------ |
-| 12 // | Community  | Bandit meeting camp: Brilliant innovation & Warring council                    |
-| 19 // | Community  | Dwarf enclave: Fallen prosperity & Broken spirits                              |
-| 22 /  | Wilderness | Extreme example of native terrain: Collapsed deep & Hermitage                  |
-| 26    | Wilderness | Commanding height: Motherlode & Isolated academy                               |
-| 29    | Community  | Soldier farmers dispatched in the wild: Toxic economy & Neglectful ruler       |
-| 32    | Court      | Adventuring party: Dark secret & Forbidden romance                             |
-| 36    | Wilderness | Extreme example of native terrain: Ancient monument & Magical springs          |
-| 37    | Community  | Village of aboriginal natives: Neglectful ruler & cultural centre              |
-| 40    | Ruin       | Cultural site, inscrutable outsider art structure: Cyclical doom & Sealed evil |
-| 47    | Community  | Village of lesser Anak (not hateful): Bad neighbours & ancient infrastructure  |
-| 50    | Community  | Village of rebels/exiles from a nation: Corrupt laws & Rebel stronghold        |
+| HexNo    | Type       | Description and tags                                                           |
+| -------- | ---------- | ------------------------------------------------------------------------------ |
+| 36       | Wilderness | Extreme example of native terrain: Ancient monument & Magical springs          |
+| 37       | Community  | Village of aboriginal natives: Neglectful ruler & cultural centre              |
+| Dead God | Ruin       | Cultural site, inscrutable outsider art structure: Cyclical doom & Sealed evil |
+| 47       | Community  | Village of lesser Anak (not hateful): Bad neighbours & ancient infrastructure  |
+| 50       | Community  | Village of rebels/exiles from a nation: Corrupt laws & Rebel stronghold        |
 
 
 
 
-### Hex 12 Bandit meeting camp
-
-Innovation: grinding a stone like Gaelira's into a dwarven made pot creates a void zone that undead cannot enter.
-
-- E: Bandit leader is loosing his rapport with the band, as the innovation is changing perspectives
-- F: Dust Elf merchants that joined the band, and want to explore the possibilities outside just bandity
-- C: The innovation requires rare stones and pots made by dwarves, but establishing trading routes with dwarves requires broader dust elven support, which they are not seeking
-- T: the innovation components
-- P: the camp
-
-![|500](https://i.imgur.com/vXQ3hhj.png)
-
-
-### Temple of Remains
-
-[Temple of Remains](../locations/templeOfRemains.md)
 
 ### Dannamore's entrance - desert thunderstorm
 
@@ -171,31 +168,7 @@ creatures:
 
 ![|500](https://i.imgur.com/0dL6nxF.png)
 
-### Hex 19 Dwarf enclave
 
-Ancient construction access for the Ammuinoth, which is not connected to the tunnels directly, but through the Ghost Domain. Small community (50 dwarves originally, reduced to 15) currently live in the area. They used to produce simple metals, that were traded with the dust elves. The undead hordes have raided them in the last months and they are in a state of despair and dull apathy.
-
-Secret: **Dwarves have a subcouncious connection with the Legacy**
-
-- E: Dust elves caravans are squeezing the last produce they can get, and community is under pressure to produce.
-- F: Young leader wants to the community to move to deeper regions, with less mineral resources, but more protected.
-- C: No alternative can get them to their original wealth position, unless the undead stop comming
-- T: Whoever represents Kimbarak can help them regain self worth
-- P: Crumbling mines
-
-![|500](https://i.imgur.com/mtp8vdN.png)
-
-### Hex 22 Hermits' Crevasse
-
-An ancient Deep once was located here, but time caused it to collapse. Location is now a large crater, with the remnants of the deep's entrance. Small sections of the deep can still be accessed, but it is a major collapse risk. A Rurkinar hermit group lives in the safest area of the crumbling ruin, but now afraid of the undead.
-
-- E Disguised Mercian living amongst the hermits
-- F A funny blighted elf (calls himself Thirteen), that knows how to go around the ruins. He is seeking help for the hermits
-- C Undead are digging their way up
-- T Thirteen knows of a seraphic engine shard buried in the deep
-- P Crevasse
-
-![|500](https://i.imgur.com/juOfU3M.png)
 
 
 ### Random Encounters
@@ -206,18 +179,21 @@ Off the road CR 10 +/- 4 and night/ammuinoth
 
 ## Information Pool
 
-![_informationPool](_informationPool.md)
+
 
 
 ## Potential treasures  
-- Angelblind
+
+- 500 gp, 30 pp, black onyx (150 gp), jade (100 gp), jet (100 gp)
+- Ring of Warmth (uncommon, dmg 193)
+
 
 ## Relevant settlements  
 
 ```dataview
-table without ID link(file.link, name) AS "Name", province AS "Province", population AS "Population", culture AS "Cultures", religion AS "Religions", factions AS "Factions"
+table without ID link(file.link, name) AS "Name", population AS "Population", culture AS "Cultures", religion AS "Religions", factions AS "Factions"
 from "campaign"
-WHERE type = "settlement" AND tags = "relevant"
+WHERE type = "settlement" AND relevant = "yes"
 sort file.name asc
 ```
   
