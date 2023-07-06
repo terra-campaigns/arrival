@@ -9,6 +9,8 @@ type: ruin
 name: Temple of Remains
 rank: 1
 cr_gauges: '[6, 8, 9, 12]'
+status: visited
+relevant: yes
 tags: 
 ---
 
@@ -66,6 +68,7 @@ Just a half destroyed ruin turning into a cave now.
 ## Room 4
 
 -   Purpose: Function area for the site's original purpose, with a massive prison for a god and many tombs.
+	- Statue of Ghuse and Grezar, amongst other unknown
 -   Valuables: Seraphic goggles / other magic item.
 -   Mood: Crackling with crumbles (that seems to never end)
 -   Magical Peril: Low magic ward or trap in place - Magic required DC 10 check before casting. 

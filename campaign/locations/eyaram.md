@@ -1,16 +1,22 @@
 ---
+category: location
+campaign: Arrival
+land: Maqqatba
+region: Linhe
+hex: Eyaram
+sub: 
 type: settlement
 name: Fort City of Eyaram
-world: Guemenos
-continent: Etor
-state: Khathan Empire
-province: Linhe County
-campaign: Arrival
+rank: 
+cr_gauges: '[6, 8, 9, 12]'
+status: detailed unvisited
+relevant: yes
+tags: 
+
 population: 511
 culture: [Mercian, Nurfirth]
 religion: [Faletism, Yotunn]
 factions: [FFKA East, Mercian, Rurkinar Cultists]
-tags: relevant
 ---
 
 # Fort City of Eyaram
@@ -47,4 +53,9 @@ tags: relevant
  - A modest woodcarver's workshop, built around a large tree - it is a secret Rurkinar meeting place.
  - The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
 -  A Mercian house outside the city
+
+## Current scene
+
+- [Eyaram](eyaram.md) streets are empty, due to curfew
+- Wandering encounter: 1d10 per hour: 1 city dweller, 9 city guard, 10 FFKA
 
