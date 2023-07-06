@@ -1,10 +1,12 @@
 ## Highlights
 
+- [ ] Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
+- [ ] Mercians from the east are reaching out to Glasrath to establish trading routes with them as well - great produce is coming from the mountains who have their strong community now behind the banner of Ghuse.
 
 ## Holzander Castle
 
-- [ ] #strategic Danaska and Cagoth-ze are at odds as danaska thinks it is cagoth-ze's fault that her documents were vanished
 - [ ] #puzzle **Danaska made a calming potion for the trollkin to take Gaelira somewhere (to Raganni for a Lich ritual)**
+- [ ] #strategic Danaska and Cagoth-ze are at odds as danaska thinks it is cagoth-ze's fault that her documents were vanished
 - [ ] #spoiler Location of the Ancient Elven Library: in a secret cavern in the Ammuinoth, where now is the Holzander castle.
 - [ ] #strategic One who possesses Cagoth-ze’s ring and the instructions for recalibrating the time construct can set it randomly so it will almost never return back here again.
 - [ ] #strategic Cagoth-ze had Imortra build a summoning circle and summon Lasbascilag (the Lesser Infernal Tutor). Immorta wants nothing to do with the devil (she knows how dangerous it is). Cagoth thinks he can control the devil to get valuable information.
@@ -24,19 +26,17 @@
 
 ## Linhe
 
-- [ ] #spoiler Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
 - [ ] Sandman warriors: champions of the Angels
-- [ ] Mercians from the east are reaching out to Glasrath to establish trading routes with them as well - great produce is coming from the mountains who have their strong community now behind the banner of Ghuse.
 
 ## General
 
+- [ ] **Foucheresia is joining Katho in the war, and sending the Thymar host south**
 - [ ] #spoiler Frost anaks come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
 - [ ] #context Age of dragon imperators in the past, now they are imprisioned in the Master's Teeth mountains, in the isle of Atba Sim.
 - [ ] #context **Stone from Gaelira in a book of Geology of Maqqatba: Chronoliths**.
-- [ ] #spoiler Foucheresia is joining Katho in the war, and sending the Thymar host south
 - [ ] #context Olivepia is where the head of the Faletist church sits. It is a religious empire with a strong hand on neighbour empires (other empires are vassals)
 - [ ] #strategic **Glasrath: number of undead greatly surpasses the number of alive people (2-to-1), mostly working the mines. Singlestrike joins support for Ghuse and population is mostly in full support (about 200 soldiers and guards are supporting). If characters haven't noticed yet, they notice now, that people are looking more pale and seem a bit brain drained.**
-- [ ] Dwarves have a subcouncious connection with the Legacy
+- [ ] Dwarves have a subconscious connection with the weaving of the world
 
 ## Ancient Elven Library
 
