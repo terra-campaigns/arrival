@@ -70,14 +70,33 @@ sort file.name asc
 
 ## Intro
 
+- Combat with dynamic positioning (smart creatures), using of terrain, strategy
+
+## Strong start
+
+- Location: [TempleOfRemains](../locations/templeOfRemains.md)
+- Roll perception check DC 13
+- All the rest of the inhabitants (average CR10) come to where the fireball has exploded.
+	- **Dynamic positioning of creatures (are they smart?)**
+- **PCs need to figure out how to kill a giant creature**
+- Exits
+	- Tunnel to the Ammuinoth
+	- Pierce through the undead
 
 
-## Story scenes
+## Potential scenes
 
 
-- Perception check
-- All the rest of the undead (average CR10) come to where the fireball has exploded.
-- how to kill a giant?
+## Locations
+
+```dataview
+table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Internal location", type as "Type", rank as "Rank"
+from "campaign"
+WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
+sort file.name asc
+```
+
+
 
 ### Curfew in Eyaram
 
@@ -85,8 +104,6 @@ sort file.name asc
 - Wandering encounter: 1d10 per hour: 1 city dweller, 9 city guard, 10 FFKA
 
 ## Exploration scenes
-
-
 
 - 1 in 8 for each new hex, run hex table below (done in prep)
 - 1 in 8 for night camping: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 5, Shadowfell, MM, mix, generate 10, roll 1d10
