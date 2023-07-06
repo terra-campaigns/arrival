@@ -2,7 +2,7 @@
 statblock: true
 layout: WN 5e Integrated
 source: Forge of Foes WN Converted
-name: CR 1/2 EqLevel 02
+name: CR 1/2 EqLevel 2
 size: 
 type: 
 subtype: 
