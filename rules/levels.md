@@ -205,3 +205,30 @@ cat(as.yaml(currentParty))
     ## consMgcItmTbl: 3xA
     ## permMgcItmTbl: --
     ## hoardTreasure: 0.2
+
+``` r
+hexLevels <- data.frame(level = 1:20,
+                           members = 5) %>%
+  left_join(levelTbl, by = 'level') %>%
+  filter(level %in% c(0:6 * 3 + 1)) %>%
+  select(rank, members, CRsolo, CR1vs1, CR2vs1, CR4vs1) %>%
+  mutate(CRsolo = as.integer(CRsolo + members - 4),
+         CR1vs1 = as.integer(round(CR1vs1 * members)),
+         CR2vs1 = as.integer(round(CR2vs1 * members)),
+         CR4vs1 = as.integer(round(CR4vs1 * members)),
+         cr_gauges = paste0('[', CRsolo, ', ', CR1vs1, ', ',
+                            CR2vs1, ', ', CR4vs1, ']')) %>%
+  select(-CRsolo, -CR1vs1, -CR2vs1, -CR4vs1, -members)
+
+knitr::kable(hexLevels, format = 'pipe')
+```
+
+| rank | cr_gauges          |
+|-----:|:-------------------|
+|    0 | \[3, 2, 2, 2\]     |
+|    1 | \[6, 8, 9, 12\]    |
+|    2 | \[10, 14, 18, 23\] |
+|    3 | \[13, 21, 25, 34\] |
+|    4 | \[17, 30, 36, 49\] |
+|    5 | \[20, 38, 45, 60\] |
+|    6 | \[24, 50, 60, 79\] |
