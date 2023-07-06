@@ -8,7 +8,7 @@ deceased: false
 level: Rogue 5
 xp: 12260
 ac: 15
-sanity: 12
+sanity: 12 [11]
 artefacts:
 tags:
 ---
