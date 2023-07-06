@@ -2,11 +2,11 @@
 statblock: true
 layout: WN 5e Integrated
 source: Worlds Without Number Homebrew
-name: Anak
-size: Medium,
-type: Anak
-subtype: (Lesser),
-role: Skirmisher
+name: Anak Commoner
+size: Medium
+type: anak
+subtype: (lesser),
+role: skirmisher
 ac: 15
 hp: 7
 hit_dice: 1d8 + 3
@@ -17,7 +17,7 @@ stats:
   - Fortitude: 6
   - Instinct: 10
   - Morale: 9
-dc: 11
+dc: 
 skillsaves:
   - Attack: +3
   - 5e: +2

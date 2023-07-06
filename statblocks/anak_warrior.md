@@ -3,10 +3,10 @@ statblock: true
 layout: WN 5e Integrated
 source: Worlds Without Number Homebrew
 name: Anak Warrior
-size: Medium,
-type: Anak
-subtype: (Great)
-role: Skirmisher
+size: Medium
+type: anak
+subtype: (great),
+role: skirmisher
 ac: 16
 hp: 27
 hit_dice: 3d8 + 14
@@ -17,7 +17,7 @@ stats:
   - Fortitude: 7 
   - Instinct: 10
   - Morale: 10
-dc: 12
+dc: 
 skillsaves:
   - Attack: +5
   - 5e: +2

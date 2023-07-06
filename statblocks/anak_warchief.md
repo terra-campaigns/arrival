@@ -3,10 +3,10 @@ statblock: true
 layout: WN 5e Integrated
 source: Worlds Without Number Homebrew
 name: Anak Warchief
-size: Medium,
-type: Anak
-subtype: (Great),
-role: Leader
+size: Medium
+type: anak
+subtype: (great),
+role: leader
 ac: 17
 hp: 36
 hit_dice: 8d8
@@ -17,7 +17,7 @@ stats:
   - Fortitude: 9
   - Instinct: 11
   - Morale: 12
-dc: 13
+dc: 
 skillsaves:
   - Attack: +5
   - 5e: +2
