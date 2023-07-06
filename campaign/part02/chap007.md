@@ -153,7 +153,7 @@ A flooded monumental hall of brass, in terrible decay, with sweeping passageways
 
 ### Linhe cities
 
-- [Eyaram](../settlements/eyaram.md) 
+- [Eyaram](../locations/eyaram.md) 
 - [Gimorkoc](../settlements/gimorkoc.md)
 
 ## Important NPCs
