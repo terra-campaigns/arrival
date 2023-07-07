@@ -102,12 +102,22 @@ sort file.name asc
 
 ## Locations
 
+Assigning locations to hexes:
+- **1 in 10** If alongside the route (3 hex wide): it has been partially pre-generated in prep
+- **2 in 10** If 3+ hex away from road
+
 ```dataview
 table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Location", type as "Type", rank as "Rank", status as "Status"
 from "campaign"
 WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
 sort hex asc
 ```
+
+### Random encounters
+
+![Wandering Encounters in Linhe](../context/secrets/secretsRealms.md#Wandering%20Encounters%20in%20Linhe)
+
+
 
 
 ## Relevant NPCs
@@ -118,17 +128,9 @@ sort hex asc
 
 
 
-## Exploration scenes
 
-make random encounters for:
-- desert road daytime
-- desert night / ammuinoth
 
-- 1 in 8 for each new hex, run hex table below (done in prep)
-- 1 in 8 for night camping: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 5, Shadowfell, MM, mix, generate 10, roll 1d10
-- 1 in 8 each day PCs spend in a single hex: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 4, Desert, MM, mix, generate 10, roll 1d10
-- 1 in 8 if foraging: [encounter generation](https://www.chaosgen.com/dnd5e/encounter) level 3, Desert, MM, mix, generate 10, roll 1d10
-- **Find ways to give secrets during exploration scenes.**
+
 
 | HexNo    | Type       | Description and tags                                                           |
 | -------- | ---------- | ------------------------------------------------------------------------------ |
@@ -173,9 +175,6 @@ creatures:
 
 ### Random Encounters
 
-Road CR 8 +/- 2, day and night/ammuinoth
-
-Off the road CR 10 +/- 4 and night/ammuinoth
 
 ## Information Pool
 
@@ -186,6 +185,7 @@ Off the road CR 10 +/- 4 and night/ammuinoth
 
 - 500 gp, 30 pp, black onyx (150 gp), jade (100 gp), jet (100 gp)
 - Ring of Warmth (uncommon, dmg 193)
+- Agate Eyes (gb 198)
 
 
 ## Relevant settlements  

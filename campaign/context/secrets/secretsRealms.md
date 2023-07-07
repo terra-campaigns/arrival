@@ -6,13 +6,9 @@ campaign: Arrival
 tags: 
 ---
 
-# Secrets for Realms of Guemenos
+# Secrets for Realms
 
-## Etor
-
-### Katho
-
-#### Linhe
+## Linhe
 
 **Genre**: [dark fantasy](https://5e.tools/book.html#vrgr,-1,dark%20fantasy,0), [folk](https://5e.tools/book.html#vrgr,-1,folk%20horror,0_) and [disaster](https://5e.tools/book.html#vrgr,-1,disaster%20horror,0) horror
 **Hallmarks**: Dwindling resources, fickle hero worship, impending disaster, suspicion, totalitarianism, undead
@@ -34,41 +30,85 @@ Every few months a new zombie legion issues from the Ghost Domain through caves 
 
 References: [Har'Akir](https://5e.tools/book.html#vrgr,-1,har'akir,1) and [Falkovnia](https://5e.tools/book.html#vrgr,-1,falkovnia,0)
 
-### Olivepia
+### Wandering Encounters in Linhe
+
+| d4  | Desert daytime                   | Desert night time / Ammuinoth           | Additional roll(s)                         |
+| --- | -------------------------------- | --------------------------------------- | ------------------------------------------ |
+| 1   | Predators or herd animals        | Predators or herd animals</br>(+2 on table) | Beast table, mood and reaction             |
+| 2   | Inhabitants or elite             | Inhabitants or elite</br>(+2 on table)      | Sapient table, activity, mood and reaction |
+| 3   | Misbegotten, outsiders, monsters | Misbegotten</br>(+2 on table)               | Misbegotten table, mood and reaction       |
+| 4   | Environment effect               | Environment effect                      | Wilderness or dungeon effects              |
+
+| d6  | Beast                        | CR  | Rank 0 no  | Rank 1 no  |
+| --- | ---------------------------- | --- | ---------- | ---------- |
+| 1   | Sand sheep, antelope         | 0   | 1d4        | 1d6        |
+| 2   | Scorpions, vipers, sand cats | 0   | 2d4        | 2d6        |
+| 3   | Dust hawks and vultures      | 1/8 | 2d6        | 2d8        |
+| 4   | Hyenas, jackals              | 1/4 | 2d8-1      | 2d12       |
+| 5   | Dire desert wolves           | 1/2 | 2d4-1      | 2d8        |
+| 6   | Desert lions                 | 1   | 1, 2, 2, 3 | 2d4+1      |
+| 7   | Cave bear                    | 2   | 1, 1, 1, 2 | 1, 2, 2, 3 |
+| 8   | Sabre-toothed tiger          | 3   | 1          | 1, 1, 1, 2 |
+
+| d8  | Sapient           | CR  | Rank 0 no | Rank 1 no |
+| --- | ----------------- | --- | --------- | --------- |
+| 1   | Rurkinar          | 1/8 | 2d6       | 2d8       |
+| 2   | Dust elves        | 1/2 | 2d4-1     | 2d8       |
+| 3   | Mercian commoners | 1/2 | 2d4-1     | 2d8       |
+| 4   | Bandits           | 1/2 | 2d4-1     | 2d8       |
+| 5   | FFKA scouts       | 1   | 1,2,2,3   | 2d4       |
+| 6   | Anak patrol       |     | Special   | Special   |
+| 7   | FFKA Tent         | 10  | Special   | Special   |
+| 8   | Anak Warband      |     | Special   | Special   |
+| 9   | Mercian Antinomi  |     | Special   | Special   |
+| 10  | Deepfolk raiders  | 4   | 1         | 1d4-1     |
+
+| d4  | Misbegotten                  | CR  | Rank 0 no | Rank 1 no |
+| --- | ---------------------------- | --- | --------- | --------- |
+| 1   | Misbegotten (giant) vulture  | 1   |           |           |
+| 2   | Misbegotten (giant) scorpion | 3   |           |           |
+| 3   | Phase spider                 | 3   |           |           |
+| 4   | Jikegida hunting party       |     | Special   | Special   |
+| 5   | Lady Scurvy                  | 5   | 1         |           |
+| 6   | Undead horde                 |     | Special   | Special   | 
+
+
+
+## Olivepia
 
 Olivepia's king is an usurper. Olivepia has prohibition on magic. Olivepia is based in 1400- Portugal, with a lot of influence, science, but also strong inquisition and religious violence against non-humans.
 
-### Romburghia
+## Romburghia
 
 (LIGHT CALVARY)
 
-### Hincland
+## Hincland
 
 (LIGHT CALVARY)
 
-### Foucheresia
+## Foucheresia
 
 **seafarers**
 
-### D'Elsin
+## D'Elsin
 
 ![|500](https://i.imgur.com/1HdHyxC.png)
 
 
-### Underworld
+## Underworld
 
-#### Ammuinoth
+## Ammuinoth
 
 On the map below, in red are Brezal Paths that are followed by roads in the surface; in blue are collapsed or partially collapsed tunnels and in black are tunnels in work order. 
 
 ![](https://i.imgur.com/1s32LJn.jpg)
 
 
-#### Underdark
+## Underdark
 
 Although the Kyri power touched the drow and duergar before, it was only when the most evil creatures living the Ophaire explored the depths of Shadowfell that the Kyri themselves were awoken. The story is not fully known, but it is said 4500 IT is when Ulkrunnar and his sons and daughters became active in Guemenos.
 
-#### Deadecho
+## Deadecho
 
 The Deadecho, the dominion of [Algath](../context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
 
