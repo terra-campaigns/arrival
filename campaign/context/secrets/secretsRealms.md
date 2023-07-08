@@ -61,7 +61,7 @@ References: [Har'Akir](https://5e.tools/book.html#vrgr,-1,har'akir,1) and [Falko
 | 7   | FFKA Tent         |     | [Encounter](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) | [Encounter](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) |
 | 8   | Anak War Band     |     | [Encounter](secretsCultures.md#Anak%20War%20Band)                       | [Encounter](secretsCultures.md#Anak%20War%20Band)                       |
 | 9   | Mercian Antinomi  |     | [Encounter](secretsCultures.md#Mercian%20Antinomi%20Group)              | [Encounter](secretsCultures.md#Mercian%20Antinomi%20Group)              |
-| 10  | Deepfolk raiders  | 4   | 1                                                                       | `dice: 1d4-1`                                                           |
+| 10  | Deepfolk raiders  | 4   | Not ready                                                               | Not ready                                                               |
 
 | d4  | Misbegotten                  | CR  | Rank 0 no | Rank 1 no |
 | --- | ---------------------------- | --- | --------- | --------- |

@@ -1,11 +1,16 @@
 ---
-type: [location/castle, location/tunnel]
-name: Castle of Holzander
-world: Guemenos
-continent: Etor
-state: 
-province: 
+category: location
 campaign: Arrival
+land: Maqqatba
+region: Linhe
+hex: Holzander
+sub: Level 0
+type: ruin
+name: Castle of Holzander Level 0
+rank: 0
+cr_gauges: ''
+status: detailed visited
+relevant: yes
 tags: 
 ---
 
@@ -36,36 +41,8 @@ Over the next 100 years, foul creatures have arrived and departed from the ruins
 
 The structure stands atop a low hill that slopes off gradually all around. The slope is gentle but the ground is rugged, broken by mushrooms and revines that you have never seen before. The fort was breached at the northwest and southeast corners, but the rest of the walls and the main keep still stand. The outer walls are 15 feet high. The main tower rises 40 feet, and the secondary keep is 30 feet tall but heavily damaged. Despite the damage and decay, it’s still an impressive place that seems to have been built by skilled builders.
 
-![](https://i.imgur.com/Xvwv5n1.png)
+![|500](https://i.imgur.com/Xvwv5n1.png)
 
 ## Current staus
 
 - The Holzander catacombs are **rife with undead, thanks to a weak spot in the dimensional barrier** between here and the Deadecho
-
-## Internal locations
-
-### Vision of the void
-
-![|500](https://i.imgur.com/xH7SwoN.png)
-
-### Catacombs
-
-![|500](https://lh4.googleusercontent.com/Xo-h6pYZOhYftOsO5Eo6JMw-5sSSdtFPFEaUIAao-M0aJa7mqwh9dCcc2r1Gez2voTBmwivYD_wkgBRT1MMxYWcFTu3PDIvknjUvWnhdhejkPdh6vTujNebhHvUX-VnavNRV-TJYH1oVVBlFj3IltTQ)
-
-![|500](https://cdn.vox-cdn.com/thumbor/0LUFTZ4yq4u_ZIbvybb7ci4orDo=/0x0:2040x1360/1400x933/filters:focal(1288x183:1614x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65197198/descent_art.0.jpg)
-
-Ossuary connects to the Ophaire. If PCs look into the pool they see this and, on a mountain slope that takes to the pool, a contiguous line of undead climbing towards the PCs in slow motion. Any PCs that look into the pool must do a sanity check [DC 10] or lose a point of sanity and gain a short term madness. Closing the portal is beyond the characters level, or even anyone on this level on the castle [Arcana DC 20 to realise that].
-
-### Mystra's Door
-
-- Access to the surface is on the collapsed tunnel close to the Holzander's catacombs.
-- The tunnel goes up for about 1 km, and then there is a silver door that is magically locked by a Mystra protection spell [WIS Religion DC 15].
-- The key to open can be found in the library in Mystra's temple [WIS Investigation DC 15], but can also be remembered by Amyria [WIS Religion DC 18].
-- In an ancient Elvish language: "Héri -o mysterime, palime- sina door ar láv- us varna pak", which means "Lady of mystery, open this door and allow us safe passage"
-- After the door, it is another 500m to get to the surface. The access to the surface is hidden in the middle of the desert with a large wooden trap door. It has been buried for a long time.
-- After finding the door, even without unlocking it, PCs can try to estimate the location of the entrance on the surface [INT Investigation DC 18] and then find it from above [WIS Survival DC 16].
-
-![|500](https://i.imgur.com/R8njhtR.png)
-
-![|500](https://i.imgur.com/03FKFBu.jpg)
-
