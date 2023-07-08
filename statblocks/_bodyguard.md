@@ -1,20 +1,20 @@
 ---
 statblock: true
 layout: WN 5e Integrated
-source: Forge of Foes WN Converted
-name: CR 2
-size: 
-type: 
-subtype: 
-role: 
+source: Forge of Foes Homebrew
+name: Bodyguard
+size: Medium
+type: humanoid
+subtype: ,
+role: brute
 ac: 13
 hp: 45
 hit_dice: 5d8 + 23
-speed: 
+speed: 30
 stats:
   - Fortitude: 8
-  - Instinct: 
-  - Morale: 
+  - Instinct: 10
+  - Morale: 10
 dc: 13
 skillsaves:
   - Attack: +5
@@ -23,12 +23,7 @@ skillsaves:
 languages: 
 cr: "2"
 eq_level: 5
-traits:
-  - name: 
-    desc: 
 actions:
-  - name: Damage per round (half if AoE)
-    desc: "17 (4d6 + 3)"
-  - name: Damage per attack
+  - name: Melee or ranged attack
     desc: "2 attacks, each 9 (2d6 + 2)"
 ---

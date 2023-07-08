@@ -1,20 +1,20 @@
 ---
 statblock: true
 layout: WN 5e Integrated
-source: Forge of Foes WN Converted
-name: CR 1
-size: 
-type: 
+source: Homebrew
+name: War Scout
+size: Medium
+type: humanoid,
 subtype: 
-role: 
+role: artillery
 ac: 12
 hp: 33
 hit_dice: 3d8 + 20
-speed: 
+speed: 30
 stats:
   - Fortitude: 7 
-  - Instinct: 
-  - Morale: 
+  - Instinct: 10
+  - Morale: 11
 dc: 12
 skillsaves:
   - Attack: +5
@@ -23,12 +23,10 @@ skillsaves:
 languages: 
 cr: "1"
 eq_level: 3
-traits:
-  - name: 
-    desc: 
 actions:
-  - name: Damage per round (half if AoE)
-    desc: "12 (2d8 + 3)"
   - name: Damage per attack
     desc: "2 attacks, each 6 (1d8 + 2)"
+reactions:
+  - name: "Quick Step"
+    desc: "When this creature would make a ranged attack, they can first move 5 feet without provoking opportunity attacks."
 ---

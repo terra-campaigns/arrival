@@ -39,29 +39,29 @@ References: [Har'Akir](https://5e.tools/book.html#vrgr,-1,har'akir,1) and [Falko
 | 3   | Misbegotten, outsiders, monsters | Misbegotten</br>(+2 on table)               | Misbegotten table, mood and reaction       |
 | 4   | Environment effect               | Environment effect                      | Wilderness or dungeon effects              |
 
-| d6  | Beast                        | CR  | Rank 0 no  | Rank 1 no  |
-| --- | ---------------------------- | --- | ---------- | ---------- |
-| 1   | Sand sheep, antelope         | 0   | 1d4        | 1d6        |
-| 2   | Scorpions, vipers, sand cats | 0   | 2d4        | 2d6        |
-| 3   | Dust hawks and vultures      | 1/8 | 2d6        | 2d8        |
-| 4   | Hyenas, jackals              | 1/4 | 2d8-1      | 2d12       |
-| 5   | Dire desert wolves           | 1/2 | 2d4-1      | 2d8        |
-| 6   | Desert lions                 | 1   | 1, 2, 2, 3 | 2d4+1      |
-| 7   | Cave bear                    | 2   | 1, 1, 1, 2 | 1, 2, 2, 3 |
-| 8   | Sabre-toothed tiger          | 3   | 1          | 1, 1, 1, 2 |
+| d6  | Beast                        | CR  | Rank 0 location               | Rank 1 location               |
+| --- | ---------------------------- | --- | ----------------------------- | ----------------------------- |
+| 1   | Sand sheep, antelope         | 0   | `encounter: 1d4: CR 0`        | `encounter: 1d6: CR 0`        |
+| 2   | Scorpions, vipers, sand cats | 0   | `encounter: 2d4: CR 0`        | `encounter: 2d6: CR 0`        |
+| 3   | Dust hawks and vultures      | 1/8 | `encounter: 2d6: CR 1/8`      | `encounter: 2d8: CR 1/8`      |
+| 4   | Hyenas, jackals              | 1/4 | `encounter: 2d8-1: CR 1/4`    | `encounter: 2d12: CR 1/4`     |
+| 5   | Dire desert wolves           | 1/2 | `encounter: 2d4-1: CR 1/2`    | `encounter: 2d8: CR 1/2`      |
+| 6   | Desert lions                 | 1   | `encounter: 2d2-1: CR 1`      | `encounter: 2d4+1: CR 1`      |
+| 7   | Cave bear                    | 2   | `encounter: 1 + 1d4<=1: CR 2` | `encounter: 2d2-1: CR 2`      |
+| 8   | Sabre-toothed tiger          | 3   | `encounter: 1: CR 3`          | `encounter: 1 + 1d4<=1: CR 3` |
 
-| d8  | Sapient           | CR  | Rank 0 no | Rank 1 no |
-| --- | ----------------- | --- | --------- | --------- |
-| 1   | Rurkinar          | 1/8 | 2d6       | 2d8       |
-| 2   | Dust elves        | 1/2 | 2d4-1     | 2d8       |
-| 3   | Mercian commoners | 1/2 | 2d4-1     | 2d8       |
-| 4   | Bandits           | 1/2 | 2d4-1     | 2d8       |
-| 5   | FFKA scouts       | 1   | 1,2,2,3   | 2d4       |
-| 6   | Anak patrol       |     | Special   | Special   |
-| 7   | FFKA Tent         | 10  | Special   | Special   |
-| 8   | Anak Warband      |     | Special   | Special   |
-| 9   | Mercian Antinomi  |     | Special   | Special   |
-| 10  | Deepfolk raiders  | 4   | 1         | 1d4-1     |
+| d8  | Sapient           | CR  | Rank 0 no                                                               | Rank 1 no                                                               |
+| --- | ----------------- | --- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1   | Rurkinar          | 1/8 | `encounter: 2d6: CR 1/8`                                                | `encounter: 2d8: CR 1/8`                                                |
+| 2   | Dust elves        | 1/2 | `encounter: 2d4-1: CR 1/2`                                              | `encounter: 2d8: CR 1/2`                                                |
+| 3   | Mercian commoners | 1/2 | `encounter: 2d4-1: CR 1/2`                                              | `encounter: 2d8: CR 1/2`                                                |
+| 4   | Bandits           | 1/2 | `encounter: 2d4-1: CR 1/2`                                              | `encounter: 2d8: CR 1/2`                                                |
+| 5   | FFKA scouts       | 1   | `encounter: 2d2-1: War Scout`                                           | `encounter: 2d4: War Scout`                                             |
+| 6   | Anak lesser       | 1/4 | `encounter: 2d8: Anak Scout`                                            | `encounter: 2d12: Anak Scout`                                           |
+| 7   | FFKA Tent         |     | [Encounter](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) | [Encounter](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) |
+| 8   | Anak War Band     |     | [Encounter](secretsCultures.md#Anak%20War%20Band)                       | [Encounter](secretsCultures.md#Anak%20War%20Band)                       |
+| 9   | Mercian Antinomi  |     | [Encounter](secretsCultures.md#Mercian%20Antinomi%20Group)              | [Encounter](secretsCultures.md#Mercian%20Antinomi%20Group)              |
+| 10  | Deepfolk raiders  | 4   | 1                                                                       | `dice: 1d4-1`                                                           |
 
 | d4  | Misbegotten                  | CR  | Rank 0 no | Rank 1 no |
 | --- | ---------------------------- | --- | --------- | --------- |

@@ -2,7 +2,7 @@
 statblock: true
 layout: WN 5e Integrated
 source: Worlds Without Number Homebrew
-name: Anak Commoner
+name: Anak Scout
 size: Medium
 type: anak
 subtype: (lesser),
