@@ -129,3 +129,32 @@ Parting ways with Gulthas, the group continued their journey towards the ruined 
 As they navigated the Temple of Remains, they unraveled its past purpose - a prison once held captive Algath, the goddess of death herself. The remnants of the ancient power that had resided within its walls left a haunting imprint, a reminder of the forces that once shaped the land. With caution and wisdom, the party decided to explore other areas of the ruined temple, aware that each step took them deeper into the heart of darkness that permeated the land. Uncertainty loomed over them, but their resilience and determination remained unwavering as they braced themselves for the secrets yet to be unveiled within the Temple of Remains.
 
 ![](https://i.imgur.com/URnVs1k.png)
+
+## Chapter 11 Aivridyt's past
+
+- The group of broken heroes realised that all the noise they created on the first skirmish in the Temple of Remains have awoken other foes in the ruin dedicated to the death goddess.
+- They were quickly cornered by two Blessed Dead Adepts, creatures of death control, and their slave husk minions. Accompanying them was a zombie clot, an uncreated form made of hundreds of dead bodies.
+- During the perilous battle, Kethra was almost completely eaten by the hungry corpses, barely escaping death when Guilf cast a magic darkness in the battlefield.
+- In the end, the party was successful overcoming their foes, and used the next day to explore the rest of the ruined temple. The they found, alongside hundreds of tombs, four large statues and a big tome written in draconic.
+- Two statues were of known persons: Ghuse and Grezar (who was also the sage that raised Kethra), but with names of other historical characters.
+- Based on the text on the draconic tome, the group's current understanding is that Ghuse and Grezar are just forms that Aivridyt assumed to carry on her dark plans.
+- After leaving the temple, the group continued travelling on the road until they've found a giant metal statue. Guilf, childishly, decided to sit in the statue's mouth, only to be immediately lost in reverie, speaking with Mondendovil, the Illithid Void.
+- The ancient void god refereed to the statue as his long lost physical form, and that his servants would be arriving soon to once again connect his mind to his body.
+- The group, hasty to get back to Holzander, continued their travel until they arrived in the Dwarf enclave of Durnum.
+
+![](https://i.imgur.com/tnoPs6z.png)
+
+## Dramatis Personae: Aivridyt, the Creep
+***Also known as: The Purple Evil, Ghuse, Grezar and other names***
+
+In the shadowed annals of time, Aivridyt, once a small and ferocious female red dragon known as the Creep, ruled with a malevolence that sent shivers coursing through the Naragzah mountains. This fearsome creature, driven by a sinister curiosity, delved ever deeper into the labyrinthine caverns that lay beneath, venturing into the sacred mines of the two dwarven clans that called those depths their domain. The encounters with the Creep became a recurring nightmare for the Tolfoddund and Nargun warriors, who suffered greatly at her wrathful claws. It was in the year 3856 NC, amidst the blood-soaked peaks of the mountains, that an alliance was forged between the battered clans. United, they struck a grievous blow, leaving Aivridyt wounded and retreating into the dark recesses below.
+
+Humbled and wounded, the Creep sought solace in the unfathomable depths of the Ghost Domain, a realm also known as the Underdark by the drow. For six long years, she slumbered, her formidable essence cocooned in the embrace of darkness. Unbeknownst to her, during her deep slumber, a passage opened, beckoning her to the eerie realm known as the Dead Echo, or Shadowfell. Aivridyt was ensnared by its tendrils, and when she awoke, her once-vibrant scales had transmuted into a twisted shadow red, its hues akin to that of viscous petroleum, intertwined with accents of haunting purple. The Creep had become the Purple Evil—a creature steeped in darkness and corruption.
+
+To her dismay, the Purple Evil discovered that she had come to bear eggs, a phenomenon unheard of in the annals of draconic lore for thousands of years. Her progeny's arrival was an unexpected twist of fate, and she laid the eggs in a cavernous lair, inadvertently attracting the attention of a destitute family dwelling perilously close to the mountains. Swift and merciless, the Purple Evil dispatched the parents, but she saw potential in the seven-year-old child, Kethra Stormwind. Cunningly, she donned the guise of a gentle sage, veiling her true nature beneath a veneer of wisdom and compassion. Kethra was ensnared in a perpetual state of drowsiness, ensorcelled by the Purple Evil's potent magic and elixirs, deceived into believing she was raised by the sage in her humble abode. The Purple Evil harbored no clear plans for the child, and her careless machinations led to an unforeseen turn of events. Kethra, awakening from her prolonged stupor, escaped the clutches of the lair, leaving behind the twisted enchantments that had held her captive. Since then, Aivridyt and Kethra have not crossed paths, their fates diverging in the labyrinth of time.
+
+In her insatiable hunger for power, Aivridyt, assuming the guise of Ghuse, a human guard captain and cleric devoted to Algath, the goddess of life and death, plotted her ascent in the city of Gorthugke. From the shadows, she manipulated her way to the pinnacle of military command, her influence spreading like a dark stain across the region. In tandem, she concocted a macabre alliance with Grezar, a necromancer dwelling among the dragonborn of Nurderad. The nefarious Grezar orchestrated a vengeful assault upon the Tolfoddund dwarves, reaping havoc upon their land—a cruel act of retribution for the Creep's past transgressions.
+
+In the swirling maelstrom of their sinister designs, Aivridyt, now the Purple Evil, and her shadowy puppetry cast an ominous pall over the land, weaving a web of darkness and manipulation that threatened to ensnare all in its insidious embrace.
+
+![](https://i.imgur.com/fOycPBy.png)

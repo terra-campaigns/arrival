@@ -34,14 +34,12 @@ bonus_actions:
   - name: Leadership (once per day)
     desc: "For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature rolls with advantage. This effect ends if the knight is incapacitated."
 
-world: Guemenos
+world: Latter Earth
 campaign: Arrival
 location: Linhe
 faction: FFKA East
 deceased: false
 tags: current
-init_PC_lvl: 5
-char_tags: [Hidden Origins, Blithe Idealist]
 ---
 
 # Sergarus Drakov

@@ -1,8 +1,8 @@
 ---
 category: chapter
 part: 2
-name: xx
-world: Guemenos
+name: Aivridyt's past
+world: Latter Earth
 campaign: Arrival
 game_date: 3877.6B4
 season: autumn
@@ -12,7 +12,7 @@ party_level: 5
 members: 5
 party_tier: 2
 party_rank: 1
-xp: 1770 +10%(?)
+xp: 1770 +10%
 dc_min: 13
 cr_gauges: '[7, 8, 10, 14]'
 consMgcItm: 3xA
@@ -21,7 +21,7 @@ hoardTreasure: 0.2
 tags: 
 ---
 
-# Chapter 11 xxx
+# Chapter 11 Aivridyt's past
 
 ## Planning checklist
 

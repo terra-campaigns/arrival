@@ -1,8 +1,13 @@
 ---
 category: npc
-type: dragon
+statblock: false
+source: Homebrew
 name: Aivridyt
-world: Guemenos
+size: Gargantuan
+type: dragon
+subtype: (shadow, lessser),
+
+world: Latter Earth
 campaign: Arrival
 location: Glasrath
 faction: Glasrath
@@ -11,27 +16,9 @@ tags: current
 ---
 
 # Aivridyt, the Creep
-> Also known as: The Purple Evil, Ghuse, Mountain Sage
+***Also known as: The Purple Evil, Ghuse, Grezar and other names***
 
-Aivridyt, the Creep, was a young ferocious female red dragon who took lair in the Naragzah mountains in 3850 NC. As she dwelled in the mountains she became even more interested in the caverns below it, and would cross the two dwarven clans when venturing into the mines. The frequent encounters with The Creep culminated in an alliance between the Tolfoddund and Nargun warriors and, in a battle in the mountains, they severely wounded Aivridyt in 3856 NC.
-
-[tfddMines](../locations/tfddMines.md)
-
-Hurt, the Creep delved deeper into the caverns seeking rest and recovery and, eventually, walked into the depths of the Ghost Domain (also called Underdark by the drows). Aivridyt slept for 6 years and, during her sleep, a passage to the Dead Echo (also known as Shadowfell) opened and took her. When the Creep woke up, she was not a red dragon anymore, but had turned into a shadow red dragon, with colours resembling petroleum and accents of purple. The Creep was turned into the Purple Evil.
-
-## Purple evil and the mountain sage
-
-When the Purple Evil woke up she was surprised (but not necessarily happy) that she was ready to lay eggs. However, not being a full grown adult dragon, she was not ready to care for them. Aivridyt ended up laying her eggs in an easily accessible area of the caverns, and was unlucky enough that a very poor family, living close to the mountains, encountered them. The Purple Evil quickly killed the parents, but had other plans for the 7 year old child.
-
-![](https://i.imgur.com/fOycPBy.png)
-
-Aivridyt hid herself under the skin of a gentle sage, and took the 7 year old child, Kethra Stormwind. The Purple Evil used illusion magic and fooled Kethra to think she was raised by the sage in her house, while Kethra was actually kept in a permanent drowsy state with Aivridyt magic and potions. The Purple Evil had no definite plan for Kethra, but continued keeping her mostly prisoner of the illusion for almost 8 years. Due to lack of careful planning, Kethra ended up waking up from the torpor and left the camp she was kept for so long. Aivridyt and Kethra have not seen each other since.
-
-While Aivridyt looked after Kethra she hungered for power in the region, and decided to impersonate Ghuse, a human guard captain and cleric of Algath (goddess of life and death) in the city of Gorthugke, and Grezar, a drow necromancer living in the Middledark in the Ghost Domain. While Ghuse steadily rises to military command power in Gorthugke and in the region, Grezar has a role to unbalance alliances and strong clans in the underdark. Greza was behind the attack from the Nurderad dragon people to the Tolfoddund dwarves.
-
-Aivridyt wanted revenge against the dwarves. As Grezar she drove the dragonborn of north Nurderad to attack the Tolfoddund mines. The attack was successful but they never reached the Nargun, who sealed themselves. Aivridyt then lost interest in the mines and has been working to get influence in Gorthugke as a military cleric commander - attempting to form the Aivridyt faction.
-
-Aivridyt's eggs haven't hatched, but the still young dragon continues to keep them in her new lair in the Dark Lake, in the Ghost Domain.
+![Dramatis Personae Aivridyt, the Creep](../context/abridged.md#Dramatis%20Personae%20Aivridyt,%20the%20Creep)
 
 ## Ghuse, Glasrath Army General and Cleric of Algath
 

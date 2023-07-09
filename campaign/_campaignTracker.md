@@ -7,6 +7,17 @@ WHERE contains(category, "chapter")=true
 sort file.name asc
 ```
 
+
+## NPCs
+
+```dataview
+table without ID link(file.link, name) AS "Name", type AS Species, cr AS CR, char_tags as "Tags", location as Location, faction as Faction
+from "campaign"
+WHERE category = "npc"
+sort file.name asc
+```
+
+
 ## Active villains (2-4)
 
 - [Aivridyt](../../npcs/aivridyt.md)
