@@ -4,7 +4,7 @@ part: 2
 name: xx
 world: Latter Earth
 campaign: Arrival
-game_date: 3877.6B4
+game_date: 3877.6C6
 season: autumn
 location: [Linhe wastelands]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
@@ -26,13 +26,12 @@ tags:
 ## Planning checklist
 
 - [x] Summarise previous chapter
-- [ ] Clean up previous chapter files, final commit
-- [ ] Update inkarnate maps (if applicable)
-- [ ] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [ ] Move unused stuff from previous chapter (next chapter or notions)
-- [ ] Review [Abridged](../context/abridged.md)
-- [ ] Review and organise [Notions](../../notions.md)
-- [ ] Review and organise Sly Flourish secrets for Holzander
+- [x] Clean up previous chapter files, final commit
+- [x] Update inkarnate maps (if applicable)
+- [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
+- [x] Review [Abridged](../context/abridged.md)
+- [x] Review and organise [Notions](../../notions.md)
+- [x] Review and organise Sly Flourish secrets for Holzander
 - [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
 - [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
@@ -93,6 +92,12 @@ sort file.name asc
 - **Dannamore** and entrance to Holzander, in a desert thunderstorm
 	- Anaks (who can be partnered with) and elemental
 	- Flee combat to within the castle
+
+
+Dark gift Ravenloft?
+A dwarf wants to have the kimbarak glauntets
+Dwarf connection with the legacy
+Kimbarak's demise secrets
 
 ## Information pool
 

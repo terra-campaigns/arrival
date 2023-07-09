@@ -131,6 +131,7 @@ As they navigated the Temple of Remains, they unraveled its past purpose - a pri
 ![](https://i.imgur.com/URnVs1k.png)
 
 ## Chapter 11 Aivridyt's past
+***3877.6B4, autumn***
 
 - The group of broken heroes realised that all the noise they created on the first skirmish in the Temple of Remains have awoken other foes in the ruin dedicated to the death goddess.
 - They were quickly cornered by two Blessed Dead Adepts, creatures of death control, and their slave husk minions. Accompanying them was a zombie clot, an uncreated form made of hundreds of dead bodies.

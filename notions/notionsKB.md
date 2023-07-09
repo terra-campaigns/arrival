@@ -9,11 +9,11 @@ kanban-plugin: basic
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 - [ ] choose one major and one minor monstrous horror per boss sl154
 - [ ] use mithos aberrations sl177 in one thing in each chapter
-- [ ] chap11: finding / investigation of the foundation Library
 - [ ] Finish conversion of ffka stats
 - [ ] layers upon layers of abandoned ancient infrastructure (subways from Contact)
 - [ ] check dark gifts Ravelloft
-- [ ] What can the pcs do to avoid/delay the fronts? Like how to block some cult...
+- [ ] add uncanny powers and monstrous drives to appropriate creatures
+- [ ] - Construct NPCs:<br>	- Character tags (AotLE)<br>	- Simple sheet (if required)<br>	- Image<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
 
 
 ## snoozed
@@ -25,16 +25,13 @@ kanban-plugin: basic
 - [ ] If things get ugly with Aivridyt, use the werebear to save PCs
 - [ ] Imotra might want to have one of the characters as her apprentice (VRgtR 44)
 - [ ] Gaelira is buried in a coffin full of garlic
+- [ ] Looting of temple of remains and its impact on Aivridyt, Ushulx - Curchurn and Algath would not care.
 
 
 ## scenes and chapters
 
 - [ ] Roll for adventure hooks in falkovia
 - [ ] mission to get something quick to help with the campaign?
-- [ ] Invitation to Glasrath by Ghuse
-- [ ] cultists where some of them are just drugged and not actually evil
-- [ ] Werebear tá acorrentado sendo flagelado por undead
-- [ ] Werebear mentions he has seen a shadow dragon
 - [ ] Segarus FFKA East Chapter captain is nosy on the character if they get to red tower: Intent is to claim the destruction of Gellert if PCs do it. For that he might appoint a knight to go with PCs (as spy).
 - [ ] create chapter based on a random mythos aberration (sl177)
 
@@ -45,12 +42,9 @@ kanban-plugin: basic
 - [ ] part 2 closes with the nots of brezal paths in linhe undone
 - [ ] part 3 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
 - [ ] Huge shadow dragon comes looking for his mate (Avryindt)
-- [ ] but being incarnate Morgoth was afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound
+- [ ] but being incarnate Morgoth was afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void after having a body.
 - [ ] some spirit of great power that takes human form and accompanied a mortal
 - [ ] Intrigue / sabotage in Olivepia
-- [ ] remember to do sanity saving throws. On fail PC loses one sanity or can choose to roll 1d6 for madness table: 1/2 short term, 3/4 long term, 5 long term with condition, 6 permanent (check the permanent table - original is not good)  maybe also add a dark vision (some secret from the campaign) together with their consequences (sl173)
-- [ ] The insatiable thirst for control by the good and evil children of the gods. With touches of troubled heroes (rage and fury that lies in their own hearts) - how to implement that?
-- [ ] Edrahil (and Acrisae) are Angels, Kyri are Eldritch and Made Gods and misbegotten: tier 4 are 50 HD on godbound, parasite gods can be on either side, they are trapped in specific locations - Gellert is one? god brain is an uncreated from the void
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
 - [ ] Thymar and Kiranu can be called to save Glasrath
