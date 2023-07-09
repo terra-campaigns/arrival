@@ -12,7 +12,7 @@ party_level: 5
 members: 5
 party_tier: 2
 party_rank: 1
-xp: 1680
+xp: 1770 +10%(?)
 dc_min: 13
 cr_gauges: '[7, 8, 10, 14]'
 consMgcItm: 3xA
@@ -83,7 +83,7 @@ sort file.name asc
 - PCs **flee to Ammuinoth** from tunnel on Temple of Remains, and find [Aivridyt](../npcs/aivridyt.md)'s abandoned nest.
 	- Secrets about imperator dragons in old parchment
 - Loot the Temple of remains (**crumbling**), now clear of undead
-	- **Statue of Ghuse and Grezar**, amongst other unknown
+	- **Statue of Ghuse and Grezar**, amongst other 2 unknown figures. Book with history of Avryindt.
 - PCs find the **Dead God**, and meet a random encounter
 - Visit to the **dwarf enclave**
 	- Dwarves have a subconscious connection with the weaving of the world
@@ -96,7 +96,7 @@ sort file.name asc
 
 ## Information pool
 
-![_informationPool](_informationPool.md)
+[Information Pool](_informationPool.md)
 
 ## Locations
 

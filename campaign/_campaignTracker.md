@@ -23,10 +23,10 @@ sort file.name asc
 ## Locations on the regional map of Linhe
 
 ```dataview
-table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Internal location", type as "Type", rank as "Rank"
+table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Sub-location", type as "Type", rank as "Rank"
 from "campaign"
 WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
-sort file.name asc
+sort type asc
 ```
 
 
