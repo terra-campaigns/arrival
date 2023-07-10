@@ -27,11 +27,10 @@ tags:
 
 - [x] Define party level, easy DC and deadly CR benchmarks
 - [x] Detail strong start
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
-- [ ] Define secrets & clues, adding links to them in scenes
-- [ ] Outline fantastic locations, reviewing scenes and secrets
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
+- [x] Outline fantastic locations, reviewing scenes
 - [ ] Outline potential NPCs, reviewing all above
-- [ ] Prepare Owlbear, if applicable
+- [x] Prepare Owlbear, if applicable
 - [ ] Post: update abridged
 
 ## Intro
@@ -51,14 +50,28 @@ tags:
 
 ## Potential scenes
 
-- ...
+- *Intro* to investigation: Vorlak receives the PCs - he looks human, but something is wrong.
+	- Vorlak is the community translator and he is **working on translating** a ritual from the **Forge Scriptorium Walls**
+	- **PCs's mission is to execute the ritual**
+	- Vorlak **needs help to find Kalrov**, who bears the Angelic Sword, required for the ritual 
+- *Investigation* A: **What is the ritual about?**
+	- Vorlak explains the ritual is to bind Mondedovil to a physical form, so he stops harming the Ngar'tho
+- #attention **Share the first image of the Ngar'tho**
+- *Investigation* B: **Where is the ritual taking place**
+	- Vorlak does not know yet, but it is written in the **Forge Scriptorium Walls**
+- *Investigation* C: Translating the name of the location of the ritual from the Forge Scriptorium Walls
+	- Requires Kalrov, who **does not have the Angelic Sword** - **Kimbarak has it**
+- #attention **Share the second image of the Ngar'tho**
+- *Resolution*: The ritual is found to happen on the **Eldritch Furnace**
+	- Kimbarak asks the PCs to **distract the Ngar'tho so that he can spoil** the ritual, in a suicidal bid
+	- The ritual was not to bind or free Mondedovil, but to use **Kimbarak to create the race of the dwarves** - who will now deliver the plan.
+	- **Kimbarak dissolves** into the theurgical tapestry
+- *Escape*: **Like Call of Cthulhu** - but now without Kimbarak
+	- Mondedonvil chases the PCs
+	- Kimbarak is found on the ship days later, as the first dwarf.
 
 
 ## Locations
-
-Assigning locations to hexes:
-- **1 in 10** If alongside the route (3 hex wide): it has been partially pre-generated in prep
-- **2 in 10** If 3+ hex away from road
 
 ```dataview
 table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Sub-location", type as "Type", rank as "Rank", status as "Status"
@@ -69,14 +82,14 @@ sort hex asc
 
 ### Random encounters
 
-[Wandering Encounters in Linhe](../context/secrets/secretsRealms.md#Wandering%20Encounters%20in%20Linhe)
-
 
 ## Relevant NPCs
 
-```dataview
-table without ID link(file.link, name) AS "Name", type AS Species, cr AS CR, char_tags as "Tags", location as Location, faction as Faction
-from "campaign"
-WHERE category = "npc" AND tags = "current"
-sort file.name asc
-```
+### Kimbarak
+
+
+### Vorlak
+
+
+### Kalrov
+
