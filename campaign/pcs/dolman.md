@@ -5,8 +5,8 @@ name: Dolman Frostbraid
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Fighter 5
-xp: 12730
+level: Fighter 6
+xp: 14680
 ac: 18
 sanity: 11
 artefacts: [Kimbarakerhands]

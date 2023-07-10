@@ -5,8 +5,8 @@ name: Wyvern Miraak
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Rogue 5
-xp: 12260
+level: Rogue 6
+xp: 14210
 ac: 15
 sanity: 12 [11]
 artefacts:

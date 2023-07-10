@@ -5,8 +5,8 @@ name: Kethra Stormwind
 world: Guemenos
 campaign: Arrival
 deceased: false
-level: Sorcerer 5
-xp: 12120
+level: Sorcerer 6
+xp: 14070
 ac: 13
 sanity: 13
 artefacts:
