@@ -29,11 +29,11 @@ The Ngar'tho lives here because they lost their planet to some alien race, and t
 ![|500](https://i.imgur.com/ZMjDPiD.png)
 
 - **Fortification area**: lightly barricaded area, with shifting stones, dimensions, concavity and orientation - constantly make sanity, dexterity and strength ST for characters to not fall (DC 10)
-- **Scriptorium**: the walls are fully written, and text is constantly changing
+- **Scriptorium**: the walls are fully written, and text is constantly changing. Experimentation equipment organised and running experiments.
 - **Meagre commune**: moist area where the evourec are fed once a day
-- **The Silence**: Communal *silent* discussion room
+- **The Silence**: Communal *silent* discussion room, where mind control battles are fought for domination. Thrall mind battle scene?
 - **The baths**: access to salty water - the Ngar'tho and evourec come here many times a day to keep moisten
-- **Grand steps**: religious steps, beautifully built
+- **Grand steps**: religious steps, beautifully built with brains made into plane surfaces in walls with firing sinapses active
 - **Furnace**: Communication chamber with Mondedovil
 
 

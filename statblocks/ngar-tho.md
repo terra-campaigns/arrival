@@ -30,7 +30,7 @@ actions:
   - name: Mind blast (recharge 5-6)
     desc: "Psychic energy in a 60-foot cone, INT or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns."
   - name: Psychic tentacle attack
-    desc: "1 attack, each 16 (3d8 + 3), when hit mentally grappled (INT to escape)"
+    desc: "1 attack, each 16 (3d8 + 3), when hit, mentally grappled (INT to escape)"
   - name: Open head
     desc: "An incapacitated or grappled creature has its skull broken: 55 (10d10). A killed creature has its brain consumed."
 bonus_actions:
@@ -62,6 +62,14 @@ Those who are able to get away from the Ngar'tho usually try to rationalize them
 
 Ngar'tho are not especially aggressive toward humans, largely ignoring them save when some are needed for various terrible purposes. When engaged in combat, they will usually fight with pincers or tentacles, though some use alien devices. Their technology is powerful, but rapidly degrades into powder when separated from its owner.
 
+Each Ngar'tho has 1d4+1 Evourecs attached to its body that can be dropped for controling creatures.
+
 **Evourec**
 ***CR 1/4***
 ![|500](https://i.imgur.com/w7sOVio.png)
+
+- Long jump: Evourecs attack by jumping onto creature faces.
+- Attachment: Upon hit, on a failed DEX, the evourec attaches to the spine of its target
+- Mind control: Upon attaching, on a failed INT, the target walks towards the Ngar'tho hive (or the closest Ngar'tho) for further instructions.
+
+Note: when introducing outside a dream setting, review [this](https://pca.st/episode/7e676f15-d5cb-4ffc-970d-67caddf15d04) for accurate strategies and tactics. 
