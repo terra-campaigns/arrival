@@ -14,10 +14,22 @@ relevant:
 tags: 
 ---
 
-# Makab
+# Makab's hive
 ***Outside fane to an alien god***
 
-The Ngar'tho lives here because they lost their planet to some alien race, and the survivors came to Latter Earth. They continue here because their alien foes are chasing them to extermination.
+One hive of Ngar'tho (200 individuals) lives here because they lost their planet to some alien race, and the survivors came to Latter Earth. They continue here because their alien foes are chasing them to extermination.
+
+The hive organises in a shared intellect (through Ethux'zhurh) and work as a democratic stated with unified authority. They value domination, excellence and knowledge and desire to save themselves and survive in the Later Earth. The Ngar'tho are welcoming to outsiders.
+
+**Cultural elements:**
+- Unique cast roles
+- Casts gets defined in dangerous initiation rites
+- All local trade is barter
+
+**Location description:**
+- Cyclopean style
+- Location is slimy and wet (difficult terrain)
+- Change in angles, doors, inclinations, orientation, etc (1 in 8 to request a sanity check per scene)
 
 ![|500](https://i.imgur.com/Vm1Vy2l.png)
 
@@ -41,6 +53,4 @@ The Ngar'tho lives here because they lost their planet to some alien race, and t
 
 ![|500](https://i.imgur.com/xeza99Z.png)
 
-
-
-
+Consider enriching with wwn371.
