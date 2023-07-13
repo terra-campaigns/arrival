@@ -129,7 +129,7 @@ Reluctantly leaving the enigmatic statue behind, the group pressed on, their sen
 
 ![](https://i.imgur.com/tnoPs6z.png)
 
-## Dramatis Personae: Aivridyt, the Creep
+## *Dramatis Personae*: Aivridyt, the Creep
 ***Also known as: The Purple Evil, Ghuse, Grezar and other names***
 
 In the shadowed annals of time, Aivridyt, once a small and ferocious female red dragon known as the Creep, ruled with a malevolence that sent shivers coursing through the Naragzah mountains. This fearsome creature, driven by a sinister curiosity, delved ever deeper into the labyrinthine caverns that lay beneath, venturing into the sacred mines of the two dwarven clans that called those depths their domain. The encounters with the Creep became a recurring nightmare for the Tolfoddund and Nargun warriors, who suffered greatly at her wrathful claws. It was in the year 3856 NC, amidst the blood-soaked peaks of the mountains, that an alliance was forged between the battered clans. United, they struck a grievous blow, leaving Aivridyt wounded and retreating into the dark recesses below.
