@@ -17,7 +17,7 @@ stats:
   - Fortitude: 9
   - Instinct: 11
   - Morale: 12
-dc: 
+  - dc: 
 skillsaves:
   - Attack: +5
   - 5e: +2
