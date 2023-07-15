@@ -1,26 +1,31 @@
 ---
 statblock: true
+layout: WN 5e Integrated
 source: Homebrew
-name: Priest 5es
-size: 
-type: 
+name: Knight Priest
+size: Medium
+type: humanoid,
 subtype: 
-alignment: 
+role: leader
 ac: 13
 hp: 27
 hit_dice: 5d8 + 5
-speed: 
+speed: 30 ft (60 ft when mounted)
+stats:
+  - Fortitude: 8
+  - Instinct: 11
+  - Morale: 13
+  - dc: 13
+skillsaves:
+  - Attack: +5
+  - 5e: +2
+  - WN: +1
+languages: 
 cr: "2"
 eq_level: 5
-saves:
-  - Physical: 1
-  - Instinct: 1
-  - Morale: 3
-skillsaves:
-  - Proeficient: +5
 traits:
-  - name: Armour
-    desc: Chain mail
+  - name: 
+    desc: 
 actions:
   - name: Divine Eminence
     desc: "Radiant damage with mace or sacred flame, 14 (4d6) damage"

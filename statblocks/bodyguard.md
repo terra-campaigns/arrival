@@ -3,13 +3,13 @@ statblock: true
 layout: WN 5e Integrated
 source: Forge of Foes Homebrew
 name: Bodyguard
-size: Medium
+size: Large
 type: humanoid
 subtype: ,
 role: brute
 ac: 13
 hp: 45
-hit_dice: 5d8 + 23
+hit_dice: 5d10 + 18
 speed: 30
 stats:
   - Fortitude: 8

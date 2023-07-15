@@ -9,7 +9,7 @@ subtype: (outsider),
 role: controller
 ac: 15
 hp: 71
-hit_dice: 12d8 + 17
+hit_dice: 13d8 + 13
 speed: 30 ft (levitation)
 stats:
   - Fortitude: 12 

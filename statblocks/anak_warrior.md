@@ -23,7 +23,6 @@ skillsaves:
   - 5e: +2
   - WN: +1
 traits:
-  - desc: "[Details](anak_warrior.md)"
   - name: Surprise attack
     desc: "If the anak surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack."
 actions:
@@ -32,6 +31,7 @@ actions:
 bonus_actions:
   - name: Nimble Escape
     desc: "The anak can take the Disengage or Hide action as a bonus action on each of its turns."
+detail_link: "[(Details)](anak_warrior.md)"
 ---
 
 ![|500](https://i.imgur.com/0EyuYIv.png)

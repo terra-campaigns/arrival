@@ -9,7 +9,7 @@ subtype: (uncreated),
 role: boss
 ac: 12
 hp: 89
-hit_dice: 9d8 + 49
+hit_dice: 10d12 + 24
 speed: 40
 stats:
   - Fortitude: 11
