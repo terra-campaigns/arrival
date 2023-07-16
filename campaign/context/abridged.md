@@ -38,7 +38,7 @@ A new party member joins the Glasrath Defenders - a dust elf cleric of [Mystra](
 
 ![](https://i.imgur.com/0SFRF2o.png)
 
-## Chapter 5 A Breath from the desert
+## Chapter 5 A breath from the desert
 ***3877.5A, summer***
 
 The Glasrath Defenders marched through the desolate landscape of Ammuinoth, their path illuminated only by the dim light of the Ghost Domain. As they approached the Holzander castle, they encountered a Ghost Rider, a cursed creature never before seen in the mortal. The Defenders clashed with the beast, their weapons and spells piercing its ethereal form.
@@ -141,3 +141,17 @@ To her dismay, the Purple Evil discovered that she had come to bear eggs, a phen
 In her insatiable hunger for power, Aivridyt, assuming the guise of Ghuse, a human guard captain and cleric devoted to Algath, the goddess of life and death, plotted her ascent in the city of Gorthugke. From the shadows, she manipulated her way to the pinnacle of military command, her influence spreading like a dark stain across the region. In tandem, she concocted a macabre alliance with Grezar, a necromancer dwelling among the dragonborn of Nurderad. The nefarious Grezar orchestrated a vengeful assault upon the Tolfoddund dwarves, reaping havoc upon their land—a cruel act of retribution for the Creep's past transgressions. It was also Grezar that, years before, sent Miraak much too young to battle, where his body and soul burned, becoming a faint memory of a once fearless dragonborn warrior.
 
 ![](https://i.imgur.com/fOycPBy.png)
+
+## *Interlude*: A dream of Makab
+
+In the depths of their wearied minds, some of the Glasrath defenders share a nightmare, one that plagued their restless slumber. This nightmarish vision transported them to an ancient temple shrouded in the mists of the sea - a place of forgotten rituals and unspeakable horrors.
+
+Within the dream, they found themselves thrust into the midst of a sinister ceremony, their presence intended to thwart the unfolding ritual. Yet, as the dream progressed, a chilling realisation dawned upon them - the Glasrath defenders themselves were integral to the very ritual they sought to disrupt. Their every action, their every step, was predetermined, inexorably woven into this malevolent enchantment.
+
+Enigmatic beings, known as Ngar'thos, stood as mere witnesses, their forms twisted and alien, indifferent to the mortals' plight. And at the centre of it all stood the Eldritch Furnace, a conduit to realms unimaginable, where Ethux'zhurh, an embodiment of The Void, awaited its unwitting prey.
+
+As the dream neared its crescendo, Kimbarak, driven by desperation and armed with a golden dagger, believed it to be his salvation - a weapon that could sever the grasp of The Void and restore balance. But the cruel irony of the nightmare unfolded before their eyes. As Kimbarak raised the dagger, it was not The Void that was halted, but Kimbarak himself who became ensnared within the swirling tapestry of reality, forever condemned to serve as a slave spirit to the ancient horrors that lurked beyond.
+
+With despair gnawing at their hearts, the remaining defenders made a fateful decision - to flee the accursed temple and escape the clutches of Ethux'zhurh. Their footsteps echoed through the corridors and inhumane rooms, a desperate bid for survival. Yet, Guilf's dream diverged from the others, his nightmare ending with a chilling embrace by The Void itself, an all-encompassing darkness that dragged him relentlessly into the unfathomable depths of the sea. Miraculously, the surviving defenders, in a stroke of sheer luck, managed to sail away from the awakening Ethux'zhurh, evading its wrath and preserving their tenuous hold on existence.
+
+![](https://i.imgur.com/3lmaRpV.png)
