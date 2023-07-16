@@ -8,10 +8,10 @@ tags:
 
 ## Rest
 
-As proposed on Gritty Realism (DMG267), only valid for HP recovery - all other recovery maintains original rest times. 
+As proposed on Gritty Realism (DMG267):
 - Short rests (so that you can heal a number of hit dices) changes from 1h to 8h.
 - Long rests (so that you can fully recover HP and hit dices) changes from 8h to 7 days. 
-- Elven trance is half of the short/long rest for HP and hit dice purposes.
+- Elven trance is half of the short/long rest.
 
 ## Damage and Injury
 
@@ -31,41 +31,42 @@ As proposed on Gritty Realism (DMG267), only valid for HP recovery - all other r
 - Characters gain the standard hit points as shown on the PHB + CON modifier.
 
 ## Sanity and madness
+References: [Silent Legions](https://www.drivethrurpg.com/product/145769/Silent-Legions), [variant on 3.5e SRD](https://www.d20srd.org/srd/variant/campaigns/sanity.htm), [CoC RPG](https://cthulhuwiki.chaosium.com/rules/sanity.html#sample-phobias-and-manias). 
 
-Characters would run Sanity check, as opposed to arcana or history when dealing trying to comprehend history or effects of deities (think of Cthulhu Mythos here). But characters would also have to run a saving throw for Sanity (like any other saving throw) when in presence of a mind crashing effect of these creatures (think of Cthulhu again :)). On a failed save, one point of sanity is lost and one madness is given.
+*Exposure to the occult leaves mundane creatures vulnerable to stimuli, sense perceptions, and revelations that their minds were never meant to perceive. The knowledge is like an infection. It burrows, it burns, and it consumes. Recognising the strange angles of a damnable creature’s wings reveals to the hero a whole new panorama of inhuman shapes and horrific vistas, such that she might suffer uncontrollable fits of panic when confronted with some mundane object that just happens to echo those hideous arcs. A human mind is forced open and compelled to receive impressions that more blessedly ignorant souls need never confront. The best that most sufferers can do is to create a firebreak around the idea, a zone of scorched reason to serve as a buffer against the awareness. This takes the shape of a Delirium, a focused insanity that allows them to rationalise or reject an insight. This lessens the grip of Madness and gives them some respite from its pains.*
 
-My suggestion is we use the DMG rules as I explained (not exactly what is in the book, but simpler), with the alternative table of madness, and this new table for ST DCs.
+**Sanity score**
 
-The rule is the simplified DMG rule for sanity (WIS + INT + 11) / 3 rounded up as the Sanity ability. We would use checks as described in the DMG, with the DC on the table I published here. For fails you lose a point. You regain with magic or treatment.
+The full sanity score is set as the maximum between Intelligence and Wisdom, multiplied by 5 - respecting a minimum of 50. Character level also affects the full sanity score, which increases in 3 plus the best of intelligence or wisdom modifiers per level, from level 1 (i.e. a character at level one with an intelligence or wisdom modifier of +1 will have 54 sanity points at its full value). The current sanity score, at all times, will fluctuate being equal or less the full sanity score. If the current score ever reaches 0 the character is hopelessly lost in their own tormented perceptions and can no longer function as a player character.
 
-|                                   **Event**                                    | **Sanity DC** |
-|:------------------------------------------------------------------------------:|:-------------:|
-|                        Studying the works of a lunatic                         |       8       |
-|                     Recalling horrific events or knowledge                     |       8       |
-|                                 Being tortured                                 |      10       |
-|                Encountering a gargantuan-sized beast or monster                |      10       |
-|                 Engaging with a hostile fey or elemental being                 |      10       |
-|              Suffering severe shock, physiologically or mentally               |      11       |
-|                      Torturing another creature or person                      |      11       |
-|                  Being banished or teleported to a new realm                   |      11       |
-|                         Becoming maimed or disfigured                          |      12       |
-|                     Reading text from an eldritch language                     |      12       |
-|            Shell-shock from battle or explosions, including magical            |      12       |
-|          Experiencing the death or maiment of someone you care about           |      12       |
-|                      Realizing you have a modified memory                      |      12       |
-|            Being haunted by a monster such as a night hag or ghost             |      12       |
-|                      Encountering a mind-bending monster                       |      13       |
-|                 Casting a harmful spell on an innocent target                  |      13       |
-|                        Hearing an eldritch entity speak                        |      14       |
-|                            Finding a gruesome scene                            |      14       |
-|               Discovering forbidden or ancient arcane knowledge                |      14       |
-|           Encountering and forcing oneself to face a personal phobia           |      14       |
-|                 Learning spells or secrets of a forbidden tome                 |      15       |
-|    Witnessing the death of a party member in a gruesome or horrific manner     |      15       |
-| Experiencing a minor supernatural situation (involving deities or aberrations) |      16       |
-|                  Experiencing a major supernatural situation                   |      19       |
+**Sanity checks, and loosing sanity**
 
-Integrate with Fear and Stress vRgtR 195
+Once per scene, the GM might require PCs to make a sanity check. That is done with a d100 roll under the current sanity score. On a failure the PC looses sanity score as per table below. The sanity check might be triggered by bloodshed, deep eldritch and alien events. A mind has a limit to the amount of insanity it can incur in a single event. After a certain point the senses numb and no further horror can be experienced. In a single scene, a character can lose no more sanity score than the (non cumulative) maximum result of the worst shock they confront.
+
+| Event type | Cost | Examples                                                                                                                   |
+| ---------- | ---- | -------------------------------------------------------------------------------------------------------------------------- |
+| Bloodshed  | 1d4  | Shell-shock from battle or explosions, including magical                                                                   |
+| Bloodshed  | 2d4  | Torturing or being tortured<br />Experiencing death or maiment of a friend                                                 |
+| Bloodshed  | 2d6  | Becoming maimed or disfigured<br />Hurting an innocent on purpose                                                          |
+| Bloodshed  | 2d8  | Finding a gruesome scene                                                                                                   |
+| Bloodshed  | 2d10 | Witnessing the death of a party member in a gruesome or horrific manner                                                    |
+| Eldritch   | 1d4  | Studying the works of a lunatic                                                                                            |
+| Eldritch   | 2d4  | Reading text from an eldritch language<br />Encountering a gargantuan-sized beast or monster                               |
+| Eldritch   | 2d6  | Move between realities<br />Realising you have a modified memory<br />Being haunted or encountering a mind-bending monster |
+| Eldritch   | 2d8  | Hearing an eldritch entity speak<br />Discovering forbidden or ancient arcane knowledge                                    |
+| Eldritch   | 2d10 | Experiencing a major supernatural situation                                                                                |
+
+**Deliria, and recovering sanity**
+
+*While the Delirium can be burdensome, it shelters them from the worst of their suffering. Too many Deliria can prove ruinous, however, as each additional Delirium increases the risk of a cascade of failing defences and exposure to unendurable realisations. The higher the edifice of madness is built, the more likely it is to fall.*
+
+Players might choose to accept a Delirium for their characters to recover sanity score. After gaining a new Delirium, the PC must advance a level before accruing any more; the mind’s flexibility is limited. The player can choose what delirium they get (see material on the links to references on the subheading for *Sanity and Madness*) or roll randomly in a chosen table. It is easier to choose the new Delirium in-between sessions, and discuss the roleplay and mechanical results with the GM.
+
+After taking the Delirum the player rolls 1d20; if the roll is equal or greater than their total number of Deliria then the newfound structure and rationalisation soothes their mind, recovering 10 points of sanity. If the roll is less than their total number of Deliria, then the fresh insanity just makes everything worse, and 10 points of sanity are lost. Once accrued, Deliria can never be lost.
+
+Some Deliria come with phobias and compulsions. A PC can resist the phobia or compulsion by making a successful Sanity Check. On a failure, he or she must obey the Delirium unless they are willing to lose 1d6 sanity points for defying the structure they have fashioned to protect their sanity.
+
+Alternatively, sanity can be recovered slowly, and under care of calming therapies. PCs can recover 1 sanity score per long rest, if they are able to rest in a complete calm environment, with friends or professionals to attend to them, and talk to them. When PCs are accruing levels, the additional full sanity score is also added as current sanity score. 
 
 ## Downtime activities
 
