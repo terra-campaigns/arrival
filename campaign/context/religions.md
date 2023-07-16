@@ -67,10 +67,17 @@ The Rurkinar Cultists are a group of shamans that believe in direct communicatio
 ### Kimbarak
 ***The Dwarven Spirit***
 
-For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit of the Kiranu mountains, as their protector and savior. They praised his strength, his courage, and his unwavering commitment to justice and honour.
+For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit of the Kiranu mountains, as their protector and saviour. They praised his strength, his courage, and his unwavering commitment to justice and honour. But little did they know the horror that lurked within his past.
 
-![Kimbarak](secrets/secretsReligions.md#Kimbarak)
+Long before he took up residence in the Kiranu mountains, Kimbarak was transformed into the dwarf guiding spirit by an outsider power. Dwarves were living tools for the manipulation of the reality, beings gifted with an intuitive ability to twist and subvert that power’s effects. The ancestors of the dwarves were extracted from the human population and altered to become living interfaces with the tapestry of reality, sentient intrusion measures that could be directed to warp the energies of that force into the service of the Outsiders.
 
+After the ritual that transformed Kimbarak he managed to escape, his spirit shattered and his mind twisted by the horrors he had endured. He fled to the safety of the Kiranu mountains, vowing to protect his fellow dwarves at all costs.
+
+At first, the dwarves welcomed him as a hero, ignorant of the darkness that lurked within his soul. But as the years passed, they began to notice a change in Kimbarak - a coldness, a detachment that had not been there before. And then, the nightmares began. Dwarves would wake in the middle of the night, screaming in terror as they relived the horrors of the Void through Kimbarak's twisted memories. They would see the uncreated, hear their screams, and feel their claws tearing at their flesh.
+
+Kimbarak himself was immune to the nightmares, his mind already consumed by the darkness that had taken hold of him. He would sit for hours, staring into the darkness, muttering to himself in a language no one could understand. The dwarves took the nightmares as signs of their great plans failing, and doubled down on their efforts for the perfect harmony of craft. While many nursed visions of their parts on the great plans, some merely wish to be free of the burden of their ruler’s dreams.
+
+For Kimbarak, there was no redemption, no salvation. He was forever trapped in the darkness of the Void, his mind consumed by the horrors he had endured. And so he remained, a powerful, twisted, and horrifying presence in the Kiranu mountains, forcing never-ending works of perfection that haunts those he had sworn to protect.
 
 ## Faletism
 
@@ -117,14 +124,16 @@ Once Merdijad came to Frosthelm with promise of untold power and glory, he eager
 
 Once upon a time, the world was graced by the presence of Bonnalurie, the goddess of diligence, construction, and knowledge. Her followers revered her for her unyielding dedication to excellence and her unwavering commitment to hard work. They built magnificent temples and monuments in her honor, and her teachings formed the foundation of countless schools and universities. But as time passed, the worship of Bonnalurie began to fade. Her once-thriving temples lay abandoned and in ruins, and her followers scattered to the winds. A thousand years later, the memory of Bonnalurie and her creed have faded almost entirely from the world, known only to a select few scholars and historians. Yet some say that her spirit still lingers, waiting for the day when the world will once again embrace the values of diligence, construction, and applied knowledge that she embodied so completely.
 
-### Mondendovil
-***The Illithid Void***
+### Ethux'zhurh
+***Fester of dreams, 'tho Whisperer, The Void***
 
 ![|500](https://i.imgur.com/HpHOqYE.jpg)
 
-Mondendovil's followers revered him as a god of magic, but his true nature was far more sinister than they could ever imagine. Mondendovil's obsession with the dark arts led him to create a secret school of magic known as the Wandering Crow, which delved into the most forbidden and dangerous practices imaginable. For centuries, the school flourished, attracting the most twisted and malevolent practitioners of the arcane. But as time passed, the knowledge of the Wandering Crow was lost, and the school faded into obscurity. But in the shadows of the forgotten school, something dark and malevolent still lingers. The whispers of Mondendovil's dark magic can still be heard, and those who dare to venture too close risk being consumed by the madness and horror that lie at the heart of the Wandering Crow.
+Ethux'zhurh's followers revered him as a god of magic, but his true nature was far more sinister than they could ever imagine. Ethux'zhurh's obsession with power led him to create a secret school of powers known as the Wandering Crow, which delved into the most forbidden and dangerous practices imaginable. For centuries, the school flourished, attracting the most twisted and malevolent practitioners of the arcane. But as time passed, the knowledge of the Wandering Crow was lost, and the school faded into obscurity. But in the shadows of the forgotten school, something dark and malevolent still lingers. The whispers of Ethux'zhurh's dark powers can still be heard, and those who dare to venture too close risk being consumed by the madness and horror that lie at the heart of the Wandering Crow.
 
-![Mondendovil](secrets/secretsReligions.md#Mondendovil)
+Through ages of empire and conflict, the 'tho hive brains indulged experiments without comparison or reference for lesser beings, explorations beyond the boundaries of time, reality, life and death. Many failed. To summarise an eon of atrocities, one hive brain's reality-bending research had an unexpected result, revealing to it a malignant truth for which existence was unprepared. Guided by this burgeoning revelation, the hive brain turned and preyed upon its peers, consuming their discoveries and their physical forms to fuel an impossible apotheosis, and was then expelled to the Void, ultimately becoming Ethux'zhurh.
+
+![|500](https://i.imgur.com/PKHJPwh.png)
 
 ### Merdijad
 ***Master of the Order of Strings***

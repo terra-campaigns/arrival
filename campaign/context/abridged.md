@@ -69,7 +69,7 @@ After a much-needed rest, the defenders huddled together in a dimly lit cell, sh
 
 The party engaged in a spirited debate about their next move, eventually deciding to venture to the lower level in search of Cagoth-ze. As they explored the second level, they stumbled upon records detailing gruesome ooze experiments and encountered a dangerous trap in the form of a green ink-ooze. Just moments later, Amirya's sharp eyes spotted something extraordinary—a time tributary, a river of time flowing through one of the rooms. In a bold and impulsive act, Guilf stepped forward and crossed the tributary, only to fall unconscious and undergo a magical transformation, becoming significantly younger. It became apparent that Guilf had been claimed by The Void, bound to a contract with this mysterious entity.
 
-As the party deliberated their next steps, they noticed a clockwork servant skulking around the rooms, raising concerns about their safety. Acting swiftly, the group retreated from the second level and sought refuge in the safety of the cells on the first level, strategising their approach and considering the implications of Guilf's newfound contract with [The Void](religions.md#Mondendovil).
+As the party deliberated their next steps, they noticed a clockwork servant skulking around the rooms, raising concerns about their safety. Acting swiftly, the group retreated from the second level and sought refuge in the safety of the cells on the first level, strategising their approach and considering the implications of Guilf's newfound contract with [The Void](religions.md#Ethux'zhurh).
 
 ![](https://i.imgur.com/SleRiLY.png)
 
