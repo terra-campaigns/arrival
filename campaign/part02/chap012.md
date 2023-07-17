@@ -35,8 +35,7 @@ tags:
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if last turn was 3+ game weeks ago.
-- [ ] Decide what remaining relevant NPCs are doing, and their respective checks (wwn334)
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [ ] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
 - [ ] Define secrets & clues, adding links to them in scenes
@@ -64,13 +63,13 @@ sort file.name asc
 
 ## Intro
 
-- New sanity mechanics
-- Combat mechanics and role play
-	- All NPCs have initiative of 12
-	- Toll either Morale or Intellect if there is a hit creature
-	- Based on roll, NPCs talk to PCs
-	- Consider dynamic positioning, terrain and strategy
-	- Attacks
+- New sanity mechanics: scenes finish with sanity checks, if appropriate
+- Combat mechanics and roleplay
+	- All NPCs have initiative of 12, PCs navigate around.
+	- NPCs round:
+		- 1. Morale/Instinct (if appropriate)
+		- 2. Chatter and dynamic positioning
+		- 3. Actions (attacks)
 
 ## Strong start
 

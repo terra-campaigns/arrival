@@ -37,11 +37,11 @@ References: [Silent Legions](https://www.drivethrurpg.com/product/145769/Silent-
 
 **Sanity score**
 
-The full sanity score is set as the maximum between Intelligence and Wisdom, multiplied by 5 - respecting a minimum of 50. Character level also affects the full sanity score, which increases in 3 plus the best of intelligence or wisdom modifiers per level, from level 1 (i.e. a character at level one with an intelligence or wisdom modifier of +1 will have 54 sanity points at its full value). The current sanity score, at all times, will fluctuate being equal or less the full sanity score. If the current score ever reaches 0 the character is hopelessly lost in their own tormented perceptions and can no longer function as a player character.
+The full sanity score is set as the **maximum between Intelligence and Wisdom, multiplied by 5 - respecting a minimum of 50 and maximum of 90**. The current sanity score, at all times, will fluctuate being equal or less the full sanity score. **If the current score ever reaches 0 the character is hopelessly lost** in their own tormented perceptions and can no longer function as a player character.
 
 **Sanity checks, and loosing sanity**
 
-Once per scene, the GM might require PCs to make a sanity check. That is done with a d100 roll under the current sanity score. On a failure the PC looses sanity score as per table below. The sanity check might be triggered by bloodshed, deep eldritch and alien events. A mind has a limit to the amount of insanity it can incur in a single event. After a certain point the senses numb and no further horror can be experienced. In a single scene, a character can lose no more sanity score than the (non cumulative) maximum result of the worst shock they confront.
+**Once per scene, the GM might require PCs to make a sanity check. That is done with a d100 roll under the current sanity score. On a failure the PC looses sanity score as per table below.** The sanity check might be triggered by bloodshed, deep eldritch and alien events. A mind has a limit to the amount of insanity it can incur in a single event. After a certain point the senses numb and no further horror can be experienced. In a single scene, a character can lose no more sanity score than the (non cumulative) maximum result of the worst shock they confront.
 
 | Event type | Cost | Examples                                                                                                                   |
 | ---------- | ---- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -60,13 +60,13 @@ Once per scene, the GM might require PCs to make a sanity check. That is done wi
 
 *While the Delirium can be burdensome, it shelters them from the worst of their suffering. Too many Deliria can prove ruinous, however, as each additional Delirium increases the risk of a cascade of failing defences and exposure to unendurable realisations. The higher the edifice of madness is built, the more likely it is to fall.*
 
-Players might choose to accept a Delirium for their characters to recover sanity score. After gaining a new Delirium, the PC must advance a level before accruing any more; the mind’s flexibility is limited. The player can choose what delirium they get (see material on the links to references on the subheading for *Sanity and Madness*) or roll randomly in a chosen table. It is easier to choose the new Delirium in-between sessions, and discuss the roleplay and mechanical results with the GM.
+**Players might choose to accept a Delirium** for their characters to recover sanity score. After gaining a new Delirium, the PC must advance a level before accruing any more; the mind’s flexibility is limited. The player can choose what delirium they get (see material on the links to references on the subheading for *Sanity and Madness*) or roll randomly in a chosen table. It is easier to choose the new Delirium in-between sessions, and discuss the roleplay and mechanical results with the GM.
 
-After taking the Delirum the player rolls 1d20; if the roll is equal or greater than their total number of Deliria then the newfound structure and rationalisation soothes their mind, recovering 10 points of sanity. If the roll is less than their total number of Deliria, then the fresh insanity just makes everything worse, and 10 points of sanity are lost. Once accrued, Deliria can never be lost.
+After taking the Delirum the player **rolls 1d20; if the roll is equal or greater than their total number of Deliria then the newfound structure and rationalisation soothes their mind**, recovering 10 points of sanity. If the roll is less than their total number of Deliria, then the fresh insanity just makes everything worse, and 10 points of sanity are lost. Once accrued, Deliria can never be lost.
 
 Some Deliria come with phobias and compulsions. A PC can resist the phobia or compulsion by making a successful Sanity Check. On a failure, he or she must obey the Delirium unless they are willing to lose 1d6 sanity points for defying the structure they have fashioned to protect their sanity.
 
-Alternatively, sanity can be recovered slowly, and under care of calming therapies. PCs can recover 1 sanity score per long rest, if they are able to rest in a complete calm environment, with friends or professionals to attend to them, and talk to them. When PCs are accruing levels, the additional full sanity score is also added as current sanity score. 
+Alternatively, sanity can be recovered slowly, and under care of calming therapies. **PCs recover 1 sanity score per long rest, if they are able to rest in a complete calm environment, with friends or professionals to attend to them, and talk to them**. When PCs are accruing levels, **they recover sanity score at the rate of 1 plus the PC's INT or WIS modifiers**.
 
 ## Downtime activities
 
