@@ -23,11 +23,10 @@ skillsaves:
 languages: 
 cr: "1/8"
 eq_level: 0
-traits:
-  - desc: "[Details](slave_husk.md)"
 actions:
   - name: Damage per attack
     desc: "1 attack, each 3 (1d6)"
+detail_link: "[(Details)](slave_husk.md)"
 ---
 
 ![|500](https://i.imgur.com/8c1FRmU.png)

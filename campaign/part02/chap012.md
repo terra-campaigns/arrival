@@ -36,12 +36,13 @@ tags:
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [ ] Detail strong start
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
+- [x] Detail strong start
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [ ] Define secrets & clues, adding links to them in scenes
-- [ ] Outline fantastic locations, reviewing scenes and secrets
+- [ ] Outline and update location notes, reviewing scenes and secrets
 - [ ] Outline potential NPCs, reviewing all above
 - [ ] Define treasure
+- [ ] Update random encounter tables
 - [ ] Prepare Owlbear, if applicable
 
 
@@ -73,38 +74,27 @@ sort file.name asc
 
 ## Strong start
 
-- Location: [TempleOfRemains](../locations/templeOfRemains.md)
-- Roll perception check DC 13
-- All the rest of the inhabitants (average CR10) come to where the fireball has exploded.
-	- **Dynamic positioning of creatures (are they smart?)**
-- **PCs need to figure out how to kill a giant creature**
-- Exits
-	- Tunnel to the Ammuinoth
-	- Pierce through the undead
+- **Location: [durnum](../locations/durnum.md)**
+- Chat with dwarves about:
+	- Their current condition (**very thin, very poor**), dust elf pressure for metals, etc
+	- The war in the south, and migrating Kiranu
+	- The ancient construction shaft 
+	- Pleas: **has Kimbarak gave up on them? can the dust elves refrain from the quotas?**
+	- Help them decide if they stay, or go deep?
 
 ## Potential scenes
 
-- PCs **flee to Ammuinoth** from tunnel on Temple of Remains, and find [Aivridyt](../npcs/aivridyt.md)'s abandoned nest.
-	- Secrets about imperator dragons in old parchment
-- Loot the Temple of remains (**crumbling**), now clear of undead
-	- **Statue of Ghuse and Grezar**, amongst other 2 unknown figures. Book with history of Avryindt.
-- PCs find the **Dead God**, and meet a random encounter
-- Visit to the **dwarf enclave**
-	- Dwarves have a subconscious connection with the weaving of the world
-- Other random exploration locations (see tables below)
-- **Curfew in [Eyaram](../locations/eyaram.md)**, possible identification by the FFKA
-	- Highlight information about Linhe
-- **Dannamore** and entrance to Holzander, in a desert thunderstorm
-	- Anaks (who can be partnered with) and elemental
-	- Flee combat to within the castle
-
-
-Dark gift Ravenloft?
-A dwarf wants to have the kimbarak glauntets
-Dwarf connection with the legacy
-Kimbarak's demise secrets
-Front: Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
-kiranu population migrating to Glasrah, the alliance of Nurderad, Kiranu, Frostfallen elves and anaks are fighting the south to Turnskull.
+- Travel to Holzander (through the Ammuinoth or desert - if desert no wandering encounter in travel to account for dennamore)
+- [dannamore](../locations/dannamore.md) - anak, thunderstorm, elementals
+- [holzanderCastleL1](../locations/holzanderCastleL1.md)
+	- Undead in the crypt
+	- Meet Ushulx again, maybe see the altar
+- [holzanderCastleL2](../locations/holzanderCastleL2.md)
+	- Social challenge Danaska & Cagoth-ze
+		- Roll 1 in 6 for wandering encounters: On a 1, roll a d4, 1, 2 they meet Cagoth-ze first; 3,4 they meet Danaska first
+		- Deal with Cagoth - get rid of the Ngar'tho or get rid of Danaska and her minions. And he will tell how to get to the library
+		- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
+		- Deal with Lasbascilag - ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
 
 ## Information pool
 

@@ -16,12 +16,6 @@ tags:
 
 # Castle of Holzander Level 2
 
-### H Level 2: Cagoth-ze and Danaska at odds
-
-- Roll a d4, 1, 2 they meet Cagoth-ze first; 3,4 they meet Danaska first
-- Whoever they meet first tries to identify if the PCs were responsible for the mess on level 2
-- If he/she think they were not responsible, he/she promises PCs gold and stones if they kill the other one
-
 ### H202 (CR 4.5)
 
 - Jelly hybrid (CR 3)
@@ -58,8 +52,10 @@ creatures:
 
 ### H204 (CR 4)
 
+**Anaks**
+
 ```encounter
-name: Frost Goblins (CR 4)
+name: Anaks
 creatures:
  - 1: Goblin Boss
  - 6: Hobgoblin
@@ -99,14 +95,14 @@ Finally, just because the cube is eventually killed doesn’t mean it stops bein
 
 ### H211
 
-Baska (Lasbascilag) - Ice Barbed Devil
+**Ngar'tho. "We've seen your intellects before :)"**
+If PCs save the Ngar'tho - gain recognition by the Ngar'tho hive. If they kill him - the opposite.
 
-![|500](https://i.imgur.com/rV7eNk6.png)
 
 ```encounter
 name: Summoning circle (CR 5)
 creatures:
- - 1: Barbed Devil
+ - 1: Ngar'tho
 ```
 
 ### H216 Scriptorium

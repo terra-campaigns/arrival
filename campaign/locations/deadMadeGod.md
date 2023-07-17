@@ -9,7 +9,7 @@ type: ruin
 name: Dead Made God
 rank: 1
 cr_gauges: '[6, 8, 9, 12]'
-status: detailed unvisited
+status: detailed visited
 relevant: yes
 tags: 
 ---

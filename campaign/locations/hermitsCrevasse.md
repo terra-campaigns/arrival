@@ -3,11 +3,11 @@ category: location
 campaign: Arrival
 land: Maqqatba
 region: Linhe
-hex: ZZ 0003
+hex: ZH 0003
 sub: 
 type: wilderness
 name: Hermits' Crevasse
-rank: 
+rank: 2
 cr_gauges: ''
 status: detailed
 relevant: yes

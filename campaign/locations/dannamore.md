@@ -47,9 +47,9 @@ tags:
 - End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Anaks are dealt with
 
 ```encounter
-name: Desert Thunderstorm (CR 15)
+name: Anak Elemental Thunderstorm
 creatures:
  - 1: Anak Warchief
- - 2d4 - 1: Anak Warrior
+ - 2d4: Anak Warrior
  - 1: Air Elemental
 ```

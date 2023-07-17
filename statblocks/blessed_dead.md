@@ -24,12 +24,12 @@ languages:
 cr: "1"
 eq_level: 3
 traits:
-  - desc: "[Details](blessed_dead.md)"
   - name: Undead Might (1x/day)
     desc: The blessed dead and their visible undead allies can negate one instance of damage or control inflicted by Necromantic spells or other anti-undead powers. If the blessed dead is destroyed, this protection ceases for their allies.
 actions:
   - name: Bubling death
     desc: "Death bubbles in a creature hit by a spell attack, damage 12 (2d8 + 3)"
+detail_link: "[(Details)](blessed_dead.md)"
 ---
 
 ![|500](https://i.imgur.com/M1JiWOO.png)
