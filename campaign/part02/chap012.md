@@ -6,7 +6,7 @@ world: Latter Earth
 campaign: Arrival
 game_date: 3877.6C6
 season: autumn
-location: [Linhe wastelands]
+location: xx
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 6
 members: 5
@@ -39,11 +39,11 @@ tags:
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [x] Define secrets & clues, adding links to them in scenes
-- [ ] Outline and update location notes, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Define treasure
-- [ ] Update random encounter tables
-- [ ] Prepare Owlbear, if applicable
+- [x] Outline and update location notes, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Define treasure
+- [x] Update random encounter tables
+- [x] Prepare Owlbear, if applicable
 
 
 ## Characters
