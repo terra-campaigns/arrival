@@ -8,16 +8,16 @@ game_date: 3877.6C6
 season: autumn
 location: [Linhe wastelands]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
-party_level: 5
+party_level: 6
 members: 5
 party_tier: 2
-party_rank: 1
-xp: 1770 +10%(?)
-dc_min: 13
-cr_gauges: '[7, 8, 10, 14]'
-consMgcItm: 3xA
-permMgcItem: --
-hoardTreasure: 0.2
+party_rank: 2
+xp: 2160 +10%(?)
+dc_min: 14
+cr_gauges: '[10, 14, 17, 22]'
+consMgcItm: 2xB
+permMgcItem: F
+hoardTreasure: 0.6
 tags: 
 ---
 
@@ -32,10 +32,10 @@ tags:
 - [x] Review [Abridged](../context/abridged.md)
 - [x] Review and organise [Notions](../../notions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander
-- [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
+- [x] Think about characters, write motivations & hooks, and bring one background bit to the session
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
+- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if last turn was 3+ game weeks ago.
 - [ ] Decide what remaining relevant NPCs are doing, and their respective checks (wwn334)
 - [ ] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes (1 or 2)
@@ -56,15 +56,21 @@ sort file.name asc
 ```
 
 ### Motivations
-- **Dolman**: Find Galiera, learn about her stone
+- **Dolman**: Find Galiera, learn about her stone, free Fuko from Ghuse
 - **Miraak**: Prove himself and win back the respect of the Nurderad, find the shadow dragon
-- **Guilf**: Find and kill Sergarus, talk with mother, scare the shit out of everyone
-- **Amyria**: Ammuinoth lore, protect little Guilf
+- **Guilf**: Find out more about The Void, and why it is so dark
+- **Amyria**: Ammuinoth lore, protect little Guilf, find the Angel Hound and free her.
 - **Kethra**: Find the purple dragon / shadow dragon
 
 ## Intro
 
-- **Combat with dynamic positioning (smart creatures), using of terrain, strategy**
+- New sanity mechanics
+- Combat mechanics and role play
+	- All NPCs have initiative of 12
+	- Toll either Morale or Intellect if there is a hit creature
+	- Based on roll, NPCs talk to PCs
+	- Consider dynamic positioning, terrain and strategy
+	- Attacks
 
 ## Strong start
 
@@ -98,6 +104,8 @@ Dark gift Ravenloft?
 A dwarf wants to have the kimbarak glauntets
 Dwarf connection with the legacy
 Kimbarak's demise secrets
+Front: Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
+kiranu population migrating to Glasrah, the alliance of Nurderad, Kiranu, Frostfallen elves and anaks are fighting the south to Turnskull.
 
 ## Information pool
 

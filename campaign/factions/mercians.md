@@ -35,6 +35,7 @@ tags:
 	- [ ] Feature: call another undead horde (cost ??)
 	- [ ] Island the FFKA East, pincer move with Gellert in the south, lady scurvy in the north and the rest of the Mercians from the east.
 	- [ ] Feature: energy overflow and umbilicals in the Ammuinoth, seising the tunnels from Hincland to Turnskull and creating a portal between the two regions (cost 32: kingdom, impossible)
+	- [ ] Start the next doom cycle by reconnecting Mondedonvil and his body (dead made god)
 
 ## Court
 

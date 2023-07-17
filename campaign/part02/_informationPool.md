@@ -2,6 +2,7 @@
 
 - [ ] Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
 - [ ] Mercians from the east are reaching out to Glasrath to establish trading routes with them as well - great produce is coming from the mountains who have their strong community now behind the banner of Ghuse.
+- [ ] The alliance of Nurderad, Katho and Kiranu lost to D'Elsin in the south. The surviving army is now helping the dwarves of Kiranu to migrate north, giving up the last southern civilisation. 300 miles to Melister first (at 10 miles per day). Then to Glasrath. 2 weeks to prepare departure. 5 weeks traveling. (meta-gaming: 2nd milestone of the campaign - out of 8)
 
 ## Holzander Castle
 

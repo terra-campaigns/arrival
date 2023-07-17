@@ -46,7 +46,7 @@ tags:
 	- Ailen Eilpetor (male human [cultist](https://open5e.com/monsters/cultist-a5e) ) leads a group of young cultists: who is a barflies, and hears too much gossip
 - **Conflicts**
 	- The kin of the Otaehryn (chieftan) is missing, and Ailen (barfly) tells it was Dirue (outcast) who did it. 
-- **Consequence of its destruction**: The dust elf trade link will collapse
+- **Consequence of its destruction**: The dust elf trade link will collapse - great famine (ss14)
 - **Defences**: a mob of angry [peasants](https://open5e.com/monsters/commoner)
 
 ## Details
