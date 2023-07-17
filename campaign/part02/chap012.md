@@ -38,7 +38,7 @@ tags:
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-- [ ] Define secrets & clues, adding links to them in scenes
+- [x] Define secrets & clues, adding links to them in scenes
 - [ ] Outline and update location notes, reviewing scenes and secrets
 - [ ] Outline potential NPCs, reviewing all above
 - [ ] Define treasure
