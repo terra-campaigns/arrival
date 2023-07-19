@@ -1,0 +1,44 @@
+---
+title: "Foes Without Number"
+output:
+  md_document:
+    variant: markdown_github
+date: "2023-07-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(yaml)
+```
+
+## Table of template foes
+
+```{r foesTbl}
+
+foesTbl <- data.frame(hd = c(0:40)) %>% 
+  mutate(ac = round(12.5 + hd * 0.5, 0),
+         dc = round(10 + hd * 2 / 3, 0),
+         att = dc - 8,
+         dmg = ceiling(pmax(2.5, hd * 2.5 + 1)),
+         skill5e = round(1.25 + hd / 4),
+         skillWN = round(skill5e * 12 / 20),
+         save = pmin(round(6 + hd / 2), 19)) %>%
+  select(hd, ac, save, dc, att, skill5e, skillWN, dmg)
+
+knitr::kable(foesTbl, format = 'pipe')
+```
+
+## Foes ranks
+
+```{r foesRank}
+
+rankTbl <- data.frame(rank = c(0:6)) %>% 
+  mutate(hdGaugeSolo = (rank + 1) * 4,
+         hdGaugeMob = hdGaugeSolo * 3,
+         rankXP_partySession = 2000 * rank ^ 2)
+
+knitr::kable(rankTbl, format = 'pipe')
+```
+
