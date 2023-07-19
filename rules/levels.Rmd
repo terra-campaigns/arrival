@@ -115,39 +115,26 @@ knitr::kable(levelTblMagicItemsC, format = 'pipe')
 
 ## PCs current development
 
-Current PCs level and estimated deadly CR (lazy benchmark).
+Current PCs level and estimated session.
 
-```{r currentPCs}
+```{r currentSession}
 pcs <- data.frame(name = c('Miraak', 'Guilf', 'Dolman', 'Kethra', 'Amyria'),
                   level = c(6,        5,       6,        6,        5))
 
-knitr::kable(pcs, format = 'pipe')
+challengeRank <- 1
 
-```
-
-Current party average level, tier, estimated CR, minimal DC for checks, treasures and 
-
-```{r currentParty}
-currentParty <- data.frame(level = as.integer(round(mean(pcs$level))),
-                           members = nrow(pcs)) %>%
-  left_join(levelTbl, by = 'level') %>%
-  select(-xp, - chapToLevel) %>%
-  mutate(tier = as.integer(tier),
-         CRsolo = as.integer(CRsolo + members - 4),
-         CR1vs1 = as.integer(round(CR1vs1 * members)),
-         CR2vs1 = as.integer(round(CR2vs1 * members)),
-         CR4vs1 = as.integer(round(CR4vs1 * members)),
-         cr_gauges = paste0('[', CRsolo, ', ', CR1vs1, ', ',
-                            CR2vs1, ', ', CR4vs1, ']'),
-         xpPerChap = as.integer(xpPerChap),
-         consMgcItmTbl = paste0(consMgcItmQtd, 'x', consMgcItmTbl)) %>%
-  select(-CRsolo, -CR1vs1, -CR2vs1, -CR4vs1, -consMgcItmQtd) %>%
-  rename(party_level = level, party_tier = tier, party_rank = rank,
-         xp = xpPerChap, xp_bounds = xpPerChapBound, dc_min = DCmin) %>%
-  relocate(cr_gauges, .after = dc_min)
+currentParty <- data.frame(level = mean(pcs$level),
+                           members = nrow(pcs),
+                           hexRank = as.integer(challengeRank)) %>%
+  mutate(hexXP = as.integer(2000 * hexRank ^ 2),
+         hexXPperPC = as.integer(hexXP / members),
+         lvlXPperPC = as.integer(200 * level),
+         xp = hexXPperPC + lvlXPperPC)
 
 cat(as.yaml(currentParty))
+
 ```
+
 
 ```{r hexLevels}
 hexLevels <- data.frame(level = 1:20,
@@ -161,7 +148,8 @@ hexLevels <- data.frame(level = 1:20,
          CR4vs1 = as.integer(round(CR4vs1 * members)),
          cr_gauges = paste0('[', CRsolo, ', ', CR1vs1, ', ',
                             CR2vs1, ', ', CR4vs1, ']')) %>%
-  select(-CRsolo, -CR1vs1, -CR2vs1, -CR4vs1, -members)
+  select(-CRsolo, -CR1vs1, -CR2vs1, -CR4vs1, -members) %>%
+  mutate(partyXPsession = 2000 * rank ^ 2)
 
 knitr::kable(hexLevels, format = 'pipe')
 ```
