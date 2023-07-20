@@ -62,8 +62,8 @@ knitr::kable(foesTbl, format = 'pipe')
 
 ``` r
 rankTbl <- data.frame(rank = c(0:6)) %>% 
-  mutate(hdGaugeSolo = (rank + 1) * 4,
-         hdGaugeMob = hdGaugeSolo * 3,
+  mutate(hdGaugeSolo = (rank + 1) * 4 - 1,
+         hdGaugeMob = hdGaugeSolo * 3 + 1,
          rankXP_partySession = 2000 * rank ^ 2)
 
 knitr::kable(rankTbl, format = 'pipe')
@@ -71,10 +71,10 @@ knitr::kable(rankTbl, format = 'pipe')
 
 | rank | hdGaugeSolo | hdGaugeMob | rankXP_partySession |
 |-----:|------------:|-----------:|--------------------:|
-|    0 |           4 |         12 |                   0 |
-|    1 |           8 |         24 |                2000 |
-|    2 |          12 |         36 |                8000 |
-|    3 |          16 |         48 |               18000 |
-|    4 |          20 |         60 |               32000 |
-|    5 |          24 |         72 |               50000 |
-|    6 |          28 |         84 |               72000 |
+|    0 |           3 |         10 |                   0 |
+|    1 |           7 |         22 |                2000 |
+|    2 |          11 |         34 |                8000 |
+|    3 |          15 |         46 |               18000 |
+|    4 |          19 |         58 |               32000 |
+|    5 |          23 |         70 |               50000 |
+|    6 |          27 |         82 |               72000 |

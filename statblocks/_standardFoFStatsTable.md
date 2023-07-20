@@ -1,33 +1,43 @@
-# Simple and integrated Statsblocks for 5e and WN
+# Foes Without Number
+***To be run with 5e and WN games. Inspiration: Forge of Foes.***
 
-## Standard statblocks per CR and Level
+## Template statblocks
 
 ```dataview
-table without ID link(file.link, name) AS "Name", eq_level AS "Lvl", cr AS "CR", ac AS "AC/DC", hp AS "HP", hit_dice AS "HD", stats as "Stats", skillsaves as "Skills", actions.desc AS "Damages"
+table without ID link(file.link, name) AS "Name", hit_dice AS "HD", ac AS "AC", stats as "Stats", skillsaves as "Skills", actions.desc AS "Damages"
 from "statblocks"
-WHERE statblock = true AND source = "Forge of Foes WN Converted"
+WHERE statblock = true AND source = "Foes Without Number"
 sort file.name asc
 ```
 
-## Integrating WN and 5e statblocks
+## Uncanny powers
 
-| WN         | 5e                  | Notes                                  | Conversion                                                   |
-| ---------- | ------------------- | -------------------------------------- | ------------------------------------------------------------ |
-| AC         | AC                  | Equivalent, slightly higher in 5e      | -                                                            |
-| hp = f(HD) | hp = f(HD)          | Equivalent                             | -                                                            |
-| HD         | Lvl = f(CR)         | Equivalent                             | -                                                            |
-| Atk        | Proeficient (FoF)   | WN has higher at high HD               | -                                                            |
-| Dmg        | Damage output (FoF) | 5e has higher at high CR, but no shock | -                                                            |
-| Skill      | Proef Bonus (5eSRD) | WN uses 2d6, 5e uses 1d20              | WN: 3/5 of value or roll 2d1                                 |
-| -          | STR / CON STs       | WN uses a single ST                    | Use Fortitude for STR/CON ST = 6 + eq_level / 2              |
-| -          | Initiative with DEX | WN: no initiative mod to NPCs          | Use +2 on 5e and +0 on WN                                    |
-| Instinct   | -                   | WN rolls over 1d10                     | WN = 18 - 2 x (Inst) <br />5e = 10 + INT mod                 |
-| Morale     | WIS DC 10           | 5e rolls 1d20, WN rolls below 2d6      | WN = 4/3 x (ML) <br />5e = 10 + Best(INT/CHA mod)            |
-| Save       | -                   | WN has a unified save (15 - level/2)   | Use WN                                                       |
-| Reaction   | -                   | 2d6 + PC CHA Mod in case of parlay     | 2d8, Persuasion Check DC = Morale<br />Success +1d6 reaction |
+Creatures can (and should) have their stats modified from the template to reflect mightier or lesser foes at the same challenge rank. **Choose what makes sense for the world.** An evaluation of creature degrees of power as table below (`HD / 2` is a good *soft* guideline). A point-buy system for additional effects (based on WWN powers, 5e's MM, Forge of Foes, etc) can be used.
 
+![|400](https://i.imgur.com/TQgtQ8q.png)
 
+Each of the modifications below is also worth one point:
 
-## Appendix: Evaluation of Morale and Instinct
+| Modification      | Description                   | Weak (-1)             | Strong (+1)                                 |
+| ----------------- | ----------------------------- | --------------------- | ------------------------------------------- |
+| **Size**          | Sheer size affects sturdiness | d4 tiny<br />d6 small | d10 large<br />d12 huge<br />d20 gargantuan |
+| **Armour class**  | Improved armour or skin       | -2 AC                 | +2 AC                                       |
+| **Attack and DC** | Fighting and magical prowess  | -2 Atk, -2 DC         | +2 Atk, +2 DC                               |
+| **Damage output** | Ability to cause damage       | -2d6                  | +2d6                                        |
+| **Saving throws** | Readiness and resolve         | -2                    | +2                                          |
+
+## Morale and Instinct
+
+Morale conversions and roll
+- 5e: 8 + 1/2 best(WIS|CHA) modifier, rounded down.
+- WN: as bestiary stats.
+- 2d8 system: multiply by 3/4
+- Roll as WN rules (2d6 equal or under to pass)
+
+Instinct conversions and roll
+- 5e: 8 + 1/2 INT modifier, rounded down
+- WN: 11 - Instinct
+- 2d8 system: multiply by 3/4
+- Roll 2d6 equal or under to pass
 
 ![](https://imgur.com/uzSHtOh.png)
