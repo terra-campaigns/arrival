@@ -7,32 +7,29 @@ size: Medium
 type: undead,
 subtype: 
 role: bruiser
-ac: 13
-hp: 50
-hit_dice: 7d8 + 19
-speed: 30 ft 
+ac: 15
+hit_dice: 7d8
+speed: 60 ft (2 movements per round)
 stats:
-  - Fortitude: 9
-  - Instinct: 10
+  - Saves: 10
+  - Instinct: 8
   - Morale: 12
-  - dc: 13
+  - dc: 14
 skillsaves:
-  - Attack: +5
-  - 5e: +2
-  - WN: +1
+  - Attack: +6
+  - 5e: +3
+  - WN: +2
 languages: 
-cr: "3"
-eq_level: 7
 traits:
   - name: Resistance to non magical weapons
     desc: Exept for silvered weapons
   - name: Sunlight sensitivity
-    desc: Disadvantage (-3) on rolls if under direct sunlight
+    desc: Disadvantage on rolls if under direct sunlight
 actions:
   - name: Life drain dagger
-    desc: "18 (4d8) on hit, STR/CON save, or drains hp maximum until long rest."
+    desc: "11 (2d10) on hit, STR/CON save, if failed: recovers revenant's hp and drains hp maximum until long rest. 1 pt."
   - name: Longsword or long bow
-    desc: "2 attacks, each 12 (2d8 + 3), long bow range 150/600 ft."
+    desc: "2 attacks, each 9 (2d8), long bow range 150/600 ft."
 detail_link: "[(Details)](revenant.md)"
 ---
 

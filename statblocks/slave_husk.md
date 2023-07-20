@@ -7,25 +7,22 @@ size: Medium
 type: undead
 subtype: (lesser)
 role: 
-ac: 11
-hp: 9
-hit_dice: 1d8 + 5
+ac: 10
+hit_dice: 1d4
 speed: 25
 stats:
-  - Fortitude: 5
-  - Instinct: 10
-  - Morale: 16 
-  - dc: 11
+  - Save: 6
+  - Instinct: 7
+  - Morale: 12
+  - dc: 10
 skillsaves:
   - Attack: +2
-  - 5e: +2
+  - 5e: +1
   - WN: +1
 languages: 
-cr: "1/8"
-eq_level: 0
 actions:
   - name: Damage per attack
-    desc: "1 attack, each 3 (1d6)"
+    desc: "1 attack, each 2 (1d4)"
 detail_link: "[(Details)](slave_husk.md)"
 ---
 

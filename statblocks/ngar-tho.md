@@ -7,41 +7,38 @@ size: Medium
 type: humanoid
 subtype: (outsider),
 role: controller
-ac: 15
-hp: 71
-hit_dice: 13d8 + 13
+ac: 18
+hit_dice: 13d8
 speed: 30 ft (levitation)
 stats:
-  - Fortitude: 12 
-  - Instinct: 14
-  - Morale: 13
-  - DC: 15
+  - Saves: 12 
+  - Instinct: 11
+  - Morale: 10
+  - DC: 16
 skillsaves:
-  - Attack: +7
-  - 5e: +3
-  - WN: +1
+  - Attack: +8
+  - 5e: +4
+  - WN: +2
 languages: Abased (deep speech), Archaic Dynastic, Esoteric Tseban, Atban Dynastic, telepathy 120ft
-cr: "8"
-eq_level: 13
 traits:
   - name: Magic resistance
-    desc: "Advantage on saves against any magical effects."
+    desc: "Advantage on saves against any magical effects. 2 pts."
 actions:
   - name: Mind blast (recharge 5-6)
-    desc: "Psychic energy in a 60-foot cone, INT/DEX save or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns."
+    desc: "Psychic energy in a 60-foot cone, INT/DEX save or take 17 (4d8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns."
   - name: Psychic tentacle attack
-    desc: "1 attack, each 16 (3d8 + 3), when hit, mentally grappled (INT to escape)"
+    desc: "1 attack, each 17 (4d8), when hit, mentally grappled (DEX/INT save to escape)"
   - name: Open head
     desc: "An incapacitated or grappled creature has its skull broken: 55 (10d10). A killed creature has its brain consumed."
 bonus_actions:
   - name: Absense of reality (1/day)
-    desc: "For the scene, attackers must first pass a WIS/CHA save every turn, or be lost in reverie"
+    desc: "For the scene, attackers must first pass a WIS/CHA save every turn, or be lost in reverie. 1 pt."
   - name: Plane shift (1/day, self)
-    desc: "The Ngar'tho can step outside reality and instanteneously step back in anywhere in the same plane."
+    desc: "The Ngar'tho can step outside reality and instanteneously step back in anywhere in the same plane. 2 pts."
   - name: Dominate (1/day)
-    desc: "WIS/CHA save or be dominated by the Ngar'tho for 8 hours. Can be used to create thralls. Every time target takes damage it can attemp another save to leave the domination"
+    desc: "WIS/CHA save or be dominated by the Ngar'tho for 8 hours. Can be used to create thralls. Every time target takes damage it can attemp another save to leave the domination. 2 pts."
   - name: At will powers
-    desc: "Detect thoughts, ilusions"
+    desc: "Detect thoughts, ilusions. 1 pt."
 detail_link: "[(Details)](ngar-tho.md)"
 ---
 
