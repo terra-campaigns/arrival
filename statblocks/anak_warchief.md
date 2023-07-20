@@ -8,26 +8,23 @@ type: anak
 subtype: (great),
 role: leader
 ac: 17
-hp: 36
-hit_dice: 7d8 + 5
+hit_dice: 7d8
 speed: 40
-cr: "3"
-eq_level: 7
 stats:
-  - Fortitude: 9
-  - Instinct: 11
-  - Morale: 12
-  - dc: 
+  - Save: 10
+  - Instinct: 8
+  - Morale: 9
+  - dc: 14
 skillsaves:
-  - Attack: +5
-  - 5e: +2
-  - WN: +1
+  - Attack: +6
+  - 5e: +3
+  - WN: +2
 actions:
   - name: Damage per attack
     desc: "Greatsword or javelin (melee/ranged): 2 attacks, each 9 (2d8)"
 bonus_actions:
   - name: Hate (once per day) 
-    desc: "The warchief can utter a hateful command or warning. Alies (max 30 ft) rolls with advantage attacks or saving throws for 1 minute. This effect ends if the warchief is incapacitated."
+    desc: "The warchief can utter a hateful command or warning. Alies (max 30 ft) rolls with advantage attacks or saving throws for 1 minute. This effect ends if the warchief is incapacitated. 2 pts."
 detail_link: "[(Details)](anak_warchief.md)"
 ---
 

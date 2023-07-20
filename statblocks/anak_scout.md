@@ -7,27 +7,24 @@ size: Small
 type: anak
 subtype: (lesser),
 role: skirmisher
-ac: 15
-hp: 7
-hit_dice: 1d6 + 4
+ac: 11
+hit_dice: 1d6
 speed: 20
-cr: "1/4"
-eq_level: 1
 stats:
-  - Fortitude: 6
-  - Instinct: 10
-  - Morale: 9
-  - DC: 
+  - Saves: 6
+  - Instinct: 7
+  - Morale: 7
+  - DC: 11
 skillsaves:
   - Attack: +3
   - 5e: +2
   - WN: +1
 actions:
   - name: Damage per weapon attack (melee or ranged)
-    desc: "1 attack 5 (1d6 + 2)"
+    desc: "1 attack 2 (1d2)"
 bonus_actions:
   - name: Nimble Escape
-    desc: "The anak can take the Disengage or Hide action as a bonus action on each of its turns."
+    desc: "The anak can take the Disengage or Hide action as a bonus action on each of its turns. 1 pt."
 detail_link: "[(Details)](anak_lesser.md)"
 
 ---
