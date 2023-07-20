@@ -10,6 +10,8 @@ WHERE statblock = true AND source = "Foes Without Number"
 sort file.name asc
 ```
 
+![Table of template foes](../rules/foesWN.md#Table%20of%20template%20foes)
+
 ## Uncanny powers
 
 Creatures can (and should) have their stats modified from the template to reflect mightier or lesser foes at the same challenge rank. **Choose what makes sense for the world.** An evaluation of creature degrees of power as table below (`HD / 2` is a good *soft* guideline). A point-buy system for additional effects (based on WWN powers, 5e's MM, Forge of Foes, etc) can be used.

@@ -15,7 +15,7 @@ library(yaml)
 
 ## Table of template foes
 
-```{r foesTbl}
+```{r foesTbl, echo=FALSE}
 
 foesTbl <- data.frame(hd = c(0:40)) %>% 
   mutate(ac = round(9.6 + hd * (0.8 - (hd - 10) / 85), 0),
@@ -32,7 +32,7 @@ knitr::kable(foesTbl, format = 'pipe')
 
 ## Foes ranks
 
-```{r foesRank}
+```{r foesRank, echo=FALSE}
 
 rankTbl <- data.frame(rank = c(0:6)) %>% 
   mutate(hdGaugeSolo = (rank + 1) * 4 - 1,

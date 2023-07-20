@@ -1,19 +1,5 @@
 ## Table of template foes
 
-``` r
-foesTbl <- data.frame(hd = c(0:40)) %>% 
-  mutate(ac = round(9.6 + hd * (0.8 - (hd - 10) / 85), 0),
-         att = round(hd * 0.6 + 2, 0),
-         dc = att + 8,
-         dmg = ceiling(pmax(2, (hd - 2) * 3 + 2.5)),
-         skill5e = round(1.25 + hd / 4),
-         skillWN = round(skill5e * 12 / 20),
-         save = pmin(round(6 + hd / 2), 19)) %>%
-  select(hd, ac, save, dc, att, skill5e, skillWN, dmg)
-
-knitr::kable(foesTbl, format = 'pipe')
-```
-
 |  hd |  ac | save |  dc | att | skill5e | skillWN | dmg |
 |----:|----:|-----:|----:|----:|--------:|--------:|----:|
 |   0 |  10 |    6 |  10 |   2 |       1 |       1 |   2 |
@@ -59,15 +45,6 @@ knitr::kable(foesTbl, format = 'pipe')
 |  40 |  27 |   19 |  34 |  26 |      11 |       7 | 117 |
 
 ## Foes ranks
-
-``` r
-rankTbl <- data.frame(rank = c(0:6)) %>% 
-  mutate(hdGaugeSolo = (rank + 1) * 4 - 1,
-         hdGaugeMob = hdGaugeSolo * 3 + 1,
-         rankXP_partySession = 2000 * rank ^ 2)
-
-knitr::kable(rankTbl, format = 'pipe')
-```
 
 | rank | hdGaugeSolo | hdGaugeMob | rankXP_partySession |
 |-----:|------------:|-----------:|--------------------:|
