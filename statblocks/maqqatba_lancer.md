@@ -3,34 +3,33 @@ statblock: true
 layout: WN 5e Integrated
 source: Worlds Without Number Homebrew
 name: Maqqatba Lancer
-size: Medium
+size: Large
 type: humanoid,
 subtype: 
 role: controller
-ac: 18
-hp: 95
-hit_dice: 10d8 + 50
+ac: 16
+hit_dice: 10d10
 speed: 30 ft (60 ft when mounted) 
 stats:
-  - Fortitude: 11
-  - Instinct: 11
-  - Morale: 12
-  - dc: 15
+  - Save: 15
+  - Instinct: 8
+  - Morale: 9
+  - dc: 18
 skillsaves:
-  - Attack: +7
-  - 5e: +3
-  - WN: +1
+  - Attack: +10
+  - 5e: +4
+  - WN: +2
 languages: 
-cr: "5"
-eq_level: 10
 traits:
   - name: Brave
-    desc: "The knight has advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb)."
+    desc: "The knight has advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb). 1 pt."
 actions:
   - name: Charge and joust
-    desc: "Charge through column, damage 29 (7d6 + 5), DEX/INT save negates, once hit STR/CON save or prone."
+    desc: "Charge through an entire column of enemies, damage 13 (2d12), DEX/INT save negates, once hit STR/CON save or prone."
   - name: Lance or shield bash
-    desc: "3 attacks, Lance: range 20ft (reach), each 12 (3d6 + 2); Shield bash: range 5 ft, each 9 (2d4 + 4), STR/CON or prone"
+    desc: "3 attacks, Lance: range 20ft (reach), each 9 (2d8); Shield bash: range 5 ft, each 7 (2d4 + 2), STR/CON or prone. 1 pt (extended range)"
   - name: Long bow
-    desc: "2 attacks, each 11 (2d6 + 4)"
+    desc: "2 attacks, each 9 (2d6 + 2)"
 ---
+
+![|500](https://i.imgur.com/8JD9ji0.png)

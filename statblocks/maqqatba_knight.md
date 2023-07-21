@@ -7,34 +7,31 @@ size: Medium
 type: humanoid,
 subtype: 
 role: leader
-ac: 19
-hp: 52
-hit_dice: 7d8 + 21
+ac: 17
+hit_dice: 7d8
 speed: 30 ft (60 ft when mounted) 
 stats:
-  - Fortitude: 9
-  - Instinct: 10
-  - Morale: 12
-  - dc: 13
+  - Save: 10
+  - Instinct: 8
+  - Morale: 9
+  - dc: 14
 skillsaves:
-  - Attack: +5
-  - 5e: +2
-  - WN: +1
+  - Attack: +6
+  - 5e: +3
+  - WN: +2
 languages: 
-cr: "3"
-eq_level: 7
 traits:
   - name: Brave
     desc: "The knight has advantage on saving throws against being [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb)."
 actions:
   - name: Charge and joust
-    desc: "Charge one target, damage 20 (4d6 + 6), STR/CON save or prone."
+    desc: "Charge one target, damage 18 (4d6 + 4), STR/CON save or prone."
   - name: Greatsword
-    desc: "2 attacks, each 10 (2d6 + 3)"
+    desc: "2 attacks, each 9 (2d6 + 2)"
   - name: Great crossbow
     desc: "1 attack, each 5 (1d10)"
 bonus_actions:
   - name: Leadership (once per day)
-    desc: "For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature rolls with advantage. This effect ends if the knight is incapacitated."
+    desc: "For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature rolls with advantage. This effect ends if the knight is incapacitated. 2 pts."
 
 ---

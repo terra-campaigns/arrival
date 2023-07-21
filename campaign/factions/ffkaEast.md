@@ -57,8 +57,8 @@ tags:
 creatures:
  - 3d3-3: Guard City Watch
  - 4d2-2: War Scout
- - 1d2-1: Priest 5es
- - 1d2-1: Knight 5es
+ - 1d2-1: Knight Priest
+ - 1d2-1: Maqqatba Knight
  - 1d2-1: Maqqatba Lancer
 ```
 
