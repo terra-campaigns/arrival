@@ -43,3 +43,5 @@ Instinct conversions and roll
 - Roll 2d6 equal or under to pass
 
 ![](https://imgur.com/uzSHtOh.png)
+
+![Foes ranks](../rules/foesWN.md#Foes%20ranks)
