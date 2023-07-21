@@ -25,7 +25,7 @@ Each of the modifications below is also worth one point:
 | **Size**          | Sheer size affects sturdiness | d4 tiny<br />d6 small | d10 large<br />d12 huge<br />d20 gargantuan |
 | **Armour class**  | Improved armour or skin       | -2 AC                 | +2 AC                                       |
 | **Attack and DC** | Fighting and magical prowess  | -2 Atk, -2 DC         | +2 Atk, +2 DC                               |
-| **Damage output** | Ability to cause damage       | -2d6                  | +2d6                                        |
+| **Damage output** | Ability to cause damage       | -1 / HD               | +1 / HD                                     |
 | **Saving throws** | Readiness and resolve         | -2                    | +2                                          |
 
 ## Morale and Instinct
@@ -42,6 +42,22 @@ Instinct conversions and roll
 - 2d8 system: multiply by 3/4
 - Roll 2d6 equal or under to pass
 
-![](https://imgur.com/uzSHtOh.png)
+![|500](https://imgur.com/uzSHtOh.png)
+
+## Ranks and HD gauges
 
 ![Foes ranks](../rules/foesWN.md#Foes%20ranks)
+
+## Creature ancestries
+
+### Weavers
+***The Eldrich, Sorcerer-Kings***
+
+- Dragons
+- Made Gods 
+
+### Angels
+
+
+### 'tho Outsiders
+
