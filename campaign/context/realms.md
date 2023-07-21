@@ -1,19 +1,40 @@
 ---
 type: context/realms
-name: The Realms of Guemenos
-world: Guemenos
+name: The Realms of Latter Earth
+world: Latter Earth
 campaign: Arrival
 tags: 
 ---
 
-# The Realms of Guemenos
+# Latter Earth
+***Source: Worlds Without Numbers and The Atlas of Latter Earth.***
 
-![](https://i.imgur.com/bFdsEBk.png)
+![](https://inkarnate-api-as-production.s3.amazonaws.com/9k3bj5Ag6YLxtCwdeu7gUk)
 
+## Maqqatba
 
-## Etor
+![](https://i.imgur.com/QejS536.png)
+![](https://i.imgur.com/ZgtHJMj.png)
+![](https://i.imgur.com/Dsxe4HP.png)
+![](https://inkarnate-api-as-production.s3.amazonaws.com/LvvLDt9WBQYGEBLnJ6RXM8)
 
-![](https://i.imgur.com/Zr9id91.png)
+Link to [Old maps](https://i.imgur.com/Zr9id91.png)
+
+**Six major geographical features:**
+- Glasrath Mountains and Mines
+- Southern Shangu Mountains
+- Ammuinoth
+- Huethigue swamps and plains
+- Ice *arratu*
+- Delsinese Ice Sheets
+
+**Six nations or groups of importance:**
+- Kingdom of Oivepia's Faletist Knights of the Arch
+- Hincland Mercians (knights?)
+- D'Elsinese Anak Tribes (+automaton knights?)
+- Nurderad Praetorian Nation and the Lance Defenders
+- Kimbarak Countries of Glasrath and Kiranu
+- Acrisae
 
 ### Katho
 ***The Kathan Empire***
@@ -27,18 +48,71 @@ As the war persist, people of the desert empire have grown weary of the conflict
 Near the southern border, in the provinces where this enduring conflict has ravaged for centuries, entire lifetimes have been spent amidst the horrors, with generations being born and dying within its vicious cycle. Cities have become twisted and warped by the darkness that permeates their every corner. Many settlements have even adopted human sacrifice rituals and even cannibalism. Some of the ancient ruins have been repurposed, with dark and sinister magic used to reshape them into towering fortresses and twisted citadels. Those who venture and live too close to the conflict risk being dragged down into the depths of its desolate nightmares, long forgetting what life in Katho was like before.
 
 #### Linhe
+***Linhe County and Surroundings***
+
+- **Genre**: [dark fantasy](https://5e.tools/book.html#vrgr,-1,dark%20fantasy,0), [folk](https://5e.tools/book.html#vrgr,-1,folk%20horror,0_) and [disaster](https://5e.tools/book.html#vrgr,-1,disaster%20horror,0) horror
+- **Hallmarks**: Dwindling resources, fickle hero worship, impending disaster, suspicion, totalitarianism, undead
+- **Area:** 87 thousand square miles
+- **Population:** Total population of 440 thousand (humans and demi-humans, mostly dust elves and some dwarves)
+	- Urban population: 32 thousand
+	- 6-mile hex population: 150
+- **Point of interest:** Density of 2 in 10 in a 6-mile hex
 
 The sands of time bury the deserts of Linhe. Here, the wonders of fallen empires and temples of forgotten kings crumble beneath a merciless sun. Untold generations of tombs and secrets lie beneath the sands, markers of a history the land's few residents know of only in story and song. Their interest in past splendor is smothered, as life is harsh in Linhe. Many of Linhe's settlements lie in the middle of old and new ruins, its cities crumbling and unprotected, its villages abandoned and overgrown. Still, bastions of civilisation hold out against the the terrifying dangers of the region.
+
+Linhe is a land besieged. Empty countryside surrounds ruined or crumbling cities. A few desperate pockets of civilisation survive, carrying on not out of hope, but, in most of the region, out of fear of the FFKA's merciless members. Led by [Sergarus](sergarus.md), the paramilitary group organises a desperate and occasionally effective defence against an implacable foe: the ever-growing armies of the dead.
+
+Where the FFKA East is strong, it has turned against the people, making them prisoners within their own country. With cudgel and pike, the soldiers of Falet force every commoner into gruelling labor, rushing them to raise fortifications and scrape ruins from the dirt. Every lash strike, every day of meagre rations is necessary - or so the soldiers claim - because time is short and the undead are coming.
+
+Every few months a new zombie legions issues from the Ghost Domain through caves and cracks in the wastelands. Never emerging from the same place twice, the horde sweeps across the land, drawn to the densest populations of the living. Causalities stack up during the zombie sieges, but miracles and moments of valour have not abandoned Linhe. The people's numbers dwindle, but they soldier on. In the aftermath of an attack, the Linhans burn their dead, repair what they can, and whisper that now might be the time to flee. Invariably, though, someone speaks too loudly and a so-called traitor is impaled upon city walls.
 
 **Noteworthy Features**
 - Linhe is a land of vast deserts and rare, but deadly, storms.
 - Water is scarce beyond the land's few oases and the cities.
 - The monuments, tombs, and pyramids of past golden ages litter Linhe. These countless tombs are interconnected, forming a vast, semi-hidden underground network through the Ammuinoth and the Ghost Domain.
+- FFKA soldiers patrol the land, hunting for deserters, looters, and strangers to press into service. Non-compliance is punished with impalement.
+- Individuals earn public or military esteem for special acts of heroism. Dubbed "Trueborn of Linhe," these heroes are treated well, but the fickle public turns against them if they're perceived as not doing enough to end the undead invasion.
 - Linhans value music, and many locals are accomplished singers or proficient in playing the reed pipe, goblet drum, or arched harp.
 
-All the cities below (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+![](https://api2.inkarnate.com/api/embedScenes/MRKljv/previewImage)
 
-![](https://i.imgur.com/ZuFIpuA.png)
+All the cities and villages on map (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+
+**Cities**
+- Kathadzig (Glasrath)
+- Linhe
+- Melister (Kingdom of Romburghia)
+
+**Towns and villages**
+- Gimorkoc
+- Eyaram
+- Rimortec
+- Nulukkzund
+- Vorkeldond
+- Margunar
+- Brambe
+- Diragz
+- Oldshund
+
+**Grand resources**
+- Brezal Paths
+- Mines: Naragzah
+- Grassland & pastures: Margunar and Brambe
+- Fishing oasis: Vorkeldond
+- Medicinal orchard west of Linhe (undeveloped)
+- Ancient industrial site on the Northwest (undeveloped)
+
+**Known great ruins**
+- Holzander
+- Mystra's Temple
+- Grendleroot Ruins
+- Ruins of Grimspire
+
+**Known major lairs**
+- Temple of Remains
+- [Lava Wolfs](https://drive.google.com/file/d/1hOhIDnGFvXOV_oaf8SVUi8j0Ci8ARimD/view)
+- Usurper’s tower
+- Rough Run
 
 ![Linhe](secrets/secretsRealms.md#Linhe)
 
@@ -54,21 +128,57 @@ Romburghia is a troubled land, rife with tension, secrets and fear. Its people a
 The kingdom is a patchwork of cultures, with the north being dominated by the ancient Mercian ways, while the south is a vast expanse of nomadic Nurfirth. However, the original Mercian religion has long been in decline, with most of the country now following either the church of Falet or the gods of the [Yotunn Ancestors](religions.md#Yotunn) pantheon. The [Faletism](religions.md#Faletism) religion has officially been adopted by the kingdom, but it is a decision made out of fear, for the Mercians of Hincland have long been rumored to dabble in black magic. The rulers have turned a blind eye to non-conventional approaches to converting folk religion followers to the official religion of Falet, desperately seeking to expand its reach and hold over the kingdom.
 
 ### Nurderad
+***Theme: Decadence & Legitimacy (wwn124)***
 
-In the heart of the Nurdead Prefecture, the capital city of Djerad Thymar stood as a testament to both grandeur and mystery. Whispers carried on the wind spoke of its renown, spreading tales of awe and trepidation throughout the realms. 
+- **Court: Lance Defenders**
+- FFKA is growing in influence in the nation.
+- Nurderad has always helped with perils in Maqqatba.
+- The was in the south is exhausting Nurderad.
+- The pyramid (working) has been activated.
+
+In the heart of the Nurdead Praetorian Nation, the capital city of Djerad Thymar stood as a testament to both grandeur and mystery. Whispers carried on the wind spoke of its renown, spreading tales of awe and trepidation throughout the realms. 
 
 Djerad Thymar, a name that resonated with both reverence and fear, boasted a breathtaking sight that defied mortal imagination. Rising from the earth like a colossal beast of ancient lore, the entire city took the form of a hollow pyramid. Its architecture, a testament to the architects' twisted genius, rendered it virtually impenetrable to all but the most daring of intruders. Built upon a foundation of unyielding granite, the pyramid stood proudly, its towering height reaching a dizzying 1,500 feet (460 meters) into the sky. A sight that evoked a mix of wonder and unease in the hearts of those who dared to gaze upon it. As if nature itself had conspired with the hands of men, a vast number of columns rose in unison, lending unwavering support to the massive structure above.
 
 A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curious to venture into its depths. Guarded by ancient sentinels and encircled by a sparse collection of farms and humble homesteads, the city stood in stark contrast to the sprawling private domains of the opulent clans. These privileged elite, drawn to the power and allure of Djerad Thymar, chose to erect their opulent estates within the decaying remnants of the long-lost Iopothae civilization, their proximity to the city a constant reminder of the shadows that lingered in its wake.
 
 
-### Olivepia
-![Olivepia](secrets/secretsRealms.md#Olivepia)
+### Oivepia
+***Theme: Expansion & Stratification (wwn124)***
 
-### Kiranu
+- **Court: Faletist Knights of the Arc**
+- Suspected of ethnicity cleansing.
+- Their culture is widely admired.
+- A blighted horde is threatening its borders.
+- A horrible monster was driven off.
 
-### Naragzah
-***The Glasrath Dwarven Empire***
+### Hincland
+***Theme: Decadence & Pageantry (wwn124)***
+
+- **Court: Mercians**
+- A usurper is being sheltered here.
+- Their ruling classes are related to Oivepia's.
+- The leadership is inept/distracted.
+- A noble heir shows signs of heroic greatness.
+- Link with [Mercian](cultures.md#Mercian)
+
+### D'Elsin
+***Theme: Barbarism & Stratification (wwn124)***
+
+- **Court: Turnskull Constructs, driving Anak Tribes**
+- At war with Katho, Kiranu & Nurderad.
+- A hero from Hincland is now in D'Elsin.
+- Turnskull has disgorged Made Gods.
+- Splendid resources have been reestablished in Turnskull.
+
+### Kimbarak
+***Theme: Exhaustion & Unity (wwn124)***
+
+- **Courts: Glasrath and Kiranu countries**
+- A dwarven working caused problems to the land in the past
+- Dwarves in Glasrath were open to receive refugees during the Acrisae arrival
+- The Kimbarak people are succumbing
+- Glasrah is being restablished
 
 #### Tolfonddundhesm
 ***Tolfonddund Dwarven Mines***
@@ -78,9 +188,7 @@ The southern mine system on the Glasrath Mountains was created by dwarves coming
 #### Nargunhesm
 ***Nargun Dwarven Mines***
 
-The Nargun was a strong Dwarven empire founded in 3217 NC.
-
-The King was killed about 15 years ago, in an attack that came from the Ammuinoth, alongside his son and heir. Sitmeak Greybow, was then appointed as regent and has been the regent since - he is in charge. The brother, Whursock Greybow, is the commander of the army.
+The Nargun was a strong Dwarven empire founded in 3217 NC. The King was killed about 15 years ago, in an attack that came from the Ammuinoth, alongside his son and heir. Sitmeak Greybow, was then appointed as regent and has been the regent since - he is in charge. The brother, Whursock Greybow, is the commander of the army.
 
 ### Underworld
 ***The Ammuinoth, the Ghost Domain and the Ophaire***

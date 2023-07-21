@@ -8,27 +8,24 @@ type: undead
 subtype: ,
 role: leader
 ac: 12
-hp: 33
-hit_dice: 3d8 + 20
+hit_dice: 3d8
 speed: 30 
 stats:
-  - Fortitude: 7 
-  - Instinct: 12
-  - Morale: 16
-  - dc: 12
+  - Save: 8 
+  - Instinct: 9
+  - Morale: 12
+  - dc: 10
 skillsaves:
-  - Attack: +5
+  - Attack: +2
   - 5e: +2
   - WN: +1
 languages: 
-cr: "1"
-eq_level: 3
 traits:
   - name: Undead Might (1x/day)
-    desc: The blessed dead and their visible undead allies can negate one instance of damage or control inflicted by Necromantic spells or other anti-undead powers. If the blessed dead is destroyed, this protection ceases for their allies.
+    desc: The blessed dead and their visible undead allies can negate one instance of damage or control inflicted by Necromantic spells or other anti-undead powers. If the blessed dead is destroyed, this protection ceases for their allies. 2 pt.
 actions:
   - name: Bubling death
-    desc: "Death bubbles in a creature hit by a spell attack, damage 12 (2d8 + 3)"
+    desc: "Death bubbles in a creature hit by a spell attack, damage 6 (2d4 + 1)"
 detail_link: "[(Details)](blessed_dead.md)"
 ---
 

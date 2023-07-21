@@ -9,86 +9,80 @@ tags:
 # Secrets for Realms
 
 ## Linhe
+***Sources: [Har'Akir](https://5e.tools/book.html#vrgr,-1,har'akir,1) and [Falkovnia](https://5e.tools/book.html#vrgr,-1,falkovnia,0)***
 
-**Genre**: [dark fantasy](https://5e.tools/book.html#vrgr,-1,dark%20fantasy,0), [folk](https://5e.tools/book.html#vrgr,-1,folk%20horror,0_) and [disaster](https://5e.tools/book.html#vrgr,-1,disaster%20horror,0) horror
-**Hallmarks**: Dwindling resources, fickle hero worship, impending disaster, suspicion, totalitarianism, undead
-**Technology: 2** Weapons and armour have evolved and medium armour is common, heavy armour is rare.
-**Magic: 3** Rare. While it is uncommon for a mage to be killed outright, the use of magic in common areas is taboo.
-**Political: 2** Empires have consolidated power, or a fall of a great empire fractures the land politically with a common culture.
+![](https://i.imgur.com/v8S2Wrq.jpg)
 
-Linhe is a land besieged. Empty countryside surrounds ruined or crumbling cities. A few desperate pockets of civilisation survive, carrying on not out of hope, but, in most of the region, out of fear of the FFKA's merciless members. Led by [Sergarus](sergarus.md), the paramilitary group organises a desperate and occasionally effective defence against an implacable foe: the ever-growing armies of the dead.
+**Regional perilous rank, per type of area**
+- **Populated:** 3 hex band (1.5 each side) alongside roads riverways, and around settlements
+	- Non constructed areas (including roads and rivers): rank 0
+	- Constructed areas: rank 1 - settlement, ruin and lair defences
+- **Unpopulated**
+	- Non constructed areas (including roads and rivers): rank 1
+	- Constructed areas: rank 2 - settlement, ruin and lair defences
 
-Where the FFKA East is strong, it has turned against the people, making them prisoners within their own country. With cudgel and pike, the soldiers of Falet force every commoner into gruelling labor, rushing them to raise fortifications and scrape ruins from the dirt. Every lash strike, every day of meagre rations is necessary - or so the soldiers claim - because time is short and the undead are coming.
 
-Every few months a new zombie legion issues from the Ghost Domain through caves and cracks in the wastelands. Never emerging from the same place twice, the horde sweeps across the land, drawn to the densest populations of the living. Causalities stack up during the zombie sieges, but miracles and moments of valour have not abandoned Linhe. The people's numbers dwindle, but they soldier on. In the aftermath of an attack, the Linhans burn their dead, repair what they can, and whisper that now might be the time to flee. Invariably, though, someone speaks too loudly and a so-called traitor is impaled upon city walls.
+```dataview
+table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Location", type as "Type", rank as "Rank", status as "Status"
+from "campaign"
+WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
+sort hex asc
+```
 
-**Noteworthy Features:**
-- Every few months, close to the night of the new moon, hordes of undead appear from the Ghost Domain and invade Linhe.
-- Old and new ruins cover Linhe - cities and villages crushed by zombie hordes and haunted by undead stragglers.
-- FFKA soldiers patrol the land, hunting for deserters, looters, and strangers to press into service. Non-compliance is punished with impalement.
-- Individuals earn public or military esteem for special acts of heroism. Dubbed "Trueborn of Linhe," these heroes are treated well, but the fickle public turns against them if they're perceived as not doing enough to end the undead invasion.
-
-References: [Har'Akir](https://5e.tools/book.html#vrgr,-1,har'akir,1) and [Falkovnia](https://5e.tools/book.html#vrgr,-1,falkovnia,0)
+Possible ruins and lairs:
+- [Xaganis](https://www.drivethrurpg.com/product/419655/The-Fettered-Factory?manufacturers_id=18628)
+- 12 towers
 
 ### Wandering Encounters in Linhe
 
-| d4  | Desert daytime                   | Desert night time / Ammuinoth           | Additional roll(s)                         |
+| d4  | Desert daytime                   | Desert night time / Ammuinoth           | Additional rolls                         |
 | --- | -------------------------------- | --------------------------------------- | ------------------------------------------ |
 | 1   | Predators or herd animals        | Predators or herd animals</br>(+2 on table) | Beast table, mood and reaction             |
 | 2   | Inhabitants or elite             | Inhabitants or elite</br>(+2 on table)      | Sapient table, activity, mood and reaction |
 | 3   | Misbegotten, outsiders, monsters | Misbegotten</br>(+2 on table)               | Misbegotten table, mood and reaction       |
 | 4   | Environment effect               | Environment effect                      | Wilderness or dungeon effects              |
 
-| d6  | Beast                        | CR  | Rank 0 location               | Rank 1 location               |
-| --- | ---------------------------- | --- | ----------------------------- | ----------------------------- |
-| 1   | Sand sheep, antelope         | 0   | `encounter: 1d4: CR 0`        | `encounter: 1d6: CR 0`        |
-| 2   | Scorpions, vipers, sand cats | 0   | `encounter: 2d4: CR 0`        | `encounter: 2d6: CR 0`        |
-| 3   | Dust hawks and vultures      | 1/8 | `encounter: 2d6: CR 1/8`      | `encounter: 2d8: CR 1/8`      |
-| 4   | Hyenas, jackals              | 1/4 | `encounter: 2d8-1: CR 1/4`    | `encounter: 2d12: CR 1/4`     |
-| 5   | Dire desert wolves           | 1/2 | `encounter: 2d4-1: CR 1/2`    | `encounter: 2d8: CR 1/2`      |
-| 6   | Desert lions                 | 1   | `encounter: 2d2-1: CR 1`      | `encounter: 2d4+1: CR 1`      |
-| 7   | Cave bear                    | 2   | `encounter: 1 + 1d4<=1: CR 2` | `encounter: 2d2-1: CR 2`      |
-| 8   | Sabre-toothed tiger          | 3   | `encounter: 1: CR 3`          | `encounter: 1 + 1d4<=1: CR 3` |
+| d6  | Beast                        | Rank 0 location           | Rank 1 location            |
+| --- | ---------------------------- | ------------------------- | -------------------------- |
+| 1   | Sand sheep, antelope         | `encounter: 1d4+1: HD 00` | `encounter: 1d4+1: HD 00`  |
+| 2   | Scorpions, vipers, sand cats | `encounter: 2d4: HD 00`   | `encounter: 2d6: HD 00`    |
+| 3   | Dust hawks and vultures      | `encounter: 2d6: HD 00`   | `encounter: 2d8: HD 00`    |
+| 4   | Hyenas, jackals              | `encounter: 2d6: HD 01`   | `encounter: 2d20+1: HD 01` |
+| 5   | Dire desert wolves           | `encounter: 1d4: HD 02`   | `encounter: 2d8: HD 02`    |
+| 6   | Desert lions                 | `encounter: 1d4-2: HD 03` | `encounter: 2d4: HD 03`    |
+| 7   | Cave bear                    | `encounter: 1: HD 04`     | `encounter: 1d4+1: HD 04`  |
+| 8   | Sabre-toothed tiger          | `encounter: 1: HD 05`     | `encounter: 1d4-1: HD 05`  |
 
-| d8  | Sapient           | CR  | Rank 0 no                                                               | Rank 1 no                                                               |
-| --- | ----------------- | --- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 1   | Rurkinar          | 1/8 | `encounter: 2d6: CR 1/8`                                                | `encounter: 2d8: CR 1/8`                                                |
-| 2   | Dust elves        | 1/2 | `encounter: 2d4-1: CR 1/2`                                              | `encounter: 2d8: CR 1/2`                                                |
-| 3   | Mercian commoners | 1/2 | `encounter: 2d4-1: CR 1/2`                                              | `encounter: 2d8: CR 1/2`                                                |
-| 4   | Bandits           | 1/2 | `encounter: 2d4-1: CR 1/2`                                              | `encounter: 2d8: CR 1/2`                                                |
-| 5   | FFKA scouts       | 1   | `encounter: 2d2-1: War Scout`                                           | `encounter: 2d4: War Scout`                                             |
-| 6   | Anak lesser       | 1/4 | `encounter: 2d8: Anak Scout`                                            | `encounter: 2d12: Anak Scout`                                           |
-| 7   | FFKA Tent         |     | [Encounter](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) | [Encounter](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) |
-| 8   | Anak War Band     |     | [Encounter](secretsCultures.md#Anak%20War%20Band)                       | [Encounter](secretsCultures.md#Anak%20War%20Band)                       |
-| 9   | Mercian Antinomi  |     | [Encounter](secretsCultures.md#Mercian%20Antinomi%20Group)              | [Encounter](secretsCultures.md#Mercian%20Antinomi%20Group)              |
-| 10  | Deepfolk raiders  | 4   | Not ready                                                               | Not ready                                                               |
+| d8  | Sapient           | Rank 0 no                                                              | Rank 1 no                                                              |
+| --- | ----------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1   | Rurkinar          | `encounter: 2d6: HD 00`                                                | `encounter: 2d8: CR 1/8`                                               |
+| 2   | Dust elves        | `encounter: 2d4-2: HD 02`                                              | `encounter: 2d8: CR 1/2`                                               |
+| 3   | Mercian commoners | `encounter: 2d4-2: HD 02`                                              | `encounter: 2d8: CR 1/2`                                               |
+| 4   | Bandits           | `encounter: 2d4-2: HD 02`                                              | `encounter: 2d8: CR 1/2`                                               |
+| 5   | FFKA scouts       | `encounter: 2d2-1: War Scout`                                          | `encounter: 2d4: War Scout`                                            |
+| 6   | Anak lesser       | `encounter: 2d8: Anak Scout`                                           | `encounter: 2d12: Anak Scout`                                          |
+| 7   | FFKA Tent         | [E(HD) 26](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) | [E(HD) 26](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) |
+| 8   | Anak War Band     | [E(HD) 18](secretsCultures.md#Anak%20War%20Band)                       | [E(HD) 18](secretsCultures.md#Anak%20War%20Band)                       |
+| 9   | Mercian Antinomi  | [E(HD 15)](secretsCultures.md#Mercian%20Antinomi%20Group)              | [E(HD 15)](secretsCultures.md#Mercian%20Antinomi%20Group)              |
+| 10  | Deepfolk raiders  | Not ready                                                              | Not ready                                                              |
 
-| d4  | Misbegotten                  | CR  | Rank 0 no | Rank 1 no |
-| --- | ---------------------------- | --- | --------- | --------- |
-| 1   | Misbegotten (giant) vulture  | 1   |           |           |
-| 2   | Misbegotten (giant) scorpion | 3   |           |           |
-| 3   | Phase spider                 | 3   |           |           |
-| 4   | Jikegida hunting party       |     | Special   | Special   |
-| 5   | Lady Scurvy                  | 5   | 1         |           |
-| 6   | Undead horde                 |     | Special   | Special   | 
+| d4  | Misbegotten                  | Rank 0 no                     | Rank 1 no                       |
+| --- | ---------------------------- | ----------------------------- | ------------------------------- |
+| 1   | Misbegotten (giant) vultures | `encounter: 2d4: HD 01`       | `encounter: 2d12 + 2: HD 01`    |
+| 2   | Misbegotten (giant) scorpion | `encounter: 1: HD 04`         | `encounter: 1d3: HD 04`         |
+| 3   | Phase spider                 | `encounter: 1: Phase Spider`  | `encounter: 2d2: Phase Spider`  |
+| 4   | Jikegida hunting party       | Not ready                     | Not ready                       |
+| 5   | Lady Scurvy                  | `encounter: 1: Lady Scurvy`   | `encounter: 1d3-1: Lady Scurvy` |
+| 6   | Undead horde                 | `encounter: 3d12: Slave Husk` | `encounter: 2d2-1: Revenant`    |
 
 
+## Acrisae
+***Theme: Renewal & Hope (wwn124)***
 
-## Olivepia
-
-Olivepia's king is an usurper. Olivepia has prohibition on magic. Olivepia is based in 1400- Portugal, with a lot of influence, science, but also strong inquisition and religious violence against non-humans.
-
-## Romburghia
-
-(LIGHT CALVARY)
-
-## Hincland
-
-(LIGHT CALVARY)
-
-## Foucheresia
-
-**seafarers**
+- They are forcing back all the region
+- They fought with the elves in a long past
+- Farmland is wornning out
+- A powerful artefact is helping the ruler
 
 ## D'Elsin
 

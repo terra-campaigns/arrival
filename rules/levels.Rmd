@@ -121,7 +121,7 @@ Current PCs level and estimated session.
 pcs <- data.frame(name = c('Miraak', 'Guilf', 'Dolman', 'Kethra', 'Amyria'),
                   level = c(6,        5,       6,        6,        5))
 
-challengeRank <- 1
+challengeRank <- 2
 
 currentParty <- data.frame(level = mean(pcs$level),
                            members = nrow(pcs),
