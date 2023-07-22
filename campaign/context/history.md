@@ -1,32 +1,99 @@
 ---
 type: context/history
-name: The History of Guemenos
+name: The History of Terra
 world: Guemenos
 campaign: Arrival
 tags: 
 ---
 
-# The History of Guemenos
-***As told in the region of Maqqatba of the Latter Earth***
+# The History of Terra
 
-## TLDR
+## Silent Legions
+***19th and 20th centuries AC***
 
-**Weavers and Angels**
-- Nek created the world (Guemenos) and the tapestry of its reality (Theurgy)
-- Life emerged from this tapestry, including an ethereal race known as the Weavers, who could weave the reality itself
-- Over millennia, empires and kingdoms emerged, and wars amongst them were common
-- The Weavers decided to consult with Nek, so they would stop the wars and violence in Guemenos
-- Instead of being received by Nek, the Weavers were received by Nek's Angels, which enraged the Weavers
-- The Weavers decided to further expand their powers, through the creation of Theotechnical engines
-- Meanwhile, the Angels were also infuriated as Nek gave lesser creatures a beautiful world such as Guemenos
-- For eons, the Angels and the Weavers fought, culminating with the Angels winning and pushing the Weavers to the depths of Guemenos
+First encounters with Outsiders on Earth. These encounters are rare, unobtrusive and mostly modest in scope. Early eldritch rituals and proto-psionic powers are discovered, but mostly unreliable.
 
-**The Edrahil and The Kyri**
-- The Angels then took Guemenos for themselves and, over the centuries, while most of them waned in power and became mortal races, some became powerful and proclaimed themselves as **The Edraihil**
-- Meanwhile, the Weavers and their peoples lived in the underworld, and through their Theotechnical engines they created the constructed gods, which became known as **The Kyri**
-- The Kyri were then awoken and declared war and defeated the Edraihil, banishing most of them from Guemenos
-- Guemenos now live in a unstable balance with the remaining Edrahil constantly challenged by the much stronger Kyri
-- The Angels and the Weavers are long gone, what is left is their waned races, cross-bred over thousands of years.
+
+## Golden Age of Men
+***22nd to 27th centuries AC (swn120-127)***
+
+Early spike drive space travel starts through shallow meta-dimensional courses, triggering the emergence of strong psionic powers in humans. Two centuries later, Psitech development enables jump gate space travel, leveraging deep meta-dimensional courses. Terran society reached its greatest expanse, possibly signalling its existence to ancient alien species. In its peak, development is broken by the first crisis - known as The Scream.
+
+
+## The Great Silence
+***27th to 32nd centuries AC***
+
+The majority of the worlds are severed from each other, with no working logistics and communications systems to integrate them. Human societies make what they can with degrading technologies. 
+
+
+## Sorcerer-Kings Era
+***One million years***
+
+In human societies, eldritch disciplines are now the relevant powers, with psionic powers left for pariahs and Outsiders - who are chased and killed. Several schools of magic prosper, one at a time. Each overcomes the previous one, reaches some kind of apex and then, somehow, trigger some universe control mechanism that starts new crises and dark ages. An unaccounted number of these cycles happened, and many of the schools of magic have been completely lost.
+
+The end of the Sorcerer-Kings Era, known as the Cerulean Cycle, brought the age of Dragon-Kings, who were then able to fuse eldritch disciplines with psionic powers. These individuals were the most powerful of any other that ever existed, and were revered as gods by cults on the civilised city states on Earth.
+
+
+## The Celestial Storm
+***20 millenia***
+
+The Dragon-Kings breached Heaven, from where reality and meta-dimensional channels were operated. The kings searched for the creator of reality but found the throne empty. The celestial engines were operated by Angels, and in an act of fury the kings decided to vandalise Heaven. That did not go unpunished, and a war between the Angels and the Dragon-Kings ensued, culminating with the Earth scattered in pieces alongside uncreated reality. The universe was broken.
+
+After the Dragon-Kings demise, other powerful sorcerers took their place, and used the stolen shards of heaven and eldritch rituals to weave the Made Gods. These divine powers finally uncreated Heaven itself. But with that, reality also became broken. Some Angels took lair in Earth itself, with most eventually waning in power and becoming proto-elves. A handful were able to maintain their power and proclaimed themselves as **The Edrahil**.
+
+
+## The Legacy
+***400 millenia***
+
+A lot in unknown about this period, but what is known is that the remaining sorcerers on Earth were able to use their eldritch powers to weave a new fabric for reality. This new fabric became known as The Legacy and the sorcerers who created it became known as The Weavers.
+
+
+## Outsider Rulers
+***700 millenia***
+
+The weakened humanity was overrun by waves of Outsider invasions, which conquered Earth one after the other. These Outsiders mostly battle amongst themselves, and humanity was driven to the deeps of Earth. During this era, a few remaining sorcerer-kings further their power through Outsider knowledge, and these became known as **The Kyri**.
+
+The Outsider powers, in the end, was defeated by The Legacy, and most of these species fled Terra.
+
+
+## Latter Earth
+***Last 4 millenia***
+
+Some celestial power attempted to break the Legacy, but some kind of defence protocol was activated. This became known as the Colligation of Time.
+
+
+# Uncanny powers in the universe
+
+## Primary disciplines
+
+### Eldritch
+***Later known as The Legacy***
+
+High magic, necromancy, etc. All of them channel universe energies similarly. Eldritch powers are known to be mostly accessible to humans and demihumans. The legacy is the current power responsible to maintain world realities in place, avoiding further uncreation. The original legacy writers are now gone, and knowledge on the legacy workings is mostly incomplete.
+
+### Psionic
+***Later developed into Psitech***
+
+Originated in the golden age of man (possibly also in alien races), now mostly inaccessible to humans. Some ancient alien races can still operate Psitech to a limited extent.
+
+### Celestial
+
+Originated by creatures known as Angels, in higher metadimensional spaces (heavens). Men first sight of it was during the invasion of heaven. Celestial is the technology what kept the metadimensional space in order, but it is currently mostly shattered. Only Angels fully understand it - and most of them do not care about worlds anymore.
+
+## Derivative disciplines
+
+### Cerulean
+***Psionic and eldritch***
+
+Discipline in the age of the dragon-kings.
+
+### Theotechnology
+***Eldritch and Celestial***
+
+Humans were able to open exceptions in the Legacy that allowed them to bind celestial shards (stolen from the heavens) and Eldritch powers in creatures known as Made Gods. Legend speaks of sparks of Theotechnology awakening individuals (Godbounds).
+
+
+# Stories of Creation
 
 ## The Creation
 
@@ -72,69 +139,3 @@ Little did they know that their relentless pursuit of supremacy would beckon for
 
 ![Absent Angels](secrets/secretsHistory.md#Absent%20Angels)
 
-Points:
-ammuinoth created by the first dynasty (when?)
-tseb whii in the fall of the second dynasty had a bunch of outsiders attacking the land, coming from their holds in the mountains
-maqqatalba is a land of shrines and temple settlements, each with its Knights and/or sorcerers/clerics
-maqqatalba knights and the Angels?
-
-# Earth
-
-## Silent Legions
-***19th and 20th centuries AC***
-
-First encounters with Outsiders on Earth. These encounters are rare, unobtrusive and mostly modest in scope. Early eldritch rituals and psionic powers are discovered, but mostly unreliable.
-
-
-## Golden Age of Men
-***22nd to 27th centuries AC (swn120-127)***
-
-Early spike drive space travel starts through shallow meta-dimensional courses, triggering the emergence of strong psionic powers in humans. Two centuries later, Psitech development enables jump gate space travel, leveraging deep meta-dimensional courses. Terran society reached its greatest expanse, possibly signalling its existence to ancient alien species. In its peak, development is broken by the first crisis - known as The Scream.
-
-
-## The Great Silence
-***27th to 32nd centuries AC***
-
-The majority of the worlds are severed from each other, with no working logistics and communications systems to integrate them. Human societies make what they can with degrading technologies. 
-
-
-## Sorcerer-Kings Era
-***Possibly a million years***
-
-In human societies, eldritch disciplines are now the relevant powers, with psionic powers left for pariahs and Outsiders - who are chased and killed. Several schools of magic prosper, one at a time. Each overcomes the previous one, reaches some kind of apex and then, somehow, trigger some universe control mechanism that starts new crises and dark ages. An unaccounted number of these cycles happened, and many of the schools of magic have been completely lost.
-
-The end of the Sorcerer-Kings Era, known as the Cerulean Cycle, brought the age of Dragon-Kings, who were then able to fuse eldritch disciplines with psionic powers. These individuals were the most powerful of any other that ever existed, and were revered as gods by cults on the civilised city states on Earth.
-
-
-## The Celestial Storm
-***A few thousand years***
-
-The Dragon-Kings breached Heaven, from where reality and meta-dimensional channels were operated. The kings searched for the creator of reality but found the throne empty. The celestial engines were operated by Angels, and in an act of fury the kings decided to vandalise Heaven. That did not go unpunished, and a war between the Angels and the Dragon-Kings ensued, culminating with the Earth scattered in pieces alongside uncreated reality. The universe was broken.
-
-After the Dragon-Kings demise, other powerful sorcerers took their place, and used the stolen shards of heaven and reality bending rituals, to weave the Made Gods. These divine powers finally uncreated Heaven itself. But with that, reality also became broken.
-
-
-## The Legacy
-***Possibly hundreds of thousands of years***
-
-A lot in unknown about this period, but what is known is that the remaining sorcerers on Earth were able to use their eldritch powers to weave a new fabric for reality. This new fabric became known as The Legacy.
-
-
-## Outsider Rulers
-***A million years***
-
-The weakened humanity was overrun by waves of Outsider invasions, which conquered Earth one after the other. These Outsiders mostly battle amongst themselves, and humanity was driven to the deeps of Earth. Regardless of the Outsider power, in the end, the Legacy won, and pushed back most of these species.
-
-## Latter Earth
-***Last 4 thousand years***
-
-Some celestial power attempted to break the Legacy, but some kind of defence protocol was activated. This became known as the Colligation of Time.
-
-
-
-
-
-- Psitech: originated in the golden age of man (possibly also in alien races), now mostly inaccessible to humans. Some ancient alien races can still operate psitech to a limited extent.
-- Celestial: originated by creatures known as Angels, in higher metadimensional spaces (heavens). Men first sight of it was during the invasion of heaven, through legacy-voiding portals. Celestial is the technology that keeps the metadimensional space in order. Only Angels fully understand it - and most of them do not care about worlds anymore.
-- Legacy: high magic, necromancy, Cerulean magic (Dark sun dragons) are all specific implementation of the Legacy. Many others exist. Known to be mostly accessible to humans and demi-humans. The legacy is responsible to keep world realities in place, avoiding further catastrophes (such as the scream). The original legacy writers are now further gone, and knowledge on the legacy is mostly incomplete.
-- Theotechnology: humans were able to open exceptions in the Legacy that allowed them to bind celestial shards (stolen from the heavens) and Psitech in creatures with divine powers (made gods). Legend speaks of sparks of Theotechnology awakening individuals (godbounds).
