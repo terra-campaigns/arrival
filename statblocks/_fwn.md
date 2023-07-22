@@ -48,16 +48,4 @@ Instinct conversions and roll
 
 ![Foes ranks](../rules/foesWN.md#Foes%20ranks)
 
-## Creature ancestries
-
-### Weavers
-***The Eldrich, Sorcerer-Kings***
-
-- Dragons
-- Made Gods 
-
-### Angels
-
-
-### 'tho Outsiders
 

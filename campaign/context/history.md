@@ -14,6 +14,8 @@ tags:
 **Weavers and Angels**
 - Nek created the world (Guemenos) and the tapestry of its reality (Theurgy)
 - Life emerged from this tapestry, including an ethereal race known as the Weavers, who could weave the reality itself
+- Earth was devoid of life,  and the tapestry of its reality (Theurgy)
+- Life emerged on Earth from the tapestry of  tapestry, including an ethereal race known as the Weavers, who could weave the reality itself
 - Over millennia, empires and kingdoms emerged, and wars amongst them were common
 - The Weavers decided to consult with Nek, so they would stop the wars and violence in Guemenos
 - Instead of being received by Nek, the Weavers were received by Nek's Angels, which enraged the Weavers
