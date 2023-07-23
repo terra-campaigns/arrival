@@ -8,7 +8,7 @@ deceased: false
 level: Warlock 5
 xp: 9540
 ac: 16
-sanity: 11
+sanity: 65 [52]
 artefacts: [Dreadmaska, Bitterluchcloak]
 tags:
 ---

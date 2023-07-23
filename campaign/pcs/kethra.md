@@ -8,7 +8,7 @@ deceased: false
 level: Sorcerer 6
 xp: 16020
 ac: 13
-sanity: 13
+sanity: 70 [70]
 artefacts:
 tags:
 ---

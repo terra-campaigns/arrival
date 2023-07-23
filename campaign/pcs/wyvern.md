@@ -8,7 +8,7 @@ deceased: false
 level: Rogue 6
 xp: 16160
 ac: 15
-sanity: 12 [11]
+sanity: 70 [70]
 artefacts:
 tags:
 ---

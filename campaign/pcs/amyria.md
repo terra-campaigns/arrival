@@ -8,7 +8,7 @@ deceased: false
 level: Cleric 5
 xp: 13320
 ac: 18
-sanity: 14
+sanity: 85 [85]
 artefacts: [Sentinel Shield]
 tags:
 ---

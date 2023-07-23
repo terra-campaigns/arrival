@@ -8,7 +8,7 @@ deceased: false
 level: Fighter 6
 xp: 9540
 ac: 18
-sanity: 11
+sanity: 60 [60]
 artefacts: [Kimbarakerhands]
 tags:
 ---
