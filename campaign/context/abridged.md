@@ -125,7 +125,7 @@ Leaving the temple behind, the group continued their arduous journey along the d
 
 Mondendovil spoke of the colossal statue as his long-lost physical form, and conveyed a chilling prophecy - the time for his return drew near. His devoted servants would soon arrive to reconnect his powerful mind with his formidable body, a union that would reshape the very fabric of existence. The implications of this encounter sent shivers coursing through the group's spines, stirring a profound urgency within their hearts.
 
-Reluctantly leaving the enigmatic statue behind, the group pressed on, their sense of purpose heightened. The road led them to the  Dwarf enclave of Durnum, where they sought respite and replenishment, even as the weight of their impending destiny hung heavily upon their shoulders.
+Reluctantly leaving the enigmatic statue behind, the group pressed on, their sense of purpose heightened. The road led them to the Dwarf enclave of Durnum, where they sought respite and replenishment, even as the weight of their impending destiny hung heavily upon their shoulders.
 
 ![](https://i.imgur.com/tnoPs6z.png)
 
@@ -155,3 +155,17 @@ As the dream neared its crescendo, Kimbarak, driven by desperation and armed wit
 With despair gnawing at their hearts, the remaining defenders made a fateful decision - to flee the accursed temple and escape the clutches of Ethux'zhurh. Their footsteps echoed through the corridors and inhumane rooms, a desperate bid for survival. Yet, Guilf's dream diverged from the others, his nightmare ending with a chilling embrace by The Void itself, an all-encompassing darkness that dragged him relentlessly into the unfathomable depths of the sea. Miraculously, the surviving defenders, in a stroke of sheer luck, managed to sail away from the awakening Ethux'zhurh, evading its wrath and preserving their tenuous hold on existence.
 
 ![](https://i.imgur.com/3lmaRpV.png)
+
+## Chapter 12 
+
+- The broken Glasrath defenders spent a week amongst the dwarves in the mining enclave of Durnum. 
+- In an action of kindness, Amyria offered food to the famine dwarves, and promised help dealing with the Dust Elves traders under Neeleu, so that they are less aggressive with their quotas.
+- They learned that the enclave of Durnum was built in an ancient construction shaft that connects to another Ammuinoth tunnel.
+- While talking with Glorizerlug Chaosfoot, they learned that the war in the south is being lost, which forced the Kiranu dwarves to abandon their houses in the mountains and migrate north protected by the Nurderad Dragonborn.
+- The heroes warned of the possible dangers lingering in the Glasrath mountains, if the Kiranu were to take shelter there. Dolman was divided if he wanted to go back to Glasrath and possibly protect his Kirano kin, or march forth towards the castle and all the answers that he was looking for. The party decided on continue to the castle.
+- From the enclave, the party decided to continue their journey to Holzander through the desert, which was safe until the old ruins of Dannamore, where an entrance to the castle was to be found.
+- While reaching the ruins of Dannamore, under a heavy thunderstorm, the party was chased into the ruins by a storm spirit.
+- Inside the ruins the Glasrath defenders run into a detached band of Anak Warriors who were also fleeing the war in the south, and in an instinctive act of violence Kethra attacked them.
+- The fight that ensued was not easy, and Miraak found himself stabbed to almost death by a nimble Anak that was hiding in one of the ruined walls. In the end, the broken heroes won this sad encounter, feeling cursed by their choice of killing innocent creatures.
+- What followed was: finally finding the magic Mystra's door that accessed the castle of Holzander, getting in and, after a quick skirmish with undead tomb guardians known as Revenants, finding Ushlux again.
+- While all that happened, Guilf had another opportunity to speak with The Void through the toad statue, and learned the terrible truth that his soul has been promised to that entity many years ago, by Guilf's own mother.

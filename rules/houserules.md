@@ -66,7 +66,7 @@ After taking the Delirum the player **rolls 1d20; if the roll is equal or greate
 
 Some Deliria come with phobias and compulsions. A PC can resist the phobia or compulsion by making a successful Sanity Check. On a failure, he or she must obey the Delirium unless they are willing to lose 1d6 sanity points for defying the structure they have fashioned to protect their sanity.
 
-Alternatively, sanity can be recovered slowly, and under care of calming therapies. **PCs recover 1 sanity score per long rest, if they are able to rest in a complete calm environment, with friends or professionals to attend to them, and talk to them**. When PCs are accruing levels, **they recover sanity score at the rate of 1 plus the PC's INT or WIS modifiers**.
+Alternatively, sanity can be recovered slowly, and under care of calming therapies. **PCs recover 1 sanity score per long rest, if they are able to rest in a complete calm environment, with friends or professionals to attend to them, and talk to them**. When PCs are accruing levels, **they also recover sanity score at the rate of 1 plus the best of the PC's INT and WIS modifiers**.
 
 ## Downtime activities
 
