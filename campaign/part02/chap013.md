@@ -4,7 +4,7 @@ part: 2
 name: xx
 world: Latter Earth
 campaign: Arrival
-game_date: 3877.6C6
+game_date: 3877.6C7
 season: autumn
 location: xx
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
@@ -23,11 +23,11 @@ tags:
 - [x] Summarise previous chapter and distribute xp
 - [x] Commit next chapter draft
 - [x] Clean up previous chapter files, final commit
-- [ ] Update inkarnate maps (if applicable)
-- [ ] Evaluate new game date
-- [ ] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [ ] Review [Abridged](../context/abridged.md)
-- [ ] Review and organise [Notions](../../notions.md)
+- [x] Update inkarnate maps (if applicable)
+- [x] Evaluate new game date
+- [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
+- [x] Review [Abridged](../context/abridged.md)
+- [x] Review and organise [Notions](../../notions.md)
 - [ ] Review and organise Sly Flourish secrets for Holzander
 - [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
@@ -53,11 +53,29 @@ sort file.name asc
 ```
 
 ### Motivations
+
 - **Dolman**: Find Galiera, learn about her stone, free Fuko from Ghuse
 - **Miraak**: Prove himself and win back the respect of the Nurderad, find the shadow dragon
 - **Guilf**: Find out more about The Void, and why it is so dark
 - **Amyria**: Ammuinoth lore, protect little Guilf, find the Angel Hound and free her.
 - **Kethra**: Find the purple dragon / shadow dragon
+
+**Library topics**
+- Legends on purple dragons (Kethra)
+- How to kill dragons (Miraak)
+- How to turn an undead alive again (Miraak) - Some high priest or a large and powerful religion, after the undead soul is free from its maker
+- Mr Void's religion (Guilf) - Mercian cult to the 'tho: foreshadowing on Imortra and Gellert.
+- Kimbarak (Guilf)
+- ... (Amyria)
+- ... (Amyria)
+- ... (Dolman)
+
+One shots:
+
+
+Ideas:
+- Use mithos aberrations
+- 
 
 ## Intro
 

@@ -60,7 +60,14 @@ The full sanity score is set as the **maximum between Intelligence and Wisdom, m
 
 *While the Delirium can be burdensome, it shelters them from the worst of their suffering. Too many Deliria can prove ruinous, however, as each additional Delirium increases the risk of a cascade of failing defences and exposure to unendurable realisations. The higher the edifice of madness is built, the more likely it is to fall.*
 
-**Players might choose to accept a Delirium** for their characters to recover sanity score. After gaining a new Delirium, the PC must advance a level before accruing any more; the mind’s flexibility is limited. The player can choose what delirium they get (see material on the links to references on the subheading for *Sanity and Madness* or Ravenloft's dark gifts) or roll randomly in a chosen table. It is easier to choose the new Delirium in-between sessions, and discuss the roleplay and mechanical results with the GM.
+**Players might choose to accept a Delirium** for their characters to recover sanity score. After gaining a new Delirium, the PC must advance a level before accruing any more; the mind’s flexibility is limited. The player can choose what delirium they get (see material below) or roll randomly in a chosen table. It is easier to choose the new Delirium in-between sessions, and discuss the roleplay and mechanical results with the GM.
+
+**Deliria examples (non comprehensive)**
+- 5e's long term of indefinite madness [tables](http://dnd5e.wikidot.com/madness)
+- 3.5e SRD variant indefinite insanity [table 6-11](https://www.d20srd.org/srd/variant/campaigns/sanity.htm)
+- Ravenloft's [dark gifts](https://5e.tools/book.html#vrgr,1,dark%20gift%20descriptions,0)
+- Call of Cthulhu's [phobias and manias](https://cthulhuwiki.chaosium.com/rules/sanity.html#sample-phobias-and-manias)
+- Silent Legions' [sample deliria](https://i.imgur.com/pHGjaC1.png)
 
 After taking the Delirum the player **rolls 1d20; if the roll is equal or greater than their total number of Deliria then the newfound structure and rationalisation soothes their mind**, recovering 10 points of sanity. If the roll is less than their total number of Deliria, then the fresh insanity just makes everything worse, and 10 points of sanity are lost. Once accrued, Deliria can never be lost.
 
