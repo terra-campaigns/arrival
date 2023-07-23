@@ -1,7 +1,7 @@
 ---
 category: chapter
 part: 2
-name: Finding Holzander again
+name: Finding Holzander once more
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.6C6
@@ -21,7 +21,7 @@ hoardTreasure: 0.6
 tags: 
 ---
 
-# Chapter 12 Finding Holzander again
+# Chapter 12 Finding Holzander once more
 
 ## Planning checklist
 

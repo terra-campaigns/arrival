@@ -156,7 +156,7 @@ With despair gnawing at their hearts, the remaining defenders made a fateful dec
 
 ![](https://i.imgur.com/3lmaRpV.png)
 
-## Chapter 12 
+## Chapter 12 Finding Holzander once more
 
 - The broken Glasrath defenders spent a week amongst the dwarves in the mining enclave of Durnum. 
 - In an action of kindness, Amyria offered food to the famine dwarves, and promised help dealing with the Dust Elves traders under Neeleu, so that they are less aggressive with their quotas.
@@ -170,3 +170,5 @@ With despair gnawing at their hearts, the remaining defenders made a fateful dec
 - The fight that ensued was not easy, and Miraak found himself stabbed to almost death by a nimble Anak that was hiding in one of the ruined walls. In the end, the broken heroes won this sad encounter, feeling cursed by their choice of killing innocent creatures.
 - What followed was: finally finding the magic Mystra's door that accessed the castle of Holzander, getting in and, after a quick skirmish with undead tomb guardians known as Revenants, finding Ushlux again.
 - While all that happened, Guilf had another opportunity to speak with The Void through the toad statue, and learned the terrible truth that his soul has been promised to that entity many years ago, by Guilf's own mother.
+
+![](https://i.imgur.com/ljUCKNS.jpg)
