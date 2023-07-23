@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Rogue 6
-xp: 14210
+xp: 16160
 ac: 15
 sanity: 12 [11]
 artefacts:

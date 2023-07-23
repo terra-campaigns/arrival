@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Sorcerer 6
-xp: 14070
+xp: 16020
 ac: 13
 sanity: 13
 artefacts:

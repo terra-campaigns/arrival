@@ -1,18 +1,18 @@
 ---
 category: chapter
 part: 2
-name: xx
+name: Finding Holzander again
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.6C6
 season: autumn
-location: xx
+location: 
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 6
 members: 5
 party_tier: 2
 party_rank: 2
-xp: 2160 +10%(?)
+xp: 2700 -20%
 dc_min: 14
 cr_gauges: '[10, 14, 17, 22]'
 consMgcItm: 2xB
@@ -21,11 +21,11 @@ hoardTreasure: 0.6
 tags: 
 ---
 
-# Chapter 12 xxx
+# Chapter 12 Finding Holzander again
 
 ## Planning checklist
 
-- [x] Summarise previous chapter
+- [x] Summarise previous chapter and distribute xp
 - [x] Clean up previous chapter files, final commit
 - [x] Update inkarnate maps (if applicable)
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
@@ -64,18 +64,16 @@ sort file.name asc
 
 ## Intro
 
-- New sanity mechanics: scenes finish with sanity checks, if appropriate
-- Combat mechanics and roleplay
-	- All NPCs have initiative of 12, PCs navigate around.
-	- NPCs round:
-		- 1. Morale/Instinct (if appropriate)
-		- 2. Chatter and dynamic positioning
-		- 3. Actions (attacks)
+- New sanity mechanics: scenes finish with sanity checks, if appropriate.
+- Hex rank: the further from roads and settlements more dangerous the hex is. Laird, ruins etc are always more dangerous than their surroundings. The deeper into the earth, also more dangerous.
+- New XP based on hex rank too.
+- All NPCs have initiative of 12, PCs navigate around.
 
 ## Strong start
 
 - **Location: [durnum](../locations/durnum.md)**
 - Chat with dwarves about:
+	- Uncomfortable with Amyria
 	- Their current condition (**very thin, very poor**), dust elf pressure for metals, etc
 	- The war in the south, and migrating Kiranu
 	- The ancient construction shaft 
@@ -89,12 +87,6 @@ sort file.name asc
 - [holzanderCastleL1](../locations/holzanderCastleL1.md)
 	- Undead in the crypt
 	- Meet Ushulx again, maybe see the altar
-- [holzanderCastleL2](../locations/holzanderCastleL2.md)
-	- Social challenge Danaska & Cagoth-ze
-		- Roll 1 in 6 for wandering encounters: On a 1, roll a d4, 1, 2 they meet Cagoth-ze first; 3,4 they meet Danaska first
-		- Deal with Cagoth - get rid of the Ngar'tho or get rid of Danaska and her minions. And he will tell how to get to the library
-		- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
-		- Deal with Lasbascilag - ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
 
 ## Information pool
 
@@ -129,6 +121,4 @@ sort file.name asc
 
 ## Potential treasures
 
-- 500 gp, 30 pp, black onyx (150 gp), jade (100 gp), jet (100 gp)
-- Ring of Warmth (uncommon, dmg 193)
-- Agate Eyes (gb 198)
+- ...

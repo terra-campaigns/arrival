@@ -163,6 +163,7 @@ With despair gnawing at their hearts, the remaining defenders made a fateful dec
 - They learned that the enclave of Durnum was built in an ancient construction shaft that connects to another Ammuinoth tunnel.
 - While talking with Glorizerlug Chaosfoot, they learned that the war in the south is being lost, which forced the Kiranu dwarves to abandon their houses in the mountains and migrate north protected by the Nurderad Dragonborn.
 - The heroes warned of the possible dangers lingering in the Glasrath mountains, if the Kiranu were to take shelter there. Dolman was divided if he wanted to go back to Glasrath and possibly protect his Kirano kin, or march forth towards the castle and all the answers that he was looking for. The party decided on continue to the castle.
+- In a wise move, Guilf looked into the dwarves mind to see the how to get to the Holzander Castle, which saved them hours of search in the desert.
 - From the enclave, the party decided to continue their journey to Holzander through the desert, which was safe until the old ruins of Dannamore, where an entrance to the castle was to be found.
 - While reaching the ruins of Dannamore, under a heavy thunderstorm, the party was chased into the ruins by a storm spirit.
 - Inside the ruins the Glasrath defenders run into a detached band of Anak Warriors who were also fleeing the war in the south, and in an instinctive act of violence Kethra attacked them.

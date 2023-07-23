@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Fighter 6
-xp: 14680
+xp: 9540
 ac: 18
 sanity: 11
 artefacts: [Kimbarakerhands]
