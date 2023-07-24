@@ -11,7 +11,7 @@ ac: 16
 hit_dice: 10d10
 speed: 30 ft (60 ft when mounted) 
 stats:
-  - Save: 15
+  - Save: 11
   - Instinct: 8
   - Morale: 9
   - dc: 18

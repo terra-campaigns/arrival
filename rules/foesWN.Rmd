@@ -24,7 +24,7 @@ foesTbl <- data.frame(hd = c(0:40)) %>%
          dmg = ceiling(pmax(2, (hd - 2) * 3 + 2.5)),
          skill5e = round(1.25 + hd / 4),
          skillWN = round(skill5e * 12 / 20),
-         save = pmin(round(6 + hd / 2), 19)) %>%
+         save = pmin(round(5.4 + hd / 3), 19)) %>%
   select(hd, ac, save, dc, att, skill5e, skillWN, dmg)
 
 knitr::kable(foesTbl, format = 'pipe')

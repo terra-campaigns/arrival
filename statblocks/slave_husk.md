@@ -11,7 +11,7 @@ ac: 10
 hit_dice: 1d4
 speed: 25
 stats:
-  - Save: 6
+  - Save: 5
   - Instinct: 7
   - Morale: 12
   - dc: 10

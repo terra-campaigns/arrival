@@ -11,7 +11,7 @@ ac: 18
 hit_dice: 10d8
 speed: 30 ft., climb 30 ft.
 stats:
-  - Save: 13
+  - Save: 11
   - Instinct: 5
   - Morale: 9
   - dc: 18

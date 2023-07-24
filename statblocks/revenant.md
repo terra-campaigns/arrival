@@ -11,7 +11,7 @@ ac: 15
 hit_dice: 7d8
 speed: 60 ft (2 movements per round)
 stats:
-  - Saves: 10
+  - Saves: 8
   - Instinct: 8
   - Morale: 12
   - dc: 14

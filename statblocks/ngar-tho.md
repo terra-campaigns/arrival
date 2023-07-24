@@ -11,7 +11,7 @@ ac: 18
 hit_dice: 13d8
 speed: 30 ft (levitation)
 stats:
-  - Saves: 12 
+  - Saves: 10
   - Instinct: 11
   - Morale: 10
   - DC: 16
