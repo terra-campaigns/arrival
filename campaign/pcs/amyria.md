@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Cleric 5
-xp: 13320
+xp: 13570
 ac: 18
 sanity: 85 [85]
 artefacts: [Sentinel Shield]

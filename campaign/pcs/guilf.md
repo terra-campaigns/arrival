@@ -6,7 +6,7 @@ world: Guemenos
 campaign: Arrival
 deceased: false
 level: Warlock 5
-xp: 9540
+xp: 9790
 ac: 16
 sanity: 65 [52]
 artefacts: [Dreadmaska, Bitterluchcloak]
