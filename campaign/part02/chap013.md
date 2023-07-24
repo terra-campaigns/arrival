@@ -60,22 +60,6 @@ sort file.name asc
 - **Amyria**: Ammuinoth lore, protect little Guilf, find the Angel Hound and free her.
 - **Kethra**: Find the purple dragon / shadow dragon
 
-**Library topics**
-- Legends on purple dragons (Kethra)
-- How to kill dragons (Miraak)
-- How to turn an undead alive again (Miraak) - Some high priest or a large and powerful religion, after the undead soul is free from its maker
-- Mr Void's religion (Guilf) - Mercian cult to the 'tho: foreshadowing on Imortra and Gellert.
-- Kimbarak (Guilf)
-- ... (Amyria)
-- ... (Amyria)
-- ... (Dolman)
-
-One shots:
-
-
-Ideas:
-- Use mithos aberrations
-- 
 
 ## Intro
 
@@ -83,6 +67,7 @@ Ideas:
 
 ## Strong start
 
+- Cagoth-ze or Danaska come to level 1 to speak with Ushulx about not making any rituals for the coming days. He/She will need the Brezal Paths powers.
 
 
 ## Potential scenes
@@ -96,6 +81,8 @@ Ideas:
 		- Deal with Cagoth - get rid of the Ngar'tho or make Danaska and her minions get lost. And he will tell how to get to the library
 		- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
 		- Deal with Lasbascilag - ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
+
+Some foreshadowing on Imortra and Gellert and the cult to the 'tho?
 
 ## Information pool
 
