@@ -8,7 +8,7 @@ type: undead
 subtype: (lesser)
 role: 
 ac: 10
-hit_dice: 1d4
+hit_dice: 1
 speed: 25
 stats:
   - Save: 5
