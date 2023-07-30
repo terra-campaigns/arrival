@@ -27,9 +27,9 @@ traits:
     desc: Disadvantage on rolls if under direct sunlight
 actions:
   - name: Life drain dagger
-    desc: "11 (2d10) on hit, STR/CON save, if failed: recovers revenant's hp and drains hp maximum until long rest. 1 pt."
+    desc: "On hit 11 (2d10) [GB: 3 (1d4 + 1)], STR/CON save, if failed: recovers revenant's hp and drains hp maximum until long rest. 1 pt."
   - name: Longsword or long bow
-    desc: "2 attacks, each 9 (2d8), long bow range 150/600 ft."
+    desc: "2 attacks, each 9 (2d8) [GB: 2 (1d4)], long bow range 150/600 ft."
 detail_link: "[(Details)](revenant.md)"
 ---
 
