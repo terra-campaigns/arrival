@@ -26,7 +26,7 @@ traits:
   - name: Unacknowledged Truth (eff/sc)
     desc: "See [(Details)](ngar-tho.md)."
 actions:
-  - name: Mind blast (recharge 5-6)
+  - name: Mind blast (eff/sc)
     desc: "Psychic energy in a 60-foot cone, INT/DEX save or take 17 (4d8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns."
   - name: Psychic tentacle attack
     desc: "1 attack, each 17 (4d8), when hit, mentally grappled (DEX/INT save to escape)"
@@ -38,7 +38,7 @@ bonus_actions:
   - name: Thrall-Making Shout (eff/day)
     desc: "WIS/CHA save or be dominated for 8 hours. Every time a target takes damage from the commander they can attemp another save to leave the domination."
   - name: Detect thoughts (eff)
-    desc: "Detect thoughts as per 5e's spell."
+    desc: "[Detect thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) as per 5e's spell."
 reactions:
   - name: Legendary resistance (eff/day)
     desc: "Commit Effort for the day to automatically succeed at saving throws."
@@ -84,6 +84,6 @@ Note: when introducing outside a dream setting, review [this](https://pca.st/epi
 - 2: Dominate - Thrall-Making Shout ok
 - 1: Levitation - ok
 - 1: Absense of reality - Hallucinatory World ok
-- 1: Detect thoughts
+- 1: Detect thoughts ok
 - 1: Unacknowledged Truth ok
 - 2: Legendary resistance ok
