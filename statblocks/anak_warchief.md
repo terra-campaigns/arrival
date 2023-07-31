@@ -6,6 +6,7 @@ name: Anak Warchief
 size: Medium
 type: anak
 subtype: (great),
+words: 
 role: leader
 ac: 17
 hit_dice: 7d8

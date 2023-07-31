@@ -6,6 +6,7 @@ name: Slave Husk
 size: Medium
 type: undead
 subtype: (lesser)
+words: 
 role: 
 ac: 10
 hit_dice: 1

@@ -6,6 +6,7 @@ name: Guard City Watch
 size: Medium
 type: humanoid,
 subtype: 
+words: 
 role: defender
 ac: 11
 hit_dice: 1d8

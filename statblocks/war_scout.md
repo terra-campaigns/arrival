@@ -6,6 +6,7 @@ name: War Scout
 size: Medium
 type: humanoid,
 subtype: 
+words: 
 role: artillery
 ac: 12
 hit_dice: 3d8

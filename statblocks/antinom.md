@@ -6,6 +6,7 @@ name: Antinom
 size: Medium
 type: humanoid
 subtype: (blighted),
+words: 
 role: sociopath
 ac: 13
 hit_dice: 7d8

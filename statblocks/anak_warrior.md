@@ -6,6 +6,7 @@ name: Anak Warrior
 size: Medium
 type: anak
 subtype: (great),
+words: 
 role: skirmisher
 ac: 12
 hit_dice: 3d8

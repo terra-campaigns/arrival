@@ -6,6 +6,7 @@ name: Anak Scout
 size: Small
 type: anak
 subtype: (lesser),
+words: 
 role: skirmisher
 ac: 11
 hit_dice: 1d6

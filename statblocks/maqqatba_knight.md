@@ -6,6 +6,7 @@ name: Maqqatba Knight
 size: Medium
 type: humanoid,
 subtype: 
+words: 
 role: leader
 ac: 17
 hit_dice: 7d8

@@ -6,6 +6,7 @@ name: Ngar'tho
 size: Medium
 type: humanoid
 subtype: (outsider),
+words: 
 role: controller
 ac: 18
 hit_dice: 13d8

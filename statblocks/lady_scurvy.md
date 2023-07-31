@@ -6,6 +6,7 @@ name: Lady Scurvy
 size: Medium
 type: undead
 subtype: (outsider),
+words: 
 role: 
 ac: 18
 hit_dice: 10d8

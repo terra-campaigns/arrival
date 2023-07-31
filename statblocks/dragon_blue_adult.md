@@ -1,12 +1,13 @@
 ---
 statblock: true
 layout: WN 5e Integrated
-source: Foes Without Number
+source: Atlas of Latter Earth and Godbound Homebrew
 name: Adult Blue Dragon (Lesser)
 size: Huge (70 ft)
 type: Adult Dragon
 subtype: (Lesser)
 role: 
+words: Dragon, Fear
 ac: 22
 hit_dice: 18d12
 speed: 60 ft, fly 80 ft
@@ -22,14 +23,14 @@ skillsaves:
 languages: 
 traits:
   - name: Lost in Reverie
-    desc: "Tendency to become confused when in battle, remembering former ages and former faces. A dragon must make an Instinct check every round of combat as it struggles to remain focused on the present (check details link)"
+    desc: "Tendency to become confused when in battle, remembering former ages and former faces. A dragon must make an Instinct check every round of combat as it struggles to remain focused on the present (check details link)."
 actions:
   - name: Lightning Breath (Recharge 5–6)
     desc: "90 ft line, 5ft wide. 66 (12d10), DEX/INT save for half."
   - name: Bite, claw, tail
     desc: "3 attacks, any combination, each 17 (2d12 + 4)"
 bonus_actions:
-  - name: Frightful Presence
+  - name: Inexorable Dread (Multiple targets)
     desc: "Each target (120 ft) must succeed WIS/CHA save of become frightened. for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success, then immune for the next 24h."
 reactions:
   - name: Regional Effects
@@ -60,6 +61,6 @@ detail_link: "[detail](dragon_blue_adult.md)"
 
 - 2: hit dice increase
 - 2: increased save
-- 3: frightful presence
-- 2: flight
+- 4: frightful presence
+- 1: flight
 

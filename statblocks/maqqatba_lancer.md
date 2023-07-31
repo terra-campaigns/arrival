@@ -6,6 +6,7 @@ name: Maqqatba Lancer
 size: Large
 type: humanoid,
 subtype: 
+words: 
 role: controller
 ac: 16
 hit_dice: 10d10

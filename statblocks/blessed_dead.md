@@ -6,6 +6,7 @@ name: Blessed Dead Adept
 size: Medium
 type: undead
 subtype: ,
+words: 
 role: leader
 ac: 12
 hit_dice: 3d8

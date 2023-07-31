@@ -6,6 +6,7 @@ name: Revenant
 size: Medium
 type: undead,
 subtype: 
+words: 
 role: bruiser
 ac: 15
 hit_dice: 7d8

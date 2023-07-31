@@ -6,6 +6,7 @@ name: Zombie Clot
 size: Huge
 type: undead
 subtype: (uncreated),
+words: 
 role: boss
 ac: 16
 hit_dice: 10d12

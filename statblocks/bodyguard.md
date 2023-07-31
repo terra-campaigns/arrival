@@ -6,6 +6,7 @@ name: Bodyguard
 size: Large
 type: humanoid,
 subtype:
+words: 
 role: brute
 ac: 14
 hit_dice: 5d10

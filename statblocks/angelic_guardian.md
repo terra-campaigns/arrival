@@ -6,6 +6,7 @@ name: Angelic Guardian
 size: Medium
 type: Celestial
 subtype: 
+words: 
 role: 
 ac: 17
 hit_dice: 9d8

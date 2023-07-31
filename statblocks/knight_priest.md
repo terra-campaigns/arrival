@@ -6,6 +6,7 @@ name: Knight Priest
 size: Medium
 type: humanoid,
 subtype: 
+words: 
 role: leader
 ac: 12
 hit_dice: 5d8
