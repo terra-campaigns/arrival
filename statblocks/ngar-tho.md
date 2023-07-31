@@ -4,12 +4,13 @@ layout: WN 5e Integrated
 source: Silent Legions & 5e MM Homebrew
 name: Ngar'tho
 size: Medium
-type: humanoid
-subtype: (outsider),
-words: 
-role: controller
+type: Humanoid
+subtype: (outsider) 
+role: 
+words: Command, Madness
 ac: 18
 hit_dice: 13d8
+effort: 1d4 + 2
 speed: 30 ft (levitation)
 stats:
   - Saves: 10
@@ -22,8 +23,8 @@ skillsaves:
   - WN: +2
 languages: Abased (deep speech), Archaic Dynastic, Esoteric Tseban, Atban Dynastic, telepathy 120ft
 traits:
-  - name: Magic resistance
-    desc: "Advantage on saves against any magical effects. 2 pts."
+  - name: Unacknowledged Truth (eff/sc)
+    desc: "See [(Details)](ngar-tho.md)."
 actions:
   - name: Mind blast (recharge 5-6)
     desc: "Psychic energy in a 60-foot cone, INT/DEX save or take 17 (4d8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns."
@@ -32,14 +33,15 @@ actions:
   - name: Open head
     desc: "An incapacitated or grappled creature has its skull broken: 55 (10d10). A killed creature has its brain consumed."
 bonus_actions:
-  - name: Absense of reality (1/day)
-    desc: "For the scene, attackers must first pass a WIS/CHA save every turn, or be lost in reverie. 1 pt."
-  - name: Plane shift (1/day, self)
-    desc: "The Ngar'tho can step outside reality and instanteneously step back in anywhere in the same plane. 2 pts."
-  - name: Dominate (1/day)
-    desc: "WIS/CHA save or be dominated by the Ngar'tho for 8 hours. Can be used to create thralls. Every time target takes damage it can attemp another save to leave the domination. 2 pts."
-  - name: At will powers
-    desc: "Detect thoughts, ilusions. 1 pt."
+  - name: Hallucinatory World (eff/sc)
+    desc: "Create a hallucination or false sensory impression, all visible targets suddenly perceive. Worthy foes who are threatened, overwhelmed, or doubtful of a vision can make a WIS/CHA save at the start of each round to become immune for the scene. It cannot cause damage to the target, and any victim is freed as soon as it is hit."
+  - name: Thrall-Making Shout (eff/day)
+    desc: "WIS/CHA save or be dominated for 8 hours. Every time a target takes damage from the commander they can attemp another save to leave the domination."
+  - name: Detect thoughts (eff)
+    desc: "Detect thoughts as per 5e's spell."
+reactions:
+  - name: Legendary resistance (eff/day)
+    desc: "Commit Effort for the day to automatically succeed at saving throws."
 detail_link: "[(Details)](ngar-tho.md)"
 ---
 
@@ -74,3 +76,14 @@ Those who are able to get away from the Ngar'tho usually try to rationalise them
 - Mind control: Upon attaching, on a failed INT, the target walks towards the Ngar'tho hive (or the closest Ngar'tho) for further instructions.
 
 Note: when introducing outside a dream setting, review [this](https://pca.st/episode/7e676f15-d5cb-4ffc-970d-67caddf15d04) for accurate strategies and tactics. 
+
+**Construction notes**
+
+- -1: AC ok
+- -1: Attack ok
+- 2: Dominate - Thrall-Making Shout ok
+- 1: Levitation - ok
+- 1: Absense of reality - Hallucinatory World ok
+- 1: Detect thoughts
+- 1: Unacknowledged Truth ok
+- 2: Legendary resistance ok
