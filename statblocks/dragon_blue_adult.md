@@ -1,18 +1,19 @@
 ---
 statblock: true
 layout: WN 5e Integrated
-source: Atlas of Latter Earth and Godbound Homebrew
+source: Atlas of Latter Earth & Godbound Homebrew
 name: Adult Blue Dragon (Lesser)
 size: Huge (70 ft)
-type: Adult Dragon
+type: Dragon
 subtype: (Lesser)
 role: 
 words: Dragon, Fear
 ac: 22
 hit_dice: 18d12
+effort: 2d4 + 1
 speed: 60 ft, fly 80 ft
 stats:
-  - Save: 15
+  - Save: 11
   - Instinct: 7
   - Morale: 10
   - DC: 21
@@ -20,22 +21,24 @@ skillsaves:
   - Attack: +13
   - 5e: +6
   - WN: +4
-languages: 
+languages: Draconic
 traits:
   - name: Lost in Reverie
     desc: "Tendency to become confused when in battle, remembering former ages and former faces. A dragon must make an Instinct check every round of combat as it struggles to remain focused on the present (check details link)."
 actions:
-  - name: Lightning Breath (Recharge 5–6)
+  - name: Lightning Breath (eff/sc)
     desc: "90 ft line, 5ft wide. 66 (12d10), DEX/INT save for half."
   - name: Bite, claw, tail
     desc: "3 attacks, any combination, each 17 (2d12 + 4)"
 bonus_actions:
-  - name: Inexorable Dread (Multiple targets)
-    desc: "Each target (120 ft) must succeed WIS/CHA save of become frightened. for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success, then immune for the next 24h."
+  - name: Inexorable Dread (eff/day)
+    desc: "Multiple targets. Each target (120 ft) must succeed WIS/CHA save of become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success, then immune for the next 24h."
 reactions:
+  - name: Legendary resistance (eff/day)
+    desc: "Commit Effort for the day to automatically succeed at saving throws."
   - name: Regional Effects
     desc: "The dragon can take one regional effect per turn, as a reaction for being attacked (check details link)"
-detail_link: "[detail](dragon_blue_adult.md)"
+detail_link: "[(Details)](dragon_blue_adult.md)"
 ---
 
 ![|500](https://i.imgur.com/aQ139MJ.png)
@@ -59,8 +62,8 @@ detail_link: "[detail](dragon_blue_adult.md)"
 
 **Construction notes**
 
+- 2: Legendary resistance
 - 2: hit dice increase
-- 2: increased save
 - 4: frightful presence
 - 1: flight
 
