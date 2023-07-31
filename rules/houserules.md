@@ -128,6 +128,33 @@ https://theangrygm.com/ask-angry-passive-skills-active-skills-perception-and-kno
 5. GM describe the actions of all NPCs
 6. Sometimes between rounds, on the same turn, the GM will need to update the scene (when something big changes, e.g. an area effect, someone falling, etc)
 
+## Godbound Epic Characters
+***Modified rules for Godbound to play Epic campaigns (useful for flashbacks on history, dreams, etc.).***
+
+These rules pair PC levels to FWN Ranks (first entry).
+
+**PCs**
+Use most of Godbound rules, with a the below changes:
+- Damage done by Godbound PCs is always read **straight** to foes. If any PC power mentions **straight** damage roll as if it is a critical hit (twice the dice, once the modifiers). Like in default Godbound, damage is taken directly from foes HD (which is HP / 4, as opposed to just HD - see below description for Foes).
+- Godbound PCs HD is calculated as default.
+- Attack modifier is `3 x Godbound PC level + modifiers`.
+- Armour AC is inverted, and rules as per default Godbound rules (i.e. Dex modifier can be stacked up any Armour, but Armour give penalties to saves).
+- Facts as default Godbound is optional, if 5e (+4 modifier for proficient) or WWN (use +2 for proficient) skills is easier for players, use that.
+- Saves are inverted, as `6 + Level + Modifiers`
+- Effort and Gifts as per default Godbound (initial 2 and 6, respectively).
+- When levelling up, PCs get:
+	- Increased attack bonus in +3
+	- HD increased in `+4 + (CON Modifier) / 2`
+	- Effort +1
+	- Saves +1
+	- New skill / fact
+	- Gifts +2
+
+**Foes**
+Use the FWN stats, with the below changes:
+- When a damage does not have a Godbound specific description, GM rolls damage and divide result by 4.
+- Foes HP are calculated as normal (with different dice depending on size), and then divided by 4 to get the Godbound HD.
+
 
 ## Travel rules
 
@@ -147,3 +174,4 @@ https://docs.google.com/document/d/1cZzxZZwYov4Z_T8UHeJHB8tGnhpnQRnauK7LTtzUe5k/
 - An unprotected character in cold weather must make a **Fortitude save each hour (DC 15, + 1 per previous check) or take 1d6 points of non-lethal damage**. A character who has the Survival skill may receive a bonus on her saving throw and may be able to apply this bonus to other characters as well.
 - A character who takes any non-lethal damage from cold or exposure is beset by frostbite or hypothermia (treat her as fatigued). These penalties end when the character recovers the non-lethal damage she took from the cold and exposure.
 - Non-lethal damage from cold or exposure cannot be recovered until the character gets out of the cold and warms up again. Once a character is rendered unconscious through the accumulation of non-lethal damage, the cold and exposure begins to deal lethal damage at the same rate.
+
