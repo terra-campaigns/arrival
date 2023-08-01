@@ -14,8 +14,8 @@ effort: 2d4 + 1
 speed: 60 ft, fly 80 ft
 stats:
   - Save: 11
-  - Instinct: 7
-  - Morale: 10
+  - Instinct: 9
+  - Morale: 11
   - DC: 21
 skillsaves:
   - Attack: +13

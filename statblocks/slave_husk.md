@@ -13,7 +13,7 @@ hit_dice: 1
 speed: 25
 stats:
   - Save: 5
-  - Instinct: 7
+  - Instinct: 6
   - Morale: 12
   - dc: 10
 skillsaves:

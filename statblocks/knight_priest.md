@@ -13,7 +13,7 @@ hit_dice: 5d8
 speed: 30 ft (60 ft when mounted)
 stats:
   - Save: 7
-  - Instinct: 8
+  - Instinct: 9
   - Morale: 10
   - dc: 13
 skillsaves:

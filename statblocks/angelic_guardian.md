@@ -13,7 +13,7 @@ hit_dice: 9d8
 speed: "30 ft, fly: 60 ft (1 pt)"
 stats:
   - Save: 10
-  - Instinct: 9
+  - Instinct: 10
   - Morale: 11
   - DC: 15
 skillsaves:

@@ -14,7 +14,7 @@ speed: 30 ft (60 ft when mounted)
 stats:
   - Save: 8
   - Instinct: 8
-  - Morale: 9
+  - Morale: 10
   - dc: 14
 skillsaves:
   - Attack: +6
