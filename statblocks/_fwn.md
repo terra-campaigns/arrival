@@ -63,3 +63,43 @@ Instinct conversions and roll
 - black river & howling halls: rank 3
 
 
+NPC interaction procedure
+
+```mermaid
+flowchart TD
+id01[NPC group] --> id02[Surprise roll]
+id02 --> id03[Distance roll]
+id03 --> id04[NPC activity or mood]
+id04 --> id05[Reaction roll]
+id05 --> Social
+subgraph Social
+  ids01[PCs intention and approach]
+  ids01 --> ids02[Evaluate NPC goals]
+  ids02 --> ids03[Skill checks]
+  ids03 --> ids04[Outcome]
+  ids04 -.->|Iterative| ids01
+end
+id05 --> Combat
+subgraph Combat
+  idc01[Innitiative roll] --> idcpc[PC's round]
+  idc01 --> idcgm
+  subgraph idcgm[GM's round]
+    idc02[Morale or instinct roll]
+    idc02 --> idc03[Positioning and chatter]
+    idc03 --> idc04[Attacks]
+  end
+  idcpc <-.->|Iterative| idcgm
+end
+Combat --> id06[Sanity rolls, if applicable]
+Social --> id06
+```
+
+| GM encounter roll            | Result                |
+| ---------------------------- | --------------------- |
+| Distance (in meters)         | `dice: (3d6 + 1) * 5` |
+| Activity or mood             | `dice: 1d12`          |
+| Wilderness or dungeon events | `dice: 1d20`          |
+| Reaction                     | `dice: 2d6`           |
+| Morale or instinct           | `dice: 2d6`           |
+
+Distance source [1](https://thealexandrian.net/wordpress/46466/roleplaying-games/random-gm-tip-encounter-distance) and [2](https://anydice.com/program/30e17)
