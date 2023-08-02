@@ -22,15 +22,18 @@ Each of the modifications below is also worth one point:
 
 | Modification      | Description                   | Weak (-1)             | Strong (+1)                                 |
 | ----------------- | ----------------------------- | --------------------- | ------------------------------------------- |
-| **Size**          | Sheer size affects sturdiness | d4 tiny<br />d6 small | d10 large<br />d12 huge<br />d20 gargantuan |
+| **Size**          | Sheer size affects sturdiness<br />Each size change costs 1 point | d4 tiny<br />d6 small | d10 large<br />d12 huge<br />d20 gargantuan |
 | **Armour class**  | Improved armour or skin       | -2 AC                 | +2 AC                                       |
 | **Attack and DC** | Fighting and magical prowess  | -2 Atk, -2 DC         | +2 Atk, +2 DC                               |
 | **Damage output** | Ability to cause damage       | -1 / HD               | +1 / HD                                     |
 | **Saving throws** | Readiness and resolve         | -2                    | +2                                          |
+| **Effort**        |                               | -2                    | +2                                            |
 
 WWN powers, 5e MM powers, Godbound Gifts (lesser: 1, greater: 2) and Impairing Powers (pp169).
 
 Choose 2 words, to determine the concept of a creature. Link powers, strategies, behaviour, etc. to their words. [Link to Words and Gifts spreadsheet.](https://docs.google.com/spreadsheets/d/1sAebjMdjvWInmE15xIJ0Tt1pNnaA7fF_PYq_7o8HB_k/edit#gid=0)
+
+Effort = HD/3.
 
 ## Morale and Instinct
 
