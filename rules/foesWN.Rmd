@@ -18,14 +18,15 @@ library(yaml)
 ```{r foesTbl, echo=FALSE}
 
 foesTbl <- data.frame(hd = c(0:40)) %>% 
-  mutate(ac = round(9.6 + hd * (0.8 - (hd - 10) / 85), 0),
+  mutate(effort = round(hd / 3),
+         ac = round(9.6 + hd * (0.8 - (hd - 10) / 85), 0),
          att = round(hd * 0.6 + 2, 0),
          dc = att + 8,
          dmg = ceiling(pmax(2, (hd - 2) * 3 + 2.5)),
          skill5e = round(1.25 + hd / 4),
          skillWN = round(skill5e * 12 / 20),
          save = pmin(round(5.4 + hd / 3), 19)) %>%
-  select(hd, ac, save, dc, att, skill5e, skillWN, dmg)
+  select(hd, effort, ac, save, dc, att, skill5e, skillWN, dmg)
 
 knitr::kable(foesTbl, format = 'pipe')
 ```
