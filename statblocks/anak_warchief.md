@@ -20,6 +20,11 @@ skillsaves:
   - Attack: +6
   - 5e: +3
   - WN: +2
+debilitations: 
+resistances:
+immunities:
+senses: Nightvision
+languages: Anak
 actions:
   - name: Damage per attack
     desc: "Greatsword or javelin (melee/ranged): 2 attacks, each 9 (2d8)"

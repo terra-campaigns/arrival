@@ -20,6 +20,11 @@ skillsaves:
   - Attack: +4
   - 5e: +2
   - WN: +1
+debilitations: 
+resistances:
+immunities:
+senses: Nightvision
+languages: Anak
 traits:
   - name: Surprise attack
     desc: "If the anak surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 6 (2d4 + 1) damage from the attack. 0 pt."

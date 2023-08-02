@@ -2,10 +2,10 @@
 statblock: true
 layout: WN 5e Integrated
 source: Atlas of Latter Earth & Godbound Homebrew
-name: Blue Dragon
-size: Huge
+name: Blue Dragon (Adult)
+size: Huge (70 ft)
 type: Dragon
-subtype: (lesser, adult, 70 ft)
+subtype: (lesser)
 words: Dragon, Fear
 ac: 22
 hit_dice: 18d12
@@ -20,15 +20,19 @@ skillsaves:
   - Attack: +13
   - 5e: +6
   - WN: +4
+debilitations: 
+resistances: 
+immunities: Lightning, Non-magical / non-silvered weapons
+senses: Nightvision
 languages: Draconic
 traits:
   - name: Lost in Reverie
     desc: "Tendency to become confused when in battle, remembering former ages and former faces. A dragon must make an Instinct check every round of combat as it struggles to remain focused on the present (check details link)."
 actions:
   - name: Lightning Breath (eff/sc)
-    desc: "90 ft line, 5ft wide. 66 (12d10), DEX/INT save for half."
-  - name: Bite, claw, tail
-    desc: "3 attacks, any combination, each 17 (2d12 + 4)"
+    desc: "90 ft line, 5ft wide. 66 (12d10) [GB: 15 (4d6 + 1)], DEX/INT save for half."
+  - name: Bite, claw, tail (as magical)
+    desc: "3 attacks, any combination, each 17 (2d12 + 4) [GB: 4 (1d6 + 1)]"
 bonus_actions:
   - name: Inexorable Dread (eff/day)
     desc: "Multiple targets. Each target (120 ft) must succeed WIS/CHA save of become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success, then immune for the next 24h."

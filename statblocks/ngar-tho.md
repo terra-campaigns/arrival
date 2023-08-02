@@ -20,9 +20,9 @@ skillsaves:
   - Attack: +8
   - 5e: +4
   - WN: +2
-debilitations: 
+debilitations: Sunlight
 resistances: 
-immunities: 
+immunities: Psychic
 senses: Truesight
 languages: Abased (deep speech), Archaic Dynastic, Esoteric Tseban, Atban Dynastic, telepathy 120ft
 traits:

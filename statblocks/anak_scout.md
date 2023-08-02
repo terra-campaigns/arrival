@@ -20,6 +20,11 @@ skillsaves:
   - Attack: +3
   - 5e: +2
   - WN: +1
+debilitations: 
+resistances:
+immunities:
+senses: Nightvision
+languages: Anak
 actions:
   - name: Damage per weapon attack (melee or ranged)
     desc: "1 attack 2 (1d2)"

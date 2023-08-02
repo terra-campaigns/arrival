@@ -20,7 +20,11 @@ skillsaves:
   - Attack: +10
   - 5e: +4
   - WN: +2
-languages: 
+debilitations: Sunlight
+resistances: 
+immunities: Poison, sleep
+senses: Lifesight
+languages: None
 traits:
   - name: Spider Climb
     desc: The diseased can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. 1 pt.
