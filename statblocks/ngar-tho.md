@@ -6,15 +6,14 @@ name: Ngar'tho
 size: Medium
 type: Humanoid
 subtype: (outsider) 
-role: 
-words: Command, Madness
+words: Arch-Psychic, Madness
 ac: 18
 hit_dice: 13d8
 effort: 1d4 + 2
-speed: 30 ft (levitation)
+speed: 30 ft (teleport)
 stats:
-  - Saves: 10
-  - Instinct: 11
+  - Saves: 12
+  - Instinct: 12
   - Morale: 10
   - DC: 16
 skillsaves:
@@ -25,6 +24,8 @@ languages: Abased (deep speech), Archaic Dynastic, Esoteric Tseban, Atban Dynast
 traits:
   - name: Unacknowledged Truth (eff/sc)
     desc: "See [(Details)](ngar-tho.md)."
+  - name: Walker Between Spaces
+    desc: "As your movement, you teleport to any physically-accessible location that is within 30 feet of your current position. As an Action, you can teleport to a location within one mile, provided you have physically been there before, and there is a direct physical path."
 actions:
   - name: Mind blast (eff/sc)
     desc: "Psychic energy in a 60-foot cone, INT/DEX save or take 17 (4d8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns."
@@ -32,16 +33,16 @@ actions:
     desc: "1 attack, each 17 (4d8), when hit, mentally grappled (DEX/INT save to escape)"
   - name: Open head
     desc: "An incapacitated or grappled creature has its skull broken: 55 (10d10). A killed creature has its brain consumed."
+  - name: Window within (eff)
+    desc: "*WIS/CHA save to resist, can repeat failed saves.* Complete access to the thoughts and memories of an individual who is within view. You can perceive anything the target does, know their thoughts, and get coherent, context-supplied answers from their memory to any questions you may ask. You can choose to create additional links, but must commit Effort for each one. You can only pay attention to one link at a time."
 bonus_actions:
   - name: Hallucinatory World (eff/sc)
     desc: "Create a hallucination or false sensory impression, all visible targets suddenly perceive. Worthy foes who are threatened, overwhelmed, or doubtful of a vision can make a WIS/CHA save at the start of each round to become immune for the scene. It cannot cause damage to the target, and any victim is freed as soon as it is hit."
   - name: Thrall-Making Shout (eff/day)
     desc: "WIS/CHA save or be dominated for 8 hours. Every time a target takes damage from the commander they can attemp another save to leave the domination."
-  - name: Detect thoughts (eff)
-    desc: "[Detect thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) as per 5e's spell."
 reactions:
   - name: Legendary resistance (eff/day)
-    desc: "Commit Effort for the day to automatically succeed at saving throws."
+    desc: "Automatically succeed at saving throws."
 detail_link: "[(Details)](ngar-tho.md)"
 ---
 
@@ -53,7 +54,7 @@ detail_link: "[(Details)](ngar-tho.md)"
 
 The Ngar'tho are a horrific race of **alien intruders** that are quite literally unnameable to ordinary men and women. They have been living in the Latter Earth since the early ages of human development. They come in a humanoid shape (2 meters tall), and require constant moist to keep alive, fearing drier lands. Most of their **communication is telepathic**. These creatures admire beings who can feel pain, as they cannot themselves.
 
-The particular horror of the Ngar'tho is that **those who see them have significant difficulty to convey this knowledge to anyone else**. They cannot easily speak of it, or write of it, or even intentionally allude to the existence of the aliens or any of their activities, even if the monsters are directly in front of them. A victim can overcome this compulsion of silence by **pushing through it (costs 1d8 point of sanity)**. Once the compulsion is overcome, the victim may act normally toward the Ngar'tho for one week before the price must be paid again.
+**Unacknowledged Truth**: The particular horror of the Ngar'tho is that **those who see them have significant difficulty to convey this knowledge to anyone else**. They cannot easily speak of it, or write of it, or even intentionally allude to the existence of the aliens or any of their activities, even if the monsters are directly in front of them. A victim can overcome this compulsion of silence by **pushing through it (costs 1d8 point of sanity)**. Once the compulsion is overcome, the victim may act normally toward the Ngar'tho for one week before the price must be paid again.
 
 Ngar'tho can be found in small, isolated communities. **The natives are perfectly aware of the aliens’ presence, but can do nothing to call for help or even admit that anything is wrong**, even as their friends and relatives are taken and used for strange, foul purposes by the aliens. The Ngar'tho often **construct strange buildings and monumental edifices** in these communities, ones that the locals can’t acknowledge even when they pass by them each day. Any foreigner who arrives and sees these structures is likewise struck dumb by the Ngar'tho’s mental cloud, and most simply leave as quickly as possible.
 
@@ -81,9 +82,9 @@ Note: when introducing outside a dream setting, review [this](https://pca.st/epi
 
 - -1: AC ok
 - -1: Attack ok
+- 1 save ok
 - 2: Dominate - Thrall-Making Shout ok
-- 1: Levitation - ok
+- 1: Levitation - Walker between spaces ok
 - 1: Absense of reality - Hallucinatory World ok
-- 1: Detect thoughts ok
-- 1: Unacknowledged Truth ok
+- 1: Detect thoughts - Would You Kindly ok
 - 2: Legendary resistance ok
