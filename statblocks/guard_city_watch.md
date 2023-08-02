@@ -13,8 +13,8 @@ hit_dice: 1d8
 speed: 30 ft
 stats:
   - Save: 6
-  - Instinct: 8
-  - Morale: 8
+  - Instinct: 7
+  - Morale: 9
   - dc: 11
 skillsaves:
   - Attack: +3

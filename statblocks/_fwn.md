@@ -28,19 +28,21 @@ Each of the modifications below is also worth one point:
 | **Damage output** | Ability to cause damage       | -1 / HD               | +1 / HD                                     |
 | **Saving throws** | Readiness and resolve         | -2                    | +2                                          |
 
-WWN powers, 5e MM powers, Godbound Gifts (lesser: 1, greater: 2) and Impairing Powers (pp169)
+WWN powers, 5e MM powers, Godbound Gifts (lesser: 1, greater: 2) and Impairing Powers (pp169).
+
+Choose 2 words, to determine the concept of a creature. Link powers, strategies, behaviour, etc. to their words. [Link to Words and Gifts spreadsheet.](https://docs.google.com/spreadsheets/d/1sAebjMdjvWInmE15xIJ0Tt1pNnaA7fF_PYq_7o8HB_k/edit#gid=0)
 
 ## Morale and Instinct
 
 Morale conversions and roll
-- 5e: 8 + 1/2 best(WIS|CHA) modifier, rounded down.
+- 5e: 8 + 1/2 best(WIS|CHA) modifier, rounded up.
 - WN: as bestiary stats.
 - 2d8 system: multiply by 3/4
 - Roll as WN rules (2d6 equal or under to pass)
 
 Instinct conversions and roll
-- 5e: 8 + 1/2 INT modifier, rounded down
-- WN: 11 - Instinct
+- 5e: 8 + 1/2 INT modifier, rounded up
+- WN: 12 - Instinct
 - 2d8 system: multiply by 3/4
 - Roll 2d6 equal or under to pass
 
@@ -49,5 +51,12 @@ Instinct conversions and roll
 ## Ranks and HD gauges
 
 ![Foes ranks](../rules/foesWN.md#Foes%20ranks)
+
+
+- Dungeon & crypt: rank 0, becoming rank 1 as undead advance
+- scriptorium and furnace: rank 1, except for Ngar'tho 
+- dwarven barracks: rank 2
+- bat caves and diabolist: rank 2
+- black river & howling halls: rank 3
 
 

@@ -2,11 +2,10 @@
 statblock: true
 layout: WN 5e Integrated
 source: Atlas of Latter Earth & Godbound Homebrew
-name: Adult Blue Dragon (Lesser)
-size: Huge (70 ft)
+name: Blue Dragon
+size: Huge
 type: Dragon
-subtype: (Lesser)
-role: 
+subtype: (lesser, adult, 70 ft)
 words: Dragon, Fear
 ac: 22
 hit_dice: 18d12
