@@ -14,7 +14,7 @@ speed: 45 ft
 stats:
   - Save: 9
   - Instinct: 5
-  - Morale: 12
+  - Morale: 7
   - dc: 16
 skillsaves:
   - Attack: +8

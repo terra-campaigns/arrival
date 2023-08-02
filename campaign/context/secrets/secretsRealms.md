@@ -35,12 +35,12 @@ Possible ruins and lairs:
 
 ### Wandering Encounters in Linhe
 
-| d4  | Desert daytime                   | Desert night time / Ammuinoth           | Additional rolls                         |
-| --- | -------------------------------- | --------------------------------------- | ------------------------------------------ |
-| 1   | Predators or herd animals        | Predators or herd animals</br>(+2 on table) | Beast table, mood and reaction             |
-| 2   | Inhabitants or elite             | Inhabitants or elite</br>(+2 on table)      | Sapient table, activity, mood and reaction |
-| 3   | Misbegotten, outsiders, monsters | Misbegotten</br>(+2 on table)               | Misbegotten table, mood and reaction       |
-| 4   | Environment effect               | Environment effect                      | Wilderness or dungeon effects              |
+| d4  | Linhe (Desert, Ammuinoth)                                                | Additional rolls                           |
+| --- | ------------------------------------------------------------------------ | ------------------------------------------ |
+| 1   | Predators or herd animals</br>(+2 on table if night or Ammuinoth)        | Beast table, surprise, distance, mood and reaction             |
+| 2   | Inhabitants or elite</br>(+2 on table if night or Ammuinoth)             | Sapient table, surprise, distance, activity, and reaction |
+| 3   | Misbegotten, outsiders, monsters</br>(+2 on table if night or Ammuinoth) | Misbegotten table, surprise, distance, mood and reaction       |
+| 4   | Environment effect                                                       | Wilderness or dungeon effects              |
 
 | d6  | Beast                        | Rank 0 location           | Rank 1 location            |
 | --- | ---------------------------- | ------------------------- | -------------------------- |

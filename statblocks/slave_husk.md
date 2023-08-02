@@ -14,7 +14,7 @@ speed: 25
 stats:
   - Save: 5
   - Instinct: 6
-  - Morale: 12
+  - Morale: 6
   - dc: 10
 skillsaves:
   - Attack: +2
