@@ -20,12 +20,11 @@ skillsaves:
   - Attack: +6
   - 5e: +3
   - WN: +2
+debilitations: Sunlight
+resistances: Non-magical / non-silvered weapons
+immunities: Poison, sleep
+senses: Lifesight
 languages: 
-traits:
-  - name: Resistance to non magical weapons
-    desc: Exept for silvered weapons
-  - name: Sunlight sensitivity
-    desc: Disadvantage on rolls if under direct sunlight
 actions:
   - name: Life drain dagger
     desc: "On hit 11 (2d10) [GB: 3 (1d4 + 1)], STR/CON save, if failed: recovers revenant's hp and drains hp maximum until long rest. 1 pt."

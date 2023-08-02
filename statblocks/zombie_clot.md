@@ -20,7 +20,11 @@ skillsaves:
   - Attack: +8
   - 5e: +4
   - WN: +2
-languages: 
+debilitations: 
+resistances:
+immunities: Poison, shock
+senses: Lifesight
+languages: None
 traits:
   - desc: "[Details](zombie_clot.md)"
   - name: Deathly Stench

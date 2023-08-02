@@ -20,6 +20,10 @@ skillsaves:
   - Attack: +2
   - 5e: +2
   - WN: +1
+debilitations: 
+resistances: 
+immunities: Poison
+senses: Lifesight
 languages: 
 traits:
   - name: Undead Might (1x/day)

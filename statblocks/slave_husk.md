@@ -20,7 +20,11 @@ skillsaves:
   - Attack: +2
   - 5e: +1
   - WN: +1
-languages: 
+debilitations: 
+resistances:
+immunities: Poison, shock
+senses: Lifesight
+languages: None
 actions:
   - name: Damage per attack
     desc: "1 attack, each 2 (1d4)"
