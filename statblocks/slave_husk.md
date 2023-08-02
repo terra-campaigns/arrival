@@ -9,7 +9,7 @@ subtype: (lesser)
 words: 
 role: 
 ac: 10
-hit_dice: 1
+hit_dice: 1d4
 speed: 25
 stats:
   - Save: 5
