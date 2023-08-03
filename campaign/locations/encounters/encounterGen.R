@@ -18,7 +18,7 @@ genEncCode <- function (entry) {
 }
 
 # import data
-dataLst <- read_yaml('rules/linhe.md')
+dataLst <- read_yaml('campaign/locations/encounters/list_linhe.md')
 
 # user inputs
 time <- 'day'

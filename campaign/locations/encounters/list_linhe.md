@@ -20,31 +20,49 @@ beasts_day_r0:
   - 1d4-2: HD 03
 
 beasts_day_r1:
-- Sand sheep, antelope
-- Scorpions, vipers, sand cats
-- Dust hawks and vultures
-- Hyenas, jackals
-- Dire desert wolves
-- Desert lions
+- Sand sheep, antelope:
+  - 1d4+1: HD 00
+- Scorpions, vipers, sand cats:
+  - 2d6: HD 00
+- Dust hawks and vultures:
+  - 2d8: HD 00
+- Hyenas, jackals:
+  - 2d20+1: HD 01
+- Dire desert wolves:
+  - 2d8: HD 02
+- Desert lions:
+  - 2d4: HD 03
 
 beasts_day_r2:
 - Construction
   
 beasts_night_r0:
-- Dust hawks and vultures
-- Hyenas, jackals
-- Dire desert wolves
-- Desert lions
-- Cave bear
-- Sabre-toothed tiger
+- Dust hawks and vultures:
+  - 2d6: HD 00
+- Hyenas, jackals:
+  - 2d6: HD 01
+- Dire desert wolves:
+  - 1d4: HD 02
+- Desert lions:
+  - 1d4-2: HD 03
+- Cave bear:
+  - 1: HD 04
+- Sabre-toothed tiger:
+  - 1: HD 05
 
 beasts_night_r1:
-- Dust hawks and vultures
-- Hyenas, jackals
-- Dire desert wolves
-- Desert lions
-- Cave bear
-- Sabre-toothed tiger
+- Dust hawks and vultures:
+  - 2d8: HD 00
+- Hyenas, jackals:
+  - 2d20+1: HD 01
+- Dire desert wolves:
+  - 2d8: HD 02
+- Desert lions:
+  - 2d4: HD 03
+- Cave bear:
+  - 1d4+1: HD 04
+- Sabre-toothed tiger:
+  - 1d4-1: HD 05
 
 beasts_night_r2:
 - Construction
