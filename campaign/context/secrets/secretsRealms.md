@@ -33,48 +33,7 @@ Possible ruins and lairs:
 - [Xaganis](https://www.drivethrurpg.com/product/419655/The-Fettered-Factory?manufacturers_id=18628)
 - 12 towers
 
-### Wandering Encounters in Linhe
-
-| d4  | Linhe (Desert, Ammuinoth)                                                | Additional rolls                           |
-| --- | ------------------------------------------------------------------------ | ------------------------------------------ |
-| 1   | Predators or herd animals</br>(+2 on table if night or Ammuinoth)        | Beast table, surprise, distance, mood and reaction             |
-| 2   | Inhabitants or elite</br>(+2 on table if night or Ammuinoth)             | Sapient table, surprise, distance, activity, and reaction |
-| 3   | Misbegotten, outsiders, monsters</br>(+2 on table if night or Ammuinoth) | Misbegotten table, surprise, distance, mood and reaction       |
-| 4   | Environment effect                                                       | Wilderness or dungeon effects              |
-
-| d6  | Beast                        | Rank 0 location           | Rank 1 location            |
-| --- | ---------------------------- | ------------------------- | -------------------------- |
-| 1   | Sand sheep, antelope         | `encounter: 1d4+1: HD 00` | `encounter: 1d4+1: HD 00`  |
-| 2   | Scorpions, vipers, sand cats | `encounter: 2d4: HD 00`   | `encounter: 2d6: HD 00`    |
-| 3   | Dust hawks and vultures      | `encounter: 2d6: HD 00`   | `encounter: 2d8: HD 00`    |
-| 4   | Hyenas, jackals              | `encounter: 2d6: HD 01`   | `encounter: 2d20+1: HD 01` |
-| 5   | Dire desert wolves           | `encounter: 1d4: HD 02`   | `encounter: 2d8: HD 02`    |
-| 6   | Desert lions                 | `encounter: 1d4-2: HD 03` | `encounter: 2d4: HD 03`    |
-| 7   | Cave bear                    | `encounter: 1: HD 04`     | `encounter: 1d4+1: HD 04`  |
-| 8   | Sabre-toothed tiger          | `encounter: 1: HD 05`     | `encounter: 1d4-1: HD 05`  |
-
-| d8  | Sapient           | Rank 0 no                                                              | Rank 1 no                                                              |
-| --- | ----------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1   | Rurkinar          | `encounter: 2d6: HD 00`                                                | `encounter: 2d8: CR 1/8`                                               |
-| 2   | Dust elves        | `encounter: 2d4-2: HD 02`                                              | `encounter: 2d8: CR 1/2`                                               |
-| 3   | Mercian commoners | `encounter: 2d4-2: HD 02`                                              | `encounter: 2d8: CR 1/2`                                               |
-| 4   | Bandits           | `encounter: 2d4-2: HD 02`                                              | `encounter: 2d8: CR 1/2`                                               |
-| 5   | FFKA scouts       | `encounter: 2d2-1: War Scout`                                          | `encounter: 2d4: War Scout`                                            |
-| 6   | Anak lesser       | `encounter: 2d8: Anak Scout`                                           | `encounter: 2d12: Anak Scout`                                          |
-| 7   | FFKA Tent         | [E(HD) 26](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) | [E(HD) 26](../../factions/ffkaEast.md#FFKA%20East%20Stochastic%20Tent) |
-| 8   | Anak War Band     | [E(HD) 18](secretsCultures.md#Anak%20War%20Band)                       | [E(HD) 18](secretsCultures.md#Anak%20War%20Band)                       |
-| 9   | Mercian Antinomi  | [E(HD 15)](secretsCultures.md#Mercian%20Antinomi%20Group)              | [E(HD 15)](secretsCultures.md#Mercian%20Antinomi%20Group)              |
-| 10  | Deepfolk raiders  | Not ready                                                              | Not ready                                                              |
-
-| d4  | Misbegotten                  | Rank 0 no                     | Rank 1 no                       |
-| --- | ---------------------------- | ----------------------------- | ------------------------------- |
-| 1   | Misbegotten (giant) vultures | `encounter: 2d4: HD 01`       | `encounter: 2d12 + 2: HD 01`    |
-| 2   | Misbegotten (giant) scorpion | `encounter: 1: HD 04`         | `encounter: 1d3: HD 04`         |
-| 3   | Phase spider                 | `encounter: 1: Phase Spider`  | `encounter: 2d2: Phase Spider`  |
-| 4   | Jikegida hunting party       | Not ready                     | Not ready                       |
-| 5   | Lady Scurvy                  | `encounter: 1: Lady Scurvy`   | `encounter: 1d3-1: Lady Scurvy` |
-| 6   | Undead horde                 | `encounter: 3d12: Slave Husk` | `encounter: 2d2-1: Revenant`    |
-
+[Wandering Encounters in Linhe](../../locations/encounters/list_linhe.md)
 
 ## Acrisae
 ***Theme: Renewal & Hope (wwn124)***

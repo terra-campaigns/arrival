@@ -1,7 +1,7 @@
 # Foes Without Number
 ***To be run with 5e and WN games. Inspiration: Forge of Foes.***
 
-![Table of template foes](../rules/foesWN.md#Table%20of%20template%20foes)
+![](https://i.imgur.com/aW2ABBI.png)
 
 ## Uncanny powers
 
@@ -35,11 +35,17 @@ Instinct conversions and roll
 - 2d8 system: multiply by 3/4
 - Roll 2d6 equal or under to pass
 
+## Rank and HD Gauges
 
-## Ranks and HD gauges
-
-![Foes ranks](../rules/foesWN.md#Foes%20ranks)
-
+| Rank | HD gauge |
+| ---- | -------- |
+| 0    | 3        |
+| 1    | 8        |
+| 2    | 16       |
+| 3    | 24       |
+| 4    | 32       |
+| 5    | 40       |
+| 6    | 48       |
 
 - Dungeon & crypt: rank 0, becoming rank 1 as undead advance
 - scriptorium and furnace: rank 1, except for Ngar'tho 
@@ -47,14 +53,15 @@ Instinct conversions and roll
 - bat caves and diabolist: rank 2
 - black river & howling halls: rank 3
 
-NPC interaction procedure
+## NPC interaction procedure
 
 ```mermaid
 flowchart TD
-id01[NPC group] --> id02[Surprise roll]
-id02 --> id03[Distance roll]
-id03 --> id04[NPC activity or mood]
-id04 --> id05[Reaction roll]
+id01[NPC group] --> id02[Distance roll]
+id02 --> id03[Surprise roll]
+id03 -->|NPCs surprised| id04[NPC activity or mood]
+id03 -->|NPCs not surprised| id05[Reaction roll]
+id04 --> id05
 id05 --> Social
 subgraph Social
   ids01[PCs intention and approach]
@@ -77,13 +84,3 @@ end
 Combat --> id06[Sanity rolls, if applicable]
 Social --> id06
 ```
-
-| GM encounter roll            | Result                |
-| ---------------------------- | --------------------- |
-| Distance (in meters)         | `dice: (3d6 + 1) * 5` |
-| Activity or mood             | `dice: 1d12`          |
-| Wilderness or dungeon events | `dice: 1d20`          |
-| Reaction                     | `dice: 2d6`           |
-| Morale or instinct           | `dice: 2d6`           |
-
-Distance source [1](https://thealexandrian.net/wordpress/46466/roleplaying-games/random-gm-tip-encounter-distance) and [2](https://anydice.com/program/30e17)

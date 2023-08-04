@@ -4,24 +4,3 @@ Mercian people are mostly humans, very cunning, and prefer to act on the backgro
 
 Mercians are 'tho thralls. Create a Mercian cult to the 'tho.
 
-### Mercian Antinomi Group
-
-```encounter
-name: Mercian Antinomi Group E(HD) 15
-creatures:
- - 1: Antinom
- - 1d2: Bodyguard
-```
-
-## Anak
-
-### Anak War Band
-
-```encounter
-name: Anak War Band E(HD) 18
-creatures:
- - 2d4 - 2: Anak Scout
- - 1d4: Anak Warrior
- - 1: Anak Warchief
-```
-
