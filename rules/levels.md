@@ -1,4 +1,25 @@
-## Table of levels
+``` r
+hexLevels <- data.frame(rank = 0:8) %>%
+  mutate(hdGauge = pmax(3, rank * 8),
+         partyXPsession = round((5500 * rank ^ 1.3 + 800)/100) * 100,
+         DCmin = as.integer(11 + rank * 1.5))
+
+knitr::kable(hexLevels, format = 'pipe')
+```
+
+| rank | hdGauge | partyXPsession | DCmin |
+|-----:|--------:|---------------:|------:|
+|    0 |       3 |            800 |    11 |
+|    1 |       8 |           6300 |    12 |
+|    2 |      16 |          14300 |    14 |
+|    3 |      24 |          23700 |    15 |
+|    4 |      32 |          34100 |    17 |
+|    5 |      40 |          45400 |    18 |
+|    6 |      48 |          57300 |    20 |
+|    7 |      56 |          69800 |    21 |
+|    8 |      64 |          82900 |    23 |
+
+## Table of levels (deprecated)
 
 ``` r
 intendedSessionsMult <- 1.4
@@ -65,144 +86,3 @@ knitr::kable(levelTbl, format = 'pipe')
 | 265000 |    18 |    4 |    6 |     11210 | \[10730, 11300\] |         3.6 |    18 |     23 |    9.7 |   11.6 |   15.5 |             1 | D             | Lgdry         |           0.6 |
 | 305000 |    19 |    4 |    6 |     11570 | \[11480, 11660\] |         4.3 |    18 |     23 |    9.9 |   11.9 |   15.8 |             1 | D             | Lgdry         |           0.9 |
 | 355000 |    20 |    4 |    6 |     11930 | \[11840, 11930\] |         4.2 |    18 |     23 |   10.1 |   12.1 |   16.2 |             2 | E             | –             |           1.2 |
-
-Sessions per tier and rank of play.
-
-``` r
-levelTblPerTier <- levelTbl %>%
-  group_by(tier) %>%
-  summarise(totSessions = round(sum(chapToLevel))) %>%
-  mutate(ratioCampaign = round(totSessions / sum(totSessions), 2))
-
-knitr::kable(levelTblPerTier, format = 'pipe')
-```
-
-| tier | totSessions | ratioCampaign |
-|-----:|------------:|--------------:|
-|    1 |           8 |          0.11 |
-|    2 |          26 |          0.37 |
-|    3 |          20 |          0.29 |
-|    4 |          16 |          0.23 |
-
-``` r
-levelTblPerRank <- levelTbl %>%
-  group_by(rank) %>%
-  summarise(totSessions = round(sum(chapToLevel))) %>%
-  mutate(ratioCampaign = round(totSessions / sum(totSessions), 2))
-
-knitr::kable(levelTblPerRank, format = 'pipe')
-```
-
-| rank | totSessions | ratioCampaign |
-|-----:|------------:|--------------:|
-|    0 |           3 |          0.04 |
-|    1 |          10 |          0.14 |
-|    2 |          12 |          0.17 |
-|    3 |          12 |          0.17 |
-|    4 |          10 |          0.14 |
-|    5 |          11 |          0.16 |
-|    6 |          12 |          0.17 |
-
-Magic items number aligned with DMG stats (evaluated
-[here](https://www.enworld.org/threads/analysis-of-typical-magic-item-distribution.395770/)).
-
-For a party of 5, the goal is:
-
-**Permanent** - F: 10-15 between levels 3 and 7 - G: 10-15 between
-levels 9 and 13 - H: 5-8 between levels 15 and 16 - Lgdry: 5-8 between
-levels 18 and 19
-
-**Consumable** - A: 25-35 between levels 1 and 5 - B: 25-35 between
-levels 6 and 10 - C: 25-35 between levels 11 and 15 - D: 20-30 between
-levels 16 and 19 - E: 5-8 in level 20
-
-``` r
-levelTblMagicItemsP <- levelTbl %>%
-  group_by(permMgcItmTbl) %>%
-  summarise(totItems = sum(chapToLevel)) %>%
-  filter(permMgcItmTbl != '--')
-
-levelTblMagicItemsC <- levelTbl %>%
-  mutate(totItems = consMgcItmQtd * chapToLevel) %>%
-  group_by(consMgcItmTbl) %>%
-  summarise(totItems = sum(totItems))
-
-
-knitr::kable(levelTblMagicItemsP, format = 'pipe')
-```
-
-| permMgcItmTbl | totItems |
-|:--------------|---------:|
-| F             |     13.1 |
-| G             |     14.8 |
-| H             |      6.9 |
-| Lgdry         |      7.9 |
-
-``` r
-knitr::kable(levelTblMagicItemsC, format = 'pipe')
-```
-
-| consMgcItmTbl | totItems |
-|:--------------|---------:|
-| A             |     31.2 |
-| B             |     33.6 |
-| C             |     29.3 |
-| D             |     23.3 |
-| E             |      8.4 |
-
-## PCs current development
-
-Current PCs level and estimated session.
-
-``` r
-pcs <- data.frame(name = c('Miraak', 'Guilf', 'Dolman', 'Kethra', 'Amyria'),
-                  level = c(6,        5,       6,        6,        5))
-
-challengeRank <- 1
-
-currentParty <- data.frame(level = mean(pcs$level),
-                           members = nrow(pcs),
-                           hexRank = as.integer(challengeRank)) %>%
-  mutate(hexXP = as.integer(2000 * hexRank ^ 2),
-         hexXPperPC = as.integer(hexXP / members),
-         lvlXPperPC = as.integer(200 * level),
-         xp = hexXPperPC + lvlXPperPC)
-
-cat(as.yaml(currentParty))
-```
-
-    ## level: 5.6
-    ## members: 5
-    ## hexRank: 1
-    ## hexXP: 2000
-    ## hexXPperPC: 400
-    ## lvlXPperPC: 1120
-    ## xp: 1520
-
-``` r
-hexLevels <- data.frame(level = 1:20,
-                           members = 5) %>%
-  left_join(levelTbl, by = 'level') %>%
-  filter(level %in% c(0:6 * 3 + 1)) %>%
-  select(rank, members, CRsolo, CR1vs1, CR2vs1, CR4vs1) %>%
-  mutate(CRsolo = as.integer(CRsolo + members - 4),
-         CR1vs1 = as.integer(round(CR1vs1 * members)),
-         CR2vs1 = as.integer(round(CR2vs1 * members)),
-         CR4vs1 = as.integer(round(CR4vs1 * members)),
-         cr_gauges = paste0('[', CRsolo, ', ', CR1vs1, ', ',
-                            CR2vs1, ', ', CR4vs1, ']')) %>%
-  select(-CRsolo, -CR1vs1, -CR2vs1, -CR4vs1, -members) %>%
-  mutate(partyXPsession = 2000 * rank ^ 2)
-
-knitr::kable(hexLevels, format = 'pipe')
-```
-
-| rank | cr_gauges          | partyXPsession |
-|-----:|:-------------------|---------------:|
-|    0 | \[3, 2, 2, 2\]     |              0 |
-|    1 | \[6, 8, 9, 12\]    |           2000 |
-|    2 | \[10, 14, 18, 23\] |           8000 |
-|    3 | \[13, 21, 25, 34\] |          18000 |
-|    4 | \[17, 30, 36, 49\] |          32000 |
-|    5 | \[20, 38, 45, 60\] |          50000 |
-|    6 | \[24, 50, 60, 79\] |          72000 |
