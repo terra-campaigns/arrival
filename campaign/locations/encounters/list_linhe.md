@@ -5,6 +5,54 @@ type:
 - misbegotten
 - effects
 
+beasts_activities:
+- hunting or gathering foodstuffs
+- patrolling their territory
+- looking for other intruders
+- protecting their kin (cubs, olds, hurt ones)
+- attacking their rivals
+- fleeing a foe
+- aggressive and hurgry
+- hurt
+- frightened of something nearby
+- drunken on intoxicated in some way
+
+sapients_activities:
+- hunting or gathering foodstuffs
+- patrolling their territory
+- investigating other intruders
+- hiding a cache of wealth
+- raiding their rivals
+- escorting a wounded comrade
+- fleeing a foe
+- summoned back by the chief
+- escorting prisoners or slaves
+- working at a necessary labour
+- repairing or maintaining a site
+- sneaking away from work
+- furious and looking to take it out on someone
+- hungry and needing food
+- belligerent and looking for a fight
+- wary of strangers and their powers
+- greedy for gold and glory
+- spitefully angry at a rival or enemy group
+- frightened of something nearby
+- drunken on intoxicated in some way
+- singing happy songs
+- singing sad songs
+- benevolent and feeling magnaninous
+- happy after a recent stroke of great luck
+
+misbegotten_activities:
+- hunting or raiding
+- wandering
+- hiding some treasure they appreciate
+- fleeing a foe
+- hungry and needing food
+- drunken on intoxicated in some way
+- singing or dancing monstrous songs and dances
+- hurt
+
 beasts_day_r0:
 - Sand sheep, antelope:
   - 1d6 + 1: HD 00

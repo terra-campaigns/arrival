@@ -29,7 +29,6 @@ genReacRoll <- function (mod = 0) {
     reacRoll <= 11 ~ '9-11: More friendly and benign than you’d expect them to be, given the circumstances',
     reacRoll == 12 ~ '12+: As friendly and helpful as their nature and the situation permits them to be',
   )
-  
   return (reaction)
 }
 
@@ -51,6 +50,7 @@ if (type == 'effects') {
   lstName <- type
 } else {
   lstName <- paste(type, time, rank, sep = '_')
+  lstActName <- paste0(type, '_activities')
 }
 
 # store header
@@ -63,7 +63,10 @@ if (type == 'effects') {
 } else {
   lstIndex <- seq_along(dataLst[[lstName]])
   lstChoice <- sample(lstIndex, 1)
+  actChoice <- sample(dataLst[[lstActName]], 1)
+  
   encCode <- paste0(names(dataLst[[lstName]][[lstChoice]]),
+                    '\nThey are ', actChoice,
                     '\nTheir reaction is ', reaction, '\n\n',
                     genEncCode(dataLst[[lstName]][[lstChoice]][[1]]))
 }
