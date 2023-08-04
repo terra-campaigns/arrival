@@ -16,6 +16,7 @@ beasts_activities:
 - hurt
 - frightened of something nearby
 - drunken on intoxicated in some way
+- tired
 
 sapients_activities:
 - hunting or gathering foodstuffs
@@ -42,6 +43,14 @@ sapients_activities:
 - singing sad songs
 - benevolent and feeling magnaninous
 - happy after a recent stroke of great luck
+- investigating a plant
+- waiting in ambush for someone
+- searching for other adventurers
+- deeply unhappy
+- creating some art
+- playing a game
+- building something
+- reading a book
 
 misbegotten_activities:
 - hunting or raiding
@@ -50,8 +59,9 @@ misbegotten_activities:
 - fleeing a foe
 - hungry and needing food
 - drunken on intoxicated in some way
-- singing or dancing monstrous songs and dances
 - hurt
+- investigating a plant
+- performing a ritual of some sort
 
 beasts_day_r0:
 - Sand sheep, antelope:
