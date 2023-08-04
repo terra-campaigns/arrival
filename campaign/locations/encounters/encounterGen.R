@@ -65,7 +65,7 @@ if (type == 'effects') {
   lstChoice <- sample(lstIndex, 1)
   actChoice <- sample(dataLst[[lstActName]], 1)
   
-  encCode <- paste0(names(dataLst[[lstName]][[lstChoice]]),
+  encCode <- paste0('  ***  ', names(dataLst[[lstName]][[lstChoice]]), '  ***  ',
                     '\nThey are ', actChoice,
                     '\nTheir reaction is ', reaction, '\n\n',
                     genEncCode(dataLst[[lstName]][[lstChoice]][[1]]))
