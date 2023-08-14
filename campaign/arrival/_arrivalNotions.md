@@ -12,6 +12,16 @@ kanban-plugin: basic
 - [ ] layers upon layers of abandoned ancient infrastructure (subways from Contact)
 - [ ] add uncanny powers and monstrous drives to appropriate creatures
 - [ ] - Construct NPCs:<br>	- Character tags (AotLE)<br>	- Simple sheet (if required)<br>	- Image<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
+- [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
+- [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
+- [ ] create mercian cult as Silent legions cult
+- [ ] Create mystra / Falestism as Godbound religion
+- [ ] Calculate renown
+- [ ] The void can cure miraak, for a price - after the Ngar'tho has detected his thoughts.
+- [ ] Create undead mob as a creature
+- [ ] Create new cult for undeath in Linhe - the Eaten
+- [ ] Brezal path pulling is openning the earth with Uncreation ruptures. Uncreated creatures come from it.
+- [ ] Godbrain is dying
 
 
 ## snoozed
@@ -47,10 +57,10 @@ kanban-plugin: basic
 - [ ] Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
-- [ ] [towerTreeTemple](../campaign/locations/towerTreeTemple.md)
+- [ ] [towerTreeTemple](locations/towerTreeTemple.md)
 - [ ] if the ffka are overthrow, the rurkinar start to punish them for their doings and take their wealth
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
-- [ ] Meeting the Acrisae [contact](bookReviews/contact.md)
+- [ ] Meeting the Acrisae [contact](../../bookReviews/contact.md)
 - [ ] War in the south, deep freeze
 - [ ] Eifell tower in the desert
 
