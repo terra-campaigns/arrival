@@ -46,7 +46,7 @@
 - [ ] #spoiler Great confluence and pooling of energy is all but unique in the Castle of Holzander
 - [ ] #spoiler Partial map of the Ghost Domain
 - [ ] #context Perhaps no region inspires more tales of terror across the face of Guermenos than the ruined desert. A once-verdant land permanently ravaged by the Great War. A puckered, ragged scar of desiccated land.
-- [ ] #context [The great purge](../context/secrets/secretsHistory.md#The%20great%20purge)
+- [ ] #context [The great purge](context/secrets/secretsHistory.md#The%20great%20purge)
 - [ ] #context For centuries, tyrannical arcanists dueled over the Brezal Paths. Tremendously powerful creatures built and abandoned principalities as the fickle Paths shifted, and the constant magical strife among the rivals drained the life from the land. Only the bones of these cities remain today, their tumbled stones and spires covering a landscape.
 - [ ] #context When the elves realized the enormity of what this library represented, they cast an enchantment over the place to protect it. Their enchantment threw the library and its contents 100,000 years into the future. That distant age is far beyond the collapse of all predicted civilizations. The elves reasoned that even if the library were discovered to exist in that time, it’s unlikely anyone of that era could understand its contents; according to elven oracles, whatever creatures inhabit Midgard 100,000 years in the future will have a completely different understanding of the fundamental underpinnings of magical philosophy.
 - [ ] #context #spoiler Theurgy and Theotechnical mechanics

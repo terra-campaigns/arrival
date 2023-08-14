@@ -33,7 +33,7 @@ tags:
 - [x] Review and organise [Notions](../../notions.md)
 - [x] Review and organise Sly Flourish secrets for Holzanderd
 - [x] Think about characters, write motivations & links, and bring one background bit to the session
-- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks

@@ -30,7 +30,7 @@ tags:
 - [x] Review and organise [Notions](../../notions.md)
 - [ ] Review and organise Sly Flourish secrets for Holzander
 - [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_campaignTracker](../_campaignTracker.md))
+- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))
 - [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [ ] Detail strong start
@@ -86,7 +86,7 @@ Some foreshadowing on Imortra and Gellert and the cult to the 'tho?
 
 ## Information pool
 
-[Information Pool](_informationPool.md)
+[Information Pool](../_informationPool.md)
 
 ## Locations
 
