@@ -39,19 +39,19 @@ Instinct conversions and roll
 
 | Rank | HD gauge |
 | ---- | -------- |
-| 0    | 3        |
-| 1    | 8        |
-| 2    | 16       |
-| 3    | 24       |
-| 4    | 32       |
-| 5    | 40       |
-| 6    | 48       |
+| 0    | 4        |
+| 1    | 10       |
+| 2    | 20       |
+| 3    | 30       |
+| 4    | 40       |
+| 5    | 50       |
+| 6    | 60       |
 
 - Dungeon & crypt: rank 0, becoming rank 1 as undead advance
-- scriptorium and furnace: rank 1, except for Ngar'tho 
-- dwarven barracks: rank 2
-- bat caves and diabolist: rank 2
-- black river & howling halls: rank 3
+- scriptorium and furnace: rank 2, except for Ngar'tho 
+- dwarven barracks: rank 3
+- bat caves and diabolist: rank 4
+- black river & howling halls: rank 5
 
 ## NPC interaction procedure
 
