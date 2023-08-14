@@ -28,13 +28,13 @@ Acrisae and Turnskull: 7 more fronts in total, 3 each plus the deflagration of f
 
 **Turnskull fronts**
 - [x] Part 3 starts: Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
-- [ ] Part 4 starts: Big freeze from the south
+- [ ] Part 4 starts: Big freeze from the south, with mists, start Turnskull faction
 - [ ] Part 5 starts: Turnskull takes the entirety of south Etor, ready for war
 
 **Party level and outcome**
 - [x] 5: Nothing happens
 - [x] 6: 1st Front, Turnskull - Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
-- [ ] 7: If no front passes, use a random world shaking event A [link](https://chartopia.d12dev.com/chart/3708/)
+- [ ] 7: If no front passes, use a random world shaking event A [link](https://chartopia.d12dev.com/chart/3708/) or sixteen sorrows?
 - [ ] 8: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?), Alternative is to kick off another random adventure in Linhe (ravenloft ) maybe use the Foreshadoing for level 9?
 - [ ] 9: Foreshadowing for Part 3 - Thick mist starts (mist, night roads, uncreation)
 - [ ] 10: (mandatory 2nd front) - closes Part 2

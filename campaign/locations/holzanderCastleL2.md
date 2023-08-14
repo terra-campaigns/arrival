@@ -108,6 +108,15 @@ creatures:
 ### H216 Scriptorium
 
 **Timeline destination (d10 roll)**
+Remove everything before the Colligation of Time.
+
+Points:
+	ammuinoth created by the first dynasty (when?)
+	tseb whii in the fall of the second dynasty had a bunch of outsiders attacking the land, coming from their holds in the mountains
+	maqqatalba is a land of shrines and temple settlements, each with its Knights and/or sorcerers/clerics
+	maqqatalba knights and the Angels?
+
+Check what the PCs will investigate?
 
 1. *27023 years in the past, low accuracy due to the Colligation of Epochs: Construction of the Ammuinoth.* The characters are in a natural cavern, with a single tunnel that goes east and ends in a wellbore opened to the surface above. Ancient Dwarves and Elves are building the Ammuinoth in the region.
 	![](https://i.imgur.com/H3JoaRX.png)

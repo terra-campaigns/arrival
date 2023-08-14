@@ -31,8 +31,7 @@ tags:
 	- They might be messing up with powers beyond their control (1 pt)
 	- Everyone has reservations with the Mercians (1 pt)
 - **Goals**
-	- [ ] Feature: energy overflow and sky umbilicals to Hincland and Turnskull (cost 16: region, impossible) - eldritch blast style
-	- [ ] Feature: call another undead horde (cost ??)
+	- [ ] Feature: energy overflow and sky umbilicals to Hincland and Turnskull (cost 16: region, impossible) - eldritch blast style: break the Legacy seal and start Uncreation (research of the 'tho). When successful all hex ranks increase in 1, until the brezal paths are solved (finished Holzander) godbrain is full of energy and stops dying
 	- [ ] Island the FFKA East, pincer move with Gellert in the south, lady scurvy in the north and the rest of the Mercians from the east.
 	- [ ] Feature: energy overflow and umbilicals in the Ammuinoth, seising the tunnels from Hincland to Turnskull and creating a portal between the two regions (cost 32: kingdom, impossible)
 	- [ ] Start the next doom cycle by reconnecting Mondedonvil and his body (dead made god)

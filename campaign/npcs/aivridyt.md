@@ -34,8 +34,5 @@ Ghuse's Prayer
 
 ![](https://i.imgur.com/BerDgmv.png)
 
+https://darksun.fandom.com/wiki/Athasian_Dragon
 
-```statblock
-creature: Young Red Shadow Dragon
-name: Aivridyt
-```

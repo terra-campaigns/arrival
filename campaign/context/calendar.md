@@ -13,34 +13,17 @@ tags:
 
 The New Calendar (NC) was created two or three centuries after the event known as the Colligation of Epochs. It is estimated that the mark for year 0 on Latter Earth's After Landing (AL) calendar (the arrival of the Reaping King) was in the year 2822 NC. Dates are imprecise. For further information on Latter Earth's calendar, please refer to the [Atlas of The Latter Earth](https://www.drivethrurpg.com/product/416284/The-Atlas-of-the-Latter-Earth), pages 1 to 12..
 
-In the NC, each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, F) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
+In the NC, each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (I, J, K, L, M) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
 
 The years are not defined based on translations around the sun, but rather a purely mathematical number. For this reason, although the NC is mostly used everywhere in Maqqatba, many regions have additional calendars based on sun and moon time cycles. Nevertheless, the 25 hours day is defined based on daily cycles.
 
 ## Seasons
 
-There are 4 seasons: Winter, Spring, Summer and Autumn. They are defined by several cycles, which makes them difficult to predict:
-- Translation of the solar system around the dark portal
-- Translation cycle around the sun
-- Planet pulsing energy
-- Moon cycles, which emits shadow energy
+There are 4 seasons: Winter, Spring, Summer and Autumn.
 
-The region of Maqqatba has very long winters (3 to 5 years) every 20 years or so. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 year), where average temperatures are 10 to 15C degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
+The region of Maqqatba has very long winters (6 months or so) every year. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 month), where average temperatures are 10 to 15C degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
 
 The last documented season cycles are represented below.
-
-|     | primaveras | veroes |      outonos | invernos |
-|:--- | ----------:| ------:| ------------:| --------:|
-| 225 |     3744.9 | 3751.1 |       3751.7 |   3757.9 |
-| 226 |     3765.2 | 3773.4 |       3773.6 |   3781.8 |
-| 227 |     3786.6 | 3795.3 |       3795.6 |   3804.3 |
-| 228 |     3802.7 | 3807.6 |       3807.7 |   3812.6 |
-| 229 |     3821.1 | 3827.6 |       3828.2 |   3834.7 |
-| 230 |     3841.0 | 3846.8 |       3847.6 |   3853.4 |
-| 231 |     3859.0 | 3865.8 |       3866.1 |   3872.9 |
-| 232 |     3874.0 | 3877.5 | 3877.6 (exp) |    |
-
-![Seasons](_r/seasons.md#Seasons)
 
 ## Timeline
 

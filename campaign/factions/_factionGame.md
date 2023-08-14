@@ -128,7 +128,8 @@ sort id asc
 	- Bandit camp?
 	- Danaska and Cagoth-ze at odds
 	- refilling dungeons (chance?)
-		- temple of remains
+		- temple of remains: Who will take up the now empty temple of remains? 1 in 6 a faction takes it, 2 in 6 a wandering group takes it (roll on wwn205 to define, including rank). Lower rank than needed for region will continue to be challenged until appropriate rank is in place.
+	- Kiranu arrive in Melister on 3877.7C7
 
 ### 3877.5F
 

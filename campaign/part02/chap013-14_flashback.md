@@ -72,27 +72,58 @@ sort file.name asc
 - **Extra**
 	- #e1 (addressed) Kimbarak
 
-### PC dragon creation
-
-**Cerulean powers (psionic + sorcery)**
-- Corona of fury
-- Wings (which word?)
-- Power when close to death (name?)
-- Something else?
-- Turn into human, but no dragon-form power is available, turning takes 1 round
 
 ## Storyline
+
+### Celestial Storm
+
+Prologue
+Earth is bare and Yorroi needs more life to continue becoming powerful. He constructs the Gate with his psionic dragon sorcerers. He invades heaven and starts extracting power from there (although it is not exactly life power). The angels counter attack with their suppraxae. This war has been going on for a few years now, with Yurroi and Algath's troops allied and winning. You are Yurroi emissaries and haven't taken part in the fight yet. Dispersed Angels are now acting as guerrilla. One friend sorcerer is looking for Supraxae shards to further her research.
+
+Calamity
+Invading army
+
+Adventure
+- get pieces of fallen supraxae, one piece is missing - was already recovered and is now with the merchant
+- buy pieces already collected, from the allied army merchant (exorbitant price, such as a fight challenge with the army dragon)
+- return pieces to sorcerer 
+
+End state interface
+- Does not matter who wins, but a few Supraxae must be destroyed, and pieces recovered
+- roll 1d6: 4+ the PCs side win. Give +1 or -1 if the PCs have supported well or not. +2 or -2 for amazing influence the PCs have had.
+
+- Gate to heaven is being constructed
+	- Hook for Supraxae
+	- Destruction of a few Supraxae and Theotechnology starts
+
+PCs fall and sleep, before waking up years later as Adult dragons and...
+
+- Heaven is invaded and celestial storm
+	- Made Gods
+	- Uncreation of the world
+	- Algath's fall, Ophaire Uncreation and shadow dragons
+
+
+![](_aux/PXL_20230731_144524073%201.jpg)
+
 
 ### Sorcerer-Kings Era, early Cerulean Cycle
 ***1.7 million years ago, Eldritch (necromancy) and Cerulean apex***
 
-- PCs are young lesser-dragons. Lesser dragons are known as the unfinished, as their human ancestors were not able to finish their rituals to become greater-dragons. Even lesser are the dragonborn, which is a enslaved race treated as poorly as humans.
-- The party is a reconnoissance and assault unit for the Dragon Imperator Yrroi, The Voiceless One. He communicates with psionic powers only. Their city state borders the Gok Akkad, empire ruled by the Sorcerer-King necromancer Algath.
-- A powerful sorcerer from Yrroi's city state betrayed Yrroi and is now an ally of Algath. There are rumours she has now completed her transformation into a Lich. Yrroi demands that she is found, and brought back, so he can turn her back to life, to then give her the end she deserves. He is a god, after all - that is the only thing needed to bring someone back to life. #m2 , assault and rescue challenge.
+- Powerful sorcerer-kings, eons ago, started touching the psionic powers, that were long lost by humanity - that development metamorphosed them into the primordial dragons over thousands of years
+- Cerulean powers were responsible for drying the earth from all types of life, which turned it in a barren desert.
+- Yorroi molded the lesser dragon race from silt to be its lawful emissaries. This race was not able to procreate, but they inherit many powers.
+- PCs are young lesser-dragons, the size of a small giant or large ogre. They are 50-60 years old. (Metagaming: roughly the power of a 5e level 10-15 character).
+- Yrroi, The Voiceless One. He communicates with psionic powers only. All minds on the city state walls, and mildly all of Yrroi's creations anywhere, are shared with him.
+- Their city state borders the Gok Akkad, empire ruled by the Shadow-King Necromancer Algath.
+- A powerful sorcerer from Yrroi's city state betrayed Yrroi and is now an ally of Algath (shadow king). There are rumours she has now completed her transformation into a Lich. Yrroi demands that she is found, and brought back, so he can turn her back to life, to then give her the end she deserves. He is a god, after all. In the ritual to bring her back, a cleric believer of Yrroi being a god, asks if the undead wants to come back, and when it does (1-4 in 6) the god power will bring her back to life #m2 , assault and rescue challenge.
 	- Hopefully some combat with undead armies (revenants) is enough to kill one of the PCs #m1 
-- Algath storms the city state with his army, he is now an **Unending one**. Tough fight that hopefully kills PCs. If some of them are not killed, they need to flee or hide.
+- First Algath will send one of its dragons to revenge the PCs?
+- Algath invades de city, Yrroi has to flee. Algath ends all life in the city state or Yrroi, and becomes an **Unending one**. Tough, PCs have to flee or they perish fighting Algath's undead army. If some of them are not killed, they need to flee or hide.
 
-### Sorcerer-Kings Era to Celestial Storm
+
+
+### Early Celestial Storm
 ***1.3 million years ago, Cerulean and Celestial apex, Eldritch demise***
 
 - PCs are the same dragons, now more mature (1 level more).
@@ -109,7 +140,7 @@ sort file.name asc
 	- Theotechnology is created and the first Made God is born out of the Supraxae and Yrroi. The made god expels the Angels from the city state. #a3 
 
 
-### Celestial Storm
+### Late Celestial Storm and Uncreation
 ***1.1 million years ago, Theotechnical and Eldrich apex, Celestial and Cerulean demise***
 
 - The Angels chase and exterminate most of the dragon life on earth. The PCs survived hidden.
@@ -128,8 +159,9 @@ sort file.name asc
 ***900 thousand years ago***
 
 - The angels (Edrahil) that took residence on Earth are looking for Algath, somehow they want the PCs to help find him.
+- bring an undead back secret here!!
 - Algath has to be found and brought back to remainded of earth, which is severely uncreated now.
-- Algath is imprisioned #g2 
+- Algath is imprisioned #g2  lives must be sacrificed to keep him in prison - defiling magic?
 - The world is now full of different populations, including proto-elves and several humanoid sub-species (no dwarves yet)
 - PCs are approached by a proto-elf sorcerer that is trying to save reality. Destroyed Supraxae and Made Gods were recovered and in the last thousand years a portfolio of engines were re-created. They need to be scattered through the world to restablish reality. This is the Legacy. #a1
 - (some mission to accomplish that) - The Legacy makes the Brezal paths

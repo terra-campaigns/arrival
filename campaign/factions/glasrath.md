@@ -31,7 +31,7 @@ tags:
 - **Goals**
 	- [x] Stablished faction that partially follows Algath and Ghuse: Serhan (and 50 guards) is aligned with Ghuse. 
 	- [x] Remove problem: Strengthen its hold in the region through cultural submission of subjects (cost 4: village + minor resistance, implausible) - number of undead greatly surpasses the number of alive people (2-to-1), mostly working the mines. Singlestrike joins support for Ghuse and population is mostly in full support (about 200 soldiers and guards are supporting). If characters haven't noticed yet, they notice now, that people are looking more pale and seem a bit brain drained.
-	- [ ] Known people from the first days of the alliance are raised, including the dragon and Fuko - raise all the dead in the mines, and kill civilians to make up an undead army (cost 8: village + minor resistance, impossible). Count of military supporting: 300 (BR 250). Count of undead: 10k (BR 1000). For an average CR 4 (strong soldier Kiranu/Thymar) it will take about 420 of them to face the undead.
+	- [ ] Known people from the first days of the alliance are raised, including the dragon, Fuko and Nilperto - raise all the dead in the mines, and kill civilians to make up an undead army (cost 8: village + minor resistance, impossible). Count of military supporting: 300 (BR 250). Count of undead: 10k (BR 1000). For an average CR 4 (strong soldier Kiranu/Thymar) it will take about 420 of them to face the undead.
 	- [ ] Feature: Whursock joins support for Ghuse - the alliance is now Ghuse's, and he turns to his Aivrindyt form now. Military supporting: 350.
 	- [ ] Feature: hatch eggs?
 
