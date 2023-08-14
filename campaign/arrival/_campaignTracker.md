@@ -20,16 +20,16 @@ sort file.name asc
 
 ## Active villains (2-4)
 
-- [Aivridyt](../../npcs/aivridyt.md)
-- [Sergarus](../../npcs/sergarus.md) built as a dark lord
-- [Imortra](../../npcs/imortra.md) built as a dark lord
+- [Aivridyt](arrival/npcs/aivridyt.md)
+- [Sergarus](arrival/npcs/sergarus.md) built as a dark lord
+- [Imortra](arrival/npcs/imortra.md) built as a dark lord
 
 ## Active factions (3-6)
 
-- [Glasrath](../../factions/glasrath.md)
-- [FFKA East](../../factions/ffkaEast.md)
-- [Rurkinar](../../factions/rurkinar.md)
-- [Mercians](../../factions/mercians.md)
+- [Glasrath](arrival/factions/glasrath.md)
+- [FFKA East](arrival/factions/ffkaEast.md)
+- [Rurkinar](arrival/factions/rurkinar.md)
+- [Mercians](arrival/factions/mercians.md)
 
 ## Locations on the regional map of Linhe
 

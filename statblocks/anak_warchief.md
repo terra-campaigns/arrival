@@ -39,4 +39,4 @@ detail_link: "[(Details)](anak_warchief.md)"
 Statblock based on 5e's [Hobgoblin Captain](https://5e.tools/bestiary.html#hobgoblin%20captain_mm). HD is on par; AC and Attack are lower than WWN306.
 
 
-![Anak](../campaign/context/cultures.md#Anak)
+![Anak](../campaign/arrival/context/cultures.md#Anak)

@@ -25,13 +25,13 @@ tags:
 
 - [ ] Summarise previous chapter
 - [ ] Update template
-- [ ] Review [Abridged](../context/abridged.md)
+- [ ] Review [Abridged](../campaign/arrival/context/abridged.md)
 - [ ] Review and organise [Notions](../../notions.md)
 - [ ] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [ ] Think about characters, write motivations & links
 - [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
+- [ ] Review [Fronts](../campaign/arrival/factions/_fronts.md) and check if new front has materialised
+- [ ] Review [Factions](../campaign/arrival/factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
 - [ ] Decide what NPCs are doing, and their respective checks
 - [ ] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed

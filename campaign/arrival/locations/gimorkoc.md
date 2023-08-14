@@ -45,5 +45,5 @@ Groups of fractious survivors claim sections of this small city's ruins, scaveng
 
 - **The Squirrel and Dragon**: A poor dwarven tavern, built around a hewn stone impaled by a sword.
 - **FFKA control post**: A small stone house, close to stables, where a small FFKA office is located. Three FFKA brothers are here (Gilpin, Harman, Imbert)
-- **Rurkinar [Angel Hound Temple](../locations/angelHoundTemple.md)** in the middle of the city
+- **Rurkinar [Angel Hound Temple](angelHoundTemple.md)** in the middle of the city
 - **Mercian house** in the Trade District

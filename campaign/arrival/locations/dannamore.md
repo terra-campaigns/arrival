@@ -36,14 +36,14 @@ tags:
 
 ## Desert thunderstorm scene
 
-- Location: Entrance from [Dannamore](../locations/dannamore.md)
-- Environment: [Thunderstorm](../../rules/houseRules.md#Thunderstorm)
+- Location: Entrance from [Dannamore](dannamore.md)
+- Environment: [Thunderstorm](../../../rules/houseRules.md#Thunderstorm)
 	- Temperature: [-10C, 0C]
 	- Wind: Severe, 50 Km/h
 	- Duration: 3 days
 	- Time of day: 1d4 x 6h, but it is dark due to the thunderstorm
 - Threat: Pressured by frost goblins and a thunderstorm with an elemental
-- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost anaks - **they are famished and would attempt to kill the characters to eat them**, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them. **PCs might avoid the battle and join forces with elemental.** See [Dannamore](../locations/dannamore.md) for background story.
+- Conflict: When characters reach the Ardismouth temple, it is now a camp of frost anaks - **they are famished and would attempt to kill the characters to eat them**, it is possible to dodge them, and go to the desert - but they might follow. In the desert there is an immense thunderstorm. In the thunderstorm, water elementals are present. If the characters go out, engage, and come back to the Ammounith, the elemental will follow them. **PCs might avoid the battle and join forces with elemental.** See [Dannamore](dannamore.md) for background story.
 - End conditions: Thunderstorm passes (elemental will go away too, if not killed); Characters give up on this exit; Anaks are dealt with
 
 ```encounter

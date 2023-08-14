@@ -39,4 +39,4 @@ detail_link: "[(Details)](anak_lesser.md)"
 
 Statblock based on 5e's [Goblin](https://5e.tools/bestiary.html#goblin_mm).  AC, HP and Attack modifier are a bit high for WN.
 
-![Anak](../campaign/context/cultures.md#Anak)
+![Anak](../campaign/arrival/context/cultures.md#Anak)

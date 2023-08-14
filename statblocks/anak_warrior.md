@@ -41,4 +41,4 @@ detail_link: "[(Details)](anak_warrior.md)"
 
 Statblock based on 5e's [Bugbear](https://5e.tools/bestiary.html#bugbear_mm). One HD higher than original WN's.
 
-![Anak](../campaign/context/cultures.md#Anak)
+![Anak](../campaign/arrival/context/cultures.md#Anak)

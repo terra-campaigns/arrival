@@ -34,7 +34,7 @@ tags:
 - [x] Think about characters, write motivations & links
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../rules/factionRules.md), if applicable
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if applicable
 - [x] Decide what NPCs are doing, and their respective checks
 - [x] Detail strong start
 - [x] Think and write potential scenes

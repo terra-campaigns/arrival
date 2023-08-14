@@ -61,7 +61,7 @@ detail_link: "[(Details)](dragon_blue_adult.md)"
 
 ![|500](https://i.imgur.com/CJdOeMg.png)
 
-![Dragons](../campaign/context/cultures.md#Dragons)
+![Dragons](../campaign/arrival/context/cultures.md#Dragons)
 
 **Construction notes**
 

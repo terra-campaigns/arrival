@@ -18,7 +18,7 @@ tags:
 
 ## H113 Catacombs and vision of the Ophaire
 
-- Location: [Catacombs](../locations/holzanderCastle.md#Catacombs) (as set out in SC45)
+- Location: [Catacombs](holzanderCastle.md#Catacombs) (as set out in SC45)
 - Conflicts: Awakening Holzander revenant ancestors never stops - Keep adding foes as necessary to make this area a tough one. 1 in 4 per scene another revenant awakes.
 - End conditions: The PCs realise there is nothing here for them.
 - Works as rank 1 location (CR 6-8 with 2 or 3 foes)
@@ -32,10 +32,10 @@ creatures:
 
 ## H114 Mystra's door
 
-- Location: [Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
+- Location: [Mystra's Door](holzanderCastle.md#Mystra's%20Door)
 - Draw: Learn where the door is located for finding it from above
 - Password in ancient Elvish: "*Edr- dolenpant fen, a let golodh n-*" which means "Open resourceful door, and let knowledge be"
-- From the desert side it connects to [dannamore](../locations/dannamore.md)
+- From the desert side it connects to [dannamore](dannamore.md)
 
 - Access to the surface is on the collapsed tunnel close to the Holzander's catacombs.
 - The tunnel goes up for about 1 km, and then there is a silver door that is magically locked by a Mystra protection spell [WIS Religion DC 15].

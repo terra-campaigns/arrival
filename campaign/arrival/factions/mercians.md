@@ -59,7 +59,7 @@ tags:
 
 ## Details
 
-![Mercian](cultures.md#Mercian)
+![Mercian](../context/cultures.md#Mercian)
 
 Mercians are the natural followers of Wuvurax. Many do so by following the folk polytheistic Mercian religion, of which Mondendovil is the forefather. But the religion itself lost influence in the last decades, with the expansion of Faletism from the west. However, even with the loss of religious influence, the cultural influence still persists strongly.
 
