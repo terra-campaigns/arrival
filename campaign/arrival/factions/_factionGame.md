@@ -94,10 +94,22 @@ flowchart LR
 
 ```dataview
 table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "I1", interest.ffkaEast AS "I2", interest.rurkinar AS "I3", interest.mercians AS "I4"
-from "campaign/factions"
+from "campaign/arrival/factions"
 WHERE contains(type, "faction")=true
 sort id asc
 ```
+
+### Next (min 3877.6D6)
+
+**Background actors**
+- Gulthas fights enemies on the road: 1 in 20 he gets hurt, 7 in 10 he survives
+- Werebear?
+- Bandit camp?
+- Danaska and Cagoth-ze at odds
+- refilling dungeons (chance?)
+	- temple of remains: Who will take up the now empty temple of remains? 1 in 6 a faction takes it, 2 in 6 a wandering group takes it (roll on wwn205 to define, including rank). Lower rank than needed for region will continue to be challenged until appropriate rank is in place.
+- Kiranu arrive in Melister on 3877.7C7
+	- **The alliance of Nurderad, Katho and Kiranu lost to D'Elsin in the south. The surviving army is now helping the dwarves of Kiranu to migrate north, giving up the last southern civilisation. 300 miles to Melister first (at 10 miles per day). Then to Glasrath. 2 weeks to prepare departure. 5 weeks traveling. (meta-gaming: 2nd milestone of the campaign - out of 8)**
 
 ### 3877.6A6
 
@@ -123,13 +135,6 @@ sort id asc
 	- EXT extend interest mercians: make some dark partnership - automatic #info
 - Background actors (wwn334)
 	- [Ushulx](../npcs/ushulx.md) has built a sacrifice altar for [Scar](../npcs/scar.md) in the catacomb room, and will use the ritual (to be performed after 6D1) to ask Algath where Aivridyt can be found (DC 17 roll).
-	- Gulthas fights enemies on the road: 1 in 20 he gets hurt, 7 in 10 he survives
-	- Werebear?
-	- Bandit camp?
-	- Danaska and Cagoth-ze at odds
-	- refilling dungeons (chance?)
-		- temple of remains: Who will take up the now empty temple of remains? 1 in 6 a faction takes it, 2 in 6 a wandering group takes it (roll on wwn205 to define, including rank). Lower rank than needed for region will continue to be challenged until appropriate rank is in place.
-	- Kiranu arrive in Melister on 3877.7C7
 
 ### 3877.5F
 

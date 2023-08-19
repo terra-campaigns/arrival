@@ -8,11 +8,10 @@ game_date: 3877.6C7
 season: autumn
 location: xx
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
-party_level: 6
 members: 5
-party_tier: 2
-party_rank: 2
-xp: 
+party_rank: 2.8
+xp: min 2300
+dc_min: 14
 tags: 
 ---
 
@@ -28,12 +27,12 @@ tags:
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Review [Abridged](../context/abridged.md)
 - [x] Review and organise [Notions](../../notions.md)
-- [ ] Review and organise Sly Flourish secrets for Holzander
-- [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [ ] Detail strong start
+- [x] Review and organise Sly Flourish secrets for Holzander 15 jan
+- [x] Think about characters, write motivations & hooks, and bring one background bit to the session
+- [x] Define party rank, xp and DC min, XP ([_arrivalTracker](../_arrivalTracker.md))
+- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [ ] Define secrets & clues, adding links to them in scenes
 - [ ] Outline and update location notes, reviewing scenes and secrets
@@ -60,29 +59,27 @@ sort file.name asc
 - **Amyria**: Ammuinoth lore, protect little Guilf, find the Angel Hound and free her.
 - **Kethra**: Find the purple dragon / shadow dragon
 
-
 ## Intro
 
 - Sanity check for attacking innocents (1d6 for each, 2d6 for Kethra)?
 
 ## Strong start
 
-- Cagoth-ze or Danaska come to level 1 to speak with Ushulx about not making any rituals for the coming days. He/She will need the Brezal Paths powers.
+- 1d4 Cagoth-ze or Danaska come to level 1 to speak with Ushulx about not making any rituals for the coming days. He/She will need the Brezal Paths powers.
+- He/She sees the PCs and make their proposal:
+	- Deal with Cagoth - get rid of the Ngar'tho or make Danaska and her minions get lost. And he will tell how to get to the library.
+	- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
+- Alternative proposal (Lasbascilag): ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
 
 
 ## Potential scenes
 
-- [holzanderCastleL1](../locations/holzanderCastleL1.md)
-	- Undead in the crypt
-	- Meet Ushulx again, maybe see the altar
-- [holzanderCastleL2](../locations/holzanderCastleL2.md)
-	- Social challenge Danaska & Cagoth-ze
-		- Roll 1 in 6 for wandering encounters: On a 1, roll a d4, 1, 2 they meet Cagoth-ze first; 3,4 they meet Danaska first
-		- Deal with Cagoth - get rid of the Ngar'tho or make Danaska and her minions get lost. And he will tell how to get to the library
-		- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
-		- Deal with Lasbascilag - ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
+**[Level 1](../locations/holzanderCastleL1.md)**
+- Undead keep coming
 
-Some foreshadowing on Imortra and Gellert and the cult to the 'tho?
+**[Level 2](../locations/holzanderCastleL2.md)**
+- Some foreshadowing on Imortra and Gellert and the cult to the 'tho?
+- Visit to the library.
 
 ## Information pool
 
