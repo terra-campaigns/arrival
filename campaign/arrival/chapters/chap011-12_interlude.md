@@ -7,11 +7,11 @@ campaign: Arrival
 game_date: '?'
 season: '?'
 location: [Kelipah of Makab]
-pcs: [Dream versions of Dolman, Amyria and Guilf]
+pcs: [Dolman, Amyria, Guilf, (dream)]
 party_level: 1
 members: 3
 party_tier: 1
-party_rank: 0
+party_rank: 0.3
 xp: 0
 dc_min: 11
 cr_gauges: '[1]'

@@ -11,7 +11,7 @@ pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 6
 members: 5
 party_tier: 2
-party_rank: 2
+party_rank: 2.8 (est)
 xp: 2700 -20%
 dc_min: 14
 cr_gauges: '[10, 14, 17, 22]'

@@ -14,9 +14,9 @@ library(yaml)
 ```
 
 ```{r hexLevels}
-hexLevels <- data.frame(rank = 0:8) %>%
-  mutate(hdGauge = pmax(3, rank * 8),
-         partyXPsession = round((5500 * rank ^ 1.3 + 800)/100) * 100,
+hexLevels <- data.frame(rank = c(0:8, 2.8)) %>%
+  mutate(hdGauge = pmax(4, rank * 10),
+         partyXPsessionPerHour = round(1000 * rank) + 100,
          DCmin = as.integer(11 + rank * 1.5))
 
 knitr::kable(hexLevels, format = 'pipe')

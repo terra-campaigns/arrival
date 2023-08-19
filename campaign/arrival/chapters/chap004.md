@@ -9,6 +9,7 @@ season: spring
 location: [Ammuinoth Bells-Holzander]
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 party_level: 4 (est)
+party_rank: 2.0 (est)
 dc_min: 13
 cr_gauges: '[6, 8, 9, 12]'
 xp: 1112
