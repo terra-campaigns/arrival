@@ -6,15 +6,46 @@
 # libraries
 library(dplyr)
 library(yaml)
+library(EnvStats)
+
+# script to evaluate encounter rank
+if (FALSE) {
+  n <- 10000
+  
+  f1n <- round(rtri(n, 1, 8, 3.5))
+  f2n <- round(rtri(n, 0.5, 1.5, 1))
+  f3n <- round(rtri(n, 0, 2, 0.5))
+  f4n <- rep(1, n)
+  f5n <- round(rtri(n, 0, 2, 1))
+  
+  hist(f1n + f2n + f3n + f4n + f5n)
+  mean(f1n + f2n + f3n + f4n + f5n)
+  
+  f1r <- 1
+  f2r <- 3
+  f3r <- 5
+  f4r <- 7
+  f5r <- 10
+  
+  hist(f1n*f1r + f2n*f2r + f3n*f3r + f4n*f4r + f5n*f5r)
+  mean(f1n*f1r + f2n*f2r + f3n*f3r + f4n*f4r + f5n*f5r)
+}
 
 # function to generate the encounter code for obsidian
 genEncCode <- function (entry) {
   code <- '```encounter\ncreatures:\n'
   for (i in seq_along(entry)) {
-    code <- paste0(code, ' - ',
-                   names(entry[[i]]), ': ',
-                   as.character(entry[[i]]), '\n')
+    args <- as.numeric(strsplit(names(entry[[i]]), '-')[[1]])
+    
+    if (length(args) == 1) {
+      numberEnc <- args
+    } else {
+      numberEnc <- round(rtri(1, min = args[1], max = args[2], mode = args[3]))
+    }
+    
+    code <- paste0(code, ' - ', numberEnc, ': ', as.character(entry[[i]]), '\n')
   }
+  
   code <- paste0(code, '```')
   return (code)
 }
@@ -33,11 +64,11 @@ genReacRoll <- function (mod = 0) {
 }
 
 # import data
-dataLst <- read_yaml('campaign/locations/encounters/list_linhe.md')
+dataLst <- read_yaml('campaign/arrival/locations/encounters/list_linhe.md')
 
 # user inputs
-time <- 'day'
-rank <- 'r0'
+time <- 'night'
+rank <- 'r1'
 reacMod <- 0
 
 # define distance and encounter type

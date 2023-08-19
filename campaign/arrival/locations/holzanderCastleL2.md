@@ -7,7 +7,7 @@ hex: Holzander
 sub: Level 2
 type: ruin
 name: Castle of Holzander Level 2
-rank: 1
+rank: 2
 cr_gauges: ''
 status: detailed visited
 relevant: yes

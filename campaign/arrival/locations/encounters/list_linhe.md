@@ -65,44 +65,44 @@ misbegotten_activities:
 
 beasts_day_r0:
 - Sand sheep, antelope:
-  - 1d6 + 1: HD 00
+  - 1-7-4: HD 00
 - Scorpions, vipers, sand cats:
-  - 2d4 + 1: HD 00
+  - 1-10-5: HD 00
 - Dust hawks and vultures:
-  - 2d6: HD 00
+  - 1-13-5: HD 00
 - Hyenas, jackals:
-  - 1d4: HD 01
+  - 1-7-4: HD 01
 - Dire desert wolves:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - Desert lions:
-  - 1d4 - 1: HD 03
+  - 1: HD 03
 
 beasts_day_r1:
 - Sand sheep, antelope:
-  - 3d8: HD 00
+  - 3-24-12: HD 00
 - Scorpions, vipers, sand cats:
-  - 3d10: HD 00
+  - 3-30-15: HD 00
 - Dust hawks and vultures:
-  - 3d8 + 3: HD 00
+  - 6-27-15: HD 00
 - Hyenas, jackals:
-  - 3d4 + 1: HD 01
+  - 1-19-10: HD 01
 - Dire desert wolves:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - Desert lions:
-  - 1d4 + 1: HD 03
+  - 1-5-3: HD 03
 
 beasts_day_r2:
 - Construction
   
 beasts_night_r0:
 - Dust hawks and vultures:
-  - 2d6: HD 00
+  - 2-12-6: HD 00
 - Hyenas, jackals:
-  - 1d4: HD 01
+  - 1-7-4: HD 01
 - Dire desert wolves:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - Desert lions:
-  - 1d4 - 1: HD 03
+  - 1: HD 03
 - Cave bear:
   - 1: HD 04
 - Sabre-toothed tiger:
@@ -110,124 +110,124 @@ beasts_night_r0:
 
 beasts_night_r1:
 - Dust hawks and vultures:
-  - 3d8 + 3: HD 00
+  - 6-27-15: HD 00
 - Hyenas, jackals:
-  - 3d4 + 1: HD 01
+  - 1-19-10: HD 01
 - Dire desert wolves:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - Desert lions:
-  - 1d4 + 1: HD 03
+  - 1: HD 03
 - Cave bear:
-  - 1d4: HD 04
+  - 1: HD 04
 - Sabre-toothed tiger:
-  - 1d4: HD 05
+  - 1: HD 05
 
 beasts_night_r2:
 - Construction
 
 sapients_day_r0:
 - Rurkinar:
-  - 2d4 + 1: HD 00
+  - 3-9-6: HD 00
 - Dust elves:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - Mercian commoners:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - Bandits:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - FFKA scouts:
   - 1: War Scout
 - Anak Lesser:
-  - 1d6: Anak Scout
-- Anak War Band - R2:
-  - 2d4 - 2: Anak Scout
-  - 1d4: Anak Warrior
+  - 1-7-4: Anak Scout
+- Anak War Band - R1-2:
+  - 1-6-3: Anak Scout
+  - 1-3-2: Anak Warrior
   - 1: Anak Warchief
-- FFKA Tent - R3:
-  - 3d3-3: Guard City Watch
-  - 4d2-2: War Scout
-  - 1d2-1: Knight Priest
-  - 1d2-1: Maqqatba Knight
-  - 1d2-1: Maqqatba Lancer
+- FFKA Tent - R2-3:
+  - 1-8-3.5: Guard City Watch
+  - 0.5-1.5-1: War Scout
+  - 0-2-0.5: Knight Priest
+  - 1: Maqqatba Knight
+  - 0-2-1: Maqqatba Lancer
   
 sapients_day_r1:
 - Rurkinar:
-  - 2d8: HD 00
+  - 2-16-8: HD 00
 - Dust elves:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - Mercian commoners:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - Bandits:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - FFKA scouts:
-  - 1d4 + 1: War Scout
+  - 1-5-3: War Scout
 - Anak Lesser:
-  - 2d8 - 1: Anak Scout
-- Anak War Band - R2:
-  - 2d4 - 2: Anak Scout
-  - 1d4: Anak Warrior
+  - 1-19-10: Anak Scout
+- Anak War Band - R1-2:
+  - 1-6-3: Anak Scout
+  - 1-3-2: Anak Warrior
   - 1: Anak Warchief
-- FFKA Tent - R3:
-  - 3d3-3: Guard City Watch
-  - 4d2-2: War Scout
-  - 1d2-1: Knight Priest
-  - 1d2-1: Maqqatba Knight
-  - 1d2-1: Maqqatba Lancer
+- FFKA Tent - R2-3:
+  - 1-8-3.5: Guard City Watch
+  - 0.5-1.5-1: War Scout
+  - 0-2-0.5: Knight Priest
+  - 1: Maqqatba Knight
+  - 0-2-1: Maqqatba Lancer
 
 sapients_day_r2:
 - Construction
 
 sapients_night_r0:
 - Mercian commoners:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - Bandits:
-  - 1d4: HD 02
+  - 1-3-2: HD 02
 - FFKA scouts:
   - 1: War Scout
 - Anak Lesser:
-  - 1d6: Anak Scout
-- Anak War Band - R2:
-  - 2d4 - 2: Anak Scout
-  - 1d4: Anak Warrior
+  - 1-7-4: Anak Scout
+- Anak War Band - R1-2:
+  - 1-6-3: Anak Scout
+  - 1-3-2: Anak Warrior
   - 1: Anak Warchief
-- FFKA Tent - R3:
-  - 3d3-3: Guard City Watch
-  - 4d2-2: War Scout
-  - 1d2-1: Knight Priest
-  - 1d2-1: Maqqatba Knight
-  - 1d2-1: Maqqatba Lancer
-- Mercian Antinomi - R2:
+- FFKA Tent - R2-3:
+  - 1-8-3.5: Guard City Watch
+  - 0.5-1.5-1: War Scout
+  - 0-2-0.5: Knight Priest
+  - 1: Maqqatba Knight
+  - 0-2-1: Maqqatba Lancer
+- Mercian Antinomi - R1-2:
   - 1: Antinom
-  - 1d2: Bodyguard (Praetorian)
+  - 1-2-1.5: Bodyguard (Praetorian)
 
 sapients_night_r1:
 - Mercian commoners:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - Bandits:
-  - 2d4 - 1: HD 02
+  - 1-9-5: HD 02
 - FFKA scouts:
-  - 1d4 + 1: War Scout
+  - 1-5-3: War Scout
 - Anak Lesser:
-  - 2d8 - 1: Anak Scout
-- Anak War Band - R2:
-  - 2d4 - 2: Anak Scout
-  - 1d4: Anak Warrior
+  - 1-19-10: Anak Scout
+- Anak War Band - R1-2:
+  - 1-6-3: Anak Scout
+  - 1-3-2: Anak Warrior
   - 1: Anak Warchief
-- FFKA Tent - R3:
-  - 3d3-3: Guard City Watch
-  - 4d2-2: War Scout
-  - 1d2-1: Knight Priest
-  - 1d2-1: Maqqatba Knight
-  - 1d2-1: Maqqatba Lancer
-- Mercian Antinomi - R2:
+- FFKA Tent - R2-3:
+  - 1-8-3.5: Guard City Watch
+  - 0.5-1.5-1: War Scout
+  - 0-2-0.5: Knight Priest
+  - 1: Maqqatba Knight
+  - 0-2-1: Maqqatba Lancer
+- Mercian Antinomi - R1-2:
   - 1: Antinom
-  - 1d2: Bodyguard (Praetorian)
+  - 1-2-1.5: Bodyguard (Praetorian)
 
 sapients_night_r2:
 - Construction
 
 misbegotten_day_r0:
 - Uncreated giant vultures:
-  - 1d4 + 1: HD 01
+  - 1-7-4: HD 01
 - Uncreated giant scorpions:
   - 1: HD 04
 - Phase spider:
@@ -235,11 +235,11 @@ misbegotten_day_r0:
 
 misbegotten_day_r1:
 - Uncreated giant vultures:
-  - 2d8 - 1: HD 01
+  - 1-19-10: HD 01
 - Uncreated giant scorpions:
-  - 1d4: HD 04
+  - 1-4-2.5: HD 04
 - Phase spider:
-  - 1d3: Phase Spider
+  - 1-3-2: Phase Spider
 
 misbegotten_day_r2:
 - Construction
@@ -250,15 +250,15 @@ misbegotten_night_r0:
 - Lady Scurvy - R1:
   - 1: Lady Scurvy
 - Undead horde:
-  - 2d6: Slave Husk
+  - 1-15-8: Slave Husk
   
 misbegotten_night_r1:
 - Phase spider:
-  - 1d3: Phase Spider
+  - 1-3-2: Phase Spider
 - Lady Scurvy:
   - 1: Lady Scurvy
 - Undead horde:
-  - 6d4 + 1: Slave Husk
+  - 1-39-20: Slave Husk
 
 misbegotten_night_r2:
 - Construction
