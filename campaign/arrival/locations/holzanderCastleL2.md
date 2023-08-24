@@ -50,30 +50,32 @@ creatures:
  - 1: Gelatinous Cube
 ```
 
-### H204 (CR 4)
-
-**Anaks**
+### H204
 
 ```encounter
 name: Anaks
 creatures:
- - 1: Goblin Boss
- - 6: Hobgoblin
+ - 1: Anak Warchief
+ - 2d4: Anak Warrior
 ```
+
+The leader (firstblade) of the dust goblin raiding party is a veteran of many such incursions named Keluikinj. Like most dust goblins who rise to positions of leadership  in their tribe, Keluikinj’s mind is twisted and grim. He’s no more sadistic than most dust goblins, but he has a fascination with the Void—or at least with the idea of the Void, as his understanding of the Void’s nature is only a caricature of reality. Based on what he’s seen inside the citadel, Keluikinj believes Cagoth-ze and Danaska Maksilov have a connection to the Void that he’d like to exploit. They don’t, but that belief is what’s stopped the dust goblins so far from finishing what they came here for, which is murder and looting. The other dust goblins in Keluikinj’s group are losing patience with his delays and are on the verge of killing him so they can get on with killing everyone else.
 
 ### H206 (CR 7.5)
 
 - [Maksilov](../npcs/danaska.md) and Bastron (CR 4)
 
-Potion of heroism and hill giant strength. Bastron keeps the small potion vial on a string around its neck. When it looks like a fight is about to break out he drinks **before**.
+**Potion of heroism and hill giant strength**. Bastron keeps the small potion vial on a string around its neck. When it looks like a fight is about to break out he drinks **before**.
 
 ```encounter
 name: Mephits (CR 1.5)
 creatures:
+ - 1: Danaska Maksilov
  - 1: Ice Mephit
  - 1: Dust Mephit
  - 1: Magma Mephit
  - 1: Steam Mephit
+ - 1: Ochre Jelly
 ```
 - Damage Immunities. Add acid.
 - Death Burst. A creature that fails its saving throw also takes 3 (1d6) acid damage in addition to the standard effects.
@@ -89,15 +91,14 @@ creatures:
 
 ![](https://i.imgur.com/55qmtZe.png)
 
-When the dire gelatinous cube first starts its turn with 28 or fewer hit points, it reflexively strikes the cracked holding tank as a bonus action. This ruptures the tank and floods the room with ooze plasma. Every space from the top of the stairs to the door into Area 202 quickly becomes ankle-deep in ooze plasma, making it difficult terrain and dealing (2) 1d4 acid damage to every creature standing in the stuff at the start of their turn. The dire gelatinous cube heals 18 (4d4 + 8) hit points thanks to the infusion of plasma. In addition, every creature in that area when the tank is ruptured must make a successful DC 13 Dexterity saving throw or fall prone as the corrosive plasma envelops their feet. The cube tries to engulf as many prone characters as possible, and prone characters attempt to save against the attack with disadvantage.
+When the dire gelatinous cube first starts its turn with **28 or fewer hit points, it reflexively strikes the cracked holding tank as a bonus action. This ruptures the tank and floods the room with ooze plasma**. Every space from the top of the stairs to the door into Area 202 quickly becomes ankle-deep in ooze plasma, making it difficult terrain and dealing (2) 1d4 acid damage to every creature standing in the stuff at the start of their turn. The dire gelatinous cube heals 18 (4d4 + 8) hit points thanks to the infusion of plasma. In addition, every creature in that area when the tank is ruptured must make a successful DC 13 Dexterity saving throw or fall prone as the corrosive plasma envelops their feet. The cube tries to engulf as many prone characters as possible, and prone characters attempt to save against the attack with disadvantage.
 
-Finally, just because the cube is eventually killed doesn’t mean it stops being a threat. It can still block the passage (invisibly), and it’s still powerfully acidic to anyone and anything attempting to climb over it or squeeze through it.
+Finally, just because the cube is eventually killed doesn’t mean it stops being a threat. **It can still block the passage (invisibly)**, and it’s still powerfully acidic to anyone and anything attempting to climb over it or squeeze through it.
 
 ### H211
 
 **Ngar'tho. "We've seen your intellects before :)"**
 If PCs save the Ngar'tho - gain recognition by the Ngar'tho hive. If they kill him - the opposite.
-
 
 ```encounter
 name: Summoning circle (CR 5)
@@ -107,37 +108,21 @@ creatures:
 
 ### H216 Scriptorium
 
-**Timeline destination (d10 roll)**
-Remove everything before the Colligation of Time.
+Timeline space-time vision 1d10 roll, 5 times. 
 
-Points:
-	ammuinoth created by the first dynasty (when?)
-	tseb whii in the fall of the second dynasty had a bunch of outsiders attacking the land, coming from their holds in the mountains
-	maqqatalba is a land of shrines and temple settlements, each with its Knights and/or sorcerers/clerics
-	maqqatalba knights and the Angels?
+| Roll (d10) | Space-time image                | Description                                   |
+| ---------- | ------------------------------- | --------------------------------------------- |
+| 1          | https://i.imgur.com/H3JoaRX.png | Construction of the Ammuinoth                 |
+| 2          | https://i.imgur.com/hsBK26m.png | Modern Ammuinoth, war of titans               |
+| 3          | https://i.imgur.com/lr4R0as.png | The Angels, celestial engines, Theotechnology |
+| 4          | https://i.imgur.com/pFtxutb.png | Old civilisations                             |
+| 5          | https://i.imgur.com/MrsgVmo.png | Construct races                               |
+| 6          | Complete dark                   | iterum D358A-B Uncreated                      |
+| 7          | https://i.imgur.com/R87g8PC.png | Earth Mandate                                 |
+| 8          | https://i.imgur.com/MtMvt0t.png | 21st century Den Haag                         |
+| 9          | https://i.imgur.com/oZbJh4X.jpg | 22nd century Rio                              |
+| 10         | https://i.imgur.com/wh7BJPO.png | Before the end                                |
 
-Check what the PCs will investigate?
-
-1. *27023 years in the past, low accuracy due to the Colligation of Epochs: Construction of the Ammuinoth.* The characters are in a natural cavern, with a single tunnel that goes east and ends in a wellbore opened to the surface above. Ancient Dwarves and Elves are building the Ammuinoth in the region.
-	![](https://i.imgur.com/H3JoaRX.png)
-
-2. *23521 years in the past, low accuracy due to the Colligation of Epochs: Awakening of the Kyri.* The characters are in a natural cavern, with a single tunnel that goes east. The opening after the tunnel has a fully built Ammuinoth, with a passage to the surface. The construction utilises proto-seraphic engines and the existing upward wellbore has been vastly expanded expanded to the depths of the earth. The entire area has become an immense city with Deep Dwarves and Deep Elves.  
-	![](https://i.imgur.com/hsBK26m.png)
-
-3. *18009 years in the past, low accuracy due to the Colligation of Epochs: War for Guemenos.* The characters are in a natural cavern, with one single tunnel that goes north. Four savage-looking dwarves squat around a fire, roasting meat on sticks. The dwarves cry out in an difficult to recognise, guttural dwarvish language and grab stone-tipped spears lying in the dirt. If someone speaks with them in dwarvish they explain that a battle has been happening between two divine forces for the last 3000 years. If characters go through the tunnel, they can see scenes of the battle. 
-	![](https://i.imgur.com/lr4R0as.png)
-
-4. *9899 years in the past, low accuracy due to the Colligation of Epochs: After the Great Purge.* The characters are in a natural cavern, with one single tunnel that goes north. The cavern has been converted into a temple to Mammon, god of greed and madness. The room is swelteringly hot from an immense oven shaped like a monstrously fat humanoid that stands in the southern portion. Its open belly serves as the firebox, and flames within it are the only illumination. Six [cultists](https://open5e.com/monsters/cultist) and one [cult fanatic](https://open5e.com/monsters/cult-fanatic) in robes kneel before it. A proto-anak, bound and gagged, lies on a table that can be tipped up to slide the creature into the blazing furnace. If characters do nothing, the sacrifice continues. If characters intervene, the cultists fight to the death. The freed proto-anak is grateful but wants only to return to his village.
-	![](https://i.imgur.com/pFtxutb.png)
-
-5. *6512 years in the past, low accuracy due to the Colligation of Epochs: Brezal Paths umbilicals are awoken.* The characters are in a natural cavern with a collapsed ceiling, with one single tunnel that goes north. The collapsed ceiling gives access the Ammuinoth. A flux of bright green high energy is going through the tunnels, and leaves behind some green mucous. The characters land in the midst of a battle between six [duergar](https://www.dndbeyond.com/monsters/16850-duergar) and two [gricks](https://www.dndbeyond.com/monsters/16912-grick). No matter who wins, they aren’t welcoming toward the party.
-6. *498 years in the past, high accuracy: before the Great Depart.* The walls and furnishings of the library are ornate. Three elves are in the room, reading or sorting material on the shelves. They look at the characters with mild curiosity. They’ve seen the construct before, or at least heard about its rare appearances from previous caretakers of the scriptorium. This is the first time it’s been accompanied by anyone other than the clockwork servants, though these elves might not know that. How long the construct remains is up to you. The elves are friendly and willing to talk, but they won’t allow any material to be taken from their library. They speak only archaic Elvish (which is difficult to understand) and Draconic. Should the characters decide to get hostile, these elves use the stats of an archmage, an assassin, and a gladiator. When the construct fires up to leave, the elves quickly step out of its range and remain behind in their own time.
-7. *1500 years in the future, iterum 982AC123.* The chambers are barely recognisable from their earlier features. The hole in the floor of Area 215 has been repaired. Area 218 has been converted into a throne room for a clockwork king attended by six [clockwork soldiers](https://www.5esrd.com/database/creature/clockwork-soldier/) (Creature Codex) and four courtiers ([clockwork servants](https://www.5esrd.com/database/creature/clockwork-servant/)). They have, of course, heard tales of the shining blue deity that appeared briefly to their forebears generations ago but never imagined it would return in their runtimes. King Zakchi assumes the characters are the organic slaves of the time construct and the obviously superior clockwork servants, and he tends to ignore them or even become slightly offended if characters speak to him directly.
-	![](https://i.imgur.com/MrsgVmo.png)
-
-8. *15000 years in the future, iterum D358A-B Uncreated.* Doomsday has arrived, the characters are in the complete dark with only the floor around the construct holding them.
-9. *50,000 years in the future, iterum 3.* Undead from the Drylands have taken control of the now unrecognisable area. A wight, a ghast, and three ghouls are prowling through the chambers. The architecture looks as if the whole place was sculpted from worm-eaten bone. Over its bulky armor, the wight wears grave-stained priestly robes of dark maroon with a bright purple sash. It confronts the characters in Darakhul that has evolved to the point where it’s incomprehensible; it switches to nearly unintelligible Common if they don’t understand its first attempts. The wight-priest demands to know why the intruders defy the holy commands of Syrinx. It does not explain what this means, and if characters protest their innocence in any way, the undead attack in a righteous fury. More undead can join in if you want to up the ante.
-10. *75,000 years in the future, realisation 789S.* By this time, the upper layers are gone, blasted away by some titanic cataclysm. The area is open to the sky, which is wreathed in sheets of perpetual green flame. The dominant life form is chuuls, and they’ve become considerably more intelligent over the millennia. Two [chuuls](https://5e.tools/bestiary.html#chuul_mm) stand nearby. Their stats are identical to standard chuuls except they have an Intelligence score of 24 and telepathy (240 feet). They are only momentarily perturbed by the arrival of the time construct and the characters. One of the chuuls issues a telepathic command to “surrender the devices and prepare for cranial cessation.” The other chuul levels a complex metal device about 9 feet long at the characters. The device is a lightning gun capable of shooting a lightning bolt every other round (100-foot line; 8d6 lightning damage; save DC 13; can be fired only by someone with chuul claws and telepathy).
 
 ![|400](https://i.imgur.com/7CU16zR.png)
 
@@ -149,3 +134,23 @@ Check what the PCs will investigate?
 ### H217
 
 - [cagothze](../npcs/cagothze.md)
+
+### Library investigation topics
+
+**Library topics (9)**
+- **Kethra**
+	- #k1 (addressed) Legends on purple dragons
+- **Miraak**
+	- #m1 (addressed) How to kill dragons
+	- #m2 (addressed) How to turn an undead alive again
+- **Guilf**
+	- #g1 (addressed) Mr Void
+	- #g2 (addressed) Algath's prison, temple of remains and relationship with dragons
+- **Amyria**
+	- #a1 (addressed) Bretzal paths and intensified earth energy in the Ammuinoth. Extra motivation is also to try and figure out why FFKA prohibited the investigation of this type of magic. 
+	- #a2 (addressed) Ophaerie.The place below the Ghost domain. The red glowy place we came across. I am thinking it might be where the dragon got blessed from Algath. 
+	- #a3 (addressed) Theotechnology from ancient times
+- **Dolman**
+	- #d1 (addressed) Golden dragon machines since he believes that some how this religion antagonize his mother’s religion
+- **Extra**
+	- #e1 (addressed) Kimbarak
