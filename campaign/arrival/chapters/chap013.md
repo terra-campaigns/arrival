@@ -1,21 +1,21 @@
 ---
 category: chapter
 part: 2
-name: xx
+name: The Ancient Elven Library
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.6C7
 season: autumn
-location: xx
+location: Holzander
 pcs: [Miraak, Dolman, Kethra, Guilf, Amyria]
 members: 5
 party_rank: 2.8
-xp: min 2300
+xp: 2450
 dc_min: 14
 tags: 
 ---
 
-# Chapter 13 xxx
+# Chapter 13 The Ancient Elven Library
 
 ## Planning checklist
 
@@ -89,21 +89,12 @@ sort file.name asc
 
 ## Locations
 
-Assigning locations to hexes:
-- **1 in 10** If alongside the route (3 hex wide): it has been partially pre-generated in prep
-- **2 in 10** If 3+ hex away from road
-
 ```dataview
 table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Sub-location", type as "Type", rank as "Rank", status as "Status"
 from "campaign"
 WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
 sort hex asc
 ```
-
-### Random encounters
-
-[Wandering Encounters in Linhe](../context/secrets/secretsRealms.md#Wandering%20Encounters%20in%20Linhe)
-
 
 ## Relevant NPCs
 

@@ -172,3 +172,14 @@ With despair gnawing at their hearts, the remaining defenders made a fateful dec
 - While all that happened, Guilf had another opportunity to speak with The Void through the toad statue, and learned the terrible truth that his soul has been promised to that entity many years ago, by Guilf's own mother.
 
 ![](https://i.imgur.com/ljUCKNS.jpg)
+
+## Chapter 13 The Ancient Elven Library
+
+- The Glasrath defenders found themselves in a network of intrigue at the second level of the Holzander Castle. Danaska, an arcane scholar, wanted Cagoth-Ze, dealt with and proposed the group of heroes to take the task. The group did not agree to do the work, and went and met Cagoth-Ze, which had similar plans for Danaska - which the group again declined. Cagoth-Ze then made an alternative proposal, where the group would kill the Ngar'tho that was imprisoned in the summoning circle. The group again declined, and went parley with the creature, who only wanted to be made free.
+- In the end, the deal the broken heroes took was with the Ngar'tho, in exchange of valuable information. They learnt that Galiera is being hold on the third level by the Blighted - a slave race of Gellert. The group also learnt how to reach the library, which is hidden 100 thousand years in the future, among other valuable information. After the deal was completed the Ngar'tho vanished in thin air.
+- With the Ngar'tho free, and Cagoth-Ze believing the party had destroyed it, the group was now welcome into Cagoth's area in the level, and travelled with the time construct towards the library.
+- The time travel showed the group a series of imprints of the world, in the past and in the future, that each could only observe for a fraction of second. Some images were disturbing.
+- After spending a few hours on the library conducting their research, the group came back to the present time with the time construct, and at that moment the group saw itself divided: Dolman, Guilf and Amyria were decided to continue on the castle, until they find Galiera, while Miraak and Kethra decided to pursue their destiny and face Ghuse. The group said their farewells, hoping they would find each other in the future.
+
+
+![](https://i.imgur.com/UKMAPLE.jpg)

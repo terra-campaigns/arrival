@@ -149,7 +149,7 @@ Timeline space-time vision 1d10 roll, 5 times.
 - **Amyria**
 	- #a1 (addressed) Bretzal paths and intensified earth energy in the Ammuinoth. Extra motivation is also to try and figure out why FFKA prohibited the investigation of this type of magic. 
 	- #a2 (addressed) Ophaerie.The place below the Ghost domain. The red glowy place we came across. I am thinking it might be where the dragon got blessed from Algath. 
-	- #a3 (addressed) Theotechnology from ancient times
+	- #a3 (addressed) Theurgy from ancient times
 - **Dolman**
 	- #d1 (addressed) Golden dragon machines since he believes that some how this religion antagonize his mother’s religion
 - **Extra**
