@@ -147,9 +147,9 @@
 
 ### Active corps
 
-- **MI Group** (subsidiary of Mídia Internacional) is headquartered in Ipanema. Marisa Jardim Soares is a representative.
-- **BlueGold** has a large clinic in Copacabana. Ronaldo Baar is a representative.
-- **Tsu LatAm** (subsidiary of Tsunami SS) have a advanced post in Leblon. Captain Hada Togai is a representative.
+- **MI Group** (subsidiary of Mídia Internacional) is headquartered in Ipanema. [Marisa Jardim Soares](../npcs/marisaJS.md) is a representative.
+- **BlueGold** has a large clinic in Copacabana. [Ronaldo Baar](../npcs/ronaldoBaar.md) is a representative.
+- **Tsu LatAm** (subsidiary of Tsunami SS) have a advanced post in Leblon. Captain [Hada Togai](../npcs/hadaTogai.md) is a representative.
 
 ## Neo Rio
 

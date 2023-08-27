@@ -25,3 +25,14 @@ tags: [Depths Below, Media Factory]
 - [Irmaos Corvo](../factions/irmaosCorvo.md)
 - [Macacos Amarelos](../factions/macacosAmarelos.md)
 
+### Active corps
+
+- **MI Group** (subsidiary of Mídia Internacional) is headquartered in Ipanema. [Marisa Jardim Soares](../npcs/marisaJS.md) is a representative.
+- **BlueGold** has a large clinic in Copacabana. [Ronaldo Baar](../npcs/ronaldoBaar.md) is a representative.
+- **Tsu LatAm** (subsidiary of Tsunami SS) have a advanced post in Leblon. Captain [Hada Togai](../npcs/hadaTogai.md) is a representative.
+
+### Active fixers
+
+- [D. Marques Figueira](../npcs/dMarquesFigueira.md)
+- [Joaquin Aguila](../npcs/joaquinAguila.md)
+- [Lu Medina](../npcs/luMedina.md)
