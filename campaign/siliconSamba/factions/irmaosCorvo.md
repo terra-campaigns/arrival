@@ -7,7 +7,7 @@ name: Irmãos Corvo
 ## Summary
 
 - **Income**: Hacking
-- **Style**s:
+- **Styles**:
 	- Nationalist, supporting a particular nation, ethnicity, or group
 	- Chromed, heavily invested in not-always-safe-or-reliable cyberwear
 - **Strengths**: They have a fearsome reputation
@@ -16,5 +16,5 @@ name: Irmãos Corvo
 
 ## Members
 
-- Boss: Clarissa Gomes Gomes
-- Underling: Yang Lim
+- Boss: [Clarissa Gomes Gomes](../npcs/clarissaGG.md)
+- Underling: [Yang Lim](../npcs/yangLim.md)

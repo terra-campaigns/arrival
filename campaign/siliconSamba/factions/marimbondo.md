@@ -1,13 +1,13 @@
 ---
 category: faction
 campaign: Silicon Samba
-name: Enigmas
+name: Marimbondo
 ---
 
 ## Summary
 
 - **Income**: Corp hirelings
-- **Style**s:
+- **Styles**:
 	- Technical, preferring high tech tools and expertise
 	- Chromed, heavily invested in not-always-safe-or-reliable cyberwear
 - **Strengths**: They have an elite of cybered pros
@@ -16,5 +16,5 @@ name: Enigmas
 
 ## Members
 
-- Boss: Tom Elliott
-- Underling: Catarina Coelho
+- Boss: [Tom Elliott](../npcs/tomElliott.md)
+- Underling: [Catarina Coelho](../npcs/catarinaCoelho.md)
