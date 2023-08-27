@@ -7,6 +7,12 @@
 
 ### Active gangs
 
-- [Marimbondo](../factions/marimbondo.md): Know for their hirelings that work for any corp willing to pay their fees. They are heavy invested in cyberware and are led by [Tom Elliot](../npcs/tomElliott.md).
-- [Irmaos Corvo](../factions/irmaosCorvo.md): A known hacker group that does the dirty work of the government. They are led by [Clarissa Gomes Gomes](../npcs/clarissaGG.md)
-- [Macacos Amarelos](../factions/macacosAmarelos.md): A group of japanese-desendent 
+- **[Marimbondo](../factions/marimbondo.md)**: Known for their hirelings that work for any corp willing to pay their fees. They are heavy invested in cyberware and are led by [Tom Elliot](../npcs/tomElliott.md).
+- **[Irmaos Corvo](../factions/irmaosCorvo.md)**: A known hacker group that does the dirty work of the government. They are led by [Clarissa Gomes Gomes](../npcs/clarissaGG.md).
+- **[Macacos Amarelos](../factions/macacosAmarelos.md)**: A group of Japanese petty thieves. They are led by the fearsome and violent Shimoda Sakae.
+
+### Active corps
+
+- **MI Group** (subsidiary of Mídia Internacional) is headquartered in Ipanema. Marisa Jardim Soares is a representative.
+- **BlueGold** has a large clinic in Copacabana. Ronaldo Baar is a representative.
+- **Tsu LatAm** (subsidiary of Tsunami SS) have a advanced post in Leblon. Captain Hada Togai is a representative.
