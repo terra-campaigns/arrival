@@ -91,3 +91,6 @@ Combat --> id06[Sanity rolls, if applicable]
 Social --> id06
 ```
 
+![Deffensive](fwn_plots.md#Deffensive)
+
+![Offensive](fwn_plots.md#Offensive)
