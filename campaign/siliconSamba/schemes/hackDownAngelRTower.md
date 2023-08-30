@@ -2,7 +2,7 @@
 category: scheme
 campaign: Silicon Samba
 location: Zona Sul
-faction: Irmaos Corvo
+faction: "[irmaosCorvo](../factions/irmaosCorvo.md)"
 name: Hack Down Angel Research Tower
 size: District
 supporter: 
