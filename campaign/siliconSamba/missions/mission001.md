@@ -8,8 +8,9 @@ scheme: "[hackDownAngelRTower](../schemes/hackDownAngelRTower.md)"
 faction: "[irmaosCorvo](../factions/irmaosCorvo.md)"
 objective: retrieve down angel research tower access codes
 rank: 0
+pp: 1
 type: espionage
-reward:
+reward: 11k
 exclusivity: true
 op_team:
 status: open
@@ -60,3 +61,6 @@ Patron: A corporate industrial spymaster
 Profit to op: It has directions to a cache of precious loot
 Why is it guarded information? It points to very illegal activities
 Twists: Data is in a dangerous ruin site
+
+Tunnel battlemap:
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2nazzqnr82f61.jpg

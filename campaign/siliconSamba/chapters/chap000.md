@@ -8,7 +8,7 @@ location: Zona Sul
 pcs: 
 members: 3
 party_rank: 0.3
-xp: 
+xp: 2
 tags: 
 ---
 
@@ -16,18 +16,22 @@ tags:
 
 ## Planning checklist
 
-- [x] Summarise previous chapter and distribute xp
-- [ ] Commit next chapter draft
-- [ ] Clean up previous chapter files, final commit
-- [ ] Update inkarnate maps (if applicable)
-- [ ] Evaluate new game date
-- [ ] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [ ] Review Abridged
-- [ ] Review and organise Notions
-- [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party rank, xp and DC min, XP ([_arrivalTracker](../_arrivalTracker.md))
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [ ] Detail strong start
+- [x] Summarise previous chapter, distribute xp
+- [x] Evaluate heat
+- [x] Commit next chapter draft
+- [x] Clean up previous chapter files, final commit
+- [x] Update inkarnate maps (if applicable)
+- [x] Evaluate new game date
+- [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
+- [x] Review Abridged
+- [x] Review and organise [_siliconSambaNotions](../_siliconSambaNotions.md)
+- [x] Define party rank and xp
+- [x] If the PCs have chosen a new mission in the end previous session, randomly choose 2d2-1 existing open mission to be taken by NPC Ops
+- [x] If there are more than one mission taken by NPC Ops, randomly choose one to be finished and run its results (cwn140)
+- [x] Generate more missions to keep at least 1d6 open missions at all times
+- [x] If PCs visited a new district, create 1 new scheme for that district
+- [x] If a scheme is finished, create 1 new scheme
+- [x] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [ ] Define secrets & clues, adding links to them in scenes
 - [ ] Outline and update location notes, reviewing scenes and secrets
@@ -47,16 +51,17 @@ tags:
 
 ## Strong start
 
+- Invite to a jazz bar by [dMarquesFigueira](../npcs/dMarquesFigueira.md)
 - Commute to nightclub, where they meet [dMarquesFigueira](../npcs/dMarquesFigueira.md)
 - They talk about work as operatives, she explains the drill and how the work feed works
 
 ## Potential scenes
 
-- Meet [luMedina](../npcs/luMedina.md)
+- Meet [luMedina](../npcs/luMedina.md) in a commute scene 
 - Broadcasts:
 	- public statement of Down Angel Brasil directors on the corrupt affairs of the BOPE companies in Zona Sul.
 	- financial director of Renovabras went missing
-- Random encounters: 1 in 6, roll once each 8h, except downtime:  [link](https://chartopia.d12dev.com/chart/22797/)
+- Random encounters: 1 in 10, roll once each 8h, except downtime:  [link](https://chartopia.d12dev.com/chart/22797/)
 
 ## Information pool
 

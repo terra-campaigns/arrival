@@ -8,8 +8,9 @@ scheme: "[miMolePrefecture](../schemes/miMolePrefecture.md)"
 faction: MI Group
 objective: rescue filmmakers guild actor
 rank: 0
+pp: 1
 type: rescue
-reward:
+reward: 22k
 exclusivity: true
 op_team:
 status: open

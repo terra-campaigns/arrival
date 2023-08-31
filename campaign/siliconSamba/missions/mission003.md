@@ -8,8 +8,9 @@ scheme: "[occupyServerTower](../schemes/occupyServerTower.md)"
 faction: "Tsu LatAm"
 objective: protect Tsunami SS scientist transfer
 rank: 0
+pp: 1
 type: defense
-reward: 
+reward: 25k
 exclusivity: false
 op_team:
 status: open
