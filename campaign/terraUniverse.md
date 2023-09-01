@@ -103,3 +103,15 @@ Ability to navigate deep metadimensions.
 
 Psitech to create the failsafe systems, celestial to create the engines, eldritch binds them.
 
+| Trope                                         | Setting available               |
+| --------------------------------------------- | ------------------------------- |
+| Gothic horror 90s / vampire                   |                                 |
+| Sci fi with fantasy/magic                     | Codex of black sun              |
+| Traditional sci fi (with or without psionics) | SWN/Traveller modules           |
+| Space horror / alien                          | Yes, needs conversion           |
+| Cosmic horror 30s                             |                                 |
+| Cosmic horror 8th century                     | Wolves of God + silent legions  |
+| Cyberpunk                                     | CWN                             |
+| Fallout                                       | Other Dust + fallout conversion |
+| Post apocalyptic fantasy                                             |  Dark sun                               |
+
