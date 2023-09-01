@@ -14,7 +14,7 @@ library(yaml)
 ```
 
 ```{r hexLevels}
-hexLevels <- data.frame(rank = c(0:8, 2.8)) %>%
+hexLevels <- data.frame(rank = 0:8) %>%
   mutate(hdGauge = pmax(4, rank * 10),
          partyXPsessionPerHour = round(1000 * rank) + 100,
          DCmin = as.integer(11 + rank * 1.5))
@@ -28,7 +28,7 @@ knitr::kable(hexLevels, format = 'pipe')
 
 ```{r levelTbl}
 
-intendedSessionsMult <- 1.4
+intendedSessionsMult <- 0.65
 
 levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000,
                               48000, 64000, 85000, 100000, 120000, 140000,
@@ -49,23 +49,8 @@ levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000,
          lvlUpXp = xp - lag(xp, default = first(xp)),
          lvlUpXp = lead(lvlUpXp, default = last(lvlUpXp)),
          chapToLevel = round(lvlUpXp / xpPerChap, 1),
-         DCmin = as.integer(12 + rank),
-         CRsolo = rank * 3 + tier + 1,
-         CR1vs1 = round(CRsolo / 3 + (level - 8) * tier / 20, 1),
-         CR2vs1 = round(CR1vs1 * 0.6 * 2, 1),
-         CR4vs1 = round(CR1vs1 * 0.4 * 4, 1),
-         consMgcItmQtd = c(rep(2, 4), 3, rep(2, 3), 1, 1, 2, 2,
-                           rep(c(2, 2, 1), 2), 1, 2),
-         consMgcItmTbl = c(rep('A', 5), rep('B', 5), rep('C', 5),
-                           rep('D', 4), rep('E', 1)),
-         permMgcItmTbl = c(rep('--', 2), rep(c(rep('F', 2), '--'), 2),
-                           rep(c(rep('G', 2), '--'), 2), rep('H', 2),
-                           '--', rep('Lgdry', 2), '--')) %>%
-  group_by(tier) %>%
-  mutate(tierSum = pmax(1, 1.4 * cumsum(tier) / min(tier) - 0.5),
-         hoardTreasure = round(tierSum / chapToLevel,  1)) %>%
-  ungroup() %>%
-  select(-tierSum, -lvlUpXp, -xpPerChapL, -xpPerChapR)
+         DCmin = as.integer(12 + rank)) %>%
+  select(-lvlUpXp, -xpPerChapL, -xpPerChapR)
 
 knitr::kable(levelTbl, format = 'pipe')
 ```
