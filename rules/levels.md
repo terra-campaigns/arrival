@@ -1,23 +1,30 @@
+## Table of levels
+
+[Google Drive
+Link](https://docs.google.com/spreadsheets/d/1B9a7m8iBmsvPW8n7CQp91mwxGswfDrnrYzauqcntQKA/edit#gid=1672913206)
+
 ``` r
 hexLevels <- data.frame(rank = 0:8) %>%
-  mutate(hdGauge = pmax(4, rank * 10))
+  mutate(hdGauge = pmax(4, rank * 10),
+         missionPP = rank * 3 + 1,
+         missionBasePayKc = missionPP * 4)
 
 knitr::kable(hexLevels, format = 'pipe')
 ```
 
-| rank | hdGauge |
-|-----:|--------:|
-|    0 |       4 |
-|    1 |      10 |
-|    2 |      20 |
-|    3 |      30 |
-|    4 |      40 |
-|    5 |      50 |
-|    6 |      60 |
-|    7 |      70 |
-|    8 |      80 |
+| rank | hdGauge | missionPP | missionBasePayKc |
+|-----:|--------:|----------:|-----------------:|
+|    0 |       4 |         1 |                4 |
+|    1 |      10 |         4 |               16 |
+|    2 |      20 |         7 |               28 |
+|    3 |      30 |        10 |               40 |
+|    4 |      40 |        13 |               52 |
+|    5 |      50 |        16 |               64 |
+|    6 |      60 |        19 |               76 |
+|    7 |      70 |        22 |               88 |
+|    8 |      80 |        25 |              100 |
 
-## Table of levels (deprecated)
+## Table of levels (original 5e)
 
 ``` r
 intendedSessionsMult <- 0.75
