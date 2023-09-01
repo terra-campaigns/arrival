@@ -15,9 +15,7 @@ library(yaml)
 
 ```{r hexLevels}
 hexLevels <- data.frame(rank = 0:8) %>%
-  mutate(hdGauge = pmax(4, rank * 10),
-         partyXPsessionPerHour = round(1000 * rank) + 100,
-         DCmin = as.integer(11 + rank * 1.5))
+  mutate(hdGauge = pmax(4, rank * 10))
 
 knitr::kable(hexLevels, format = 'pipe')
 ```
@@ -28,7 +26,7 @@ knitr::kable(hexLevels, format = 'pipe')
 
 ```{r levelTbl}
 
-intendedSessionsMult <- 0.65
+intendedSessionsMult <- 0.75
 
 levelTbl <- data.frame(xp = c(0, 300, 900, 2700, 6500, 14000, 23000, 34000,
                               48000, 64000, 85000, 100000, 120000, 140000,
