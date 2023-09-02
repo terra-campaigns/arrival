@@ -39,27 +39,9 @@ The end of the Sorcerer-Kings Era, known as the Cerulean Cycle, brought the age 
 
 The world is being populated with life again, and a few sorcerer-kings are able to re-establish some kingdoms. The last Dragon-King (Yurroi) breached Heaven, from where reality and meta-dimensional channels were operated. The kings searched for the creator of reality but found the throne empty. The celestial engines were operated by Angels, and in an act of fury the kings decided to vandalise Heaven. That did not go unpunished, and a war between the Angels and the Dragon-Kings ensued, culminating with the Earth scattered in pieces alongside uncreated reality. The universe was broken.
 
-After the Dragon-Kings demise, other powerful sorcerers took their place, and used the stolen shards of heaven and eldritch rituals to weave the Made Gods. These divine powers finally uncreated Heaven itself. But with that, reality also became broken. Some Angels took lair in Earth itself, with most eventually waning in power and becoming proto-elves. A handful were able to maintain their power and proclaimed themselves as **The Edrahil**.
+After the Dragon-Kings demise, other powerful sorcerers took their place, and used the stolen shards of heaven and eldritch rituals to weave the Made Gods. These divine powers finally uncreated Heaven itself. But with that, reality also became broken. Some Angels took lair in Earth itself, with most eventually waning in power and becoming proto-elves. A handful were able to maintain their power and proclaimed themselves a
 
 
-## The Legacy
-***400 millennia***
-
-A lot in unknown about this period, but what is known is that an ethereal race emerged on Earth, and were able to use their powers to weave a new fabric for reality and stitch the universe back together. This new fabric became known as The Legacy and the sorcerers who created it became known as The Weavers. The knowledge around the Legacy and its operation is buried in the Legacy itself, and mostly unknown to anyone.
-
-
-## Outsider Rulers
-***700 millennia***
-
-The weakened humanity was overrun by waves of Outsider invasions, which conquered Earth one after the other. These Outsiders mostly battle amongst themselves, and humanity was driven to the deeps of Earth. During this era, a few remaining sorcerer-kings further their power through Outsider knowledge, and these became known as **The Kyri**.
-
-The Outsider powers, in the end, were defeated by The Legacy, and most of these species fled Terra.
-
-
-## Latter Earth
-***Last 4 millennia***
-
-Some celestial power attempted to break the Legacy, but some kind of defence protocol was activated. This became known as the Colligation of Time.
 
 
 # Uncanny powers in the universe
@@ -103,15 +85,4 @@ Ability to navigate deep metadimensions.
 
 Psitech to create the failsafe systems, celestial to create the engines, eldritch binds them.
 
-| Trope                                         | Setting available               |
-| --------------------------------------------- | ------------------------------- |
-| Gothic horror 90s / vampire                   |                                 |
-| Sci fi with fantasy/magic                     | Codex of black sun              |
-| Traditional sci fi (with or without psionics) | SWN/Traveller modules           |
-| Space horror / alien                          | Yes, needs conversion           |
-| Cosmic horror 30s                             |                                 |
-| Cosmic horror 8th century                     | Wolves of God + silent legions  |
-| Cyberpunk                                     | CWN                             |
-| Fallout                                       | Other Dust + fallout conversion |
-| Post apocalyptic fantasy                                             |  Dark sun                               |
 
