@@ -13,8 +13,8 @@ dominion: 0
 interest:
   glasrath:
   ffkaEast: 0
-  rurkinar: 3
-  mercians: 2
+  rurkinar: 4
+  mercians: 3
 tags: 
 ---
 

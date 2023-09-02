@@ -6,12 +6,12 @@ world: Guemenos
 continent: Etor
 campaign: Arrival
 tier: 2
-features: 2
+features: 1
 trouble: 5
 cohesion: 1
 dominion: 1
 interest:
-  glasrath: 3
+  glasrath: 4
   ffkaEast: -4
   rurkinar: 
   mercians: -3
@@ -22,7 +22,6 @@ tags:
 
 - **Features**
 	- Guilf is now a weak channel from the Angel Hound
-	- Strong cult believers, protectors of Linhe
 - **Trouble**
 	- Lost their strongest ally - the Angel Hond (1 pt)
 	- Are losing followers to the FFKA fast (1 pt)

@@ -99,17 +99,40 @@ WHERE contains(type, "faction")=true
 sort id asc
 ```
 
-### Next (min 3877.6D6)
+### Next (min 3877.6C1)
 
 **Background actors**
 - Gulthas fights enemies on the road: 1 in 20 he gets hurt, 7 in 10 he survives
 - Werebear?
 - Bandit camp?
-- Danaska and Cagoth-ze at odds
+- Strong start: Danaska has a heated debate with Cagoth. Roll a reaction to see what she thinks of the PCs sleeping with Cagoth.
+- Ushulx carries out the ritual and kills Scar
 - refilling dungeons (chance?)
 	- temple of remains: Who will take up the now empty temple of remains? 1 in 6 a faction takes it, 2 in 6 a wandering group takes it (roll on wwn205 to define, including rank). Lower rank than needed for region will continue to be challenged until appropriate rank is in place.
 - Kiranu arrive in Melister on 3877.7C7
 	- **The alliance of Nurderad, Katho and Kiranu lost to D'Elsin in the south. The surviving army is now helping the dwarves of Kiranu to migrate north, giving up the last southern civilisation. 300 miles to Melister first (at 10 miles per day). Then to Glasrath. 2 weeks to prepare departure. 5 weeks traveling. (meta-gaming: 2nd milestone of the campaign - out of 8)**
+- 3877.7B -> Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse.
+
+### 3877.6F1
+- Order: 1, 2, 4, 3
+- Glasrath:
+	- INT build strength - 1d8 DC 3 to get 1 dominion, outcome 1 - fail
+	- EXT extend interest rurkinar: extend trade route (Whursock) - automatic
+	- EXT extend interest mercians: make some dark partnership - automatic
+- FFKA East:
+	- INT build strength - 1d8 DC 4 to get 1 dominion, outcome 2 - fail
+	- EXT attack Rurkinar: try to incarcerate Otaehryn Valdove (chieftan) in linhe - 1d8 Vs 1d8, outcome 7>6 - succeed
+	- EXT extend interest mercians: bully the mercians so they are watchful in Linhe - 1d8 Vs 1d10, 6<3 - succeed
+	- EXT extend interest glasrath: make contact with them to get info - 1d8 Vs 1d8, 6>1 - succeed
+- Mercians
+	- INT enact change (start uncreation in Linhe with the void umbilicals) - 1d10 DC 4, outcome 8 - succeed: Ethux'zhurh is now connected to the Brezal path
+	- EXT extend interest glasrath: expansion towards the mountains - automatic
+	- EXT attack Rurkinar: Ravage the land of the Rurkinar: 1d10 Vs 1d8, outcome 1<8 - fail
+	- EXT extend interest ffka: manipulate them - 1d10 Vs 1d8, result 5>2 - pass
+- Rurkinar
+	- INT build strength - 1d8 DC 6 to get 1 dominion, outcome 3 - fail
+	- EXT extend interest glasrah: extend trade route - automatic
+	- EXT extend interest mercians: protection prayer for Linhe - 1d8 Vs 1d10, outcome 8=8 - fail as ties goes to higher powered factions
 
 ### 3877.6A6
 

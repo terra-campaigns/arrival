@@ -11,10 +11,10 @@ trouble: 3
 cohesion: 2
 dominion: 1
 interest:
-  glasrath: 0
+  glasrath: -1
   ffkaEast: 
   rurkinar: -5
-  mercians: -6
+  mercians: -7
 tags: 
 ---
 
