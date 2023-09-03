@@ -10,6 +10,7 @@ xp: 16270
 ac: 13
 sanity: 70 [70]
 artefacts:
+relevant: false
 tags:
 ---
 

@@ -1,21 +1,20 @@
 ---
 category: chapter
 part: 2
-name: xx
+name: The third level
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.6F1
-season: autumn
+season: winter (corrected)
 location: Holzander
 pcs: [Dolman, Guilf, Amyria]
 members: 3
 party_rank: 1.8
 xp: 3300
-dc_min: xx
 tags: 
 ---
 
-# Chapter 14 xx
+# Chapter 14 The third level
 
 ## Planning checklist
 
@@ -25,11 +24,11 @@ tags:
 - [x] Update inkarnate maps (if applicable)
 - [x] Evaluate new game date
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [ ] Review [Abridged](../context/abridged.md)
-- [ ] Review and organise [Notions](../../notions.md)
+- [x] Review [Abridged](../context/abridged.md)
+- [x] Review and organise [_arrivalNotions](../_arrivalNotions.md)
 - [ ] Review and organise Sly Flourish secrets for Holzander 15 jan
-- [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party rank, xp and DC min, XP ([_arrivalTracker](../_arrivalTracker.md))
+- [x] Think about characters, write motivations & hooks, and bring one background bit to the session
+- [ ] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [ ] Detail strong start
@@ -47,14 +46,14 @@ tags:
 ```dataview
 table without ID link(file.link, name) AS "Name", species AS "Species", level AS "Level", xp, ac AS "AC", sanity AS "Sanity", artefacts AS "Artefacts"
 from "campaign"
-WHERE type = "pc"
+WHERE type = "pc" & relevant = true
 sort file.name asc
 ```
 
 ### Motivations
 
 - **Dolman**: Find Galiera, free Fuko from Ghuse
-- **Guilf**: Find out more about The Void, and why it is so dark
+- **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul.
 - **Amyria**: Protect little Guilf, find the Angel Hound and free her.
 
 ## Intro

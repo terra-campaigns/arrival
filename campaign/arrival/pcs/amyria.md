@@ -10,6 +10,7 @@ xp: 13570
 ac: 18
 sanity: 85 [85]
 artefacts: [Sentinel Shield]
+relevant: true
 tags:
 ---
 

@@ -10,6 +10,7 @@ xp: 9790
 ac: 16
 sanity: 65 [52]
 artefacts: [Dreadmaska, Bitterluchcloak]
+relevant: true
 tags:
 ---
 

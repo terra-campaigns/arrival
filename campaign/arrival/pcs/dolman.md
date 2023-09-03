@@ -10,6 +10,7 @@ xp: 16880
 ac: 18
 sanity: 60 [60]
 artefacts: [Kimbarakerhands]
+relevant: true
 tags:
 ---
 

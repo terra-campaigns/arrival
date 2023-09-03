@@ -3,8 +3,8 @@
 - [ ] **Ushulx sacrifices Scar and communicates with Caucharn, she the goes to Glasrath to join Ghuse**
 - [ ] Kimbarak Hands are an ancient and powerful artefact - many would be searching for it?
 - [ ] Frost Anaks come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
-- [ ] **Ethux'zhurh: "I am now feeding in uncreation!! hahaha"**
-- [ ] **Umbilicals are lit in the land of linhe**
+- [ ] **Ethux'zhurh: "I am now feeding in uncreation, I will not die!!!! hahaha"**
+- [ ] **Umbilicals are lit in the land of linhe** - End of Part 2?
 
 ## Holzander Castle
 
@@ -30,5 +30,6 @@
 
 - [ ] #context Olivepia is where the head of the Faletist church sits. It is a religious empire with a strong hand on neighbour empires (other empires are vassals)
 - [ ] #strategic **Glasrath: number of undead greatly surpasses the number of alive people (2-to-1), mostly working the mines. Singlestrike joins support for Ghuse and population is mostly in full support (about 200 soldiers and guards are supporting). If characters haven't noticed yet, they notice now, that people are looking more pale and seem a bit brain drained.**
+- [ ] The world is made of layers atop of layers of ancient civilisations' constructions and infrastructures
 
 

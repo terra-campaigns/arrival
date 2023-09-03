@@ -158,28 +158,35 @@ With despair gnawing at their hearts, the remaining defenders made a fateful dec
 
 ## Chapter 12 Finding Holzander once more
 
-- The broken Glasrath defenders spent a week amongst the dwarves in the mining enclave of Durnum. 
-- In an action of kindness, Amyria offered food to the famine dwarves, and promised help dealing with the Dust Elves traders under Neeleu, so that they are less aggressive with their quotas.
-- They learned that the enclave of Durnum was built in an ancient construction shaft that connects to another Ammuinoth tunnel.
-- While talking with Glorizerlug Chaosfoot, they learned that the war in the south is being lost, which forced the Kiranu dwarves to abandon their houses in the mountains and migrate north protected by the Nurderad Dragonborn.
-- The heroes warned of the possible dangers lingering in the Glasrath mountains, if the Kiranu were to take shelter there. Dolman was divided if he wanted to go back to Glasrath and possibly protect his Kirano kin, or march forth towards the castle and all the answers that he was looking for. The party decided on continue to the castle.
-- In a wise move, Guilf looked into the dwarves mind to see the how to get to the Holzander Castle, which saved them hours of search in the desert.
-- From the enclave, the party decided to continue their journey to Holzander through the desert, which was safe until the old ruins of Dannamore, where an entrance to the castle was to be found.
-- While reaching the ruins of Dannamore, under a heavy thunderstorm, the party was chased into the ruins by a storm spirit.
-- Inside the ruins the Glasrath defenders run into a detached band of Anak Warriors who were also fleeing the war in the south, and in an instinctive act of violence Kethra attacked them.
-- The fight that ensued was not easy, and Miraak found himself stabbed to almost death by a nimble Anak that was hiding in one of the ruined walls. In the end, the broken heroes won this sad encounter, feeling cursed by their choice of killing innocent creatures.
-- What followed was: finally finding the magic Mystra's door that accessed the castle of Holzander, getting in and, after a quick skirmish with undead tomb guardians known as Revenants, finding Ushlux again.
-- While all that happened, Guilf had another opportunity to speak with The Void through the toad statue, and learned the terrible truth that his soul has been promised to that entity many years ago, by Guilf's own mother.
+In the shadowed enclave of Durnum, the broken Glasrath defenders sought refuge among the stoic dwarves, their journey fraught with despair and uncertainty. Amyria, ever the beacon of compassion, extended a benevolent hand to the famine-stricken dwarves. Her words promised respite from the relentless Dust Elf traders who, under the merciless rule of Neeleu, demanded burdensome tributes. As the heroes conversed with Glorizerlug Chaosfoot, the dwarven elder revealed the secrets of Durnum's origins. The mining enclave had been hewn from the very bedrock of an ancient construction shaft, a subterranean passageway that linked to the tunnels of Ammuinoth.
+
+From the lips of Chaosfoot, they learned of the grim state of affairs in the southern realms, a harrowing tale of defeat and despair that had driven the Kiranu dwarves to forsake their mountain abodes. Their desperate exodus northward had been shielded by the stalwart Nurderad Dragonborn, but the heroes' hearts grew heavy with dread. In the midst of their deliberations, Dolman's heart wrestled with a terrible choice. His Kirano kin, vulnerable and threatened, called out to him from the south. Yet, the enigmatic secrets of Holzander Castle where his mother has been lost a decade ago. A heavy silence hung over the party as they made their fateful decision to press onward to the castle, hearts heavy with the weight of unresolved choices.
+
+It was Guilf, his mind forged in the fires of bardic curiosity, who delved into the thoughts of the dwarves. Through their collective memory, he gleaned the knowledge they sought—the hidden path to Holzander Castle, an invaluable revelation that saved them precious hours of fruitless searching in the unforgiving desert.
+
+With resolve renewed, the broken heroes embarked on the desert trail, their passage serene until they reached the ancient ruins of Dannamore. Here, beneath a tumultuous thunderstorm that cast jagged forks of lightning across the heavens, they found themselves pursued by a vengeful storm spirit, a tempest incarnate. Within the crumbling confines of Dannamore's ruins, the weary travelers stumbled upon an unexpected encounter—a band of Anak Warriors, also fleeing the encroaching southern conflict. In a tragic twist of fate, Kethra, her instincts awry, launched a fateful assault upon the unsuspecting Anaks. The ensuing clash was fierce and sorrowful, and amidst the chaos, Miraak fell upon the cold stonefrom a grievous wound inflicted by a nimble Anak hidden in the ruins. In the end, the broken heroes emerged victorious, yet the taste of innocent blood upon their hands was a bitter and haunting reminder of their choices.
+
+Amidst these tumultuous events, Guilf seized another chance to commune with The Void, an entity that loomed over him like a shadowy spectre. The revelation struck like a thunderbolt—Guilf's very soul had been pledged to this malevolent force, a debt owed by his own mother in a dark covenant of ages past.
+
+Now, within the ominous embrace of Holzander Castle, the broken heroes stood at a crossroads of destiny, their past and future intertwined in the eldritch tapestry of fate.
 
 ![](https://i.imgur.com/ljUCKNS.jpg)
 
 ## Chapter 13 The Ancient Elven Library
 
-- The Glasrath defenders found themselves in a network of intrigue at the second level of the Holzander Castle. Danaska, an arcane scholar, wanted Cagoth-Ze, dealt with and proposed the group of heroes to take the task. The group did not agree to do the work, and went and met Cagoth-Ze, which had similar plans for Danaska - which the group again declined. Cagoth-Ze then made an alternative proposal, where the group would kill the Ngar'tho that was imprisoned in the summoning circle. The group again declined, and went parley with the creature, who only wanted to be made free.
-- In the end, the deal the broken heroes took was with the Ngar'tho, in exchange of valuable information. They learnt that Galiera is being hold on the third level by the Blighted - a slave race of Gellert. The group also learnt how to reach the library, which is hidden 100 thousand years in the future, among other valuable information. After the deal was completed the Ngar'tho vanished in thin air.
-- With the Ngar'tho free, and Cagoth-Ze believing the party had destroyed it, the group was now welcome into Cagoth's area in the level, and travelled with the time construct towards the library.
-- The time travel showed the group a series of imprints of the world, in the past and in the future, that each could only observe for a fraction of second. Some images were disturbing.
-- After spending a few hours on the library conducting their research, the group came back to the present time with the time construct, and at that moment the group saw itself divided: Dolman, Guilf and Amyria were decided to continue on the castle, until they find Galiera, while Miraak and Kethra decided to pursue their destiny and face Ghuse. The group said their farewells, hoping they would find each other in the future.
+In the labyrinthine depths of Holzander Castle, the broken heroes found themselves enmeshed in a web of arcane intrigue. Danaska, the scholarly seeker of forbidden knowledge, had a request—a sinister task she desired accomplished. She wished for Cagoth-Ze, a master of time manipulation and a rival scholar, to be removed from the equation. The heroes, their spirits burdened by the enigma of the castle, were hesitant to oblige. Their path diverged, leading them to Cagoth-Ze's chamber, where they learned of the mage's own desire to eliminate Danaska. Once again, the group declined the call to violence.
+
+Cagoth-Ze, however, was not to be deterred. The master of time offered an alternative proposal—an arrangement in which the group would eliminate the imprisoned Ngar'tho within the summoning circle. But the heroes, weary of treacherous bargains and the siren call of dark deeds, once more turned down the offer. Thus, they ventured into the presence of the imprisoned Ngar'tho, an ancient entity yearning for freedom. It sought nothing but release, offering valuable information in return for its emancipation.
+
+In the end, the broken heroes struck a bargain with the Ngar'tho, a pact sealed with knowledge and secrets. The entity divulged the whereabouts of Galiera, held captive on the castle's elusive third level by the Blighted, a race ensnared by the malevolent Gellert. Furthermore, it unveiled the cryptic path to the hidden library, concealed within the tapestry of time itself.
+
+With the Ngar'tho liberated, Cagoth-Ze believed the heroes had fulfilled their part of the bargain and welcomed them into his realm within the castle's second level. There, they encountered a time construct, a paradoxical creation that would transport them through the temporal currents to the fabled library.
+
+The journey through the ever-shifting tides of time was a disorienting and surreal experience. The heroes glimpsed fleeting imprints of the world's past and future, each image a fleeting echo of reality, each moment pregnant with foreboding.
+
+After hours spent within the library, delving into tomes of arcane wisdom and timeless mysteries, the heroes returned to their present time with the time construct. It was at this pivotal juncture that the group found itself divided, their destinies pulling them in disparate directions.
+
+Dolman, Guilf, and Amyria were resolute in their quest to rescue Galiera from the clutches of the Blighted on the third level. Meanwhile, Miraak and Kethra, their hearts aflame with the burning desire for justice and retribution, chose to confront Ghuse, the dark puppeteer who had manipulated their fates. With heartfelt farewells and whispered hopes of reunification in the uncertain future, the heroes embarked on their divergent paths within the enigmatic depths of Holzander Castle.
 
 
 ![](https://i.imgur.com/UKMAPLE.jpg)

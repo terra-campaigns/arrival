@@ -23,7 +23,6 @@ There are 4 seasons: Winter, Spring, Summer and Autumn.
 
 The region of Maqqatba has very long winters (6 months or so) every year. During the coldest part in the winter, average temperatures could be up to 20C lower than normal temperatures. There are also summers, which tend to be short (less than 1 month), where average temperatures are 10 to 15C degrees warmer than normal. The very dim winter days tend to be as short as 4 hours, while high summer nights don't exist.
 
-The last documented season cycles are represented below.
 
 ## Timeline
 
