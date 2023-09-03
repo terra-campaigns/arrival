@@ -9,30 +9,27 @@ kanban-plugin: basic
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 - [ ] choose one major and one minor monstrous horror per boss sl154
 - [ ] use mithos aberrations sl177 in one thing in each chapter
-- [ ] layers upon layers of abandoned ancient infrastructure (subways from Contact)
-- [ ] add uncanny powers and monstrous drives to appropriate creatures
 - [ ] - Construct NPCs:<br>	- Character tags (AotLE)<br>	- Simple sheet (if required)<br>	- Image<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
-- [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
-- [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
+- [ ] Add one contradiction for important npc
 - [ ] create mercian cult as Silent legions cult
 - [ ] Create mystra / Falestism as Godbound religion
-- [ ] Calculate renown
-- [ ] The void can cure miraak, for a price - after the Ngar'tho has detected his thoughts.
-- [ ] Create undead mob as a creature
 - [ ] Create new cult for undeath in Linhe - the Eaten
 - [ ] Brezal path pulling is openning the earth with Uncreation ruptures. Uncreated creatures come from it.
-- [ ] Godbrain is dying
+- [ ] Add a crater to the map
+- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
+- [ ] Campfire scene - what characters want?
 
 
 ## snoozed
 
 - [ ] the guy that amyria spoke about destroying sergarus approaches her
-- [ ] Aivridyt's eggs hatch in the Darklake
-- [ ] 3878.4 NC Theklurth will come back for a revenge on the party (and Miraak)
-- [ ] 3894 NC Theklurth's child (demon dragonborn) will revenge it's mother
-- [ ] If things get ugly with Aivridyt, use the werebear to save PCs
-- [ ] Imotra might want to have one of the characters as her apprentice (VRgtR 44)
-- [ ] Looting of temple of remains and its impact on Aivridyt, Ushulx - Curchurn and Algath would not care.
+- [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
+- [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
+- [ ] Create undead mob as a creature
+- [ ] Sergarus is curious with guilf as he looks like the child he saved from their witch mother decades ago
+- [ ] Elder race of outsiders competing with humans in the past. Nameless city hp lovecraft
+- [ ] Street in a city with Ngar'tho with leaning houses... Dark etc.. Lovecraft
+- [ ] Calculate renown
 
 
 ## scenes and chapters
@@ -45,12 +42,9 @@ kanban-plugin: basic
 
 ## parking lot
 
-- [ ] Seraphic engines: only Acrisae and Turnskull have them, but they haven't built them
-- [ ] part 2 closes with the nots of brezal paths in linhe undone
 - [ ] part 3 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
 - [ ] but being incarnate The Void was afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void after having a body.
 - [ ] some spirit of great power that takes human form and accompanied a mortal
-- [ ] Intrigue / sabotage in Olivepia
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
 - [ ] offer dark gift when the angel hound is saved
@@ -58,11 +52,9 @@ kanban-plugin: basic
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
 - [ ] [towerTreeTemple](locations/towerTreeTemple.md)
-- [ ] if the ffka are overthrow, the rurkinar start to punish them for their doings and take their wealth
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
 - [ ] Meeting the Acrisae [contact](../../bookReviews/contact.md)
 - [ ] War in the south, deep freeze
-- [ ] Eifell tower in the desert
 
 
 ## templates
