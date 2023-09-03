@@ -10,7 +10,7 @@ location: Holzander
 pcs: [Dolman, Guilf, Amyria]
 members: 3
 party_rank: 1.8
-xp: 2450+
+xp: 3300
 dc_min: xx
 tags: 
 ---
@@ -19,19 +19,19 @@ tags:
 
 ## Planning checklist
 
-- [ ] Summarise previous chapter and distribute xp
-- [ ] Commit next chapter draft
-- [ ] Clean up previous chapter files, final commit
-- [ ] Update inkarnate maps (if applicable)
-- [ ] Evaluate new game date
-- [ ] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
+- [x] Summarise previous chapter and distribute xp
+- [x] Commit next chapter draft
+- [x] Clean up previous chapter files, final commit
+- [x] Update inkarnate maps (if applicable)
+- [x] Evaluate new game date
+- [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [ ] Review [Abridged](../context/abridged.md)
 - [ ] Review and organise [Notions](../../notions.md)
 - [ ] Review and organise Sly Flourish secrets for Holzander 15 jan
 - [ ] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [ ] Define party rank, xp and DC min, XP ([_arrivalTracker](../_arrivalTracker.md))
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [ ] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [ ] Define secrets & clues, adding links to them in scenes
@@ -53,9 +53,9 @@ sort file.name asc
 
 ### Motivations
 
-- **Dolman**: Find Galiera, learn about her stone, free Fuko from Ghuse
+- **Dolman**: Find Galiera, free Fuko from Ghuse
 - **Guilf**: Find out more about The Void, and why it is so dark
-- **Amyria**: Ammuinoth lore, protect little Guilf, find the Angel Hound and free her.
+- **Amyria**: Protect little Guilf, find the Angel Hound and free her.
 
 ## Intro
 
@@ -63,11 +63,7 @@ sort file.name asc
 
 ## Strong start
 
-- 1d4 Cagoth-ze or Danaska come to level 1 to speak with Ushulx about not making any rituals for the coming days. He/She will need the Brezal Paths powers.
-- He/She sees the PCs and make their proposal:
-	- Deal with Cagoth - get rid of the Ngar'tho or make Danaska and her minions get lost. And he will tell how to get to the library.
-	- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
-- Alternative proposal at level 2l ([Lasbascilag](../../../statblocks/ngar-tho.md)): ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
+- Strong start: Danaska has a heated debate with Cagoth. Roll a reaction to see what she thinks of the PCs sleeping with Cagoth.
 
 ## Potential scenes
 

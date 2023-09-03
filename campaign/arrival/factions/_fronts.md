@@ -35,19 +35,19 @@ Acrisae and Turnskull: 7 more fronts in total, 3 each plus the deflagration of f
 - [x] 5: Nothing happens
 - [x] 6: 1st Front, Turnskull - Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
 - [ ] 7: If no front passes, use a random world shaking event A [link](https://chartopia.d12dev.com/chart/3708/) or sixteen sorrows?
-- [ ] 8: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?), Alternative is to kick off another random adventure in Linhe (ravenloft ) maybe use the Foreshadoing for level 9?
-- [ ] 9: Foreshadowing for Part 3 - Thick mist starts (mist, night roads, uncreation)
-- [ ] 10: (mandatory 2nd front) - closes Part 2
-- [ ] 11: PCs are known as true divine legends - touched by Theurgy
-- [ ] 12: Random world shaking event B (dmg27)
-- [ ] 13: (mandatory 3rd front)
-- [ ] 14: (mandatory 4th front) - closes Part 3
-- [ ] 15: Foreshadowing part 4
-- [ ] 16: Random world shaking event C (dmg27)
-- [ ] 17: PCs are revered as divinities (godbound) - rites and followers might set up religions under the PCs
-- [ ] 18 (mandatory 5th front)
-- [ ] 19 (mandatory 6th front)
-- [ ] 20 (mandatory 7th front)
+- [ ] 8: (mandatory 2nd front)
+- [ ] 9: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?), Alternative is to kick off another random adventure in Linhe (ravenloft ) maybe use the Foreshadoing for level 9?
+- [ ] 10: (mandatory 3rd front)
+- [ ] 11:  Foreshadowing for Part 3 - Thick mist starts (mist, night roads, uncreation)
+- [ ] 12: (mandatory 4th front)
+- [ ] 13: PCs are known as true divine legends - touched by Theurgy
+- [ ] 14: (mandatory 5th front)
+- [ ] 15: Random world shaking event B (dmg27) 
+- [ ] 16: (mandatory 6th front)
+- [ ] 17 : Foreshadowing part 4
+- [ ] 18: Random world shaking event C (dmg27) 
+- [ ] 19: (mandatory 7th front)
+- [ ] 20: PCs are revered as divinities (godbound) - rites and followers might set up religions under the PCs
 
 ## Reference
 Source: Lazy DM

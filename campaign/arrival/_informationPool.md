@@ -1,8 +1,8 @@
 ## Highlights
 
-- [ ] Hermit's Crevasse is a ruined deep construction, now inhabited by Rurkinar Hermits. They are good people.
+- [ ] **Ushulx sacrifices Scar and communicates with Caucharn, she the goes to Glasrath to join Ghuse**
 - [ ] Kimbarak Hands are an ancient and powerful artefact - many would be searching for it?
-- [ ] Frost anaks come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
+- [ ] Frost Anaks come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
 - [ ] **Ethux'zhurh: "I am now feeding in uncreation!! hahaha"**
 - [ ] **Umbilicals are lit in the land of linhe**
 
@@ -23,6 +23,8 @@
 - [ ] FFKA has incarcerated Otaehryn Valdove (chieftan of Rurkinar) in Linhe, the cult believers have now disbanded in the desert.
 - [ ] FFKA believes the responsible for the undead in Linhe is Glasrath, and will lauch a campaign to destroy the mountain society.
 - [ ] Fractures start to appear - more undead and uncreated creatures crawling...
+- [ ] Hermit's Crevasse is a ruined deep construction, now inhabited by Rurkinar Hermits. They are good people.
+- [ ] The camp close to the canyon is protecting people against the stronger undead attacks of recent days
 
 ## General
 

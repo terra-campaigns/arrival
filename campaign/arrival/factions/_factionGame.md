@@ -2,96 +2,6 @@
 
 ## Current
 
-```mermaid
-%%{init: {'theme':'light'}}%%
-flowchart LR
-    Nek --> Mystra
-	Nek --> Kimbarak
-    Nek --> Bonnalurie
-    Nek --> Falet
-    
-    Mystra --> RurkinarCultists
-    Mystra --> MystranPriesthood
-    
-    Bonnalurie --> Acrisae
-    Bonnalurie --> Duergar
-    Falet --> FFKA
-    FFKA --> FFKA_East
-	
-	Kimbarak --> Kiranu
-	
-    Ulkrunnar --> Wuvurax
-    Ulkrunnar --> Gronz
-    Ulkrunnar --> Algath
-    Ulkrunnar --> Merdijad
-    
-    Wuvurax --> Mondendovil
-    Mondendovil --> Mercians
-    Mercians --> Sthrasd
-	
-	Gronz --> Velotnatherius
-	Velotnatherius --> Drows
-	
-	Algath --> Curcharn
-	Algath --> Glasrath
-	
-	Merdijad --> Turnskull
-	
-	%% Tiers
-	subgraph Protodeities
-	Nek
-	Ulkrunnar
-	end
-	
-	subgraph Children
-	Mystra
-	Bonnalurie
-	Falet
-	Kimbarak
-	Wuvurax
-	Gronz
-	Algath
-	Merdijad
-	end
-	
-	subgraph MadeGods
-	Mondendovil
-	Velotnatherius
-	Curcharn
-	end
-	
-	subgraph Tier5
-	Turnskull
-	end
-	
-	subgraph Tier4
-	Acrisae
-	end
-	
-	subgraph Tier3
-	Mercians
-	MystranPriesthood
-	FFKA
-	Thymar
-	Drows
-	Kiranu
-	Duergar
-	end
-	
-	subgraph Tier2
-	FFKA_East
-	RurkinarCultists
-	Glasrath
-	Sthrasd
-	end
-	
-	%% Active factions
-	style Mercians stroke:#333,stroke-width:4px
-	style Glasrath stroke:#333,stroke-width:4px
-	style FFKA_East stroke:#333,stroke-width:4px
-	style RurkinarCultists stroke:#333,stroke-width:4px
-```
-
 ```dataview
 table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "I1", interest.ffkaEast AS "I2", interest.rurkinar AS "I3", interest.mercians AS "I4"
 from "campaign/arrival/factions"
@@ -102,16 +12,12 @@ sort id asc
 ### Next (min 3877.6C1)
 
 **Background actors**
-- Gulthas fights enemies on the road: 1 in 20 he gets hurt, 7 in 10 he survives
-- Werebear?
-- Bandit camp?
-- Strong start: Danaska has a heated debate with Cagoth. Roll a reaction to see what she thinks of the PCs sleeping with Cagoth.
-- Ushulx carries out the ritual and kills Scar
-- refilling dungeons (chance?)
-	- temple of remains: Who will take up the now empty temple of remains? 1 in 6 a faction takes it, 2 in 6 a wandering group takes it (roll on wwn205 to define, including rank). Lower rank than needed for region will continue to be challenged until appropriate rank is in place.
+
 - Kiranu arrive in Melister on 3877.7C7
 	- **The alliance of Nurderad, Katho and Kiranu lost to D'Elsin in the south. The surviving army is now helping the dwarves of Kiranu to migrate north, giving up the last southern civilisation. 300 miles to Melister first (at 10 miles per day). Then to Glasrath. 2 weeks to prepare departure. 5 weeks traveling. (meta-gaming: 2nd milestone of the campaign - out of 8)**
 - 3877.7B -> Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse.
+- 3877.7C - Ushulx arrives in Glasrath
+- Uncreated creatures start to pop from fractures
 
 ### 3877.6F1
 - Order: 1, 2, 4, 3
@@ -123,7 +29,7 @@ sort id asc
 	- INT build strength - 1d8 DC 4 to get 1 dominion, outcome 2 - fail
 	- EXT attack Rurkinar: try to incarcerate Otaehryn Valdove (chieftan) in linhe - 1d8 Vs 1d8, outcome 7>6 - succeed
 	- EXT extend interest mercians: bully the mercians so they are watchful in Linhe - 1d8 Vs 1d10, 6<3 - succeed
-	- EXT extend interest glasrath: make contact with them to get info - 1d8 Vs 1d8, 6>1 - succeed
+	- EXT extend interest glasrath: make contact with them to get info - 1d8 Vs 1d8, 6>1 - succeed, now the FFKA is preparing to attack Glasrah 
 - Mercians
 	- INT enact change (start uncreation in Linhe with the void umbilicals) - 1d10 DC 4, outcome 8 - succeed: Ethux'zhurh is now connected to the Brezal path
 	- EXT extend interest glasrath: expansion towards the mountains - automatic
@@ -133,6 +39,9 @@ sort id asc
 	- INT build strength - 1d8 DC 6 to get 1 dominion, outcome 3 - fail
 	- EXT extend interest glasrah: extend trade route - automatic
 	- EXT extend interest mercians: protection prayer for Linhe - 1d8 Vs 1d10, outcome 8=8 - fail as ties goes to higher powered factions
+- Background actors
+	- Ushulx carries out the ritual and kills Scar
+	- Refiling locations: Temple of remains. 1 in 6 a faction takes it, 2 in 6 a wandering group takes it, result 2 - Anaks.
 
 ### 3877.6A6
 

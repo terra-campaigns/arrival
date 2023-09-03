@@ -32,6 +32,15 @@ tags:
 
 ![](https://i.imgur.com/Cz8Fo3r.png)
 
+## New inhabitants as of 3877.6F1
+
+```encounter
+creatures:
+ - 15: Anak Scout
+```
+
+They are battling off the Undead and now the Uncreated.
+
 ## Room 1
 
 Cleared
