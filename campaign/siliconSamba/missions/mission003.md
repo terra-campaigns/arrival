@@ -10,7 +10,7 @@ objective: protect Tsunami SS scientist transfer
 rank: 0
 pp: 1
 type: defense
-reward: 25k
+reward: 5kc
 exclusivity: false
 op_team:
 status: open

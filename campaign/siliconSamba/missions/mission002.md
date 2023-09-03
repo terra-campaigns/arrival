@@ -10,7 +10,7 @@ objective: rescue filmmakers guild actor
 rank: 0
 pp: 1
 type: rescue
-reward: 22k
+reward: 4.5kc
 exclusivity: true
 op_team:
 status: open

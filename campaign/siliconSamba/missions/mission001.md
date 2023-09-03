@@ -10,10 +10,10 @@ objective: retrieve down angel research tower access codes
 rank: 0
 pp: 1
 type: espionage
-reward: 11k
+reward: 2.5kc
 exclusivity: true
-op_team:
-status: open
+op_team: green wash
+status: committed
 ---
 
 ## Description
