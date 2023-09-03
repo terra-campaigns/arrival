@@ -10,7 +10,7 @@ tags:
 | Week | Date      | Campaign           | Status    |
 | ---- | --------- | ------------------ | --------- |
 | 34   | 26/08 Sat | Arrival            | Done      |
-| 35   | 02/09     | Silicon Samba      | Confirmed |
+| 35   | 02/09 Sat | Silicon Samba      | Confirmed |
 | 36   | 09/09 Sat | Arrival            | Confirmed |
 | 37   | 16/09 Sat | Silicon Samba      | Confirmed |
 | 38   | 23/09 Sat | Arrival            |           |
@@ -28,7 +28,7 @@ tags:
 | 47   | 25/11 Sat | Silicon Samba      |           |
 | 48   | 02/12 Sat | Arrival            |           |
 | 49   | 09/12 Sat | Silicon Samba      |           |
-| 49   | 10/12     | Benoordenhout Nova |           |
+| 49   | 10/12 Sun | Benoordenhout Nova |           |
 | 50   | 16/12 Sat | Arrival            |           |
 
 # Campaigns timelines
@@ -46,19 +46,18 @@ Alien tombs are found in the Hard Light system. Played in 2023.
 ## Arrival
 ***Earth, millions of years in the future***
 
-The Angels have come again, to claim the Latter Earth as their dominion. They learned how to circumvent the Legacy protection so that their Suppraxae can operate as travelling ships and domain protection machines. They will face the outsider god Ethux'zhurh and the Sorcerer-King of Turnskull. Played in 2023.
+The Angels have come again to claim the Latter Earth as their dominion. They learned how to circumvent the Legacy protection so that their Suppraxae can operate as travelling ships and region protection machines. They will face the Sorcerer-King of Turnskull in the south, while the outsider god Ethux'zhur extends its dominion in the east. Played in 2023.
 
 # Ideas for future campaigns
 
-| Trope                                         | Setting available                              |
+| Trope                                         | Setting/system                              |
 | --------------------------------------------- | ---------------------------------------------- |
-| Gothic horror / vampire (19th century?)       | Godbound + domain rules + silent legions (90s) |
+| Gothic horror / vampire (19th century?)       | Godbound/blood + domain rules + silent legions (90s) |
 | Sci fi with fantasy/magic                     | Codex of black sun                             |
 | Traditional sci fi (with or without psionics) | SWN/Traveller modules                          |
-| Space horror / alien                          | Yes, needs conversion                          |
-| Cosmic horror 30s                             |                                                |
+| Space horror / alien                          | Alien (needs conversion)                          |
 | Cosmic horror 8th century                     | Wolves of God + silent legions                 |
 | Cyberpunk                                     | CWN                                            |
-| Fallout                                       | Other Dust + fallout conversion                |
+| Fallout                                       | Other Dust + fallout (needs conversion)                |
 | Post apocalyptic fantasy                      | Dark sun                                       |
 
