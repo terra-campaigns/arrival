@@ -32,7 +32,7 @@ tags:
 
 ![](https://i.imgur.com/Cz8Fo3r.png)
 
-## New inhabitants as of 3877.6F1
+## New inhabitants as of 3877.6F1: Anaks
 
 ```encounter
 creatures:

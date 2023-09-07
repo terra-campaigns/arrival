@@ -18,6 +18,7 @@ kanban-plugin: basic
 - [ ] Add a crater to the map
 - [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Campfire scene - what characters want?
+- [ ] Earthquake and the umbilicals
 
 
 ## snoozed
