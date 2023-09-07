@@ -10,7 +10,7 @@ location: Holzander
 pcs: [Dolman, Guilf, Amyria]
 members: 3
 party_rank: 1.8
-xp: 3300
+xp: 3020
 tags: 
 ---
 
@@ -28,12 +28,12 @@ tags:
 - [x] Review and organise [_arrivalNotions](../_arrivalNotions.md)
 - [ ] Review and organise Sly Flourish secrets for Holzander 15 jan
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [ ] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
+- [x] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [ ] Detail strong start
+- [x] Detail strong start
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-- [ ] Define secrets & clues, adding links to them in scenes
+- [ ] Review and order/highlight information pool.
 - [ ] Outline and update location notes, reviewing scenes and secrets
 - [ ] Outline potential NPCs, reviewing all above
 - [ ] Define treasure
@@ -58,15 +58,23 @@ sort file.name asc
 
 ## Intro
 
-- 
+- Simplified heroic rule for OSR PC (Brilhorte) - quick explanation.
+- Cinematic advantage
 
 ## Strong start
 
-- Strong start: Danaska has a heated debate with Cagoth. Roll a reaction to see what she thinks of the PCs sleeping with Cagoth.
+- **Cagoth-ze gifts the Brilhorte 3000 construct to the party**
+	- "If you are going downstairs you will face an army, before you can face all the evil of Gellert and Imortra. You will need help, friends. Make sure you always have a way back here - you can rest on my library if you need."
 
 ## Potential scenes
 
-
+- **Danaska has a heated debate with Cagoth:**
+	- Roll a reaction to see what she thinks of the PCs sleeping with Cagoth-ze.
+	- She updates that Ushulx did her damned ritual, and sacrificed the stupid ogre, and then fled.
+- **Party retreating to 2nd level, with Deepfolk chasing them**
+	- Roll a reaction to see if Cagoth-Ze would handle them to the Deepfolk
+- Party tries to negotiate with the Deepfolk
+	- There are lost treasures on the clacking caverns that they would like to have.
 
 ## Information pool
 
