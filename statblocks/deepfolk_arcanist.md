@@ -25,7 +25,7 @@ debilitations: Sunlight
 resistances:
 immunities:
 senses: Darkvision 120 ft
-languages: Deepfolk, Dwarvish, Common
+languages: Deepfolk (Deep Dwarvish), Common, Undercommon
 traits:
   - name: Regeneration 
     desc: "Gains 3 hp on the beginning of each turn, except if damaged by accid or fire."

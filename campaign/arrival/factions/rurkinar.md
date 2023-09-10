@@ -15,6 +15,8 @@ interest:
   ffkaEast: -4
   rurkinar: 
   mercians: -3
+  turnskull: 0
+  acrisae: 0
 tags: 
 ---
 

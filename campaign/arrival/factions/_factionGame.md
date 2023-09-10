@@ -3,13 +3,16 @@
 ## Current
 
 ```dataview
-table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "I1", interest.ffkaEast AS "I2", interest.rurkinar AS "I3", interest.mercians AS "I4"
+table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "I1", interest.ffkaEast AS "I2", interest.rurkinar AS "I3", interest.mercians AS "I4", interest.turnskull as "I5", interest.acrisae as "I6"
 from "campaign/arrival/factions"
 WHERE contains(type, "faction")=true
 sort id asc
 ```
 
-### Next (min 3877.6C1)
+
+### Next (min 3877.B6)
+
+Start Turnskull (5) and Acrisae (4)
 
 **Background actors**
 

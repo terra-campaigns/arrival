@@ -3,6 +3,7 @@
 ## Rules
 
 Roll a d20 every time party level reaches a new integer (from 5 onwards), against DC 10. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last - and it should happen at level 20 latest.
+
 ## Milestones
 ***Current fronts: 2/8***
 

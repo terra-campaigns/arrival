@@ -6,31 +6,29 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 - [ ] choose one major and one minor monstrous horror per boss sl154
 - [ ] use mithos aberrations sl177 in one thing in each chapter
-- [ ] - Construct NPCs:<br>	- Character tags (AotLE)<br>	- Simple sheet (if required)<br>	- Image<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
-- [ ] Add one contradiction for important npc
+- [ ] - Construct NPCs:<br>	- Character tags (AotLE / CWN)<br>	- Simple sheet (if required)<br>	- Metamorphica<br>	- Image<br>	- Some internal contradiction<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
 - [ ] create mercian cult as Silent legions cult
 - [ ] Create mystra / Falestism as Godbound religion
 - [ ] Create new cult for undeath in Linhe - the Eaten
 - [ ] Brezal path pulling is openning the earth with Uncreation ruptures. Uncreated creatures come from it.
-- [ ] Add a crater to the map
+- [ ] Earthquake and the umbilicals
 - [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Campfire scene - what characters want?
-- [ ] Earthquake and the umbilicals
 
 
 ## snoozed
 
 - [ ] the guy that amyria spoke about destroying sergarus approaches her
-- [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
 - [ ] Create undead mob as a creature
 - [ ] Sergarus is curious with guilf as he looks like the child he saved from their witch mother decades ago
 - [ ] Elder race of outsiders competing with humans in the past. Nameless city hp lovecraft
 - [ ] Street in a city with Ngar'tho with leaning houses... Dark etc.. Lovecraft
-- [ ] Calculate renown
+- [ ] FFKA Reinforcements
+- [ ] War in the south, deep freeze
+- [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 
 
 ## scenes and chapters
@@ -39,6 +37,8 @@ kanban-plugin: basic
 - [ ] Segarus FFKA East Chapter captain is nosy on the character if they get to red tower: Intent is to claim the destruction of Gellert if PCs do it. For that he might appoint a knight to go with PCs (as spy).
 - [ ] create chapter based on a random mythos aberration (sl177)
 - [ ] More evil dwarves searching for kimbarak hands
+- [ ] Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
+- [ ] Rise of The Void: https://reddit.com/r/godbound/s/saGDqfZxu6
 
 
 ## parking lot
@@ -49,13 +49,13 @@ kanban-plugin: basic
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
 - [ ] offer dark gift when the angel hound is saved
-- [ ] Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
-- [ ] [towerTreeTemple](locations/towerTreeTemple.md)
+- [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
+- [ ] Calculate renown
+- [ ] Add a crater to the map
 - [ ] Meeting the Acrisae [contact](../../bookReviews/contact.md)
-- [ ] War in the south, deep freeze
 
 
 ## templates

@@ -7,8 +7,8 @@ campaign: Arrival
 game_date: 3877.6F1
 season: winter (corrected)
 location: Holzander
-pcs: [Dolman, Guilf, Amyria]
-members: 3
+pcs: [Dolman, Guilf, Amyria, B3k]
+members: 3+
 party_rank: 1.8
 xp: 3020
 tags: 
