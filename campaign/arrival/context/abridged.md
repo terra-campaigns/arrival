@@ -190,3 +190,16 @@ Dolman, Guilf, and Amyria were resolute in their quest to rescue Galiera from th
 
 
 ![](https://i.imgur.com/UKMAPLE.jpg)
+
+## Chapter 14: The Deepfolk
+
+- The Glasrath champions continue their perilous journey into the Holzander castle, but before they set off to visit the 3rd level the castle they are gifted with the construct named Brilhorte 300 by Cagoth-Ze.
+- The time arcanist explains that Brilhorte 3000 is an ancient construct that has protected him many times before, and would be a strong friend for the heroes. The new member of the group is welcomed, and after introductions they push on and take the stairs down.
+- The landing area is dark, and the entire level sounds silent, except for some faint walking noises, probably made by large insects. In a corridor to the south, through narrow arrow slits, Guilf can see a few Deepfolk warriors in position.
+- The broken heroes find themselves in a trap when Brilhorte opens the south door from the corridor, and a bar gate locks them in position on the northern exit. The Deepfolk start taking position to shoot the group down, coming from all directions with their trained giant sword spiders. Brilhorte decustructs back into a block, something that Cagoth-Ze mentioned could happen randomly over time.
+- In the longest single fight the group has ever faced, and with a combination of well thought tactics and some bad luck, Amyria, Dolman and Guilf kill many of their enemies. However, the Deepfolk units, acting in sound military strategy and in much higher numbers, lock the group in a corner back in the entrance of the third level.
+- Guilf envisions a naive plan, where he is to be alone, with Dolman and Amyria hidden, and speak with the Deepfolk explaining he is Imortra's son and that he is ok to be there. Miraculously, the plan works as well as it could. Bjrnyar, the Deepfolk leader is brought in and accepts taking Guilf alive with him, while giving others to the remaining Deepfolk to find the other two and terminate them.
+
+![](https://i.imgur.com/3c0w0Ae.png)
+
+

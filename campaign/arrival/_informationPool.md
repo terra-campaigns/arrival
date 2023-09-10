@@ -3,12 +3,12 @@
 - [ ] **Ushulx sacrifices Scar and communicates with Caucharn, she the goes to Glasrath to join Ghuse**
 - [ ] Kimbarak Hands are an ancient and powerful artefact - many would be searching for it?
 - [ ] Frost Anaks come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
-- [ ] **Ethux'zhurh: "I am now feeding in uncreation, I will not die!!!! hahaha"**
+- [x] **Ethux'zhurh: "I am now feeding in uncreation, I will not die!!!! hahaha"**
 - [ ] **Umbilicals are lit in the land of linhe** - End of Part 2?
-- [ ] The Deepfolk  are conscripted by Imortra to keep intruders from making their way down deeper into the black castleand interrupting her master’s delicate work.
+- [x] The Deepfolk  are conscripted by Imortra to keep intruders from making their way down deeper into the black castleand interrupting her master’s delicate work.
 - [ ] The multiple Theotechnical engines are pulling the brezal paths as strings and rifting reality. Each must be disabled to release the tension of the brezal paths.
 - [ ] Below level 3 are the unconstructed caverns of the Ghost Domain, now territory of a bat cult - where a dark river flows.
-- [ ] Imortra and Gellert are feared by most every intelligent creature in the Citadel.
+- [x] Imortra and Gellert are feared by most every intelligent creature in the Citadel.
 - [ ] Logic and reason start to break down the lower you go into the scarlet citadel.
 
 ## Holzander Castle
@@ -16,10 +16,10 @@
 - [ ] The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the castle. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
 - [ ] Closing the portal requires more than just traditional magic or arcane manipulation. A darkness deep below the Scarlet Citadel is responsible for the open wound leading to the Dry Lands.
 - [ ] The works in the Holzander castle is making the desert even more bare
-- [ ] An agent of Gellert named Imortra comes to level 3 sometimes. The deepfolk leave her alone because she’s dangerous and her master is even more so.
+- [x] An agent of Gellert named Imortra comes to level 3 sometimes. The deepfolk leave her alone because she’s dangerous and her master is even more so.
 - [ ] There are caverns to the south east that the Deepfolk avoid.
 - [ ] The 3rd level includes a bunch of tombs left alone by the Deepfolk . They’re scary.
-- [ ] The Deepfolk chief is a reaver named Bjrnyar. The two other reavers are his lieutenants, Egail and Gostov. Bjrnyar is a veteran of many raids that taught him the value of patience and planning. Egail is a young hothead who wants only to kill enemies and gain glory. Gostov looks up to Bjrnyar and respects his wisdom but also grows impatient with prolonged inactivity
+- [ ] The Deepfolk chief is a reaver named **Bjrnyar**. The two other reavers are his lieutenants, Egail and Gostov. Bjrnyar is a veteran of many raids that taught him the value of patience and planning. Egail is a young hothead who wants only to kill enemies and gain glory. Gostov looks up to Bjrnyar and respects his wisdom but also grows impatient with prolonged inactivity
 - [ ] The two shamans are Giydya and Sassigne. Giydya is utterly loyal to Bjrnyar. She would (and has) killed other Deepfolk  to enforce the chieftain’s decrees. Sassigne is a fanatical follower of Thor, but this zealotry is mostly a front to cover up Sassigne’s true devotion to Chernobog, whose rites were banned by Bjrnyar.
 - [ ] Arcanists in the black castle were pulling energy out of the twisted brezal paths for years which has put tremendous stress on the whole region.
 - [ ] As each anchor of the black castle is removed or broken, the brezal paths twist in new directions.

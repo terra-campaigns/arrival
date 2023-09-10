@@ -1,7 +1,7 @@
 ---
 category: chapter
 part: 2
-name: The third level
+name: The Deepfolk
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.6F1
@@ -14,7 +14,7 @@ xp: 3020
 tags: 
 ---
 
-# Chapter 14 The third level
+# Chapter 14 The Deepfolk
 
 ## Planning checklist
 
@@ -60,6 +60,7 @@ sort file.name asc
 
 - Simplified heroic rule for OSR PC (Brilhorte) - quick explanation.
 - Cinematic advantage
+- Open dice and FWN
 
 ## Strong start
 
@@ -68,13 +69,8 @@ sort file.name asc
 
 ## Potential scenes
 
-- **Danaska has a heated debate with Cagoth:**
-	- Roll a reaction to see what she thinks of the PCs sleeping with Cagoth-ze.
-	- She updates that Ushulx did her damned ritual, and sacrificed the stupid ogre, and then fled.
-- **Party retreating to 2nd level, with Deepfolk chasing them**
-	- Roll a reaction to see if Cagoth-Ze would handle them to the Deepfolk
-- Party tries to negotiate with the Deepfolk
-	- There are lost treasures on the clacking caverns that they would like to have.
+- First encounter with Deepfolk, roll reaction to see if they shoot directly.
+- Earthquake due to umbilicals, voice of Ethux'zhur: "yes, yes, feed me!!"
 
 ## Information pool
 
