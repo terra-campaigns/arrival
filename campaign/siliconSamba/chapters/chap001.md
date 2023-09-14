@@ -24,6 +24,7 @@ tags:
 - [x] Evaluate new game date
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Review Abridged
+- [ ] Think about characters, write motivations & hooks
 - [x] Review and organise [_siliconSambaNotions](../_siliconSambaNotions.md)
 - [x] Define party rank and xp
 - [x] If the PCs have chosen a new mission in the end previous session, randomly choose 2d2-1 existing open mission to be taken by NPC Ops
@@ -41,9 +42,16 @@ tags:
 - [ ] Prepare Owlbear, if applicable
 
 
+### Motivations
+
+- **Dolman**: Find Galiera, free Fuko from Ghuse
+- **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul.
+- **Amyria**: Protect little Guilf, find the Angel Hound and free her.
+
 ## Intro
 
 - Will run 2.5h sessions (Camila's request)
+- Spiked food with short term consequences?
 
 ## Strong start
 
