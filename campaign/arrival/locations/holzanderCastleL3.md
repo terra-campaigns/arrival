@@ -34,7 +34,7 @@ creatures:
 ```encounter
 name: 304 (Med E)
 creatures:
-  - 3: Deepfolk Warrior
+  - 7: Deepfolk Warrior
   - 4: Sword Spider
 ```
 
@@ -75,6 +75,9 @@ creatures:
   - 1: Deepfolk War Leader
   - 3: Sword Spider
 ```
+
+- Monolith footmen start moving once Amyria has opened the door. Round 1: Monolith 13/16 hd, Deepfolk give 14/30 hd. Round 2: Monolith give 4/3, Deepfolk give 7/16. Result: 3 deepfolk dead. Monolith destroyed.
+
 
 ```encounter
 name: 312 (Hard B)

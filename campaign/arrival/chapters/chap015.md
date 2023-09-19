@@ -31,14 +31,14 @@ tags:
 - [x] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [ ] Detail strong start
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-- [ ] Review and order/highlight information pool.
-- [ ] Outline and update location notes, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Define treasure
-- [ ] Update random encounter tables
-- [ ] Prepare Owlbear, if applicable
+- [x] Detail strong start
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
+- [x] Review and order/highlight information pool.
+- [x] Outline and update location notes, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Define treasure
+- [x] Update random encounter tables
+- [x] Prepare Owlbear, if applicable
 
 ## Character motivations
 
@@ -48,11 +48,12 @@ tags:
 
 ## Intro
 
-- ...
+- We might use usage die. I will explain in due time.
 
 ## Strong start
 
-- ...
+- Deepfolk come, **afraid**, to kill Dolman + Amyria. The others go up. Party needs to act.
+- Guilf is shrouded to be carried inside the level.
 
 ## Potential scenes
 
@@ -61,11 +62,18 @@ tags:
 	- She updates that Ushulx did her damned ritual, and sacrificed the stupid ogre, and then fled.
 - Party retreating to 2nd level, with Deepfolk chasing them
 	- Roll a reaction to see if Cagoth-Ze would handle them to the Deepfolk
+- Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)
+	- She has a d10 usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.
 - Party tries to negotiate with the Deepfolk
 	- There are lost treasures on the clacking caverns that they would like to have.
 	- One of these treasures is Kimbarak's Helm
 - Deepfolk want Kimbarak's hands
-	- One small unit will follow the PCs for it.
+	- One small unit will follow the PCs for it. They might trade it for the PCs escape
+- Guilf is put in the cell with Galiera, Deepfolk will wait Imortra to come to the level to give them directions (next faction game)
+- Party leaves Level 3:
+	- Through Level 2 --> level 1 --> [dannamore](campaign/arrival/locations/dannamore.md) or ruins in Ammuinoth (here they see the **umbilicals**)
+	- Through north staircase (Ammuinoth northern tunnel)
+	- Through south tunnel (Ammuinoth southern tunnel)
 
 ## Information pool
 
