@@ -53,27 +53,13 @@ tags:
 ## Strong start
 
 - Deepfolk come, **afraid**, to kill Dolman + Amyria. The others go up. Party needs to act.
-- Guilf is shrouded to be carried inside the level.
 
 ## Potential scenes
 
-- Danaska has a heated debate with Cagoth:
-	- Roll a reaction to see what she thinks of the PCs sleeping with Cagoth-ze.
-	- She updates that Ushulx did her damned ritual, and sacrificed the stupid ogre, and then fled.
 - Party retreating to 2nd level, with Deepfolk chasing them
 	- Roll a reaction to see if Cagoth-Ze would handle them to the Deepfolk
-- Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)
-	- She has a d10 usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.
-- Party tries to negotiate with the Deepfolk
-	- There are lost treasures on the clacking caverns that they would like to have.
-	- One of these treasures is Kimbarak's Helm
-- Deepfolk want Kimbarak's hands
-	- One small unit will follow the PCs for it. They might trade it for the PCs escape
-- Guilf is put in the cell with Galiera, Deepfolk will wait Imortra to come to the level to give them directions (next faction game)
 - Party leaves Level 3:
 	- Through Level 2 --> level 1 --> [dannamore](campaign/arrival/locations/dannamore.md) or ruins in Ammuinoth (here they see the **umbilicals**)
-	- Through north staircase (Ammuinoth northern tunnel)
-	- Through south tunnel (Ammuinoth southern tunnel)
 
 ## Information pool
 

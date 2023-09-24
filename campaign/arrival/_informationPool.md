@@ -1,13 +1,13 @@
 ## Highlights
 
-- [ ] **Ushulx sacrifices Scar and communicates with Caucharn, she the goes to Glasrath to join Ghuse**
+- [x] **Ushulx sacrifices Scar and communicates with Caucharn, she the goes to Glasrath to join Ghuse**
 - [ ] Kimbarak Hands are an ancient and powerful artefact - many would be searching for it?
 - [ ] Anaks come from D'Elsin and the non-evil have been pushed north by the forces of Turnskull advancing
-- [ ] **Umbilicals are lit in the land of linhe** - End of Part 2?
+- [x] **Umbilicals are lit in the land of linhe** - End of Part 2?
 - [ ] **The multiple Theotechnical engines are pulling the brezal paths as strings and rifting reality. Each must be disabled to release the tension of the brezal paths.**
 - [ ] Below level 3 are the unconstructed caverns of the Ghost Domain, now territory of a bat cult - where a dark river flows.
 - [ ] Logic and reason start to break down the lower you go into the scarlet citadel.
-- [ ] Undead / uncreated have begun to take over the first level of the scarlet citadel
+- [x] Undead / uncreated have begun to take over the first level of the scarlet citadel
 - [ ] Bjrynyar wants a helm kept in the tombs deeper in the Cackling Caverns that’s been calling out to him. Retrieve it and the Deepfolk will give the characters access through the Dwarven Barracks.
 	- [ ] Some of these tombs are in the Clacking Caves through the eastern tunnel.
 	- [ ] Many vaults and tombs exist in the lower levels of the Scarlet Citadel filled with untouched artefacts and treasures.
