@@ -10,7 +10,7 @@ sort id asc
 ```
 
 
-### Next (min 3877.B6)
+### Next (min 3877.7B6)
 
 Start Turnskull (5) and Acrisae (4)
 

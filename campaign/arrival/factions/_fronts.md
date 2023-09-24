@@ -30,7 +30,7 @@ Roll a d20 every time party level reaches a new integer (from 5 onwards), agains
 
 - [x] 5: Nothing happens
 - [x] 6: 1st Front, Turnskull - Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
-- [ ] 7: If no front passes, use a sixteen sorrows based on Turnskull, Acrisae or Mercians
+- [ ] 7: If no front passes, use a sixteen sorrows (or Ancalia) based on Turnskull, Acrisae or Mercians
 - [ ] 8: (mandatory 3rd front)
 - [ ] 9: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?), Alternative is to kick off another random adventure in Linhe (ravenloft ) maybe use the Foreshadoing for level 9?
 - [ ] 10: (mandatory 4th front)
