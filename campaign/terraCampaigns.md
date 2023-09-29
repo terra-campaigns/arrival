@@ -3,30 +3,6 @@ type: context/history
 name: Terra Campaigns
 tags: 
 ---
-# Campaign calendar
-
-## 2023
-
-| Week | Date      | Campaign           | Status    |
-| ---- | --------- | ------------------ | --------- |
-| 34   | 26/08 Sat | Arrival            | Done      |
-| 35   | 02/09 Sat | Silicon Samba Ch00 | Done      |
-| 36   | 09/09 Sat | Arrival Ch14       | Done      |
-| 37   | 16/09 Sat | Silicon Samba Ch01 | Halted    |
-| 38   | 23/09 Sat | Arrival Ch15       | Confirmed |
-| 38   | 24/09 Sun | BenoordeNova Ch00  | Confirmed |
-| 40   | 07/10 Sat | Arrival            |           |
-| 41   | 15/10 Sun | BenoordeNova       |           |
-| 42   | 21/10 Sat | Arrival            |           |
-| 44   | 04/11 Sat | Arrival            |           |
-| 45   | 11/11 Sat | Game New           |           |
-| 45   | 12/11 Sun | BenoordeNova       |           |
-| 46   | 18/11 Sat | Arrival            |           |
-| 47   | 25/11 Sat | Game New           |           |
-| 48   | 02/12 Sat | Arrival            |           |
-| 49   | 09/12 Sat | Game New           |           |
-| 49   | 10/12 Sun | BenoordeNova       |           |
-| 50   | 16/12 Sat | Arrival            |           |
 
 # Campaigns timelines
 
@@ -36,10 +12,10 @@ tags:
 The South-American empire leads population control technologies, inner solar system is sparsely colonised and Europeans lead early long-range space travel. Prepared in 2023, halted game, SWN/CWN hybrid.
 
 ## Hostile
-***2225 CE***
+***Near Earth Zone, 2225 CE***
 
 ## BenoordeNova
-***Tsatsos Alpha sector, 32xx CE***
+***Tsatsos Alpha sector, 3234 CE***
 
 Alien tombs are found in the Hard Light system. Played in 2023, SWN.
 
