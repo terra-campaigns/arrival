@@ -12,15 +12,33 @@ Stars Without Numbers (SWN) is an OSR system, which allows me to easily reskin a
 
 ## House rules
 
-- Hazard effects from Hostile Rules (65-87), which are significantly more detailed. 
+- Hazard effects from Hostile Rules (65-87) might be used, which are significantly more detailed.
+- Every time PCs level up they can negotiate a promotion in their profession with their current contract.
 - (tbd) 3+ players we go ahead with the game. Or 4+?
-- (tbd) Instead of many modifiers to keep track, import the concept of advantage (elegant implementation from 5e that makes the curves a bit more interesting)
 - (tbd) Additional combat rules and actions from CWN 32-37 (exception of trauma/slaughter) for more crunch (mostly for PCs)
 - (tbd) Humanity (sanity) rules to represent mental stress (madness and inhumanity actions and scenes)
 - (tbd around level 5) Domain play (i.e.: player driven faction to build a colony, once characters are higher level, and if players are interested in it)
-- NB.: Additional flavour from other games are always welcomed (OSR compatible preferred, but anything can be discussed)
+- NB.: Additional flavour from other games are always welcomed (OSR compatible preferred, but anything can be discussed): Any rule, class, foci, etc from any OSR game can be considered. [Sine Nomine](https://preview.drivethrurpg.com/en/publisher/3482/Sine-Nomine-Publishing) books are very easy to integrate with each other. I have a few of them if someone is interested.
+
+| Hazard                            | Damage                    | Save             | Details                                        |
+| --------------------------------- | ------------------------- | ---------------- | ---------------------------------------------- |
+| Vacuum                            | 3d6/round                 | Physical halves  |                                                |
+| Falling                           | 1d6/2m per 1g             | Physical halves  |                                                |
+| Temperature                       | 1d6/round per 50C off 10C | Physical halves  |                                                |
+| Poisonous air                     | 1d6/min                   | Physical negates |                                                |
+| Radiation Low (danger zone)       | 1 CON/day                 | Physical negates | Hostile environment suit negates.              |
+| Radiation High (white dwarf)      | 1 CON/hour                | Physical negates | Lead spacecraft hull reduces to low exposure.  |
+| Radiation Extreme (nuclear blast) | 1 CON/min                 | Physical negates | Lead spacecraft hull reduces to high exposure. |
+
+| Destination            | Travel time    |
+| ---------------------- | -------------- |
+| Within a region        | 6 hours/drive  |
+| Between regions        | 48 hours/drive |
+| Between hexes (prep)   | 30 min         |
+| Between hexes (travel) | 6 days/drive   | 
 
 ### Character advancement
+
 
 Required XP will use a higher inclination curve (without impact in progress pace), akin traditional OSR. This allows new characters to progress rather quickly to catch up with veterans. XP awarded will be scaled to the dangers the PCs faced on each session.
 
@@ -35,3 +53,34 @@ Required XP will use a higher inclination curve (without impact in progress pace
 	- [Hostile Toolkits](https://drive.google.com/open?id=1fL8DRXAaHosQ6aXeTCiIC1YKSVjhVCgk&usp=drive_fs) for specific equipment (includes explosives)
 	- [Hostile Gun Locker](https://drive.google.com/open?id=1fKPO19H1ZY4RAQoknhycMyO8sL4MN02V&usp=drive_fs) for weapons
 
+## Mining
+
+- Locate suitable ice chunk: Int/programme DC 8, takes 1d6 days
+- Scan the topology for mapping surface area and composition of the entire chunk: Int/Programme or Int/Know DC 8, takes 1d6 days
+- Travel to the rock 140h, then a new rock in the same chunk takes 1d6 x 5h. **Each rock has a 1-in-6 chance of having a sky tomb.**
+- Each shift a crew member is appointed as mining supervisor. GM roll 2d6 + supervisor fix skill and checks for mining problem.
+- Geology and sampling (1d6 + 3 are required in different rocks, at least two different chunks)
+	- Drill with logging tool (EVA or drone): Dex if EVA, Int if drone, Programme or Pilot DC 8, takes 1h per drill
+	- Evaluate logs, Int/Know DC 7 (automatic for geologist), takes 1d6h - roll asteroid yield once per chunk
+	- Set explosives and net (EVA or drone): Dex/Programme or Dex/Pilot DC 10, takes 1d3 hours
+	- Extract (drones): Int Programme or Int/Pilot DC 8, takes 1d6 hours
+
+![|500](https://i.imgur.com/b5dYCI4.png)
+
+![|500](https://i.imgur.com/c3BZ7ty.png)
+
+![|500](https://i.imgur.com/yWc1wwW.png)
+
+## Encounters
+
+- Space
+	- activity
+	- rank
+- Planet
+	- time
+	- rank
+- Asteroid
+	- rank
+- Station
+	- rank
+- 
