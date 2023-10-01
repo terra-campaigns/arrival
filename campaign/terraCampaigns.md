@@ -28,15 +28,11 @@ The Angels have come again to claim the Latter Earth as their dominion. They lea
 
 | Trope                                         | Setting/system                                                |
 | --------------------------------------------- | ------------------------------------------------------------- |
-| Gothic horror / vampire (19th century?)       | Godbound/blood + domain rules + silent legions (90s) - alt: werewolves         |
+| Gothic horror / vampire (renaissance/Victorian)       | Godbound/blood + domain rules + silent legions (90s) - alt: werewolves         |
 | Sci fi with fantasy/magic                     | SWN + Codex of black sun                                      |
-| Traditional sci fi (with or without psionics) | SWN/Traveller modules                                         |
-| Space horror / alien                          | SWN + Codex + Alien or Mothership campaign (needs conversion) |
 | Cosmic horror 8th century                     | Wolves of God + silent legions                                |
-| Cyberpunk                                     | CWN                                                           |
 | Fallout                                       | Other Dust/SWN + fallout' winter of atom (needs conversion)   |
 | Post apocalyptic fantasy                      | Dark sun (little conversion)                                  |
-| Modern cosmic horror, conspiracy              | Delta green campaigns (needs conversion)                      |
-
-- Beyond wall of sleep, Lovecraft 
+| Modern cosmic horror, conspiracy              | Delta green campaigns (needs conversion), beyond the wall (Lovecraft)                     |
+ 
 
