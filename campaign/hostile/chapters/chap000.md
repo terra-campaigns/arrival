@@ -8,7 +8,7 @@ location: French Guiana Starport
 pcs: 
 members: 5
 party_rank: 0.5
-xp: 1
+xp: 2
 tags: 
 ---
 
@@ -42,10 +42,10 @@ tags:
 
 ## Intro
 
-- Scenes are to be self contained, with no impact on the starting hook. We are just testing a few of the game systems.
-- house rules
-- watch alien
 - campaign is the execution of this contract (5 sessions), from there we decide if we like this or if we leave at this.
+- go through systems
+- go through context
+- playing set up
 
 ## Strong start
 
@@ -80,6 +80,8 @@ tags:
 
 ![|500](https://i.imgur.com/qECedY1.png)
 
+### Mission details
+
 
 ## Information pool
 
@@ -93,4 +95,6 @@ tags:
 
 
 ## Potential treasures
+
+
 

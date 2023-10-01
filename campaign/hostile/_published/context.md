@@ -18,27 +18,35 @@
 
 *More detail on the Hostile book, pages 9-10.*
 
-## History until 2225
+## Supporting resources
+
+### History until 2225
 
 - SWN book, pages 121-122
-- Hostile book, pages 12-22
+- Hostile setting book, pages 12-22
 
-## Inspiration media
+### Setting
+
+Hostile setting book contains details on most of the systems and worlds, corporations, factions, etc.
+
+### Inspiration media
 
 - List from the Hostile book, page 11
-- Mood [soundtrack](https://open.spotify.com/playlist/1SQyGxhk5WjS7txyE3d48y?si=8mzEZNWbSaSzCb6CQ5lhuw) based on the Latin American empire culture of the previous century
-
-## Sector: Near Earth Zone (NEZ)
-
-[Link](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)
+- Mood [soundtrack](https://open.spotify.com/playlist/1SQyGxhk5WjS7txyE3d48y?si=8mzEZNWbSaSzCb6CQ5lhuw) 
+	- Latin American empire culture of the previous century
+	- Cyberpunk and sci fi horror tunes.
 
 ## Starting hook
 
-MegaCorp Leyland-Okuda launched a tender in 2221 for a cosmic water displacement service. In 2222 a group of Brazilian entrepreneurs formed an industrial start-up and won the tender with a development plan for the next 15 years. Two years later, this start-up was hostile took over by Tharsis, and different divisions were assigned to different subsidiaries. Tharsis Mining suddenly became responsible for finding enough water and evaluate the commerciality and risks of possible ice mining plays. Without access to the knowledgeable Brazilians who devised the plan originally, Tharsis Mining had to find suitable professionals for the work outside Tharsis's rank.
+Advanced alien ruins were found in 2223 in the Perdurabo system. An ice sample was bought by Tharsis' Parkfield Biolabs, which contained RNA that can be used to cure early dementia caused by frequent faster than light travel. The RNA named Neuroplasticity Augmentor Sequence (NAS-RNA), however, the RNA cannot be easily replicated in laboratory. For this reason, the discovery was not made public yet, and Tharsis has been moving fast to evaluate the feasibility to establish an ice mine in the system.
 
-In 2025 Tharsis Mining finalising forming the crew that would travel to the Perdurabo system and evaluate the ice mining plays for further development. The location in Perdurabo is a strategic one, as it is close enough to two potential colony customers in neighbouring systems, Crow and Oppenheimer. Another advantage is the existence of the Brightside Mining Station in the system, a poorly managed facility that would be easy to purchase if the exploration proves commerciality of the play (see Hostile-Setting 82, for detail on the licensing process).
+If proven feasible, the existence of the Brightside Mining Station in the system is an advantage. The station is a poorly managed facility that would be easy to purchase if the exploration proves commerciality of the play (see Hostile-Setting 82, for detail on the licensing process).
 
 Perdurabo is a system blazing with the murderous light of a red giant star. The hard-bitten miners of the Brightside Mining Station maintain the only outpost of civilisation in a system filled with lethal light and stellar outlaws. Ancient asteroid sky tombs lie in the vicinity while a seething rebellion boils beneath Brightside Station's steel skin.
+
+### Contract
+
+**Contract signed with Tharsis Mining General Manager for Ice Exploration John McLeod.**
 
 You are the crew going to Perdurabo. You main goal is to execute the Exploration Framework that enables the commercial evaluation of the Ice Mine play. Non-disclosed milestones, that will be paid off books, is infiltrating and deteriorating the leadership of Brightside station, so its later acquisition is even cheaper. 
 
@@ -46,7 +54,7 @@ Contracted roles and milestones are detailed below. Monthly salary is Salary + M
 
 Basic ship maintenance & fuel is paid by shipowner, additional repairs & fuels are paid by the LTDA (discounted for contract payment).
 
-Ship must dock for life support supplies every 6 weeks (max life support is 2 months). Work shifts are 12x12, 7 days a week.
+Ship must dock for life support supplies every 6 weeks (max life support is 2 months). Work shifts are 12x12, 7 days a week. You will carry a holographic AI suitcase to speak with the GM weekly on Saturdays. Replacements (in case of sickness or indisposition) will be sent from the fastest system where they can be available.
 
 | Crew member | Contracted profession          | Undercover role            | Ship department | Base | Multiplier |
 | ----------- | ------------------------------ | -------------------------- | --------------- | ---- | ---------- |
@@ -56,20 +64,15 @@ Ship must dock for life support supplies every 6 weeks (max life support is 2 mo
 | Courtesan   | Comms (Technician rank 0)      | Corporate agent (spy)      | Comms           | 3000 | 200        |
 | Vagabond    | Doc / guns (Technician rank 0) | Corporate agent (assassin) | Gunnery         | 3000 | 200        |
 
-- [Olaf](https://docs.google.com/spreadsheets/d/17TM6jr2J91baWqlrEe8RxPmwCunUliwKtylcwN2SC5E/edit#gid=989086139)
-- [Oni](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0rM_d2dBdocF09UAlxlKN-AImLO5XwiqPlB-0SdKyAxmEyL1jGqsxBNuhGD45edHfYu4X0bxQOIqa/pubhtml)
-- [Dirk](https://docs.google.com/spreadsheets/d/131u5VYaqt8BsQ4kW_Y58bV4Cpby-lEJ6GJYHUL33rNo/edit#gid=989086139)
-- Courtesan
-- [Vagabond](https://docs.google.com/spreadsheets/d/1r9b1XCIeruyOI8BaxgLbJtRpju0VX04IwUHVD4fXIac/edit#gid=1671565117)
-
-### Exploration framework and milestones
+#### Exploration framework and milestones
 
 1. *Prospection*
 	1. Theoretical study (completed outside the contract)
 	2. Topography mapping
 	3. Geological mapping
 	4. Geochemical surveys, sampling
-	6. **Milestone** : prospection completed (5x)
+	5. Biochemical surveys, sampling
+	6. **Milestone**: prospection completed (5x)
 2. *Exploration*
 	1. Pre mining surveys
 	2. Space environment study
@@ -86,13 +89,12 @@ Ship must dock for life support supplies every 6 weeks (max life support is 2 mo
 	1. **Milestone**: Information on how to take down current directorship (1x)
 	2. **Milestone**: Information on who can be trusted to take take the directorship role (2x)
 	3. **Milestone**: Take down current directorship (10x)
+5. Extras
+	1. All ore you find is property of Tharsis, and you need to refine it and set for delivery in Brightside. You will be compensated with 10% of its base price.
 
 Session 0 starts at the mission kick off meeting, in Earth's largest starport in French Guiana.
 
-
-![|500](https://i.imgur.com/mzHjOaO.png)
-
-
+#### Certificate of Flight
 
 ```
 Certificate of Flight
@@ -106,6 +108,8 @@ is authorized and cleared for operations on the Perdurabo system for the purpose
 Captain: Olaf Gustafson
 
 Ship ID: ECS Starbounder Frostbreaker GSV-112578
+
+Crew ID: Pentagon
 
 Date of Issuance: September 20, 2225
 
@@ -123,17 +127,24 @@ Date: September 20, 2225
 
 ```
 
-![SF-9876|500](https://i.imgur.com/rGwmaau.png)
+![GSV-112578|500](https://i.imgur.com/rGwmaau.png)
 
-[SF-9876](https://www.swnfreebooter.net/starshipShare/DOefjLYWNp812UH0Tqic)
+## Perdurabo
 
-
-
- 
+![](https://i.imgur.com/RLOfasI.png)
 
 
+## Useful links
 
+- [Near Earth Zone (NEZ) Sector](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)
+- [ECS Starbounder Frostbreaker GSV-112578](https://www.swnfreebooter.net/starshipShare/DOefjLYWNp812UH0Tqic)
+- [Miro for sharing images and drawings](https://miro.com/welcomeonboard/bjZPcHNLV3Z6NVMwN2JyaDR1U0Rrc2VOZnM1bTJnSjFPVG9BT3lNUDVrOE1EdVpCU2ZoMjZLZ3BrUGs5WFdhbnwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=827183981565
+- [Owlbear rodeo for battle maps](https://www.owlbear.rodeo/room/bEBXAYnWwWR0/TheBusyQuest)
 
+### Character sheet links
 
-
-
+- [Olaf](https://docs.google.com/spreadsheets/d/17TM6jr2J91baWqlrEe8RxPmwCunUliwKtylcwN2SC5E/edit#gid=989086139)
+- [Oni](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0rM_d2dBdocF09UAlxlKN-AImLO5XwiqPlB-0SdKyAxmEyL1jGqsxBNuhGD45edHfYu4X0bxQOIqa/pubhtml)
+- [Dirk](https://docs.google.com/spreadsheets/d/131u5VYaqt8BsQ4kW_Y58bV4Cpby-lEJ6GJYHUL33rNo/edit#gid=989086139)
+- Courtesan
+- [Vagabond](https://docs.google.com/spreadsheets/d/1r9b1XCIeruyOI8BaxgLbJtRpju0VX04IwUHVD4fXIac/edit#gid=1671565117)

@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] Ngar'tho are a Metadimensional anomaly
 - [ ] Hyperspace anomalies (htl stt 218)
 - [ ] Random encounters?
+- [ ] RNA, if inhaled, cause loss of 1 sanity/humanity per hour, mental save.
 
 
 ## snoozed
