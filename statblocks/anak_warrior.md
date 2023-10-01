@@ -9,6 +9,7 @@ subtype: (great),
 words: 
 role: skirmisher
 ac: 12
+hp: 13
 hit_dice: 3d8
 speed: 30
 stats:

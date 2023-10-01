@@ -37,10 +37,4 @@ detail_link: "[(Details)](antinom.md)"
 ![|500](https://i.imgur.com/XjJXBke.png)
 
 
-The Antinom is a living curse-weapon devised by some ancient sorcerer-king to bring down the civilizations of his rivals. They are effectively immortal, though they occasionally reproduce by infecting a human host with a curse that gradually transforms them into a new Antinom.
-
-An Antinom appears to be a normal baseline human of whatever ethnicity predominates in a region. They are invariably rebels, renegades, or demagogues against some presiding power or generally-accepted moral code; they denounce it and work to topple it through allied disaffected humans. They subtly inflict their curses on such targets as would most destabilise whatever they are fighting, and will push the point until their rebel cell is destroyed or their target is discredited or brought low.
-
-The Antinom does not stop at that point, however, because its entire purpose is to break, ruin, and discredit any organising principles. It continues to tear down and denounce all possible replacements for the fallen edifice, seeking to keep the local humans in a constant ferment of struggle. Even basic ties between family and loved ones are anathema to it, and it will work to isolate and atomise all the people around it as much as its greater plans allow.
-
-An Antinom will continue its social destruction until it is killed or until it judges that success is impossible. If necessary, it will swiftly flee to a different land to target the institutions there.
+![Antinom](campaign/arrival/context/cultures.md#Antinom)

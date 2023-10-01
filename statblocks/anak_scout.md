@@ -9,6 +9,7 @@ subtype: (lesser),
 words: 
 role: skirmisher
 ac: 11
+hp: 3
 hit_dice: 1d6
 speed: 20
 stats:
@@ -31,7 +32,7 @@ actions:
 bonus_actions:
   - name: Nimble Escape
     desc: "The anak can take the Disengage or Hide action as a bonus action on each of its turns. 1 pt."
-detail_link: "[(Details)](anak_lesser.md)"
+detail_link: "[(Details)](anak_scout.md)"
 
 ---
 

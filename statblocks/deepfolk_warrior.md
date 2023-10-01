@@ -36,7 +36,7 @@ detail_link: "[(Details)](deepfolk_warrior.md)"
 
 ![](https://i.imgur.com/rj3pJAi.png)
 
-![|500](https://i.imgur.com/D1Iaoym.png)
+![Deepfolk](campaign/arrival/context/cultures.md#Deepfolk)
 
 
 **Construction notes**

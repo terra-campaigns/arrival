@@ -40,6 +40,14 @@ tags:
 - [ ] Update random encounter tables
 - [ ] Prepare Owlbear, if applicable
 
+
+- [x] Review Ngar'tho (including notebook)
+- [x] Create the Mercian cult
+- [ ] Create intrigue adventure in Eyaram (weakening rurkinar, FFKA and mercians)
+- [ ] update GitHub open, except for abridged (that I keep on discord)
+- [ ] obsidian vault to contain repos open & closed
+- [ ] check magic items due: 1 for amyria, 1 for dolman
+
 ## Character motivations
 
 - **Dolman**: Find Galiera, free Fuko from Ghuse
@@ -51,7 +59,7 @@ Diamonds and pots purchase
 Rest
 Magic potions (stationary traders because of the rifts - they stopped traveling)
 Dolman wants to make a pact with Kimbarak
-Where are the kiranu?
+  - Where are the kiranu? They could tell the story of kimbaraks helm?
 
 Check one city of poison dungeon for Eyaram - where the mercians are meeting
 
