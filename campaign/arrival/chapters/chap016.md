@@ -14,7 +14,7 @@ xp: 3680
 tags: 
 ---
 
-# Chapter 16 
+# Chapter 16
 
 ## Planning checklist
 
@@ -24,7 +24,7 @@ tags:
 - [x] Update inkarnate maps (if applicable)
 - [x] Evaluate new game date
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [ ] Review [Abridged](../context/abridged.md)
+- [x] Review [Abridged](../context/abridged.md)
 - [ ] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander (if applicable)
 - [ ] Think about characters, write motivations & hooks
@@ -46,6 +46,20 @@ tags:
 - **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul.
 - **Amyria**: Protect little Guilf, find the Angel Hound and free her, feels the Holzander castle is her "call to action"
 
+Mr Void cult - ngar tho are in the city as well
+Diamonds and pots purchase
+Rest
+Magic potions (stationary traders because of the rifts - they stopped traveling)
+Dolman wants to make a pact with Kimbarak
+Where are the kiranu?
+
+Check one city of poison dungeon for Eyaram - where the mercians are meeting
+
+
+Outline
+- Problem
+- Person
+- Place
 ## Intro
 
 - 
@@ -61,6 +75,9 @@ IDEAS
 - What is the FFKA doing with the umbilicals, how is Eyaram organised
 	- Prep Eyaram
 - Deepfolk change in approach now?
+	- They should not be in chase / guerrilla fights anymore. They will only act from their own level and, it required to chase characters, will do so in large groups.
+	- The deepfolk are now separated in a more violent group, and in a group that is more interested in negotiating with the PCs - define which is which and their locations. 
+- Raise levels of random encounters.
 
 
 
