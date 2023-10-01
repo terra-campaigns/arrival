@@ -13,6 +13,7 @@ sort id asc
 ### Next (min 3877.7B6)
 
 Start Turnskull (5) and Acrisae (4)
+FFKA mobilise to defend linhe
 
 **Background actors**
 
@@ -21,6 +22,9 @@ Start Turnskull (5) and Acrisae (4)
 - 3877.7B -> Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse.
 - 3877.7C - Ushulx arrives in Glasrath, after that Avryndt will come and visit the Temple of Remains
 - Uncreated creatures start to pop from fractures
+- lady scurvy attacking to keep the void alive (check ravenloft)
+- siege in eyaram?
+- ffkw is skeptical with Mercians 
 
 ### 3877.6F1
 - Order: 1, 2, 4, 3

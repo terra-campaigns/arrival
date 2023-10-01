@@ -41,11 +41,11 @@ To the west of the Naragzah mountains lies the Thymar people, which are mostly D
 
 ### Mercian
 
-The Mercians are a non-religious, mostly human population with a rich oral tradition of storytelling and a love of music and dance. The Mercians date back to a religion group, but the religious aspects are mostly foregone now. Most of the population is now converted to other religions such as [Faletism](religions.md#Faletism) and [Yotunn Ancestors](religions.md#Yotunn).
+In the depths of [Hincland](campaign/arrival/context/realms.md#Hincland), a shadowy populace, known as the Mercians, slumbered beneath the cloak of their enigmatic culture. Once, they had been devout adherents of an ancient faith, steeped in the mysteries of forgotten gods. But now, those sacred rites and pious convictions had withered like the pages of an unread tome, eclipsed by the looming dominance of greater faiths, such as the relentless juggernaut of [Faletism](campaign/arrival/context/religions.md#Faletism) and the ancestral echoes of the [Yotunn](campaign/arrival/context/religions.md#Yotunn).
 
-Their oral tradition, which often tells tales of heroes, mythical creatures, and gods, is an essential part of their culture, and they often use music and dance to celebrate important events. They also use runes for divination and magic, consult with rune masters for guidance, and have a distinctive fashion style that symbolises their status and identity, wearing dark clothing, often adorned with jewellery and tattoos. The Mercians value personal freedom, have a deep connection to the land, and rely on each other for support and protection.
+These Mercians, primarily human in blood but bearing the weight of forsaken traditions, thrived on the resonance of tales spun in the ethereal embrace of moonlight. They reveled in the harmonious cadence of music and the hypnotic allure of dance, though their intentions were no longer directed toward veneration of deities. Instead, they danced upon the graves of ancient gods, their souls divorced from their religious lineage. Their oral tradition wove narratives of forgotten heroes, fantastical creatures, and inscrutable gods who had lost their lustre in the passage of ages. Music and dance, once sacred rites, now became a medium through which they celebrated what little remained of their elusive heritage. Runes, etched in the very fabric of their culture, bore the weight of divination and arcane mastery. 
 
-![Mercian](secrets/secretsCultures.md#Mercian)
+Clad in garments as dark as the abyss and adorned with amulets and tattoos that spoke of mysteries untold, the Mercians fashioned an identity born from the ash of ancient faiths. Their attire served as a testament to their status and a proclamation of their enigmatic lineage. Personal freedom was their beacon, the land their sacred tether, and the unity of their people their guardian in the silent hours of the night.
 
 #### Antinom
 ***Source: aole124***
@@ -57,8 +57,6 @@ An Antinom appears to be a normal baseline human of whatever ethnicity predomina
 The Antinom does not stop at that point, however, because its entire purpose is to break, ruin, and discredit any organising principles. It continues to tear down and denounce all possible replacements for the fallen edifice, seeking to keep the local humans in a constant ferment of struggle. Even basic ties between family and loved ones are anathema to it, and it will work to isolate and atomize all the people around it as much as its greater plans allow.
 
 An Antinom will continue its social destruction until it is killed or until it judges that success is impossible. If necessary, it will swiftly flee to a different land to target the institutions there.
-
-![Mercian Antinomi Group](secrets/secretsCultures.md#Mercian%20Antinomi%20Group)
 
 ### Anak
 ***Source: wwn306***

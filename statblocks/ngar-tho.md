@@ -76,7 +76,7 @@ Those who are able to get away from the Ngar'tho usually try to rationalise them
 ***CR 1/4***
 ![|500](https://i.imgur.com/w7sOVio.png)
 
-- Long jump: Evourecs attack by jumping onto creature faces.
+- Long jump: Evourecs attack by jumping onto creature back necks.
 - Attachment: Upon hit, on a failed DEX, the evourec attaches to the spine of its target
 - Mind control: Upon attaching, on a failed INT, the target walks towards the Ngar'tho hive (or the closest Ngar'tho) for further instructions.
 

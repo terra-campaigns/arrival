@@ -50,6 +50,20 @@
 - [ ] Hermit's Crevasse is a ruined deep construction, now inhabited by Rurkinar Hermits. They are good people.
 - [ ] The camp close to the canyon is protecting people against the stronger undead attacks of recent days. How?
 
+## Mercians
+
+- [ ] Mercian religion is dying, but a new dark cult is reborn
+- [ ] Mercians, primarily human in blood but bearing the weight of forsaken traditions
+- [ ] they danced upon the graves of ancient gods, their souls divorced from their religious lineage. Their oral tradition wove narratives of forgotten heroes, fantastical creatures, and inscrutable gods who had lost their lustre in the passage of ages. Music and dance, once sacred rites, now became a medium through which they celebrated what little remained of their elusive heritage. Runes, etched in the very fabric of their culture, bore the weight of divination and arcane mastery. 
+- [ ] Clad in garments as dark as the abyss and adorned with amulets and tattoos that spoke of mysteries
+- [ ] This clandestine order, guided [Imortra, the Debased](campaign/arrival/npcs/imortra.md), sought to resurrect the relics of their lost faith
+- [ ] Imortra, a seeker of arcane secrets and mysteries, had delved into the abyssal wisdom of [Ethux'zhurh](campaign/arrival/context/religions.md#Ethux'zhurh), a knowledge acquired through the enigmatic scholar [Gellert Holzander](campaign/arrival/npcs/gellert.md). 
+- [ ] As they sought the plane of Makab in the Linhe region
+- [ ] they concealed their sinister machinations by weaving their communications into the very fabric of the Ngar'tho's telepathic web, a sinister dance of whispers and hidden secrets that forever bound them to the Ngar'tho's watchful eye. 
+- [ ] Their enigmatic leader, Imortra, possessed a beguiling charm that ensnared the minds and hearts of the cultists, a siren's call leading them deeper into the abyss.
+- [ ] Their clandestine gatherings unfolded in remote, forsaken sites, far removed from the watchful eyes of civilisation. In their pursuit of control and influence, the cult wielded the nefarious powers bestowed upon them by the Ngar'tho, a sinister arsenal of mind-bending abilities that would shake the very foundations of reality itself.
+- [ ] insatiable craving for the perverse pleasures denied by the laws of decent society
+
 ## General
 
 - [ ] **Glasrath: number of undead greatly surpasses the number of alive people (2-to-1), mostly working the mines. Singlestrike joins support for Ghuse and population is mostly in full support (about 200 soldiers and guards are supporting). If characters haven't noticed yet, they notice now, that people are looking more pale and seem a bit brain drained.**
