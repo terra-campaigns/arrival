@@ -295,5 +295,16 @@ effects:
 - Escaped slave from some tribe
 - Trap
 - Local inhabitant in trouble and needing help
+- A fire starts
+- A meteor shoots across the sky
+- A screech pierces the air
+- A storm begins
+- A strange star appears in the sky
+- A strong gust oif wind blows through
+- A tremor shakes the ground
+- Someone experiences déjà vu
+- Something spills or falls to the ground
+- Something isn't where it's supposed to be
+- There's a foul smell in the air
 
 ---

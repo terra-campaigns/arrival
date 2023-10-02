@@ -1,5 +1,57 @@
 ---
-Strengths:
+Tag:
+- Baneful success - AotLE 185
+- Betting it all - AotLE 185
+- Bitter grudge - AotLE 185
+- Black sheep - AotLE 185
+- Blithe idealist - AotLE 186
+- Burnt out - AotLE 186
+- Change at glory - AotLE 186
+- Chronic illness - AotLE 186
+- Concealed sin - AotLE 187
+- Cultural outsider - AotLE 187
+- Cursed misfortune - AotLE 187
+- Delusional self-image - AotLE 187
+- Doomed love - AotLE 188
+- Doomsday weapon - AotLE 188 
+- Double life - AotLE 188
+- Double loyalties - AotLE 188
+- Down in the world - AotLE 189
+- Earnest idiot - AotLE 189
+- Family alienation - AotLE 189 
+- Family chains - AotLE 189
+- Friend turned foe - AotLE 190
+- Grand plan - AotLE 190
+- Grand disappointment - AotLE 190
+- Great expectations - AotLE 190
+- Hidden origins - AotLE 191
+- Impeding treachery - AotLE 191
+- In over their head - AotLE 192
+- Inherited duty - AotLE 192
+- Irrational hatred - AotLE 192
+- Last Survivor - AotLE 192
+- Lives for today - AotLE 193
+- Load-bearing relationship - AotLE 193
+- Lost cause - AotLE 193
+- Lovesick fool - AotLE 193
+- Magical gift - AotLE 194
+- Marked for success - AotLE 194
+- Misplaced trust - AotLE 194
+- Natural leader - AotLE 194
+- Persecuting foe - AotLE 195
+- Ruined plan - AotLE 195
+- Ruinous vice - AotLE 195
+- Secret cravings - AotLE 195
+- Secret sectarian - AotLE 196
+- Stolen reputation - AotLE 196
+- Ticking bomb - AotLE 196
+- Troublesome friend - AotLE 196
+- Unexpected talent - AotLE 197
+- Unreasonably lucky - AotLE 197
+- Up from the gutter - AotLE 197
+- Veiled backers - AotLE 197
+
+Strength:
 - Charm, able to persuade other NPCs and people with their winning ways
 - Cunning, having plans for any occasion and a backup after that
 - Debts, being owed favours by one or more important other people
@@ -8,7 +60,6 @@ Strengths:
 - Family, related to someone of greater importance or influence
 - Foresight, able to clearly predict the likely ourcomes of current situations
 - Friendship, being good friends with someone important or powerful
-- Gear, possessed of high-quality cyber, weaponry, drones or other useful equipment
 - Inspiration, able to goad others to pursue a shared goal as if it were their own
 - Luck, beyond any ordinary measure to a very noticeable degree
 - Money, being unusually wealthy for someone in their position
@@ -21,7 +72,7 @@ Strengths:
 - Willpower, driven to obtain their aim with tireless, ferocious determination
 - Wisdom, able to discern a practical path to their desires even when all is murky
 
-Virtues:
+Virtue:
 - Always keeps the spirit of their bargains
 - Avoids lying in all but dire circumstances
 - Cherishes an idealistic dream
@@ -43,7 +94,7 @@ Virtues:
 - Self-sacrificing for what they believe in
 - Thoughtful and not given to quick anger
 
-Flaws:
+Flaw:
 - Accepts bribes or considerations
 - Addicted to a drug or indulgence
 - Blames their failures on something else
@@ -64,15 +115,21 @@ Flaws:
 - Spendthrift prone to getting into debt
 - Steals even when it's not very convenient
 - Thoughtless with those closest to them
+- Forbidden love or romantic susceptibility
+- Arrogance
+- Envy of another person's possessions or station
+- Overpowering greed
+- Prone to rage
+- Foolhardy bravery
+- Specific phobia
 
-Problems:
+Problem:
 - A family member or friend has a problem
 - A subordinate wants their job
 - Their kids are doing something stupid
 - Their spouse or partner is furious
 - Their superior is very displeased with them
 - They botched their last responsibility
-- They hate their current job or boss
 - They need rare or costly medical aid
 - They owe more than they can pay
 - They're being blackmailed or coerced
@@ -86,19 +143,19 @@ Problems:
 - They've inherited someone else's problem
 - They've lost or had stolen a vital thing
 - They've made promises they can't keep
+- Dependence
+- Powerful enemy
+- Shameful or scandalous history
+- Secret crime or misdeed
+- Possession of forbidden lore
 
-Desires:
+Desire:
 - They want an appealing new lover
-- They want more leisure time to themselves
 - They want more money
 - They want respect and admiration
 - They want to acquire a different job
-- They want to boost a friend's career
-- They want to carry out a secret command
-- They want to depose their boss
 - They want to earn forgiveness
 - They want to escape their past choices
-- They want to harm an enemy organization
 - They want to indulge in pleasures
 - They want to kill some enemy
 - They want to leave their current life
