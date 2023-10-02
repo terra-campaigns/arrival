@@ -8,6 +8,7 @@ type: Humanoid
 subtype: (outsider) 
 words: Arch-Psychic, Madness
 ac: 18
+hp: 58
 hit_dice: 13d8
 effort: 1d4 + 2
 speed: 30 ft (teleport)

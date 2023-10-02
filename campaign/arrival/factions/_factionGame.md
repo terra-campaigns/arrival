@@ -10,7 +10,7 @@ sort id asc
 ```
 
 
-### Next (min 3877.7B6)
+### Next 3877.7C1
 
 Start Turnskull (5) and Acrisae (4)
 FFKA mobilise to defend linhe

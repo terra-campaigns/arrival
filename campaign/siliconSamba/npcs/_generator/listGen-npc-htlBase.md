@@ -1,0 +1,112 @@
+---
+Strengths:
+- Charm, able to persuade other NPCs and people with their winning ways
+- Cunning, having plans for any occasion and a backup after that
+- Debts, being owed favours by one or more important other people
+- Deception, capable of tricking and misleading others easily
+- Fame, being known and widely respected in their own social circles
+- Family, related to someone of greater importance or influence
+- Foresight, able to clearly predict the likely ourcomes of current situations
+- Friendship, being good friends with someone important or powerful
+- Gear, possessed of high-quality cyber, weaponry, drones or other useful equipment
+- Inspiration, able to goad others to pursue a shared goal as if it were their own
+- Luck, beyond any ordinary measure to a very noticeable degree
+- Money, being unusually wealthy for someone in their position
+- Prowess, with their physical form somehow dramatically stronger and tougher than most
+- Secrets, privy to blackmail information or valuable knowledge hidden from most
+- Skills, processed of a rare or important skill to an unusual degree
+- Stealth, very difficult to locate or follow if they don’t care to be pursued
+- Ties, linked professionally to an organisation or group that is very dangerous to offend
+- Violence, either being personally fearsome or having ties to those who are
+- Willpower, driven to obtain their aim with tireless, ferocious determination
+- Wisdom, able to discern a practical path to their desires even when all is murky
+
+Virtues:
+- Always keeps the spirit of their bargains
+- Avoids lying in all but dire circumstances
+- Cherishes an idealistic dream
+- Courage of unusual degree
+- Devoted to their family
+- Exceptionally kind to the weak
+- Extremely fastidious about their duties
+- Extremely trustworthy to friends
+- Forgiving temperament, even if unwise
+- Generous even when it is difficult
+- Has an excellent sense of humor
+- Hates underhanded schemes and plots
+- Incorrupt about their given responsibilities
+- Is a good, trustworthy leader to minions
+- Keeps calm even under intense pressure
+- Loyal subordinate to their chosen leader
+- Never backs down from a promise
+- Patient when taxed or annoyed
+- Self-sacrificing for what they believe in
+- Thoughtful and not given to quick anger
+
+Flaws:
+- Accepts bribes or considerations
+- Addicted to a drug or indulgence
+- Blames their failures on something else
+- Careless and sloppy with their duties
+- Easily breaks promises to others
+- Easily led astray by a pretty face
+- Exceptionally greedy despite its dangers
+- Has fits of violent anger
+- Irrational hatred for a class or type
+- Leaves a trail of mistreated lovers
+- Lies even when it's not terribly useful
+- Militantly unfaithful to their partner
+- Obsessed with a very expensive pastime
+- Promises far more than they actually do
+- Prone to betraying unprofitable causes
+- Prone to fits of cowardice
+- Reckless desire for fame and glory
+- Spendthrift prone to getting into debt
+- Steals even when it's not very convenient
+- Thoughtless with those closest to them
+
+Problems:
+- A family member or friend has a problem
+- A subordinate wants their job
+- Their kids are doing something stupid
+- Their spouse or partner is furious
+- Their superior is very displeased with them
+- They botched their last responsibility
+- They hate their current job or boss
+- They need rare or costly medical aid
+- They owe more than they can pay
+- They're being blackmailed or coerced
+- They're being pursued by a dire nemesis
+- They're in dire need of money
+- They're stifled and bored in their job
+- They're struggling with mental trauma
+- They've been given a job too big for them
+- They've earned a dangerous foe
+- They've gotten addicted to something
+- They've inherited someone else's problem
+- They've lost or had stolen a vital thing
+- They've made promises they can't keep
+
+Desires:
+- They want an appealing new lover
+- They want more leisure time to themselves
+- They want more money
+- They want respect and admiration
+- They want to acquire a different job
+- They want to boost a friend's career
+- They want to carry out a secret command
+- They want to depose their boss
+- They want to earn forgiveness
+- They want to escape their past choices
+- They want to harm an enemy organization
+- They want to indulge in pleasures
+- They want to kill some enemy
+- They want to leave their current life
+- They want to live in a different place
+- They want to obtain a particular item
+- They want to prove themselves to others
+- They want to pursue a tempting secret
+- They want to rescue someone from trouble
+- They want to take revenge on a foe
+
+---

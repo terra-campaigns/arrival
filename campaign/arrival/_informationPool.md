@@ -45,7 +45,7 @@
 - [ ] Sandman warriors: champions of the Angels
 - [ ] Mercians from the east are reaching out to Glasrath to establish trading routes with them as well - great produce is coming from the mountains who have their strong community now behind the banner of Ghuse.
 - [ ] **FFKA has incarcerated Otaehryn Valdove (chieftan of Rurkinar) in Linhe, the cult believers have now disbanded in the desert.**
-- [ ] **FFKA believes the responsible for the undead in Linhe is Glasrath, and will lauch a campaign to destroy the mountain society.**
+- [ ] **FFKA believes the responsible for the undead in Linhe is Glasrath, and will launch a campaign to destroy the mountain society.**
 - [ ] **Fractures start to appear - more undead and uncreated creatures crawling...**
 - [ ] Hermit's Crevasse is a ruined deep construction, now inhabited by Rurkinar Hermits. They are good people.
 - [ ] The camp close to the canyon is protecting people against the stronger undead attacks of recent days. How?
@@ -63,6 +63,7 @@
 - [ ] Their enigmatic leader, Imortra, possessed a beguiling charm that ensnared the minds and hearts of the cultists, a siren's call leading them deeper into the abyss.
 - [ ] Their clandestine gatherings unfolded in remote, forsaken sites, far removed from the watchful eyes of civilisation. In their pursuit of control and influence, the cult wielded the nefarious powers bestowed upon them by the Ngar'tho, a sinister arsenal of mind-bending abilities that would shake the very foundations of reality itself.
 - [ ] insatiable craving for the perverse pleasures denied by the laws of decent society
+- [ ] Being incarnate The Void is afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void after having a body.
 
 ## General
 

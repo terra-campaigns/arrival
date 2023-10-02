@@ -7,44 +7,35 @@ kanban-plugin: basic
 ## inbox
 
 - [ ] choose one major and one minor monstrous horror per boss sl154
-- [ ] use mithos aberrations sl177 in one thing in each chapter
 - [ ] - Construct NPCs:<br>	- Character tags (AotLE / CWN)<br>	- Simple sheet (if required)<br>	- Metamorphica<br>	- Image<br>	- Some internal contradiction<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
-- [ ] create mercian cult as Silent legions cult
 - [ ] Create mystra / Falestism as Godbound religion
-- [ ] Create new cult for undeath in Linhe - the Eaten
-- [ ] Brezal path pulling is openning the earth with Uncreation ruptures. Uncreated creatures come from it.
-- [ ] Earthquake and the umbilicals
 - [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Campfire scene - what characters want?
+- [ ] use mithos aberrations sl177 in random encounter table
+- [ ] augment the random encounter table
+- [ ] Check city of poison dungeon
 
 
 ## snoozed
 
-- [ ] the guy that amyria spoke about destroying sergarus approaches her
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
-- [ ] Create undead mob as a creature
-- [ ] Sergarus is curious with guilf as he looks like the child he saved from their witch mother decades ago
 - [ ] Elder race of outsiders competing with humans in the past. Nameless city hp lovecraft
 - [ ] Street in a city with Ngar'tho with leaning houses... Dark etc.. Lovecraft
-- [ ] FFKA Reinforcements
 - [ ] War in the south, deep freeze
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 
 
 ## scenes and chapters
 
-- [ ] Roll for adventure hooks in falkovia
+- [ ] **For Holzander**<br>- Deepfolk change in approach now!<br>	- They should not be in chase / guerrilla fights anymore. They will only act from their own level and, it required to chase characters, will do so in large groups.<br>	- The deepfolk are now separated in a more violent group, and in a group that is more interested in negotiating with the PCs - define which is which and their locations. <br>- Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)<br>	- She has a d10 usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.<br>- Party tries to negotiate with the Deepfolk<br>	- There are lost treasures on the clacking caverns that they would like to have.<br>	- One of these treasures is Kimbarak's Helm<br>- Deepfolk want Kimbarak's hands<br>	- One small unit will follow the PCs for it. They might trade it for the PCs escape
 - [ ] Segarus FFKA East Chapter captain is nosy on the character if they get to red tower: Intent is to claim the destruction of Gellert if PCs do it. For that he might appoint a knight to go with PCs (as spy).
-- [ ] create chapter based on a random mythos aberration (sl177)
-- [ ] More evil dwarves searching for kimbarak hands
-- [ ] Duergar party hunting the kimbarak gauntlets - what does the artefact has more of power?
 - [ ] Rise of The Void: https://reddit.com/r/godbound/s/saGDqfZxu6
+- [ ] Galiera shield is left in the landing of level 3. Galiera is taken from level 3 to Imortra's level. She lived there for years. The deepfolk are beaten and depressed. They will fight the PCs with low morale, all they want is to flee Imortra now. Morale check is 8 now. Unless Dolman's mind is not read.
 
 
 ## parking lot
 
 - [ ] part 3 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
-- [ ] but being incarnate The Void was afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void after having a body.
 - [ ] some spirit of great power that takes human form and accompanied a mortal
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)

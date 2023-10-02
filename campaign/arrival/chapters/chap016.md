@@ -23,11 +23,11 @@ tags:
 - [x] Clean up previous chapter files, final commit
 - [x] Update inkarnate maps (if applicable)
 - [x] Evaluate new game date
-- [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
+- [x] Define at least consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks), record it in the faction game or notion file
 - [x] Review [Abridged](../context/abridged.md)
-- [ ] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
+- [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander (if applicable)
-- [ ] Think about characters, write motivations & hooks
+- [x] Think about characters, write motivations & hooks
 - [x] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
@@ -47,27 +47,16 @@ tags:
 - [ ] update GitHub open, except for abridged (that I keep on discord)
 - [ ] obsidian vault to contain repos open & closed
 - [ ] check magic items due: 1 for amyria, 1 for dolman
+- [ ] prep Eyaram
+- [ ] Create undead mob as a creature - Godbound
+- [ ] Create 3 NPCs: 1 Mercian, 1 Rurkinar, Improve Sergarus
 
 ## Character motivations
 
-- **Dolman**: Find Galiera, free Fuko from Ghuse
-- **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul.
-- **Amyria**: Protect little Guilf, find the Angel Hound and free her, feels the Holzander castle is her "call to action"
+- **Dolman**: Find Galiera, free Fuko from Ghuse, make a pact with Kimbarak.
+- **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul. Understand why the Mercians are coming to Linhe.
+- **Amyria**: Protect little Guilf, find the Angel Hound and free her, feels the Holzander castle is her "call to action". Go shopping.
 
-Mr Void cult - ngar tho are in the city as well
-Diamonds and pots purchase
-Rest
-Magic potions (stationary traders because of the rifts - they stopped traveling)
-Dolman wants to make a pact with Kimbarak
-  - Where are the kiranu? They could tell the story of kimbaraks helm?
-
-Check one city of poison dungeon for Eyaram - where the mercians are meeting
-
-
-Outline
-- Problem
-- Person
-- Place
 ## Intro
 
 - 
@@ -75,49 +64,63 @@ Outline
 ## Strong start
 
 - Fight the 3 phase spiders (or run to the city)
+	- During the fight, an FFKA Tent hears the fight, and arrive to support in 1d4 rounds
 
 ## Potential scenes
 
-IDEAS
+- **Twice per evening/night**: 1 or 2 in 6 - Make one WIS/CHA save, each, against a Ngat'tho. Those who fail sees the fake vision, have their mind read and risk 1d6 sanity.
+	- (1) Children singing 
+	- (2) A street where all the orthogonally aligned houses meet in the centre of the street and block the sun
+	- (3) A Deja-vu
+	- (Etc) Water going uphill, drawings appearing in walls...
+	- *If Dolman's mind is read*, ***immediately***, Mr Void communicates with Guilf that they need to bring a dwarf to the Holzander Castle, to make a connection with Kimbarak and save his mother.
+	- *If Amyria's mind is read, **immediately***, Mr Void communicates with Guilf that Amyria will be very happy to meet Thalia once more, in the Holzander Castle.
+- Sergarus is in the city, with 7 tents in total, after the fall of [Gimorkoc](campaign/arrival/locations/gimorkoc.md) to the undead. The city is lost.
+	- Sergarus intends to use [Eyaram](campaign/arrival/locations/eyaram.md) as a stronghold of the FFKA, until they figure out what to do with the umbilicals
+	- Two tents were sent to the city of Linhe as scouts, and will send crows with information once they arrive there
+	- FFKA is skeptical, they really think the problem is Glasrath now (they've investigated it)
+- The guy that Amyria spoke about destroying Sergarus approaches her.
+	- They will enact the plan next night, with help from 5 Rurkinar
+- Stationary trader, with a lot of produce from Glasrath to be sent to the rest of the realm. But now he is afraid of travelling.
+- Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
+- Mercians spend their time in the Mercian house, where the PCs are not welcome.
+	- Inside, in the underground floor, they are praying, and making music, and pleasures of the flesh, making tattoos, weaving clothes...
+	- They speak highly of Imortra, their leader and 1st among equals of the council
+	- They have a Lady Scurvy locked in a room underground
+	- Prepare clues to be found in the house
+- Siege of Lekar (Ravenloft 104).
+- Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
+	- Requires sacrifice of a larger portion of the city (explosion?)
 
-- What is the FFKA doing with the umbilicals, how is Eyaram organised
-	- Prep Eyaram
-- Deepfolk change in approach now?
-	- They should not be in chase / guerrilla fights anymore. They will only act from their own level and, it required to chase characters, will do so in large groups.
-	- The deepfolk are now separated in a more violent group, and in a group that is more interested in negotiating with the PCs - define which is which and their locations. 
-- Raise levels of random encounters.
-
-
-
-
-- Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)
-	- She has a d10 usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.
-- Party tries to negotiate with the Deepfolk
-	- There are lost treasures on the clacking caverns that they would like to have.
-	- One of these treasures is Kimbarak's Helm
-- Deepfolk want Kimbarak's hands
-	- One small unit will follow the PCs for it. They might trade it for the PCs escape
 ## Information pool
 
 [Information Pool](../_informationPool.md)
 
-## Locations
+## Relevant locations
 
-```dataview
-table without ID link(file.link, name) AS "Name", hex as "Hex Code", sub as "Sub-location", type as "Type", rank as "Rank", status as "Status"
-from "campaign"
-WHERE category = "location" AND campaign = "Arrival" AND land = "Maqqatba" AND region = "Linhe"
-sort hex asc
-```
+- Eyaram (including battlemap?)
+- Mercian house
 
 ## Relevant NPCs
 
-```dataview
-table without ID link(file.link, name) AS "Name", type AS Species, cr AS CR, char_tags as "Tags", location as Location, faction as Faction
-from "campaign"
-WHERE category = "npc" AND tags = "current"
-sort file.name asc
-```
+- Mercian cultist
+- Sergarus
+- FFKA guy that approached Amyria
+- Stationary trader
+
+Follow NPC creation template
+- Construct NPCs:
+	- 1 AotLE tag
+	- CWN characteristics 
+		- Silent legions, godbound, etc.. metamorphica?
+	- Simple sheet (if required)
+	- relationships?
+	- Metamorphica
+	- Image
+	- Roleplay aspects:
+		- one distinct physical aspect
+		- one distinct voice aspect
+		- one signature phrase or gesture
 
 ## Potential treasures
 
