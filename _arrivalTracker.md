@@ -21,7 +21,7 @@ sort file.name asc
 ## Active villains (2-4)
 
 - [Aivridyt](arrival/npcs/aivridyt.md)
-- [Sergarus](arrival/npcs/sergarus.md) built as a dark lord
+- [Sergarus](arrival/npcs/Sergarus.md) built as a dark lord
 - [Imortra](arrival/npcs/imortra.md) built as a dark lord
 
 ## Active factions (3-6)

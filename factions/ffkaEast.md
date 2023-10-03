@@ -38,7 +38,7 @@ tags:
 - **Power structure**: Figurehead. A public leader is actually controlled by one or more hidden figures.
 - **Temperament**: Careless, members little interested in spiritual duties
 - **Major actors**
-	- [Sergarus](../npcs/sergarus.md), who is in partnership with some of the [Mercians](mercians.md)
+	- [Sergarus](arrival/npcs/Sergarus.md), who is in partnership with some of the [Mercians](mercians.md)
 	- Aged holy figure, who controls a vital relic of the religion - the actual leader
 	- Eager reformer, who has strong magical powers and wants to drive the organisation out of main FFKA
 - **Minor actors**

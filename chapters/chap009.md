@@ -115,7 +115,7 @@ sort file.name asc
 
 - The ritual finally completes in an unexpected way: a torrent of rain
 - [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) and 10 other cultist are imprisoned, and in the cell the Angel Hound communicates with the shaman, explaining he is imprisoned in the lost castle of the Holzander's.
-- [Sergarus](../npcs/sergarus.md) arrive in the next day to interrogate cultists.
+- [Sergarus](arrival/npcs/Sergarus.md) arrive in the next day to interrogate cultists.
 - Imra becomes troubled and mad.
 - *Something else has to create a problem - tbd at table.*
 

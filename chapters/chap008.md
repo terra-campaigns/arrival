@@ -83,7 +83,7 @@ tags:
 	- **Imortra (Guilf's mother) observing Guilf.**, Someone calls her by her name and she leaves for the Mercian house. If Guilf follows someone grabs him - what is this pert doing here?
 	- The ritual finally completes in an unexpected way: the Angel Hound communicates with [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) in imprisoned in the lost castle of the Holzander's.
 	- Tense situation, FFKA wants to find reason to imprison cultists
-	- [Sergarus](../npcs/sergarus.md) arrive in the next day to interrogate cultists.
+	- [Sergarus](arrival/npcs/Sergarus.md) arrive in the next day to interrogate cultists.
 	- Imra becomes troubled and mad.
 	- *Something else has to create a problem - tbd at table.*
 
