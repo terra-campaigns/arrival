@@ -32,34 +32,23 @@ tags:
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Detail strong start
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-- [ ] Review and order/highlight information pool.
-- [ ] Outline and update location notes, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Define treasure
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
+- [x] Review and order/highlight information pool.
+- [x] Outline and update location notes, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Define treasure
 - [ ] Update random encounter tables
 - [ ] Prepare Owlbear, if applicable
 
+## Intro
 
-- [x] Review Ngar'tho (including notebook)
-- [x] Create the Mercian cult
-- [ ] Create intrigue adventure in Eyaram (weakening rurkinar, FFKA and mercians)
-- [ ] update GitHub open, except for abridged (that I keep on discord)
-- [ ] obsidian vault to contain repos open & closed
-- [ ] check magic items due: 1 for amyria, 1 for dolman
-- [ ] prep Eyaram
-- [ ] Create undead mob as a creature - Godbound
-- [ ] Create 3 NPCs: 1 Mercian, 1 Rurkinar, Improve Sergarus
+- Summary
 
 ## Character motivations
 
 - **Dolman**: Find Galiera, free Fuko from Ghuse, make a pact with Kimbarak.
 - **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul. Understand why the Mercians are coming to Linhe.
 - **Amyria**: Protect little Guilf, find the Angel Hound and free her, feels the Holzander castle is her "call to action". Go shopping.
-
-## Intro
-
-- 
 
 ## Strong start
 
@@ -79,17 +68,18 @@ tags:
 	- Sergarus intends to use [Eyaram](campaign/arrival/locations/eyaram.md) as a stronghold of the FFKA, until they figure out what to do with the umbilicals
 	- Two tents were sent to the city of Linhe as scouts, and will send crows with information once they arrive there
 	- FFKA is skeptical, they really think the problem is Glasrath now (they've investigated it)
-- The guy that Amyria spoke about destroying Sergarus approaches her.
-	- They will enact the plan next night, with help from 5 Rurkinar
-- Stationary trader, with a lot of produce from Glasrath to be sent to the rest of the realm. But now he is afraid of travelling.
+- [Marcus](Marcus.md), that Amyria spoke about taking [Sergarus](arrival/npcs/Sergarus.md) out approaches her.
+	- They will enact the plan next night, with help from 5 Rurkinar and the trader [Eleni](Eleni.md)
+- [Eleni](Eleni.md) - Stationary trader, with a lot of produce from Glasrath to be sent to the rest of the realm. But now he is afraid of travelling and blames poor management of the troops by [Sergarus](arrival/npcs/Sergarus.md)
 - Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
 - Mercians spend their time in the Mercian house, where the PCs are not welcome.
 	- Inside, in the underground floor, they are praying, and making music, and pleasures of the flesh, making tattoos, weaving clothes...
 	- They speak highly of Imortra, their leader and 1st among equals of the council
 	- They have a Lady Scurvy locked in a room underground
 	- Prepare clues to be found in the house
-- Siege of Lekar (Ravenloft 104).
+- Foreshadow the Siege of Lekar (Ravenloft 104).
 - Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
+	- Mercians think the undead are part of the plan and go receive them - they are completely destroyed...
 	- Requires sacrifice of a larger portion of the city (explosion?)
 
 ## Information pool
@@ -98,30 +88,17 @@ tags:
 
 ## Relevant locations
 
-- Eyaram (including battlemap?)
+- [Eyaram](arrival/locations/Eyaram.md)
 - Mercian house
 
 ## Relevant NPCs
 
-- Mercian cultist
-- Sergarus
-- FFKA guy that approached Amyria
-- Stationary trader
-
-Follow NPC creation template
-- Construct NPCs:
-	- 1 AotLE tag
-	- CWN characteristics 
-		- Silent legions, godbound, etc.. metamorphica?
-	- Simple sheet (if required)
-	- relationships?
-	- Metamorphica
-	- Image
-	- Roleplay aspects:
-		- one distinct physical aspect
-		- one distinct voice aspect
-		- one signature phrase or gesture
+- Mercian cultist: [Sumayl](Sumayl.md)
+- [Sergarus](arrival/npcs/Sergarus.md)
+- FFKA guy that approached Amyria: [Marcus](Marcus.md)
+- Stationary trader [Eleni](Eleni.md)
 
 ## Potential treasures
 
-- ...
+- 4 [Congealed Paradox](arrival/context/artefacts.md#Congealed%20Paradox)
+

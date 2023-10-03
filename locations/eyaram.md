@@ -27,14 +27,12 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 - **Major actors**
 	- **Crema** (N), the **local female [soldier](https://open5e.com/monsters/soldier-a5e) leader of the [FFKA East](../factions/ffkaEast.md)**.
 		- Knows the military of the FFKA is needed in the city.
-		- Has close connection with [Sergarus](../npcs/sergarus.md) (who is always travelling the posts).
+		- Has close connection with [Sergarus](arrival/npcs/Sergarus.md) (who is always travelling the posts).
 		- Crema is wretched in appearance, with short silver hair and bright blue eyes. She wears simple clothing and a wooden holy symbol. Crema is savage but creative.
 	- **Olal** (LE), an **[FFKA East](../factions/ffkaEast.md) female [Knight](https://open5e.com/monsters/knight)**
 		- Remarkably beautiful and persuasive.
 		- Olal has auburn hair and light green eyes. She wears banded mail and wields a military pick and shield. Olal seeks revenge against the sister who betrayed him.
-	- **Iradh** (N), a **rich male merchant** [commoner](https://open5e.com/monsters/commoner)
-		- Related to several important families or people, from Rimortec, supported by the [Mercians](../factions/mercians.md).
-		- Iradh has messy black hair and blue eyes, and an unusual scar on his neck. He wears worn clothing and carries a willow staff. Iradh has an animal companion, a red fox named Mionarfin.
+	- [Eleni](arrival/npcs/Eleni.md), a **rich merchant** [commoner](https://open5e.com/monsters/commoner)
 - **Minor actors**
 	- **Arwel** (NG), a female dwarf innkeeper, supported by the [Rurkinar](../factions/rurkinar.md).
 		- Arwel has straight copper hair and blue eyes. She wears plain clothing and a yellow cloak. Arwel has an animal companion, a grey rat named Adrieldas.
@@ -49,13 +47,10 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 
 ## Locations
 
- - Fortress: Strong fort with moat, stables, barracks and a temple converted into a Faletist church.
- - A modest woodcarver's workshop, built around a large tree - it is a secret Rurkinar meeting place.
+ - Fort Beluarian: Strong fort with moat, stables, barracks and a temple converted into a Faletist church.
+ - A modest woodcarver's workshop, built around a large tree - it is a secret Rurkinar meeting place. [Eleni](arrival/npcs/Eleni.md)
  - The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
--  A Mercian house outside the city
+-  A Mercian house outside the city [Sumayl](arrival/npcs/Sumayl.md)
 
-## Current scene
-
-- [Eyaram](eyaram.md) streets are empty, due to curfew
-- Wandering encounter: 1d10 per hour: 1 city dweller, 9 city guard, 10 FFKA
+![](https://i.imgur.com/7benUdu.jpg)
 

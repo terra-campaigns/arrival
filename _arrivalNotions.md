@@ -16,6 +16,7 @@ kanban-plugin: basic
 - [ ] Check city of poison dungeon
 - [ ] Roll some metamorphica tables and add to NPC generation
 - [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
+- [ ] Create undead mob as a creature - Godbound
 
 
 ## snoozed
