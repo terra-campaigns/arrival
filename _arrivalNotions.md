@@ -14,6 +14,8 @@ kanban-plugin: basic
 - [ ] use mithos aberrations sl177 in random encounter table
 - [ ] augment the random encounter table
 - [ ] Check city of poison dungeon
+- [ ] Roll some metamorphica tables and add to NPC generation
+- [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
 
 
 ## snoozed
