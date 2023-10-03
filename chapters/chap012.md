@@ -30,7 +30,7 @@ tags:
 - [x] Update inkarnate maps (if applicable)
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Review [Abridged](../context/abridged.md)
-- [x] Review and organise [Notions](../../notions.md)
+- [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))

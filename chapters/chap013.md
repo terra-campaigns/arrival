@@ -26,7 +26,7 @@ tags:
 - [x] Evaluate new game date
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Review [Abridged](../context/abridged.md)
-- [x] Review and organise [Notions](../../notions.md)
+- [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzander 15 jan
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
 - [x] Define party rank, xp and DC min, XP ([_arrivalTracker](../_arrivalTracker.md))

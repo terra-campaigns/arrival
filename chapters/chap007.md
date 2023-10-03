@@ -29,7 +29,7 @@ tags:
 
 - [x] Summarise previous chapter
 - [x] Review [Abridged](../context/abridged.md)
-- [x] Review and organise [Notions](../../notions.md)
+- [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & links
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks
