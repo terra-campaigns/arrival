@@ -9,7 +9,11 @@ Tag:
 - Change at glory - AotLE 186
 - Chronic illness - AotLE 186
 - Concealed sin - AotLE 187
-- Cultural outsider - AotLE 187
+- Cultural outsider (AotLE 187):
+  - They don’t belong here and everyone knows it. They don’t know how the society works, and they make significant mistakes or erroneous assumptions that a native never would. The locals don’t trust them, and may view them as a menace, useful catspaw, or burden to be endured. Conversely, they may be a native but despise their home culture for some reason. They have great difficulty cooperating with it in ways necessary for a peaceful life, and act to undermine its customs and institutions whenever possible.
+  - Ambitions - Find acceptance among the locals by some grand deed, Get revenge on the natives for their isolation, Compel the natives to accommodate their ways.
+  - Powers - They have friends among the other outsiders in the community, They have resources drawn from their homeland, They are willing to imagine and do things the locals never would consider.
+  - Dreads - They’ve committed a terrible local sin by accident, Their plans rely on the cooperation of a native who doesn’t trust them, They’re being dragged into problems created by others of their kind
 - Cursed misfortune - AotLE 187
 - Delusional self-image - AotLE 187
 - Doomed love - AotLE 188
