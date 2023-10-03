@@ -88,7 +88,7 @@ sort file.name asc
 - Visit to the **dwarf enclave**
 	- Dwarves have a subconscious connection with the weaving of the world
 - Other random exploration locations (see tables below)
-- **Curfew in [Eyaram](../locations/eyaram.md)**, possible identification by the FFKA
+- **Curfew in [Eyaram](arrival/locations/Eyaram.md)**, possible identification by the FFKA
 	- Highlight information about Linhe
 - **Dannamore** and entrance to Holzander, in a desert thunderstorm
 	- Anaks (who can be partnered with) and elemental
