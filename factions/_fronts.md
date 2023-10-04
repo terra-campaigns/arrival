@@ -30,18 +30,18 @@ Roll a d20 every time party level reaches a new integer (from 5 onwards), agains
 
 - [x] 5: Nothing happens
 - [x] 6: 1st Front, Turnskull - Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
-- [ ] 7: If no front passes, use a sixteen sorrows (dark cult or natural disaster)
-- [ ] 8: (mandatory 3rd front)
-- [ ] 9: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?), Alternative is to kick off another random adventure in Linhe (ravenloft ) maybe use the Foreshadoing for level 9?
+- [ ] 7: Supraxae are now flying everywhere to maintain reconnaissance (3rd front)
+- [ ] 8: If no front passes, use a sixteen sorrows: 1,2,3 in 6 - dark cult or 4,5,6 in 6 - natural disaster
+- [ ] 9: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?)
 - [ ] 10: (mandatory 4th front)
-- [ ] 11:  Foreshadowing for Part 3 - Thick mist starts (mist, night roads, uncreation)
+- [ ] 11:  If no front passes, use a sixteen sorrows: the other one from level 8
 - [ ] 12: (mandatory 5th front)
-- [ ] 13: PCs are known as true divine legends - touched by Theurgy
+- [ ] 13: PCs are known as true divine legends - touched by Theurgy, the have a village-sized group of followers
 - [ ] 14: (mandatory 6th front)
-- [ ] 15: Random world shaking event B (dmg27) 
+- [ ] 15: Thick mist starts (mist, night roads, uncreation)
 - [ ] 16: (mandatory 7th front)
 - [ ] 17 : Foreshadowing part 4
-- [ ] 18: Random world shaking event C (dmg27) 
+- [ ] 18: 
 - [ ] 19: (mandatory 8th front)
 - [ ] 20: PCs are revered as divinities (godbound) - rites and followers might set up religions under the PCs
 

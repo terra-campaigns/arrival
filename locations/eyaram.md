@@ -43,14 +43,13 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 - **Defences**: If threatened with destruction, the court is defended by **a secret cult with potent magic**.
 - **Consequence of its destruction**: If the court is dissolved, **a dark power will recruit the survivors**.
 
-![](https://i.imgur.com/DEgikot.png)
+![](https://i.imgur.com/I7U1JCC.png)
 
 ## Locations
 
- - Fort Beluarian: Strong fort with moat, stables, barracks and a temple converted into a Faletist church.
- - A modest woodcarver's workshop, built around a large tree - it is a secret Rurkinar meeting place. [Eleni](arrival/npcs/Eleni.md)
- - The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
--  A Mercian house outside the city [Sumayl](arrival/npcs/Sumayl.md)
-
-![](https://i.imgur.com/7benUdu.jpg)
+- A Rurkinar temple converted into a Faletist church.
+	- Temple has subterranean access to depths below. The access is locked, FFKA leader has the key.
+- [Eleni](arrival/npcs/Eleni.md)'s modest (but well geared) trade shop, built around a large tree - it is a secret Rurkinar meeting place.
+- The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
+-  A Mercian house outside the city: [Sumayl](arrival/npcs/Sumayl.md) is there
 

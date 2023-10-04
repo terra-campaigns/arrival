@@ -27,3 +27,6 @@
 
 WWN 205 for more items on tables
 ---
+
+
+Add some misbegotten creatures based on hostile alien construction, silent legions or else

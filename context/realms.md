@@ -30,11 +30,11 @@ Link to [Old maps](https://i.imgur.com/Zr9id91.png)
 
 **Six nations or groups of importance:**
 - Kingdom of Oivepia's Faletist Knights of the Arch
-- Hincland Mercians (knights?)
-- D'Elsinese Anak Tribes (+automaton knights?)
+- Hincland Mercians
+- D'Elsinese Anak Tribes
 - Nurderad Praetorian Nation and the Lance Defenders
 - Kimbarak Countries of Glasrath and Kiranu
-- Acrisae
+- Acrisae (Angels)
 
 ### Katho
 ***The Kathan Empire***
