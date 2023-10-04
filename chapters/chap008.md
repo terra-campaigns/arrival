@@ -29,7 +29,7 @@ tags:
 - [x] Summarise previous chapter
 - [x] Update template
 - [x] Move unused stuff from previous chapter (next chapter or notions)
-- [x] Review [Abridged](../context/abridged.md)
+- [x] Review [Abridged](_published/arrival/abridged.md)
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & links

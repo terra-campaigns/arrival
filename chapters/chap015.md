@@ -24,7 +24,7 @@ tags:
 - [x] Update inkarnate maps (if applicable)
 - [x] Evaluate new game date
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
-- [x] Review [Abridged](../context/abridged.md)
+- [x] Review [Abridged](_published/arrival/abridged.md)
 - [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander (if applicable)
 - [x] Think about characters, write motivations & hooks

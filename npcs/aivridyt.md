@@ -18,7 +18,7 @@ tags: current
 # Aivridyt, the Creep
 ***Also known as: The Purple Evil, Ghuse, Grezar and other names***
 
-![Dramatis Personae Aivridyt, the Creep](../context/abridged.md#Dramatis%20Personae%20Aivridyt,%20the%20Creep)
+![Dramatis Personae Aivridyt, the Creep](_published/arrival/abridged.md#Dramatis%20Personae%20Aivridyt,%20the%20Creep)
 
 ## Ghuse, Glasrath Army General and Cleric of Algath
 

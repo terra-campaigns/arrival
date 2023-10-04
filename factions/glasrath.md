@@ -60,4 +60,4 @@ Located in [Naragzah](../context/realms.md#Naragzah)
 
 After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
 
-![Alliance](../context/abridged.md#Alliance)
+![Alliance](_published/arrival/abridged.md#Alliance)
