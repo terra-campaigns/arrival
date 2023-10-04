@@ -51,6 +51,21 @@ sapients_activities:
 - playing a game
 - building something
 - reading a book
+- recognising a PC from somewhere else
+- in need of help from people like the PCs
+- looking to earn a bribe
+- intimidated by the PCs
+- weakened and can't pick fights
+- prejudiced in favor of a PC type
+- recognise the PCs somehow solved a recent problem
+- avoiding conflict right now
+- anxious as a plan of theirs just went wrong
+- prejudiced against a PC type
+- offended or insulted by something
+- having a terrible day so far
+- avoiding being seen associating with the likes of the PCs
+- thinking the PCs are an easy prey
+- unwelcome to deal with strangers
 
 misbegotten_activities:
 - hunting or raiding
@@ -306,5 +321,26 @@ effects:
 - Something spills or falls to the ground
 - Something isn't where it's supposed to be
 - There's a foul smell in the air
-
+- Sealed burial mound
+- Plundered burial mound
+- Statues carved out of a mountainside
+- Intact obelisk etched with a warning, historical lore, dedication, or religious iconography
+- Ruined or toppled obelisk
+- Intact statue of a person or deity
+- Ruined or toppled statue of a person or deity
+- Great stone wall, intact, with tower fortifications spaced at one-mile intervals
+- Great stone wall in ruins
+- Great stone arch
+- Fountain
+- Intact circle of standing stones
+- Ruined or toppled circle of standing stones
+- Pillar carved with elemental or fey symbols
+- Dead magic zone (similar to an antimagic field)
+- Ancient tree containing a trapped spirit
+- Battlefield where lingering fog occasionally assumes humanoid forms
+- Giant crystal shard protruding from the ground
+- Wrecked ship, even if water is nowhere nearby (roll again to identify which creatures are in it)
+- Field of petrified soldiers or other creatures
+- Forest of petrified trees
+- Canyon containing a creature' graveyard
 ---

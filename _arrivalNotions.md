@@ -13,10 +13,11 @@ kanban-plugin: basic
 - [ ] Campfire scene - what characters want?
 - [ ] use mithos aberrations sl177 in random encounter table
 - [ ] augment the random encounter table
-- [ ] Check city of poison dungeon
 - [ ] Roll some metamorphica tables and add to NPC generation
 - [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
 - [ ] Create undead mob as a creature - Godbound
+- [ ] WWN 205 for more items on tables for encounters
+- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 
 
 ## snoozed
@@ -44,6 +45,7 @@ kanban-plugin: basic
 - [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
 - [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
+- [ ] Check city of poison dungeon
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
 - [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
