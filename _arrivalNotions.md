@@ -20,7 +20,7 @@ kanban-plugin: basic
 - [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 - [ ] Create city encounter generator
 - [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
-- [ ] Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
+- [ ] 13 survivors FFKA, Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
 
 
 ## snoozed
