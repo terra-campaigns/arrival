@@ -7,9 +7,9 @@ faction: "[mercians](mercians.md)"
 deceased: false
 tags: current
 
-name: Sumayl Al-Haddad
+name: Joorn Al-Haddad
 ---
-# Sumayl Al-Haddad
+# Joorn Al-Haddad
 ***Mercian cultist (non-believer)***
 
 - **Tag**: Cultural outsider - AotLE 187: He **despises the Mercian culture.** They have great difficulty cooperating with it in ways necessary for a peaceful life, and act to undermine its customs and institutions whenever possible.

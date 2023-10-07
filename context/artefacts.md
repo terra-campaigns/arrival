@@ -30,7 +30,7 @@ Its textile was etched with ancient runes that glowed when activated with a puls
 ### Congealed Paradox
 ***Northern origin, required attunement***
 
-These thumb-sized black gemstones are mildly painful to touch or look at, as each one contains an impossible duality that has been forcibly reconciled by ancient sorcery. When gripped and broken as a Main Action, the released paradox draws the immediate repression of the Legacy as mundane reality is violently reinforced in the surrounding twenty feet. Within that radius all active magic or psionic powers are immediately dispelled and no further power use can be performed inside it for the rest of the scene. Only celestial powers are immune to the paradox. Creatures reliant on magic or psionics for existence take 5d6 damage for each full round they spend inside this radius. Every usage requires a sanity check for those who observe the effects, 1d6 sanity cost if fail.
+These thumb-sized black gemstones are mildly painful to touch or look at, as each one contains an impossible duality that has been forcibly reconciled by ancient sorcery. When gripped and broken as a Main Action, the released paradox draws the immediate repression of the Legacy as mundane reality is violently reinforced in the surrounding 20 feet. Within that radius all active magic or psionic powers are immediately dispelled and no further power use can be performed inside it for the rest of the scene. Only celestial powers are immune to the paradox. Creatures reliant on magic or psionics for existence take 5d6 damage for each full round they spend inside this radius. Every usage requires a sanity check for those who observe the effects, 1d6 sanity cost if fail.
 
 **History**
 - Widely known item, Arcane check DC 8/15.

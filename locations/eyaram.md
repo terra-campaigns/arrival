@@ -45,11 +45,13 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 
 ![](https://i.imgur.com/I7U1JCC.png)
 
+**City was sieged by undead in 3877.6F5 and sits in ruins now.**
+
 ## Locations
 
 - A Rurkinar temple converted into a Faletist church.
 	- Temple has subterranean access to depths below. The access is locked, FFKA leader has the key.
 - [Eleni](arrival/npcs/Eleni.md)'s modest (but well geared) trade shop, built around a large tree - it is a secret Rurkinar meeting place.
 - The Cursed Spear: A modest [tavern](https://donjon.bin.sh/fantasy/inn/), built close to the fortress in a brick house.
--  A Mercian house outside the city: [Sumayl](arrival/npcs/Sumayl.md) is there
+-  A Mercian house outside the city: [Joorn](arrival/npcs/Joorn.md) is there
 

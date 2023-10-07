@@ -71,8 +71,15 @@ time <- 'night'
 rank <- 'r1'
 reacMod <- 0
 
-# define distance and encounter type
+# define distance
+  # arctic, desert, farmland, or grassland | 6d6 × 3m
+  # forest, swamp, or woodland             | 2d8 × 3m
+  # hills or wastelands                    | 2d10 × 3m
+  # jungle                                 | 2d6 × 3m
+  # mountains                              | 4d10 × 3m
 distance <- (sample(1:6, 1) + sample(1:6, 1) + sample(1:6, 1) + 1) * 5
+
+# define encounter type
 type <- sample(dataLst$type, 1)
 reaction <- genReacRoll(reacMod)
 

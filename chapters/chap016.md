@@ -1,7 +1,7 @@
 ---
 category: chapter
 part: 2
-name: 
+name: Madness in Eyaram
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.6F5
@@ -14,7 +14,7 @@ xp: 3680
 tags: 
 ---
 
-# Chapter 16
+# Chapter 16 Madness in Eyaram
 
 ## Planning checklist
 
@@ -37,8 +37,9 @@ tags:
 - [x] Outline and update location notes, reviewing scenes and secrets
 - [x] Outline potential NPCs, reviewing all above
 - [x] Define treasure
-- [ ] Update random encounter tables
-- [ ] Prepare Owlbear, if applicable
+- [x] Update random encounter tables
+- [x] Prepare Owlbear, if applicable
+- [x] Print information pool (applicable parts)
 
 ## Intro
 
@@ -58,9 +59,9 @@ tags:
 ## Potential scenes
 
 - **Twice per evening/night**: 1 or 2 in 6 - Make one WIS/CHA save, each, against a Ngat'tho. Those who fail sees the fake vision, have their mind read and risk 1d6 sanity.
-	- (1) Children singing 
+	- (1) A Deja-vu.
 	- (2) A street where all the orthogonally aligned houses meet in the centre of the street and block the sun
-	- (3) A Deja-vu
+	- (3) Children singing 
 	- (Etc) Water going uphill, drawings appearing in walls...
 	- *If Dolman's mind is read*, ***immediately***, Mr Void communicates with Guilf that they need to bring a dwarf to the Holzander Castle, to make a connection with Kimbarak and save his mother.
 	- *If Amyria's mind is read, **immediately***, Mr Void communicates with Guilf that Amyria will be very happy to meet Thalia once more, in the Holzander Castle.
@@ -76,11 +77,13 @@ tags:
 	- Inside, in the underground floor, they are praying, and making music, and pleasures of the flesh, making tattoos, weaving clothes...
 	- They speak highly of Imortra, their leader and 1st among equals of the council
 	- They have a Lady Scurvy locked in a room underground
-	- Prepare clues to be found in the house
 - Foreshadow the Siege of Lekar (Ravenloft 104).
 - Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
 	- Mercians think the undead are part of the plan and go receive them - they are completely destroyed...
 	- Requires sacrifice of a larger portion of the city (explosion?)
+
+![|500](https://i.imgur.com/W4PsbD6.png)
+
 
 ## Information pool
 
@@ -93,7 +96,7 @@ tags:
 
 ## Relevant NPCs
 
-- Mercian cultist: [Sumayl](Sumayl.md)
+- Mercian cultist: [Joorn](arrival/npcs/Joorn.md)
 - [Sergarus](arrival/npcs/Sergarus.md)
 - FFKA guy that approached Amyria: [Marcus](Marcus.md)
 - Stationary trader [Eleni](Eleni.md)
@@ -101,4 +104,9 @@ tags:
 ## Potential treasures
 
 - 4 [Congealed Paradox](arrival/context/artefacts.md#Congealed%20Paradox)
+
+```encounter
+creatures:
+  - 3: Phase Spider
+```
 

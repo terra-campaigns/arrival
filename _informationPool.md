@@ -38,28 +38,28 @@
 
 ## Linhe
 
-- [ ] Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
+- [x] Serhan (guard captain of Glasrath) went into one of the Mercian houses in Linhe
 - [ ] Sandman warriors: champions of the Angels
 - [ ] Mercians from the east are reaching out to Glasrath to establish trading routes with them as well - great produce is coming from the mountains who have their strong community now behind the banner of Ghuse.
-- [ ] **FFKA has incarcerated Otaehryn Valdove (chieftan of Rurkinar) in Linhe, the cult believers have now disbanded in the desert.**
-- [ ] **FFKA believes the responsible for the undead in Linhe is Glasrath, and will launch a campaign to destroy the mountain society.**
-- [ ] **Fractures start to appear - more undead and uncreated creatures crawling...**
+- [x] **FFKA has incarcerated Otaehryn Valdove (chieftan of Rurkinar) in Linhe, the cult believers have now disbanded in the desert.**
+- [x] **FFKA believes the responsible for the undead in Linhe is Glasrath, and will launch a campaign to destroy the mountain society.**
+- [x] **Fractures start to appear - more undead and uncreated creatures crawling...**
 - [ ] Hermit's Crevasse is a ruined deep construction, now inhabited by Rurkinar Hermits. They are good people.
 - [ ] The camp close to the canyon is protecting people against the stronger undead attacks of recent days. How?
 
 ## Mercians
 
-- [ ] Mercian religion is dying, but a new dark cult is reborn
+- [x] Mercian religion is dying, but a new dark cult is reborn
 - [ ] Mercians, primarily human in blood but bearing the weight of forsaken traditions
 - [ ] they danced upon the graves of ancient gods, their souls divorced from their religious lineage. Their oral tradition wove narratives of forgotten heroes, fantastical creatures, and inscrutable gods who had lost their lustre in the passage of ages. Music and dance, once sacred rites, now became a medium through which they celebrated what little remained of their elusive heritage. Runes, etched in the very fabric of their culture, bore the weight of divination and arcane mastery. 
-- [ ] Clad in garments as dark as the abyss and adorned with amulets and tattoos that spoke of mysteries
-- [ ] This clandestine order, guided [Imortra, the Debased](campaign/arrival/npcs/imortra.md), sought to resurrect the relics of their lost faith
+- [x] Clad in garments as dark as the abyss and adorned with amulets and tattoos that spoke of mysteries
+- [x] This clandestine order, guided [Imortra, the Debased](campaign/arrival/npcs/imortra.md), sought to resurrect the relics of their lost faith
 - [ ] Imortra, a seeker of arcane secrets and mysteries, had delved into the abyssal wisdom of [Ethux'zhurh](campaign/arrival/context/religions.md#Ethux'zhurh), a knowledge acquired through the enigmatic scholar [Gellert Holzander](campaign/arrival/npcs/gellert.md). 
 - [ ] As they sought the plane of Makab in the Linhe region
 - [ ] they concealed their sinister machinations by weaving their communications into the very fabric of the Ngar'tho's telepathic web, a sinister dance of whispers and hidden secrets that forever bound them to the Ngar'tho's watchful eye. 
 - [ ] Their enigmatic leader, Imortra, possessed a beguiling charm that ensnared the minds and hearts of the cultists, a siren's call leading them deeper into the abyss.
 - [ ] Their clandestine gatherings unfolded in remote, forsaken sites, far removed from the watchful eyes of civilisation. In their pursuit of control and influence, the cult wielded the nefarious powers bestowed upon them by the Ngar'tho, a sinister arsenal of mind-bending abilities that would shake the very foundations of reality itself.
-- [ ] insatiable craving for the perverse pleasures denied by the laws of decent society
+- [x] insatiable craving for the perverse pleasures denied by the laws of decent society
 - [ ] Being incarnate The Void is afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void after having a body.
 
 ## Glasrath
