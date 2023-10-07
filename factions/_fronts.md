@@ -2,7 +2,7 @@
 
 ## Rules
 
-Roll a d20 every time party level reaches a new integer (from 5 onwards), against DC 10. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last - and it should happen at level 20 latest.
+Roll a d20 every time party level reaches a new integer (from 5 onwards), against DC 11. On a success one front advances. Randomly assign which front advances, but the 7th front is always the last - and it should happen at level 20 latest.
 
 ## Milestones
 ***Current fronts: 2/8***
@@ -30,8 +30,8 @@ Roll a d20 every time party level reaches a new integer (from 5 onwards), agains
 
 - [x] 5: Nothing happens
 - [x] 6: 1st Front, Turnskull - Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
-- [ ] 7: Supraxae are now flying everywhere to maintain reconnaissance (3rd front)
-- [ ] 8: If no front passes, use a sixteen sorrows: 1,2,3 in 6 - dark cult or 4,5,6 in 6 - natural disaster
+- [x] 7: Sixteen sorrows: natural disaster
+- [ ] 8 : (mandatory) Supraxae are now flying everywhere to maintain reconnaissance (3rd front)
 - [ ] 9: Foreshadowing - Supraxae is destroyed by Holzander's umbilical and falls: Supraxae are built as godwalkers - GB202 (do it through a faction round?)
 - [ ] 10: (mandatory 4th front)
 - [ ] 11:  If no front passes, use a sixteen sorrows: the other one from level 8

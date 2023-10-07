@@ -12,8 +12,8 @@ sort id asc
 
 ### Next 3877.7C1
 
-Start Turnskull (5) and Acrisae (4)
-FFKA mobilise to defend linhe
+- Start Turnskull (5) and Acrisae (4)
+- Evaluate Rurkinar and FFKA situation (reduce their power?)
 
 **Background actors**
 
