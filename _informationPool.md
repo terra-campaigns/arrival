@@ -62,6 +62,7 @@
 - [ ] Their clandestine gatherings unfolded in remote, forsaken sites, far removed from the watchful eyes of civilisation. In their pursuit of control and influence, the cult wielded the nefarious powers bestowed upon them by the Ngar'tho, a sinister arsenal of mind-bending abilities that would shake the very foundations of reality itself.
 - [x] insatiable craving for the perverse pleasures denied by the laws of decent society
 - [ ] Being incarnate The Void is afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void situation is the same as god-brain torment Ravenloft 74
+- [ ] Most Ngar'tho are trying to save the void, but some wants to put it out of its misery
 
 ## Glasrath
 

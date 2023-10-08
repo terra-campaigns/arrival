@@ -12,21 +12,9 @@ kanban-plugin: basic
 - [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
 - [ ] FFKA East tries to get reinforcement from olivepia (faction turn)
 - [ ] Acrisae or FFKA propose to the party for them to take over Ghuse while the army is busy
-- [ ] Deepfolk put Galiera on top of pile of rubble - it is a trap to get Dolman to complete the ritual: check bluespur
 - [ ] Dolman to complete the ritual, guilf is Mr voids mouth, Amyria will take down the Acrisae
-- [ ] Add acrisae to random encounter
 - [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
 - [ ] For natural disaster, treat Rurkinar as commoners+traders, FFKA as military that needs sustained, Mercians as cult that has protection, but limited and not keen to partner with Rurkinar and FFKA unless converted
-- [ ] Every time PCs go to Linhe, roll an adventure seed from natural disaster, consider other dust too
-- [ ] Read bluespur<br>- add noteworthy features to arrival<br>- add god brain history to the void
-- [ ] Level 4 is Ngar'tho, Mercians and Antinom, performing all kinds of radical experiments
-- [ ] Create (calamity) one adventure seed for a random sapient encounter
-- [ ] Electrical storms and alien vapours
-- [ ] Most Ngar'tho are trying to save the void, but some wants to put it out of its misery
-- [ ] Use suppressed memories Ravenloft 65 when characters fail sanity tests on level 4
-- [ ] Make Mercian cult very relevant at level 4
-- [ ] Add Aratu monsters Atlas 140 to random encounters
-- [ ] Imortra is a master Antinom
 
 
 ## opportunityAttack
@@ -37,36 +25,33 @@ kanban-plugin: basic
 - [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 - [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
 - [ ] Create city encounter generator
+- [ ] Read bluespur<br>- add noteworthy features to arrival<br>- add god brain history to the void
+- [ ] Add acrisae to random encounter
 - [ ] use mithos aberrations sl177 in random encounter table
+- [ ] Add a crater to the map
+- [ ] Add Aratu monsters Atlas 140 to random encounters
 - [ ] augment the random encounter table
 
 
 ## snoozed
 
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
-- [ ] Elder race of outsiders competing with humans in the past. Nameless city hp lovecraft
-- [ ] Street in a city with Ngar'tho with leaning houses... Dark etc.. Lovecraft
 - [ ] War in the south, deep freeze
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
-- [ ] https://i.imgur.com/4CqOLy9.png
+- [ ] Acrisae https://i.imgur.com/4CqOLy9.png
 
 
 ## scenes and chapters
 
-- [ ] **For Holzander**<br>- Deepfolk change in approach now!<br>	- They should not be in chase / guerrilla fights anymore. They will only act from their own level and, it required to chase characters, will do so in large groups.<br>	- The deepfolk are now separated in a more violent group, and in a group that is more interested in negotiating with the PCs - define which is which and their locations. <br>- Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)<br>	- She has a d10 usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.<br>- Party tries to negotiate with the Deepfolk<br>	- There are lost treasures on the clacking caverns that they would like to have.<br>	- One of these treasures is Kimbarak's Helm<br>- Deepfolk want Kimbarak's hands<br>	- One small unit will follow the PCs for it. They might trade it for the PCs escape
-- [ ] Segarus FFKA East Chapter captain is nosy on the character if they get to red tower: Intent is to claim the destruction of Gellert if PCs do it. For that he might appoint a knight to go with PCs (as spy).
-- [ ] Rise of The Void: https://reddit.com/r/godbound/s/saGDqfZxu6
-- [ ] Galiera shield is left in the landing of level 3. Galiera is taken from level 3 to Imortra's level. She lived there for years. The deepfolk are beaten and depressed. They will fight the PCs with low morale, all they want is to flee Imortra now. Morale check is 8 now. Unless Dolman's mind is not read.
+- [ ] Rise of The Void: Level 5 onwards? https://reddit.com/r/godbound/s/saGDqfZxu6
 
 
 ## parking lot
 
-- [ ] part 3 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
-- [ ] some spirit of great power that takes human form and accompanied a mortal
+- [ ] part 2 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Create mystra / Falestism as Godbound religion
 - [ ] Create undead mob as a creature - Godbound
-- [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
 - [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] Check city of poison dungeon
@@ -74,7 +59,6 @@ kanban-plugin: basic
 - [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
 - [ ] Calculate renown
-- [ ] Add a crater to the map
 - [ ] Meeting the Acrisae [contact](../../bookReviews/contact.md)
 
 
