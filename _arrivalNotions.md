@@ -6,21 +6,39 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] choose one major and one minor monstrous horror per boss sl154
-- [ ] - Construct NPCs:<br>	- Character tags (AotLE / CWN)<br>	- Simple sheet (if required)<br>	- Metamorphica<br>	- Image<br>	- Some internal contradiction<br>	- Roleplay aspects:<br>		- one distinct physical aspect<br>		- one distinct voice aspect<br>		- one signature phrase or gesture
-- [ ] Create mystra / Falestism as Godbound religion
 - [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Campfire scene - what characters want?
-- [ ] use mithos aberrations sl177 in random encounter table
-- [ ] augment the random encounter table
+- [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
+- [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
+- [ ] FFKA East tries to get reinforcement from olivepia (faction turn)
+- [ ] Acrisae or FFKA propose to the party for them to take over Ghuse while the army is busy
+- [ ] Deepfolk put Galiera on top of pile of rubble - it is a trap to get Dolman to complete the ritual: check bluespur
+- [ ] Dolman to complete the ritual, guilf is Mr voids mouth, Amyria will take down the Acrisae
+- [ ] Add acrisae to random encounter
+- [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
+- [ ] For natural disaster, treat Rurkinar as commoners+traders, FFKA as military that needs sustained, Mercians as cult that has protection, but limited and not keen to partner with Rurkinar and FFKA unless converted
+- [ ] Every time PCs go to Linhe, roll an adventure seed from natural disaster, consider other dust too
+- [ ] Read bluespur<br>- add noteworthy features to arrival<br>- add god brain history to the void
+- [ ] Level 4 is Ngar'tho, Mercians and Antinom, performing all kinds of radical experiments
+- [ ] Create (calamity) one adventure seed for a random sapient encounter
+- [ ] Electrical storms and alien vapours
+- [ ] Most Ngar'tho are trying to save the void, but some wants to put it out of its misery
+- [ ] Use suppressed memories Ravenloft 65 when characters fail sanity tests on level 4
+- [ ] Make Mercian cult very relevant at level 4
+- [ ] Add Aratu monsters Atlas 140 to random encounters
+- [ ] Imortra is a master Antinom
+
+
+## opportunityAttack
+
+- [ ] choose one major and one minor monstrous horror per boss sl154
 - [ ] Roll some metamorphica tables and add to NPC generation
-- [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
-- [ ] Create undead mob as a creature - Godbound
 - [ ] WWN 205 for more items on tables for encounters
 - [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
+- [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
 - [ ] Create city encounter generator
-- [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
-- [ ] 13 survivors FFKA, Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
+- [ ] use mithos aberrations sl177 in random encounter table
+- [ ] augment the random encounter table
 
 
 ## snoozed
@@ -46,6 +64,8 @@ kanban-plugin: basic
 - [ ] part 3 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
 - [ ] some spirit of great power that takes human form and accompanied a mortal
 - [ ] Competing groups trying to retrieve something from somewhere
+- [ ] Create mystra / Falestism as Godbound religion
+- [ ] Create undead mob as a creature - Godbound
 - [ ] Later faction: knights of the restless (https://www.gmbinder.com/share/-L8JrLtObw8AvcFw4JcW)
 - [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
