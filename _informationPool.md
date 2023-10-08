@@ -35,6 +35,7 @@
 - [ ] Factions of Derro war with one another in the lower levels.
 - [ ] The Deepfolk  hate Imorta but fear her and what they’re doing down there. If they send anyone through, they could face repercussions. What guarantees could the character give to the Deepfolk to let them pass.
 - [ ] Imortra used the power of the brezal paths to summon all sorts of horrible entities from the void, which now roam in the lower reaches.
+- [ ] Imortra tried to use Galiera for a ritual, but somehow it fumbled 
 
 ## Linhe
 
@@ -60,7 +61,7 @@
 - [ ] Their enigmatic leader, Imortra, possessed a beguiling charm that ensnared the minds and hearts of the cultists, a siren's call leading them deeper into the abyss.
 - [ ] Their clandestine gatherings unfolded in remote, forsaken sites, far removed from the watchful eyes of civilisation. In their pursuit of control and influence, the cult wielded the nefarious powers bestowed upon them by the Ngar'tho, a sinister arsenal of mind-bending abilities that would shake the very foundations of reality itself.
 - [x] insatiable craving for the perverse pleasures denied by the laws of decent society
-- [ ] Being incarnate The Void is afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void after having a body.
+- [ ] Being incarnate The Void is afraid. As he grew in malice his power passed into the creatures of evil and he become more earth bound - The Void situation is the same as god-brain torment Ravenloft 74
 
 ## Glasrath
 

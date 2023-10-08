@@ -56,12 +56,13 @@ tags:
 
 ## Strong start
 
-- 
+- Lady scurvy encounter
+- Other encounters (improve generator)
 ## Potential scenes
 
 - Imortra knows the PCs are coming, set up the deepfolk to take them prisioners
-- Sixteen sorrows - natural disaster
-- 
+- Sixteen sorrows - natural disaster: Linhe becomes the Bluetspur Aratu: how do arratu works with the legacy?
+- Deepfolk put Galiera on top of pile of rubble - it is a trap to get Dolman to complete the ritual: check bluespur
 
 ## Information pool
 

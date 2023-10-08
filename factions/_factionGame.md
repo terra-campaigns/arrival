@@ -25,6 +25,9 @@ sort id asc
 - lady scurvy attacking to keep the void alive (check ravenloft)
 - siege in eyaram?
 - ffkw is skeptical with Mercians 
+- 13 survivors FFKA, Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
+- Sergarus does not die, but is forever crippled. Marcus takes over.
+- FFKA East tries to get reinforcement from olivepia (faction turn)
 
 ### 3877.6F1
 - Order: 1, 2, 4, 3
