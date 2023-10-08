@@ -16,7 +16,15 @@ tags:
 
 # Castle of Holzander Level 4
 
-## Cult of Camazotz
+Level 4 is Imortra, in her work with the Ngar'tho, supported by Mercians and Antinom, performing all kinds of radical experiments. A cult-experiment created by Imortra also resides in the level, they do not create much problem and can be used for further experimentation. Most of the cult believers are of Derrors - weak-bred dwarves mixed with Antinom, but they never matured properly. A few years ago a group severed from the group and now live in a small cave village.
+
+## General
+
+### Suppressed memories (Ravenloft 65)
+***When characters fail sanity tests on level 4***
+
+## Factions
+### Cult of Camazotz
 
 The first cult created by [imortra](arrival/npcs/imortra.md), but abandoned by her. Camazotz is the god the cult idolize. Their image is similar to that of the [ngar-tho](_gm/npcCodex/statblocks/ngar-tho.md) (show picture of frozen Ngar'tho).
 
@@ -24,10 +32,27 @@ The first cult created by [imortra](arrival/npcs/imortra.md), but abandoned by h
 - Bats (several types)
 - Drakustanz - a mind-enslaved dragonborn
 
-## Village
+### Village
 
 Derros that long ago left the cult
 
-## Imortra
+### Imortra
 
+These people are the new mercian cult, with mercian antinoms, Ngar'tho and Imortra operating experiments.
+
+## Rooms
+
+### 401
+
+```encounter
+creatures:
+  - 1d4: Swarm of Bats
+```
+
+### 402
+
+```encounter
+creatures:
+  - 1d4: HD 07
+```
 

@@ -31,17 +31,14 @@ tags:
 - [x] Think about characters, write motivations & hooks
 - [x] Define XP ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Detail strong start
-- [ ] Prepare Owlbear, if applicable
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-- [ ] Review and order/highlight information pool.
-- [ ] Outline and update location notes, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Define treasure
-- [ ] Update random encounter tables
+- [x] Prepare Owlbear, if applicable
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
+- [x] Review and order/highlight information pool.
+- [x] Outline and update location notes, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Define treasure
+- [x] Update random encounter tables
 - [ ] Print information pool (applicable parts)
-
-
-
 
 ## Intro
 
@@ -72,27 +69,23 @@ creatures:
 **Encounter with sapient that relates that a flood that drowned out a community**
 - ***Seed:*** An **Incompetent ruler who thinks only of their own safety** is working to seize **A cursed magical item that's calling forth the disaster** left behind by its now-dead collectors from the **Once-splendid building left in ruins by the calamity** where it was left, but a **Local somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **A cursed magical item that's calling forth the disaster** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
 
-- Imortra knows the PCs are coming, set up the deepfolk to take them prisioners
-- Sixteen sorrows - natural disaster: Linhe becomes the Bluetspur Aratu: how do arratu works with the legacy?
-- Deepfolk put Galiera on top of pile of rubble - it is a trap to get Dolman to complete the ritual: check bluespur
-- Deepfolk change in approach now!
-	- They should not be in chase / guerrilla fights anymore.
-	- They set a trap with Galiera now?? Imortra knows they want her, so it is good like this...
-	- The deepfolk are to imprision them and they a Derro will pick them up
-	- They will only act from their own level and, it required to chase characters, will do so in large groups.
-	- The deepfolk are now separated in a more violent group, and in a group that is more interested in negotiating with the PCs - define which is which and their locations. 
-- Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)
-	- She has a d10 usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.
-	- Galiera shield is left in the landing of level 3. Galiera is taken from level 3 to Imortra's level. She lived there for years. The deepfolk are beaten and depressed. They will fight the PCs with low morale, all they want is to flee Imortra now. Morale check is 8 now. Unless Dolman's mind is not read.
-- Party tries to negotiate with the Deepfolk
-	- There are lost treasures on the clacking caverns that they would like to have.
-	- One of these treasures is Kimbarak's Helm
-- Deepfolk want Kimbarak's hands
-	- One small unit will follow the PCs for it. They might trade it for the PCs escape
-- Weird mutated/uncreated oozes have begun to take over the second level
-- Sanity check scenes:
-	- River Styx
-	- Memories
+**Deepfolk put Galiera on top of pile of rubble**
+- It is a trap to get Dolman to complete the ritual to save The Void
+- The plan is to get the PCs alive (and send them to the Derro at L4)
+- Imortra knows the PCs are coming
+- If needed, the Deep Folk will chase the PCs in a very large group - the PCs have to be captured this time **- all in!**
+- Deepfolk morale checks with -2 penalty as they recently lost Bijnar - they are beaten and depressed.
+- They hate Imortra, but are not aware the Derro also hate her.
+
+**Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)**
+- She has a d12 (E: 20) usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.
+- Galiera can make an effort to speak all the secrets she has uncovered, but that will cost 1d4 rolls on the usage dice.
+
+**Weird mutated/uncreated oozes have begun to take over the second level**
+
+**Sanity check scenes at level 4, if around Ngar'tho (1 in 6 per day, or certain when close to Imortra)**
+- River Styx
+- Memories (Ravenloft - Bluetspur)
 
 ## Information pool
 
