@@ -107,13 +107,24 @@ beasts_day_r1:
   - 1-5-3: HD 03
 
 beasts_day_r2:
-- Construction
-  
+- Sand sheep, antelope:
+  - 3-24-12: HD 00
+- Scorpions, vipers, sand cats:
+  - 3-30-15: HD 00
+- Dust hawks and vultures:
+  - 6-27-15: HD 00
+- Hyenas, jackals:
+  - 1-19-10: HD 01
+- Dire desert wolves:
+  - 1-9-5: HD 02
+- Desert lions:
+  - 1-5-3: HD 03
+
 beasts_night_r0:
 - Dust hawks and vultures:
   - 2-12-6: HD 00
 - Hyenas, jackals:
-  - 1-7-4: HD 01
+  - 2-7-4: HD 01
 - Dire desert wolves:
   - 1-3-2: HD 02
 - Desert lions:
@@ -131,14 +142,25 @@ beasts_night_r1:
 - Dire desert wolves:
   - 1-9-5: HD 02
 - Desert lions:
-  - 1: HD 03
+  - 1-5-3: HD 03
 - Cave bear:
-  - 1: HD 04
+  - 1-5-2: HD 04
 - Sabre-toothed tiger:
-  - 1: HD 05
+  - 1-4-2: HD 05
 
 beasts_night_r2:
-- Construction
+- Dust hawks and vultures:
+  - 6-27-15: HD 00
+- Hyenas, jackals:
+  - 1-19-10: HD 01
+- Dire desert wolves:
+  - 1-9-5: HD 02
+- Desert lions:
+  - 2-5-3: HD 03
+- Cave bear:
+  - 1-5-2: HD 04
+- Sabre-toothed tiger:
+  - 2-7-4: HD 05
 
 sapients_day_r0:
 - Rurkinar:
@@ -189,7 +211,28 @@ sapients_day_r1:
   - 0-2-1: Maqqatba Lancer
 
 sapients_day_r2:
-- Construction
+- Rurkinar:
+  - 2-16-8: HD 00
+- Dust elves:
+  - 1-9-5: HD 02
+- Mercian commoners:
+  - 1-9-5: HD 02
+- Bandits:
+  - 1-9-5: HD 02
+- FFKA scouts:
+  - 1-5-3: War Scout
+- Anak Lesser:
+  - 1-19-10: Anak Scout
+- Anak War Band - R1-2:
+  - 1-6-3: Anak Scout
+  - 1-3-2: Anak Warrior
+  - 1: Anak Warchief
+- FFKA Tent - R2-3:
+  - 1-8-3.5: Guard City Watch
+  - 0.5-1.5-1: War Scout
+  - 0-2-0.5: Knight Priest
+  - 1: Maqqatba Knight
+  - 0-2-1: Maqqatba Lancer
 
 sapients_night_r0:
 - Mercian commoners:
@@ -238,7 +281,27 @@ sapients_night_r1:
   - 1-2-1.5: Bodyguard (Praetorian)
 
 sapients_night_r2:
-- Construction
+- Mercian commoners:
+  - 1-9-5: HD 02
+- Bandits:
+  - 1-9-5: HD 02
+- FFKA scouts:
+  - 1-5-3: War Scout
+- Anak Lesser:
+  - 1-19-10: Anak Scout
+- Anak War Band - R1-2:
+  - 1-6-3: Anak Scout
+  - 1-3-2: Anak Warrior
+  - 1: Anak Warchief
+- FFKA Tent - R2-3:
+  - 1-8-3.5: Guard City Watch
+  - 0.5-1.5-1: War Scout
+  - 0-2-0.5: Knight Priest
+  - 1: Maqqatba Knight
+  - 0-2-1: Maqqatba Lancer
+- Mercian Antinomi:
+  - 1: Antinom
+  - 2-4-3: Bodyguard (Praetorian)
 
 misbegotten_day_r0:
 - Uncreated giant vultures:
@@ -257,7 +320,10 @@ misbegotten_day_r1:
   - 1-3-2: Phase Spider
 
 misbegotten_day_r2:
-- Construction
+- Uncreated giant scorpions:
+  - 2-8-5: HD 04
+- Phase spider:
+  - 2-6-4: Phase Spider
 
 misbegotten_night_r0:
 - Phase spider:
@@ -276,7 +342,12 @@ misbegotten_night_r1:
   - 1-39-20: Slave Husk
 
 misbegotten_night_r2:
-- Construction
+- Phase spider:
+  - 2-6-4: Phase Spider
+- Lady Scurvy:
+  - 1-3-2: Lady Scurvy
+- Undead horde:
+  - 1-39-20: Slave Husk
 
 effects:
 - A horse or pack animal goes lame
@@ -343,4 +414,12 @@ effects:
 - Field of petrified soldiers or other creatures
 - Forest of petrified trees
 - Canyon containing a creature' graveyard
+- Electrical storms and glistering alien vapors
+- Electrical storms and glistering alien vapors
+- Electrical storms and glistering alien vapors
+- Electrical storms and glistering alien vapors
+- Electrical storms and glistering alien vapors
+- Electrical storms and glistering alien vapors
+- Electrical storms and glistering alien vapors
+- Earthquake
 ---
