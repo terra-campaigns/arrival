@@ -170,4 +170,15 @@ Desire:
 - They want to rescue someone from trouble
 - They want to take revenge on a foe
 
+Mutation:
+- 344 Body Function - Roots and Vines - This mutant has roots and vines that can burrow into the ground and absorb nutrients, as well as keep the mutant attached to solid objects.
+- 360 Body Function - Slow movement speeds - This mutant cannot travel on its limbs as fast as others of its species (2) half speed
+- 455 Mind Behaviours - Mental block defense tactic - When this mutant has an unpleasant or violent experience, there is a chance it will block the source from its mind and refuse to acknowledge it in the future, even if it once again becomes a threat or a cause of stress.
+- 522 Mind Cognition - Decreased Willpower - This mutant has less willpower than the average specimen of its type (4) one quarter less MORALE
+- 535 Mind Cognition - Eidetic memory - This mutant has perfect recall and can peruse its memories like films or photographs.
+- 537 Mind Cognition - Emotionless - This mutant does not feel extremes of emotion; not anger, despair, fear, nor joy. It still has some small semblance of emotional life, such as annoyance, contentedness, enmity, and friendship, but these are highly intellectual compared to normal human emotions.
+- 558 Mind Cognition - Increased Willpower - This mutant has more willpower than the average specimen of its type (4) one quarter more MORALE, up to 12
+- 652 Psychic Powers - Light Manipulation - This mutant is able to psychically alter the characteristics of nearby light, causing fluctuations in brightness and colour, and causing some items to become more or less visible, depending on how light waves move around and over them. These effects require concentration, and the mutant must be able to see or sense the light affected.
+- 859 Supernatural - Irritating touch - This mutant’s flesh contains a substance that is irritating to most others of its kind, and possibly other creatures as well. Unless they take protective measures, those touching the mutant or things it has touched may experience itchiness, rashes, or uncomfortable feelings.
+- 955 Supernatural - Taboo - This mutant has some sort of supernatural restriction placed upon its actions (15) Can only speak to those they intend to harm.
 ---

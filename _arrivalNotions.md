@@ -19,8 +19,6 @@ kanban-plugin: basic
 
 ## opportunityAttack
 
-- [ ] choose one major and one minor monstrous horror per boss sl154
-- [ ] Roll some metamorphica tables and add to NPC generation
 - [ ] WWN 205 for more items on tables for encounters
 - [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 - [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
@@ -31,6 +29,8 @@ kanban-plugin: basic
 - [ ] Add a crater to the map
 - [ ] Add Aratu monsters Atlas 140 to random encounters
 - [ ] augment the random encounter table
+- [ ] ### npcGenerator<br><br>- Add Metamorphica mutations rolls<br>- Add Roleplay aspects (get a table? or as interpretation?)<br>	- one distinct physical aspect<br>	- one distinct voice aspect<br>	- one signature phrase or gesture<br>- choose one major and one minor monstrous horror per boss sl154 (only bosses)<br>- choose one major and one minor monstrous horror per boss sl154
+- [ ] encounterGenerator<br><br>- WWN 205 for more items on tables for encounters<br>- Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html<br>- Add acrisae to random encounter
 
 
 ## snoozed
