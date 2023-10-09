@@ -152,6 +152,20 @@ Problem:
 - Shameful or scandalous history
 - Secret crime or misdeed
 - Possession of forbidden lore
+- Agents of a foreign cult masquerading as something else
+- Bewildered foreign helpers brought in for hidden purposes
+- Visions from an ineffable outer power whip them on
+- Terrible dreams haunt them unless they slavishly obey
+- A schemer employs them without their understanding
+- Grinding nightmares. A good night's rest is impossible
+- Gets lost anywhere and everywhere unless led by another
+- Neither dies from nor heals from any disease they incur
+- No one believes a word they say except their best friends
+- Helpful magic or divine blessings no longer help them
+- They age at a rate of a year every week
+- Food no longer nourishes; they need something darker
+- Their breath spreads a loathsome plague to strangers
+- An alien intellect gradually eats their mind and free will
 
 Desire:
 - They want an appealing new lover
@@ -169,8 +183,75 @@ Desire:
 - They want to pursue a tempting secret
 - They want to rescue someone from trouble
 - They want to take revenge on a foe
+- A willing human sacrifice, even if tricked or coerced
+- A shrine of worship to them or their gods
+- A destructive arrangement of stones or structures
+- Food. Living, writhing, screaming food
+- A negative emotion, felt in unison by a great many
+- The death of local authorities or keepers of order
+- The ruin of a local temple or death of its clergy
+- The discrediting of a belief or betrayal of a group loyalty
+- A magical artifact for their consumption, worship, or use
+- Power over the nearby community or polity
+
+Manneirism:
+- The Way They Move - Hesitant, fluttery, or delicately precise
+- The Way They Move - Clumsy, with broad, careless motions
+- The Way They Move - Slow and measured actions
+- The Way They Move - Sharp, brisk, vigorous movements
+- The Way They Move - Laborious or weary motions
+- The Way They Move - Smooth, relaxed, efficient movement
+- Clothing Idiosyncrasies - A fondness for very bright or dull colors
+- Clothing Idiosyncrasies - Emblem of a faith or social group
+- Clothing Idiosyncrasies - Ill-kept, whether worn, dirty, or rumpled
+- Clothing Idiosyncrasies - Wears another group's style of clothing
+- Clothing Idiosyncrasies - Abnormally risqué or modest for the society
+- Clothing Idiosyncrasies - Shows regular dirt and marks of their trade
+- Clothing Idiosyncrasies - Fastidiously neat or tastefully adorned
+- Clothing Idiosyncrasies - Wears a very noticeable piece of jewelry
+- The First Thing Noticed - Their accent is unusual for the location
+- The First Thing Noticed - They have signs of a chronic illness or wound
+- The First Thing Noticed - They have an unusual hair style or texture
+- One Way They Differ From Expectations - From a group not normally found here
+- One Way They Differ From Expectations - Much older or younger than expected
+- One Way They Differ From Expectations - Abnormal temperament for their trade
+- One Way They Differ From Expectations - Overt devotee of an uncommon faith here
+- One Way They Differ From Expectations - A pet animal not normally found here
+- One Way They Differ From Expectations - They eat a cuisine that is not liked here
+- One Way They Differ From Expectations - They wear unusual tattoos or body jewelry
+- One Way They Differ From Expectations - They're uncommonly socially awkward
+- Visible Mannerisms or Traits - An often-used catchphrase or verbal tic
+- Visible Mannerisms or Traits - Hands never stop moving
+- Visible Mannerisms or Traits - Talks very slowly and deliberately
+- Visible Mannerisms or Traits - Tends to shift their weight constantly
+- Visible Mannerisms or Traits - Appears often to be slightly drugged or drunk
+- Visible Mannerisms or Traits - Prefers to always be in shade if possible
+- Visible Mannerisms or Traits - Asks far too many questions
+- Visible Mannerisms or Traits - Never looks you in the eye when lying
+- Visible Mannerisms or Traits - Visibly avaricious for gold, food, or such else
+- Visible Mannerisms or Traits - Always circuitous about answering questions
+- Visible Mannerisms or Traits - Never directly denies or refuses anything
+- Visible Mannerisms or Traits - Paces constantly; always prefers to stand
+- Visible Mannerisms or Traits - Has work-stained or scarred hands
+- Visible Mannerisms or Traits - Old pox marks or disease scars are present
+- Visible Mannerisms or Traits - Prefers elaborate hats, belts, or adornments
+- Visible Mannerisms or Traits - Always toying with worry beads or such
+- Visible Mannerisms or Traits - Knocks things over carelessly
+- Visible Mannerisms or Traits - Checks written notes regularly
+- A droning, Maddening buzz of blasphemous speech
 
 Mutation:
+- The First Thing Noticed - Their voice is unusual and arresting
+- The First Thing Noticed - They're disfigured or missing a limb
+- The First Thing Noticed - They have a distinctive scent or stench
+- General Physical Build - Unusually short or slender
+- General Physical Build - Plump, voluptuous, or soft
+- General Physical Build - Bulky, built, or more massive than usual
+- One Way They Differ From Expectations - Unusual skin coloration or texture
+- One Way They Differ From Expectations - Abnormal hair texture or hue
+- Extra limbs, and often the wrong kind for their species
+- Unnatural corruption rots everything clean around them
+- They are merged with metal parts or inanimate structures
 - 344 Body Function - Roots and Vines - This mutant has roots and vines that can burrow into the ground and absorb nutrients, as well as keep the mutant attached to solid objects.
 - 360 Body Function - Slow movement speeds - This mutant cannot travel on its limbs as fast as others of its species (2) half speed
 - 455 Mind Behaviours - Mental block defense tactic - When this mutant has an unpleasant or violent experience, there is a chance it will block the source from its mind and refuse to acknowledge it in the future, even if it once again becomes a threat or a cause of stress.

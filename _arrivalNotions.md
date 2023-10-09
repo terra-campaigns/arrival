@@ -19,18 +19,11 @@ kanban-plugin: basic
 
 ## opportunityAttack
 
-- [ ] WWN 205 for more items on tables for encounters
-- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
-- [ ] Add some roleplay aspects to NPC generation: voice aspect, phrase or gesture?
-- [ ] Create city encounter generator
 - [ ] Read bluespur<br>- add noteworthy features to arrival<br>- add god brain history to the void
+- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
+- [ ] Create city encounter generator
+- [ ] Create undead mob as a creature - Godbound, and replace on encounter gen
 - [ ] Add acrisae to random encounter
-- [ ] use mithos aberrations sl177 in random encounter table
-- [ ] Add a crater to the map
-- [ ] Add Aratu monsters Atlas 140 to random encounters
-- [ ] augment the random encounter table
-- [ ] ### npcGenerator<br><br>- Add Metamorphica mutations rolls<br>- Add Roleplay aspects (get a table? or as interpretation?)<br>	- one distinct physical aspect<br>	- one distinct voice aspect<br>	- one signature phrase or gesture<br>- choose one major and one minor monstrous horror per boss sl154 (only bosses)<br>- choose one major and one minor monstrous horror per boss sl154
-- [ ] encounterGenerator<br><br>- WWN 205 for more items on tables for encounters<br>- Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html<br>- Add acrisae to random encounter
 
 
 ## snoozed
@@ -51,7 +44,6 @@ kanban-plugin: basic
 - [ ] part 2 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Create mystra / Falestism as Godbound religion
-- [ ] Create undead mob as a creature - Godbound
 - [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] Check city of poison dungeon

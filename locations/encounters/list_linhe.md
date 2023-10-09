@@ -17,6 +17,18 @@ beasts_activities:
 - frightened of something nearby
 - drunken on intoxicated in some way
 - tired
+- wounded from a recent hunt
+- magically warped somehow
+- being chased by something bigger
+- remnants of its last prey are obvious nearby
+- attacking someone right now
+- well-fed and disinclined to hunt
+- looking deceptively harmless or weak
+- something's pet or hunting beast
+- fighting over a mate
+- using bait to lure in humans
+- currently eating its last unfortunate prey
+- old or crippled and acting unpredictably
 
 sapients_activities:
 - hunting or gathering foodstuffs
@@ -66,6 +78,32 @@ sapients_activities:
 - avoiding being seen associating with the likes of the PCs
 - thinking the PCs are an easy prey
 - unwelcome to deal with strangers
+- hopelessly lost
+- hermits with a good reason to stay alone
+- escaping slave or prisoner
+- peasants perhaps moonlighting as a bandit
+- thinking they are dangerous outlaw or outcast
+- explorering, scouting, or surveying the territory
+- patrolling to drive off troublesome intruders
+- miners, woodsmen, hunters, or other workers
+- common traveler, perhaps lost
+- noble or other gentry on a journey
+- pilgrim, perhaps of a malevolent god
+- bandits, marauders, or other adventurers
+- raiders on their way to pillage a site
+- camping
+- conducting some rite
+- arguing hotly over something
+- pausing for a meal
+- making far too much noise for stealth
+- interrogating a prisoner
+- examining recent loot or a finding
+- camping here for an interval
+- fleeing a fearsome pursuer
+- looking for something to steal
+- in need of healing or help with a situation
+- hiding from something hunting them
+- chasing enemies of theirs
 
 misbegotten_activities:
 - hunting or raiding
@@ -77,6 +115,18 @@ misbegotten_activities:
 - hurt
 - investigating a plant
 - performing a ritual of some sort
+- wounded from a recent hunt
+- magically warped somehow
+- being chased by something bigger
+- remnants of its last prey are obvious nearby
+- attacking someone right now
+- well-fed and disinclined to hunt
+- looking deceptively harmless or weak
+- something's pet or hunting beast
+- fighting over a mate
+- using bait to lure in humans
+- currently eating its last unfortunate prey
+- old or crippled and acting unpredictably
 
 beasts_day_r0:
 - Sand sheep, antelope:
@@ -422,4 +472,18 @@ effects:
 - Electrical storms and glistering alien vapors
 - Electrical storms and glistering alien vapors
 - Earthquake
+- Site of a bloody battle
+- Remains of a cult sacrifice are hidden here
+- There are eldritch sigils worked into the decorations
+- An altar to a profane and forbidden deity was raised here
+- A standing emotion of terrible force and foulness is here
+- It's connected to elsewhere by a curdled angle of space
+- A magical spell went terribly wrong, and effects linger
+- Something is infected with a hideously unnatural disease
+- Everything that happens here is incredibly unlucky
+- A noise or music here bores into the sanity of intruders
+- Remnants of a horribly successful ritual are strewn about
+- Space is wrong, distorting and twisting motion here
+- Something good here has been utterly perverted
+- A wretched victim of cult amusements may still live
 ---
