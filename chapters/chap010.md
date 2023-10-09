@@ -113,7 +113,7 @@ sort file.name asc
 
 **Secrets shared**
 
-- Dark thunderstorms a becoming very frequent and the [Desolate Flats](../context/environments.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing).
+- Dark thunderstorms a becoming very frequent and the [Desolate Flats](_published/arrival/context.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing).
 - #puzzle The Rurkinar need rallying, otherwise they will collapse under the FFKA and the undead attacks
 - FFKA knows the Glasrath Defenders have not perished - FFKA keeping eyes open to find and interrogate then. They are a family with 2 kids and an old brute.
 - Rurkinar is hardly answering the prayers
