@@ -43,6 +43,7 @@ tags:
 ## Intro
 
 - Summary of Chapter 16
+- Account for rations
 
 ## Character motivations
 
@@ -57,7 +58,15 @@ tags:
 - Attempt to drink sapience: i.e.:
 	- Round 1: mind blast and attack+grapple in round one
 	- Round 2: mind blast and drink sapience - **Notice check to see that the umbilicals/uncreation glows as it drinks sapience**
-- If successful will run (trying to carry the PC, but letting go if needed)
+- If successful will run (trying to carry the PC, but letting go if needed if hurt)
+
+**Continue travel**
+- Wandering encounter checks (1 in 6, r1 on the road, r2 in the wastelands):
+	- Every day
+	- Every night
+	- Every foraging (DC 25)
+- Survival checks with advantage (Amyria knows the desert) DC 15
+- Travel pace: 4 miles/h on roads, 2 miles/h off roads
 
 ```encounter
 creatures:
@@ -68,6 +77,10 @@ creatures:
 
 **Encounter with sapient that relates that a flood that drowned out a community**
 - ***Seed:*** An **Incompetent ruler who thinks only of their own safety** is working to seize **A cursed magical item that's calling forth the disaster** left behind by its now-dead collectors from the **Once-splendid building left in ruins by the calamity** where it was left, but a **Local somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **A cursed magical item that's calling forth the disaster** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
+
+**Chat with Cagoth**
+- Deepfolk were in turmoil for many days after Bijnar was killed. **He does not want to know if it were the PCs**.
+- He explain the competition for leadership with the remaining lieutenants. He explains who are each, and also the Shamans.
 
 **Deepfolk put Galiera on top of pile of rubble**
 - It is a trap to get Dolman to complete the ritual to save The Void

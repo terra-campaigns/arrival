@@ -19,7 +19,7 @@ sort id asc
 
 - Kiranu arrive in Melister on 3877.7C7
 	- **The alliance of Nurderad, Katho and Kiranu lost to D'Elsin in the south. The surviving army is now helping the dwarves of Kiranu to migrate north, giving up the last southern civilisation. 300 miles to Melister first (at 10 miles per day). Then to Glasrath. 2 weeks to prepare departure. 5 weeks traveling. (meta-gaming: 2nd milestone of the campaign - out of 8)**
-- 3877.7B -> Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse.
+- 3877.7B -> Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse. Don't kill Moraal and Kethra, use them as bait for the PCs (maybe bring Tom & Babi back later)
 - 3877.7C - Ushulx arrives in Glasrath, after that Avryndt will come and visit the Temple of Remains
 - Uncreated creatures start to pop from fractures
 - lady scurvy attacking to keep the void alive (check ravenloft)
