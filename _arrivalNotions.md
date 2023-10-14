@@ -19,7 +19,7 @@ kanban-plugin: basic
 - [ ] Add acrisae to random encounter
 
 
-## snoozed
+## snoozed scenes
 
 - [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
 - [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
@@ -27,14 +27,9 @@ kanban-plugin: basic
 - [ ] Campfire scene - what characters want?
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
 - [ ] War in the south, deep freeze
+- [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 - [ ] Acrisae https://i.imgur.com/4CqOLy9.png
-- [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
-
-
-## scenes and chapters
-
-- [ ] Rise of The Void: Level 5 onwards? https://reddit.com/r/godbound/s/saGDqfZxu6
 
 
 ## parking lot
@@ -46,9 +41,7 @@ kanban-plugin: basic
 - [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
-- [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
-- [ ] Calculate renown
 - [ ] Meeting the Acrisae [contact](../../bookReviews/contact.md)
 
 

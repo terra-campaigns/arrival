@@ -28,8 +28,8 @@ tags:
 - [x] Review [Factions](../factions/_factionGame.md) and run one faction turn, if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
 - [x] Review https://slyflourish.notion.site/Old-Session-Notes-a5d023328ab94adba68cafa90553b508 done until 9th Apr
-- [ ] Think about characters, write motivations & hooks
-- [ ] Define XP ([_arrivalTracker](../_arrivalTracker.md))
+- [x] Think about characters, write motivations & hooks
+- [x] Define XP ([_arrivalTracker](../_arrivalTracker.md))
 - [ ] Detail strong start
 - [ ] Prepare Owlbear, if applicable
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
@@ -43,32 +43,36 @@ tags:
 ## Intro
 
 - Summary of Chapter 17
+- Sleigh of hand for congealed paradox
+- Regain sanity with delirium 
 
 ## Character motivations
 
-- **Dolman**: Find Galiera, free Fuko from Ghuse, make a pact with Kimbarak.
+- **Dolman**: Save Galiera (maybe take her from the castle), free Fuko from Ghuse, make a pact with Kimbarak.
 - **Guilf**: Find out more about The Void, and why it is so dark, and why his mother sold his soul. Understand why the Mercians are coming to Linhe.
-- **Amyria**: Protect little Guilf, find the Angel Hound and free her, feels the Holzander castle is her "call to action". Investigate what is causing the Uncreation.
+- **Amyria**: Protect little Guilf, find the Angel Hound and free her, destroy the 3 devices in the castle.
 
 ## Strong start
 
-
+- Parlay with Derro leader
+	- Agreement on how to take down imortra
+	- If agreed, the Deepfolk will also give them safe passage above after they have completed their task
+	- But they must now reach Imortra, as she has been waiting for them
 ## Potential scenes
-
-Characters speak with Derro leader (social scene)
-- Agreement on how to take down imortra
-- If agreed, the Deepfolk will also give them safe passage above
-- But they must now reach Imortra, as she has been waiting for them
 
 **Alchemist furnace leaks uncreation now**
 - Weird uncreated oozes have begin to take over the second level
 
 **Sanity check scenes at level 4, if around Ngar'tho (1 in 6 per day, or certain when close to Imortra)**
 - River Styx
-- Memories (Ravenloft - Bluetspur)
+- Suppressed memories (Ravenloft 65)
+
+Players are taken as prisoners to Imortra
+- Their weapons and armour will be accessible, and their shackles are loosely closed (easy to open)
+- (If you are caught in armour/)
 
 **If PCs become captive of Imortra**
-- Imortra will run experiments on them: Metamorphica 222 Test subjects.
+- Imortra will run experiments on them: Metamorphica 222 Test subjects. PREPARE
 
 ## Information pool
 
