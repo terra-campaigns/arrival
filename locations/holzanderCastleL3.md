@@ -34,16 +34,18 @@ creatures:
 ```encounter
 name: 304 (Med E)
 creatures:
-  - 7: Deepfolk Warrior
-  - 4: Sword Spider
+  - 1: Deepfolk Warrior
+  - 1: Sword Spider
 ```
 
 ```encounter
 name: 304 (Med D)
 creatures:
   - 1: Deepfolk Arcanist
-  - 5: Sword Spider
+  - 3: Sword Spider
+  - 8: Deepfolk Warrior
 ```
+
 
 ```encounter
 name: 305 (Weak A)

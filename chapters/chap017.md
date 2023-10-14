@@ -1,7 +1,7 @@
 ---
 category: chapter
 part: 2
-name: 
+name: Mothers - Part 1
 world: Latter Earth
 campaign: Arrival
 game_date: 3877.7A5
@@ -13,7 +13,7 @@ xp: 3800
 tags: 
 ---
 
-# Chapter 17 
+# Chapter 17 Mothers - Part 1
 
 ## Planning checklist
 
@@ -44,6 +44,10 @@ tags:
 
 - Summary of Chapter 16
 - Account for rations
+- Horror tables:
+	- Dark visions
+	- Encounter aberration 
+	- Potion side effect
 
 ## Character motivations
 
@@ -75,12 +79,11 @@ creatures:
 
 ## Potential scenes
 
-**Encounter with sapient that relates that a flood that drowned out a community**
-- ***Seed:*** An **Incompetent ruler who thinks only of their own safety** is working to seize **A cursed magical item that's calling forth the disaster** left behind by its now-dead collectors from the **Once-splendid building left in ruins by the calamity** where it was left, but a **Local somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **A cursed magical item that's calling forth the disaster** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
-
 **Chat with Cagoth**
 - Deepfolk were in turmoil for many days after Bijnar was killed. **He does not want to know if it were the PCs**.
 - He explain the competition for leadership with the remaining lieutenants. He explains who are each, and also the Shamans.
+	- Egail is a young hothead who wants only to kill enemies and gain glory.
+	- Gostov looks up to Bjrnyar and respects his wisdom but also grows impatient with prolonged inactivity
 
 **Deepfolk put Galiera on top of pile of rubble**
 - It is a trap to get Dolman to complete the ritual to save The Void
@@ -93,12 +96,6 @@ creatures:
 **Party finds Galiera, she is barely alive and needs professional care (minimally in Mystra's Temple)**
 - She has a d12 (E: 20) usage dice days of life in her. After a day is passed, roll the die and in a 1 or 2, reduce the die size.
 - Galiera can make an effort to speak all the secrets she has uncovered, but that will cost 1d4 rolls on the usage dice.
-
-**Weird mutated/uncreated oozes have begun to take over the second level**
-
-**Sanity check scenes at level 4, if around Ngar'tho (1 in 6 per day, or certain when close to Imortra)**
-- River Styx
-- Memories (Ravenloft - Bluetspur)
 
 ## Information pool
 
