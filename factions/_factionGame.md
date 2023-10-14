@@ -13,7 +13,8 @@ sort id asc
 ### Next 3877.7C1
 
 - Start Turnskull (5) and Acrisae (4)
-- Evaluate Rurkinar and FFKA situation (reduce their power?)
+- Evaluate Rurkinar and FFKA situation (reduce their power
+- Weird mutated/uncreated oozes have begun to take over the second level
 
 **Background actors**
 

@@ -6,15 +6,8 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
-- [ ] Campfire scene - what characters want?
-- [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
-- [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
 - [ ] FFKA East tries to get reinforcement from olivepia (faction turn)
 - [ ] Acrisae or FFKA propose to the party for them to take over Ghuse while the army is busy
-- [ ] Dolman to complete the ritual, guilf is Mr voids mouth, Amyria will take down the Acrisae
-- [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
-- [ ] For natural disaster, treat Rurkinar as commoners+traders, FFKA as military that needs sustained, Mercians as cult that has protection, but limited and not keen to partner with Rurkinar and FFKA unless converted
 
 
 ## opportunityAttack
@@ -28,10 +21,15 @@ kanban-plugin: basic
 
 ## snoozed
 
+- [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
+- [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
+- [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
+- [ ] Campfire scene - what characters want?
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
 - [ ] War in the south, deep freeze
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 - [ ] Acrisae https://i.imgur.com/4CqOLy9.png
+- [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
 
 
 ## scenes and chapters
@@ -42,11 +40,11 @@ kanban-plugin: basic
 ## parking lot
 
 - [ ] part 2 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
+- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Create mystra / Falestism as Godbound religion
 - [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
-- [ ] Check city of poison dungeon
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
 - [ ] Track PCs renown and allow these points to be used to change the world at larger scopes
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?

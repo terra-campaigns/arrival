@@ -5,28 +5,11 @@
 
 ## Holzander Castle
 
-- [x] **The multiple Theotechnical engines are pulling the brezal paths as strings and rifting reality. Each must be disabled to release the tension of the brezal paths.**
 - [ ] Below level 3 are the unconstructed caverns of the Ghost Domain, now territory of a cult - where a dark river flows.
 - [ ] Logic and reason start to break down the lower you go into the scarlet citadel.
 - [ ] Many vaults and tombs exist in the lower levels of the Scarlet Citadel filled with untouched artefacts and treasures.
-- [x] There are many vaults to various gods and heroes build by the dwarves and containing valuable treasures and artefacts.
 - [ ] There is a tributary of the Black River Styx traveling thorugh the eastern part of the Clacking Caverns.
-- [x] The furnace in area 206 (pg 54) is drawing tremendous arcane power beyond any one wizard’s ability to control. The source of this power lies deeper in the castle. The draw of power to this furnace is keeping this power tethered and strained. It’s like a knot in a tangle of ropes.
-- [x] **The works in the Holzander castle is making the desert even more bare**
-- [x] **There are caverns to the south east that the Deepfolk avoid.**
 - [ ] **The 3rd level includes a bunch of tombs left alone by the Deepfolk . They’re scary.**
-- [x] **The Deepfolk chief was a reaver named Bjrnyar. Now with him dead, the two other reavers were his lieutenants, Egail and Gostov.**
-	- [x] Bjrnyar was a veteran of many raids that taught him the value of patience and planning.
-	- [x] Egail is a young hothead who wants only to kill enemies and gain glory.
-	- [x] Gostov looks up to Bjrnyar and respects his wisdom but also grows impatient with prolonged inactivity
-	- [x] Neither of them has coalesced the Deep Folk under their leadership.
-- [x] **The two shamans are Giydya and Sassigne.**
-	- [x] Giydya was utterly loyal to Bjrnyar. She would (and has) killed other Deepfolk  to enforce the chieftain’s decrees. She now has low morale and will easily fly from a fight.
-	- [x] Sassigne is a fanatical follower of Thor, but this zealotry is mostly a front to cover up Sassigne’s true devotion to Chernobog, whose rites were banned by Bjrnyar.
-- [x] Arcanists in the black castle were pulling energy out of the twisted brezal paths for years which has put tremendous stress on the whole region.
-	- [x] As each anchor of the black castle is removed or broken, the brezal paths twist in new directions.
-	- [x] Only in removing all anchors can the brezal paths repair themselves and settle into their original position, and putting the land to rest.
-	- [x] The alchemist’s forge was one such anchor.
 - [ ] Gellert is trying to draw so much power that he’s almost certainly going to rip the ley lines apart if left unchecked.
 - [ ] **Factions of Derro war with one another in the lower levels.**
 - [ ] The Deepfolk hate Imorta but fear her and what they’re doing down there.
@@ -35,6 +18,9 @@
 - [ ] The Black River has flown down here beneath the lands far longer than any of the construction built below. It was this initial ley-line / shadow river that began the Holzander’s quest for power.
 - [ ] Derro are the product of a cult-experiment of Imortra
 - [ ] PCs can find a resting place somewhere in L3, once they are not fighting the Deep Folk anymore. Over time undead and oozes will take over though.
+- [ ] Creatures tied to the Platform and Sphere devices below are as old as the castle itself.
+- [ ] There is a tributary of the Black River Styx traveling through the eastern part of the Clacking Caverns. It’s current is chaotic and unpredictable. One must travel the lower river to reach up to the upper tributary, not the other way. It’s a one-way tributary from the lower river to the upper river.
+- [ ] Two factions of Derro battle for supremacy in the bat caves. Neither side is strong enough to defeat the other.
 
 ## Linhe
 

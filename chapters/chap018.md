@@ -22,12 +22,12 @@ tags:
 - [x] Clean up previous chapter files, final commit
 - [x] Update inkarnate maps (if applicable)
 - [x] Evaluate new game date
-- [ ] Define at least one consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks), record it in the faction game or notion file
-- [ ] Review [Abridged](_published/arrival/abridged.md)
-- [ ] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
-- [ ] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [ ] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
-- [ ] Review https://slyflourish.notion.site/Old-Session-Notes-a5d023328ab94adba68cafa90553b508
+- [x] Define at least one consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks), record it in the faction game or notion file
+- [x] Review [Abridged](_published/arrival/abridged.md)
+- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
+- [x] Review [Factions](../factions/_factionGame.md) and run one faction turn, if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
+- [x] Review https://slyflourish.notion.site/Old-Session-Notes-a5d023328ab94adba68cafa90553b508 done until 9th Apr
 - [ ] Think about characters, write motivations & hooks
 - [ ] Define XP ([_arrivalTracker](../_arrivalTracker.md))
 - [ ] Detail strong start
@@ -55,10 +55,13 @@ tags:
 
 ## Potential scenes
 
-**Encounter with sapient that relates that a flood that drowned out a community**
-- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
+Characters speak with Derro leader (social scene)
+- Agreement on how to take down imortra
+- If agreed, the Deepfolk will also give them safe passage above
+- But they must now reach Imortra, as she has been waiting for them
 
-**Weird mutated/uncreated oozes have begun to take over the second level**
+**Alchemist furnace leaks uncreation now**
+- Weird uncreated oozes have begin to take over the second level
 
 **Sanity check scenes at level 4, if around Ngar'tho (1 in 6 per day, or certain when close to Imortra)**
 - River Styx
