@@ -64,11 +64,6 @@ These people are the new mercian cult, with mercian antinoms, Ngar'tho and Imort
 
 ## Rooms
 
-### Useful statblocks
-
-![](https://i.imgur.com/1L8H0Jl.png)
-
-
 ### 401
 
 ```encounter
@@ -81,7 +76,7 @@ creatures:
 ```encounter
 creatures:
   - 2d8: [HD 03, Sabre-toothed bat]
-  - 3: [HD 01, Derro pariah]
+  - 3: Derro
 ```
 
 ```encounter
