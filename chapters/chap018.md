@@ -30,7 +30,7 @@ tags:
 - [x] Review https://slyflourish.notion.site/Old-Session-Notes-a5d023328ab94adba68cafa90553b508 done until 9th Apr
 - [x] Think about characters, write motivations & hooks
 - [x] Define XP ([_arrivalTracker](../_arrivalTracker.md))
-- [ ] Detail strong start
+- [x] Detail strong start
 - [ ] Prepare Owlbear, if applicable
 - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [ ] Review and order/highlight information pool.
@@ -54,25 +54,51 @@ tags:
 
 ## Strong start
 
-- Parlay with Derro leader
-	- Agreement on how to take down imortra
-	- If agreed, the Deepfolk will also give them safe passage above after they have completed their task
-	- But they must now reach Imortra, as she has been waiting for them
+**DERRO ARE ALL WEAK AND NUTS**
+
+**Parlay with Gilsfeyr, the Camazotz leader (LOOK AT NOTES ON BOOK TOO)**
+- **PCs must now reach Imortra, as she has been waiting for them and she is impacient**
+- The only reason the derro tolerate [imortra](arrival/npcs/imortra.md) presence is fear of her and the [ngar-tho](_gm/npcCodex/statblocks/ngar-tho.md), and they’re terrified of her unseen overlord Gellert the Gruesome.
+- They hate the fungus-growers under Kurgorom think the bat cultists are maniacs who’ll be torn apart and eaten by their beloved bats eventually
+- The derro aren’t here as guards.
+- Gilsfeyr is intrigued by the appearance of powerful outsiders who could upset the local balance of power in his favour.
+- **Gilsfeyr are happy to help the PCs kill Imortra** and would help, provided they also wipe out the other band of derro.
+	- they will have their weapons sack left in the same room and ways to release themselves.
+	- If agreed, the Deepfolk might also be convinced to give them safe passage above after they have completed their task
+	- **the notion they should honor a promise to outsiders barely registers**
 ## Potential scenes
+
+**DERRO ARE ALL WEAK AND NUTS**
+
+**Parlay with Kurgorom, the village leader (LOOK AT NOTES ON BOOK TOO)**
+- Kurgorom wants to partner with Gilsfeyr until Imortra is taken down, from there she intends to raid the cultists (she does not tell the second part).
+- She would consider bringing a few friendly deepfolk to assist in the fight, but only a couple - otherwise Imortra might realise something odd is on.
+
+**Players are taken as fake prisoners to Imortra**
+- While in the room, one sanity check per PC (1d6 damage)
+	- If fail: Suppressed memories (Ravenloft 75)
+- Their weapons and armour will be accessible, and their shackles are loosely closed (easy to open)
+- (If you are caught in armour/weapons, this will signal something is off)
+- **Imortra will be with the PCs in a while (to give players option to arm themselves)**
+- If PCs arm themselves, they need to pass a stealth DC 17, otherwise they will be stopped by Antinom
+
+**Parley with Imortra**
+- If characters are found in armour/weapons, Imortra will bring hell on them (maybe except Guilf) first, before Parley
+- Imortra's plan: the PCs are the best components for Gellert's experiment, and she would love that they participate in it
+	- Dolman can be the receiver for Kimbarak - The Void's breach of the legacy
+	- Amyria can be the channel for the Angel Hound's power, finally draining it to complete the experiment
+	- Guilf can finally rejoin his mother once Makab is back, after the violence that Sergarus applied to their family
+- The Derros are just components she keeps around. When she needs one, she harvest them and rewrite the memory of others
+- If an agreement is not met, the characters will be shackled again (maybe a fight is required)
+
+**Fight with Imortra's people**
+- Each Derro faction roll a reacion. 8 or more they join the fight.
+- If deepfolk are brought down they will join the fight with high morale.
+- Characters are not supposed to be killed, they are required.
+- After the fight, if characters loose, they are subject to experiments: Metamorphica 222 Test subjects (we roll together).
 
 **Alchemist furnace leaks uncreation now**
 - Weird uncreated oozes have begin to take over the second level
-
-**Sanity check scenes at level 4, if around Ngar'tho (1 in 6 per day, or certain when close to Imortra)**
-- River Styx
-- Suppressed memories (Ravenloft 65)
-
-Players are taken as prisoners to Imortra
-- Their weapons and armour will be accessible, and their shackles are loosely closed (easy to open)
-- (If you are caught in armour/)
-
-**If PCs become captive of Imortra**
-- Imortra will run experiments on them: Metamorphica 222 Test subjects. PREPARE
 
 ## Information pool
 
@@ -80,7 +106,7 @@ Players are taken as prisoners to Imortra
 
 ## Relevant locations
 
-- 
+![Castle of Holzander Level 4](arrival/locations/holzanderCastleL4.md#Castle%20of%20Holzander%20Level%204)
 
 ## Relevant NPCs
 

@@ -21,6 +21,12 @@
 - [ ] Creatures tied to the Platform and Sphere devices below are as old as the castle itself.
 - [ ] There is a tributary of the Black River Styx traveling through the eastern part of the Clacking Caverns. It’s current is chaotic and unpredictable. One must travel the lower river to reach up to the upper tributary, not the other way. It’s a one-way tributary from the lower river to the upper river.
 - [ ] Two factions of Derro battle for supremacy in the bat caves. Neither side is strong enough to defeat the other.
+- [ ] The Camazotz cultists under Gilsfeyr think their non-worshiping cousins are heretics
+- [ ] The fungus-growers under Kurgorom think the bat cultists are maniacs who’ll be torn apart and eaten by their beloved bats eventually
+- [ ] A derro speaker to the darkness (Creature Codex) named Gilsfeyr led his band of outcasts along the Black River until they found this cavern and its population of giant vampire bats, saber-toothed bats, bat swarms, and flame eater swarms. Recognizing a sign from Camazotz when he saw one, Gilsfeyr declared this spot to be their new home. The derro built a small village, constructed a temple, and set about establishing dominance over the bats and raiding the surface for slaves.
+- [ ] Kurgorom, a derro witch queen (Creature Codex), and her loyalists who’ve grown tired of chanting endlessly to bats through a haze of soporific smoke and prefer traditional derro pursuits such as raiding the surface, tormenting captives, and brewing dangerous fungal extracts.
+- [ ] The derro brew potions of augmented reality that allow them to see this alternate dimension
+- [ ] Many areas of L4 exist in **mundus** and **metadimensional** realities at the same time.
 
 ## Linhe
 

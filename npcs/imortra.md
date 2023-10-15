@@ -13,6 +13,8 @@ tags: current
 # Imortra The Debased
 ***Guilf's mother and Antinom Master, previously known as Cathyon***
 
+**[hd11](_gm/npcCodex/statblocks/_hd11.md)**
+
 - **Ideal**: Addicted to knowledge, would give everything she has for a promise of knowledge.
 - **Traits**: 
 	- Independent, but cunning about it with everyone - even alies.
