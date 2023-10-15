@@ -31,12 +31,12 @@ tags:
 - [x] Think about characters, write motivations & hooks
 - [x] Define XP ([_arrivalTracker](../_arrivalTracker.md))
 - [x] Detail strong start
-- [ ] Prepare Owlbear, if applicable
-- [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-- [ ] Review and order/highlight information pool.
-- [ ] Outline and update location notes, reviewing scenes and secrets
-- [ ] Outline potential NPCs, reviewing all above
-- [ ] Define treasure
+- [x] Prepare Owlbear, if applicable
+- [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
+- [x] Review and order/highlight information pool.
+- [x] Outline and update location notes, reviewing scenes and secrets
+- [x] Outline potential NPCs, reviewing all above
+- [x] Define treasure
 - [ ] Update random encounter tables
 - [ ] Print information pool (applicable parts)
 
@@ -90,6 +90,7 @@ tags:
 	- Guilf can finally rejoin his mother once Makab is back, after the violence that Sergarus applied to their family
 - The Derros are just components she keeps around. When she needs one, she harvest them and rewrite the memory of others
 - If an agreement is not met, the characters will be shackled again (maybe a fight is required)
+- Imortra is an ancient, accomplished, proud, and malevolent elf. She is dedicated to protecting her mentor Gellert the Gruesome
 
 **Fight with Imortra's people**
 - Each Derro faction roll a reacion. 8 or more they join the fight.

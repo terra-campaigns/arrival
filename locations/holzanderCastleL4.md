@@ -96,6 +96,8 @@ creatures:
 creatures:
   - 3: Antinom
   - 3: Ngar'tho
+  - 1: [HD 11, Imortra]
+  - 1: [HD 07, Misbegotten Hound]
 ```
 
-
+![|500](https://i.imgur.com/gwsSnEc.png)
