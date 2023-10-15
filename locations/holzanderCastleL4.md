@@ -95,4 +95,3 @@ creatures:
   - 1: [HD 07, Misbegotten Hound]
 ```
 
-![imortra](arrival/npcs/imortra.md)

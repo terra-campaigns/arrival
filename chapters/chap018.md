@@ -111,7 +111,9 @@ tags:
 
 ## Relevant NPCs
 
-- 
+- ![imortra](arrival/npcs/imortra.md)
+- Gilsfeyr [_hd10](_gm/npcCodex/statblocks/_hd10.md)
+- Kurgorom [_hd10](_gm/npcCodex/statblocks/_hd10.md)
 
 ## Potential treasures
 
