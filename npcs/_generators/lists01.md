@@ -239,6 +239,13 @@ Manneirism:
 - Visible Mannerisms or Traits - Knocks things over carelessly
 - Visible Mannerisms or Traits - Checks written notes regularly
 - A droning, Maddening buzz of blasphemous speech
+- They tap their ear
+- Constantly wearing a creepy smile
+- They arch their eyebrow
+- Speak with a particular accent or affectation
+- They clap their hands and rub them together
+- Snap their fingers and point at the person they’re talking to
+- They make a point of taking a slow sip from their drink before responding to questions
 
 Mutation:
 - The First Thing Noticed - Their voice is unusual and arresting
