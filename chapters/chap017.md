@@ -26,7 +26,7 @@ tags:
 - [x] Review [Abridged](_published/arrival/abridged.md)
 - [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
-- [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
+- [x] Review and organise [_arrivalNotions](arrival/_arrivalNotions.md)
 - [x] Review https://slyflourish.notion.site/Old-Session-Notes-a5d023328ab94adba68cafa90553b508
 - [x] Think about characters, write motivations & hooks
 - [x] Define XP ([_arrivalTracker](../_arrivalTracker.md))

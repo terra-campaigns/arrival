@@ -25,7 +25,7 @@ tags:
 - [x] Evaluate new game date
 - [x] Define at least consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks), record it in the faction game or notion file
 - [x] Review [Abridged](_published/arrival/abridged.md)
-- [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
+- [x] Review and organise [_arrivalNotions](arrival/_arrivalNotions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander (if applicable)
 - [x] Think about characters, write motivations & hooks
 - [x] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
@@ -65,8 +65,8 @@ tags:
 	- (Etc) Water going uphill, drawings appearing in walls...
 	- *If Dolman's mind is read*, ***immediately***, Mr Void communicates with Guilf that they need to bring a dwarf to the Holzander Castle, to make a connection with Kimbarak and save his mother.
 	- *If Amyria's mind is read, **immediately***, Mr Void communicates with Guilf that Amyria will be very happy to meet Thalia once more, in the Holzander Castle.
-- Sergarus is in the city, with 7 tents in total, after the fall of [Gimorkoc](campaign/arrival/locations/gimorkoc.md) to the undead. The city is lost.
-	- Sergarus intends to use [Eyaram](campaign/arrival/locations/eyaram.md) as a stronghold of the FFKA, until they figure out what to do with the umbilicals
+- Sergarus is in the city, with 7 tents in total, after the fall of [Gimorkoc](arrival/locations/gimorkoc.md) to the undead. The city is lost.
+	- Sergarus intends to use [Eyaram](arrival/locations/eyaram.md) as a stronghold of the FFKA, until they figure out what to do with the umbilicals
 	- Two tents were sent to the city of Linhe as scouts, and will send crows with information once they arrive there
 	- FFKA is skeptical, they really think the problem is Glasrath now (they've investigated it)
 - [Marcus](Marcus.md), that Amyria spoke about taking [Sergarus](arrival/npcs/Sergarus.md) out approaches her.

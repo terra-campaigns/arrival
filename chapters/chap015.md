@@ -25,7 +25,7 @@ tags:
 - [x] Evaluate new game date
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Review [Abridged](_published/arrival/abridged.md)
-- [x] Review and organise [_arrivalNotions](campaign/arrival/_arrivalNotions.md)
+- [x] Review and organise [_arrivalNotions](arrival/_arrivalNotions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander (if applicable)
 - [x] Think about characters, write motivations & hooks
 - [x] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
@@ -59,7 +59,7 @@ tags:
 - Party retreating to 2nd level, with Deepfolk chasing them
 	- Roll a reaction to see if Cagoth-Ze would handle them to the Deepfolk
 - Party leaves Level 3:
-	- Through Level 2 --> level 1 --> [dannamore](campaign/arrival/locations/dannamore.md) or ruins in Ammuinoth (here they see the **umbilicals**)
+	- Through Level 2 --> level 1 --> [dannamore](arrival/locations/dannamore.md) or ruins in Ammuinoth (here they see the **umbilicals**)
 
 ## Information pool
 
