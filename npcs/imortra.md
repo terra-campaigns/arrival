@@ -50,7 +50,7 @@ realm: Maqqatba
 region: linhe
 campaign: Arrival
 location: Holzander
-faction: Mercians
+faction: "[mercians](arrival/factions/mercians.md)"
 deceased: false
 tags: current
 ---
