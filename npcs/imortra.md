@@ -44,14 +44,15 @@ actions:
     desc: "[mage armour](https://open5e.com/spells/mage-armor), magic missile, shield, thunderwave, [arcane lock](https://open5e.com/spells/arcane-lock), [flaming sphere](https://open5e.com/spells/flaming-sphere), [mirror image](https://open5e.com/spells/mirror-image), [misty step](https://open5e.com/spells/misty-step), [chains of perdition](https://www.5esrd.com/spellcasting/3pp-spells/spells-open-design-llc/chains-of-perdition/), [demon within](https://www.5esrd.com/spellcasting/3pp-spells/spells-open-design-llc/demon-within/) ([chaos quadrapod](https://5e.tools/bestiary.html#chaos%20quadrapod_ai)), glyph of warding, [magic circle](https://open5e.com/spells/magic-circle), [banishment](https://open5e.com/spells/banishment), [conjure fiends](https://www.5esrd.com/spellcasting/3pp-spells/spells-open-design-llc/conjure-fiends/), [conjure minor elementals](https://open5e.com/spells/conjure-minor-elementals), [phantasmal killer](https://open5e.com/spells/phantasmal-killer), [polymorph](https://open5e.com/spells/polymorph) (into a [moorbounder](https://5e.tools/bestiary.html#bristled%20moorbounder_egw)), [cloudkill](https://open5e.com/spells/cloudkill), [conjure elemental](https://open5e.com/spells/conjure-elemental), [dark lord's mantle](https://www.5esrd.com/spellcasting/3pp-spells/spells-open-design-llc/dark-lords-mantle/), [globe of invulnerability](https://open5e.com/spells/globe-of-invulnerability), [true seeing](https://open5e.com/spells/true-seeing)"
 detail_link: "[imortra](arrival/npcs/imortra.md)"
 
-category: npc
-world: Latter Earth
-realm: Maqqatba
-region: linhe
-campaign: Arrival
-location: Holzander
-faction: "[mercians](arrival/factions/mercians.md)"
-deceased: false
+meta: 
+  category: npc
+  world: Latter Earth
+  realm: Maqqatba
+  region: linhe
+  campaign: Arrival
+  location: Holzander
+  faction: "[mercians](arrival/factions/mercians.md)"
+  deceased: false
 tags: current
 ---
 
