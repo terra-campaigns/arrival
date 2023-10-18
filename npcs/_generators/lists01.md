@@ -246,6 +246,11 @@ Manneirism:
 - They clap their hands and rub them together
 - Snap their fingers and point at the person they’re talking to
 - They make a point of taking a slow sip from their drink before responding to questions
+- Visible tattoo
+- Facial Piercing
+- Uses heavy makeup
+- Dyes their hair
+- Bad haircut
 
 Mutation:
 - The First Thing Noticed - Their voice is unusual and arresting
@@ -269,4 +274,17 @@ Mutation:
 - 652 Psychic Powers - Light Manipulation - This mutant is able to psychically alter the characteristics of nearby light, causing fluctuations in brightness and colour, and causing some items to become more or less visible, depending on how light waves move around and over them. These effects require concentration, and the mutant must be able to see or sense the light affected.
 - 859 Supernatural - Irritating touch - This mutant’s flesh contains a substance that is irritating to most others of its kind, and possibly other creatures as well. Unless they take protective measures, those touching the mutant or things it has touched may experience itchiness, rashes, or uncomfortable feelings.
 - 955 Supernatural - Taboo - This mutant has some sort of supernatural restriction placed upon its actions (15) Can only speak to those they intend to harm.
+- Visible scar
+- Visible birthmark
+- Missing one finger
+- Teeth gap
+- Freckles
+- Missing one limb (can use prosthetic)
+- Wide hips
+- Big breasts
+- Nice butt
+- Muscular
+- Bald or shaved head
+- Albino (ignore hair, skin, and eye color to match)
+- Vitiligo
 ---
