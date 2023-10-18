@@ -24,8 +24,6 @@ meta:
   parent: 
 tags: template
 ---
-
-
 # Mercians
 ***Tattooed music cultists of Ngar'tho and Ethux'zhurh***
 
@@ -41,8 +39,8 @@ tags: template
 > - Everyone has reservations with the Mercians (1 pt)
 
 > [!example] Goals
-> - [ ] Continue activation of apocalypse engine, and evolve it to Force 6 (+1 new feature point): Enlist a dwarf to bring Kimbarak spirit to the fold, to channel and dodge The Legacy (cost 9, reduced to 3 if Dolman is available)
-> - [ ] Finish activation of apocalypse engine, and evolve it to Force 8 (+1 new feature point): Start the next doom cycle by reconnecting Mondedonvil and his body (dead made god) (cost 9, reduced to 3 if Amyria can channel the Angel Hound energy)
+> - [ ] **Add feature:** Continue activation of apocalypse engine, and evolve it to Force 6 (+1 new feature point): Enlist a dwarf to bring Kimbarak spirit to the fold, to channel and dodge The Legacy (cost 9, reduced to 3 if Dolman is available)
+> - [ ] **Add feature:** Finish activation of apocalypse engine, and evolve it to Force 8 (+1 new feature point): Start the next doom cycle by reconnecting Mondedonvil and his body (dead made god) (cost 9, reduced to 3 if Amyria can channel the Angel Hound energy)
 
 > [!info] Background
 > Beneath the surface of the enigmatic Mercian society, in the shifting shadows of forgotten doctrines, a new and sinister current churned—an ominous cult birthed from the marrow of their forsaken religion. This clandestine order, guided [Imortra, the Debased](arrival/npcs/imortra.md), sought to resurrect the relics of their lost faith, as if rekindling the embers of a long-extinguished pyre.

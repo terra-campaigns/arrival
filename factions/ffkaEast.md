@@ -1,11 +1,7 @@
 ---
-type: faction
 name: FFKA East
 id: 02
-world: Guemenos
-continent: Etor
-campaign: Arrival
-tier: 2
+power: 2
 features: 2
 trouble: 3
 cohesion: 2
@@ -17,54 +13,40 @@ interest:
   mercians: -7
   turnskull: 0
   acrisae: 0
+
+meta:
+  category: faction
+  world: Latter Earth
+  realm: Maqqatba
+  region: Linhe
+  campaign: Arrival
+  location: 
+  parent: FFKA Olivepia
 tags: 
 ---
-
 # Faithful Faletist Knights of the Arch, East Branch
+***FFKA East***
 
-- **Features**:
-	- Faithful followers and members
-	- Organised military organisation
-- **Trouble**:
-	- Sergarus, the commander, is not in good relationship with Olivepia's FFKA (1 pt)
-	- Deflection of members to the Dark Cavalry (1 pt)
-	- Many members do not trust Sergarus anymore, and are very uncomfortable with the impalements (1 pt)
-- **Goals**
-	- [ ] Remove problem: Strengthen its hold on its members (cost 4: city + skilled mage opposition - Gellert, plausible) - create doctrine camps
+> [!success] Features, assets
+> - **Force 4**: Faithful cavalry
 
-## Court
+> [!failure] Troubles
+> - Sergarus, the commander, is not in good relationship with Olivepia's FFKA (1 pt)
+> - Many members do not trust Sergarus anymore, and are very uncomfortable with his leadership (2 pt)
 
-- **Type**: Temple
-- **Power structure**: Figurehead. A public leader is actually controlled by one or more hidden figures.
-- **Temperament**: Careless, members little interested in spiritual duties
-- **Major actors**
-	- [Sergarus](arrival/npcs/Sergarus.md), who is in partnership with some of the [Mercians](mercians.md)
-	- Aged holy figure, who controls a vital relic of the religion - the actual leader
-	- Eager reformer, who has strong magical powers and wants to drive the organisation out of main FFKA
-- **Minor actors**
-	- Relic vendor
-	- Dusty librarian
-- **Conflicts**
-	- Lack of trust in the figurehead.
-- **Consequence of its destruction**: some cities depend on the organisation charity, which would not be taken by Olivepia's FFKA.
-- **Defences**: strong military organisation
+> [!example] Goals
+> - [ ] **Remove problem:** Develop a group of vigilant agents (Cunning 4): build trust in leadership and remove the problem (cost 12)
 
-## Details
+> [!info] Background
+> ...
+
+> [!warning] Parent detail
+> FFKA Olivepia (to be developed if required)
+
 
 ![](https://i.imgur.com/M5bxluE.png)
 
-## FFKA East Stochastic Tent
-
-```encounter
-creatures:
- - 3d3-3: Guard City Watch
- - 4d2-2: War Scout
- - 1d2-1: Knight Priest
- - 1d2-1: Maqqatba Knight
- - 1d2-1: Maqqatba Lancer
-```
-
-The Tent can use a phalanx formation, gaining +2 AC and immunity to ranged attacks except critical hits, if 6 or more members are available. Only piercing attacks can be made in this formation. The entire group moves at 10 ft. The formation can only protect in two directions at each round. Changing direction for protection costs the phalanx movement.
+FFKA are organised in Tents. The Tent can use a phalanx formation, gaining +2 AC and immunity to ranged attacks except critical hits, if 6 or more members are available. Only piercing attacks can be made in this formation. The entire group moves at 10 ft. The formation can only protect in two directions at each round. Changing direction for protection costs the phalanx movement.
 
 **Tent names:**
 - [ ] The Bravo Crew  
