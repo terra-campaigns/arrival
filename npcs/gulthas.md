@@ -9,6 +9,6 @@ deceased: false
 tags: current
 ---
 
-Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins.
+Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines]locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins.
 
 ![|500](https://i.imgur.com/yMB2fFR.png)

@@ -28,10 +28,10 @@ The region of Maqqatba has very long winters (6 months or so) every year. During
 
 - 0 NC The New Calendar (NC) starts two centuries after the event known as Colligation of Epochs
 - 3217 NC [Nargun Dwarven Mine](realms.md#Nargunhesm) is founded in the Naragzah mountains
-- 3627 NC Gerhardt Holzander starts building the [holzanderCastle](../locations/holzanderCastle.md) on Brezal Paths in the [The Ammuinoth](realms.md#Ammuinoth)
+- 3627 NC Gerhardt Holzander starts building the [holzanderCastle]locations/holzanderCastle.md) on Brezal Paths in the [The Ammuinoth](realms.md#Ammuinoth)
 - 3671 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are founded in the Naragzah mountains
-- 3727 NC Duergar moves into the [Holzander Castle](../locations/holzanderCastle.md)
-- 3767 NC FFKA burns down the [Holzander Castle](../locations/holzanderCastle.md)
+- 3727 NC Duergar moves into the [Holzander Castle]locations/holzanderCastle.md)
+- 3767 NC FFKA burns down the [Holzander Castle]locations/holzanderCastle.md)
 - 3774 NC Fūko is born in the Upper [The Ghost Domain](realms.md#Underdark)
 - 3834 NC Dorfund Frostbraid joins the Paragon Force and falls in love with Gaelira
 - 3837 NC Dolman Frostbraid is born in the [Kiranu](realms.md#Kiranu) Mines

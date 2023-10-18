@@ -29,9 +29,9 @@ tags:
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzander 15 jan
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [x] Define party rank, xp and DC min, XP ([_arrivalTracker](../_arrivalTracker.md))
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Define party rank, xp and DC min, XP ([_arrivalTracker]_arrivalTracker.md))
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [x] Define secrets & clues, adding links to them in scenes
@@ -70,22 +70,22 @@ sort file.name asc
 - He/She sees the PCs and make their proposal:
 	- Deal with Cagoth - get rid of the Ngar'tho or make Danaska and her minions get lost. And he will tell how to get to the library.
 	- Deal with Danaska - steal Cagoth-ze ring and she will tell where Gaelira is.
-- Alternative proposal at level 2l ([Lasbascilag](../../../statblocks/ngar-tho.md)): ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
+- Alternative proposal at level 2l ([Lasbascilag]../../statblocks/ngar-tho.md)): ([read thoughts](http://dnd5e.wikidot.com/spell:detect-thoughts) PCs roll save) set him free and he will tell them: where Galiera is, what the stone is, how to kill the purple evil, why the Void is so dark, how to find the library, how to save the angel hound. Choose 3 of these secrets (can be convinced to tell more).
 
 ## Potential scenes
 
-**[Level 1](../locations/holzanderCastleL1.md)**
+**[Level 1]locations/holzanderCastleL1.md)**
 - Undead keep coming from the shrines
 
-**[Level 2](../locations/holzanderCastleL2.md)**
+**[Level 2]locations/holzanderCastleL2.md)**
 - Foreshadowing on Imortra and Gellert and the cult to the 'tho?
-- Carry out proposal if one was made: [Lasbascilag](../../../statblocks/ngar-tho.md), [Cagothze](../npcs/cagothze.md) or [Danaska](../npcs/danaska.md)
+- Carry out proposal if one was made: [Lasbascilag]../../statblocks/ngar-tho.md), [Cagothze]npcs/cagothze.md) or [Danaska]npcs/danaska.md)
 - Separation of the group
 - Visit to the library.
 
 ## Information pool
 
-[Information Pool](../_informationPool.md)
+[Information Pool]_informationPool.md)
 
 ## Locations
 

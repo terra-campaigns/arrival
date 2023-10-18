@@ -28,9 +28,9 @@ tags:
 - [x] Review and organise [_arrivalNotions](arrival/_arrivalNotions.md)
 - [x] Review and organise Sly Flourish secrets for Holzander (if applicable)
 - [x] Think about characters, write motivations & hooks
-- [x] Define party rank and XP ([_arrivalTracker](../_arrivalTracker.md))
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Define party rank and XP ([_arrivalTracker]_arrivalTracker.md))
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [x] Review and order/highlight information pool.
@@ -63,7 +63,7 @@ tags:
 
 ## Information pool
 
-[Information Pool](../_informationPool.md)
+[Information Pool]_informationPool.md)
 
 ## Locations
 

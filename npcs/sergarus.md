@@ -53,7 +53,7 @@ tags: current
 
 ## Background
 
-Sergarus, the [FFKA East](../factions/ffkaEast.md) commander, has stood at the edge of the battlefield in the south, his armour blackened with ash and stained with the blood of his enemies. His blade glinted in the moonlight as he surveyed the carnage before him, his eyes ablaze with a fiery zealotry. He and his troops executed a thousand ancient grudges and atrocities. Infamous but respected, Drakov amassed a fortune and planned to retire young, buying a title and a realm to rule.
+Sergarus, the [FFKA East]factions/ffkaEast.md) commander, has stood at the edge of the battlefield in the south, his armour blackened with ash and stained with the blood of his enemies. His blade glinted in the moonlight as he surveyed the carnage before him, his eyes ablaze with a fiery zealotry. He and his troops executed a thousand ancient grudges and atrocities. Infamous but respected, Drakov amassed a fortune and planned to retire young, buying a title and a realm to rule.
 
 After a while, as he gazed upon the horrors of war, he could not help but feel a sense of doubt creeping into his mind. Had he been fighting the wrong battle all along? He then decided to serve the Faletist Church in the north, and has been hunting down heretics and rooting out sin wherever he found it for years.
 

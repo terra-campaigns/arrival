@@ -24,12 +24,12 @@ tags:
 - [x] Evaluate new game date
 - [x] Define at least one consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks), record it in the faction game or notion file
 - [x] Review [Abridged](_published/arrival/abridged.md)
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Review and organise [_arrivalNotions](arrival/_arrivalNotions.md)
 - [x] Review https://slyflourish.notion.site/Old-Session-Notes-a5d023328ab94adba68cafa90553b508
 - [x] Think about characters, write motivations & hooks
-- [x] Define XP ([_arrivalTracker](../_arrivalTracker.md))
+- [x] Define XP ([_arrivalTracker]_arrivalTracker.md))
 - [x] Detail strong start
 - [x] Prepare Owlbear, if applicable
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
@@ -99,7 +99,7 @@ creatures:
 
 ## Information pool
 
-[Information Pool](../_informationPool.md)
+[Information Pool]_informationPool.md)
 
 ## Relevant locations
 

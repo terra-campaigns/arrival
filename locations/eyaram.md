@@ -25,18 +25,18 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 - **Type**: Community
 - **Power structure**: A community organisation led by majority rule, in which decisions are made by an elected council. (Democratic)
 - **Major actors**
-	- **Crema** (N), the **local female [soldier](https://open5e.com/monsters/soldier-a5e) leader of the [FFKA East](../factions/ffkaEast.md)**.
+	- **Crema** (N), the **local female [soldier](https://open5e.com/monsters/soldier-a5e) leader of the [FFKA East]factions/ffkaEast.md)**.
 		- Knows the military of the FFKA is needed in the city.
 		- Has close connection with [Sergarus](arrival/npcs/Sergarus.md) (who is always travelling the posts).
 		- Crema is wretched in appearance, with short silver hair and bright blue eyes. She wears simple clothing and a wooden holy symbol. Crema is savage but creative.
-	- **Olal** (LE), an **[FFKA East](../factions/ffkaEast.md) female [Knight](https://open5e.com/monsters/knight)**
+	- **Olal** (LE), an **[FFKA East]factions/ffkaEast.md) female [Knight](https://open5e.com/monsters/knight)**
 		- Remarkably beautiful and persuasive.
 		- Olal has auburn hair and light green eyes. She wears banded mail and wields a military pick and shield. Olal seeks revenge against the sister who betrayed him.
 	- [Eleni](arrival/npcs/Eleni.md), a **rich merchant** [commoner](https://open5e.com/monsters/commoner)
 - **Minor actors**
-	- **Arwel** (NG), a female dwarf innkeeper, supported by the [Rurkinar](../factions/rurkinar.md).
+	- **Arwel** (NG), a female dwarf innkeeper, supported by the [Rurkinar]factions/rurkinar.md).
 		- Arwel has straight copper hair and blue eyes. She wears plain clothing and a yellow cloak. Arwel has an animal companion, a grey rat named Adrieldas.
-	- **Galadan** (N), retired [FFKA East](../factions/ffkaEast.md) cleric.
+	- **Galadan** (N), retired [FFKA East]factions/ffkaEast.md) cleric.
 		- Galadan has tangled white hair and grey eyes. He wears well-made clothing and wields a dagger and darts. Galadan is vulgar and decisive.
 - **Temperament**: The community court **is dislocated, recently forced to move or give up land**.
 - **Conflicts**: There is conflict over **the very restricted crops being produced**, which are being depleted fast with the sheer number of FFKA members stationed in the city.

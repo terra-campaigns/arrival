@@ -33,8 +33,8 @@ tags:
 - [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & links
 - [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if applicable
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if applicable
 - [x] Decide what NPCs are doing, and their respective checks
 - [x] Detail strong start
 - [x] Think and write potential scenes
@@ -51,11 +51,11 @@ tags:
 
 ## Characters' motivations & links
 
-- **Dolman**: get information on [Gaelira](../npcs/gaelira.md)'s torment
+- **Dolman**: get information on [Gaelira]npcs/gaelira.md)'s torment
 - **Miraak**: meet [Gulthas Morseth](chap007.md#^Gulthas) and learn more about being an undead
-- **Guilf**: feel the censoring of [FFKA](../factions/ffkaEast.md) again
-- **Amyria**: learn more about the [Ammuinoth](../context/realms.md#Ammuinoth) and the Brezal Paths
-- **Kethra**: through [Gulthas Morseth](chap007.md#^Gulthas) possibly realise that Ghuse is [Aivridyt](../npcs/aivridyt.md)
+- **Guilf**: feel the censoring of [FFKA]factions/ffkaEast.md) again
+- **Amyria**: learn more about the [Ammuinoth]context/realms.md#Ammuinoth) and the Brezal Paths
+- **Kethra**: through [Gulthas Morseth](chap007.md#^Gulthas) possibly realise that Ghuse is [Aivridyt]npcs/aivridyt.md)
 
 | Name5                    | Species     | Level      | AC | INI | speed | PCPT   | IVST | IGHT | PSON | SLTH   | Artefacts |
 |:-------------------------|:------------|:-----------|:---|:----|:------|:-------|:-----|:-----|:-----|:-------|:----------|
@@ -79,11 +79,11 @@ tags:
 
 ## Strong start
 
-A resting conversation with [Ushulx](../npcs/ushulx.md), Dugan, Red Hart, Ichbon about the current lore, touching subjects such as:
+A resting conversation with [Ushulx]npcs/ushulx.md), Dugan, Red Hart, Ichbon about the current lore, touching subjects such as:
 
-- [x] **Ushulx searching for Aivryndt**, who went to the Deadecho and was blessed by [Algath](../npcs/algath.md) herself
+- [x] **Ushulx searching for Aivryndt**, who went to the Deadecho and was blessed by [Algath]npcs/algath.md) herself
 - [x] The Holzander catacombs are **rife with undead, thanks to a weak spot in the dimensional barrier** between here and the Deadecho
-- [x] The Deadecho, the dominion of [Algath](../context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
+- [x] The Deadecho, the dominion of [Algath]context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
 - [ ] Closing the portal requires more than just traditional magic or arcane manipulation. A darkness deep below the Scarlet Citadel is responsible for the open wound leading to the Dry Lands.
 - [x] Location of Mystra's door in the castle
 - [x] Ichbon researching the Lady Scurvy: a mix of undeath and lycanthropy
@@ -91,7 +91,7 @@ A resting conversation with [Ushulx](../npcs/ushulx.md), Dugan, Red Hart, Ichbon
 - [x] Torture of Gaelira (including screaming the name "Angel Hound"), which stoped and she was sent downstairs. She was not killed by the Gaoler
 - [x] Other conversation points from Ushulx below:
 
-![Conversation guide](../npcs/ushulx.md#Conversation%20guide) 
+![Conversation guide]npcs/ushulx.md#Conversation%20guide) 
 
 ## Potential scenes
 
@@ -137,30 +137,30 @@ If creature touches the time tributary allow a Constitution saving through DC 15
 
 ### Pool portal to the Ophaire
 
-![Catacombs](../locations/holzanderCastle.md#Catacombs)
+![Catacombs]locations/holzanderCastle.md#Catacombs)
 
 ![|500](https://cdn.vox-cdn.com/thumbor/0LUFTZ4yq4u_ZIbvybb7ci4orDo=/0x0:2040x1360/1400x933/filters:focal(1288x183:1614x509):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65197198/descent_art.0.jpg)
 
 ### Mystra's Door in the tunnel
 
-![Mystra's Door](../locations/holzanderCastle.md#Mystra's%20Door)
+![Mystra's Door]locations/holzanderCastle.md#Mystra's%20Door)
 
 ### Rurkinar flooded hall
 
-A flooded monumental hall of brass, in terrible decay, with sweeping passageways encircled by a graveyard. The construction follows the [Iopothae](../context/secrets/secretsHistory.md#Iopothae) style.
+A flooded monumental hall of brass, in terrible decay, with sweeping passageways encircled by a graveyard. The construction follows the [Iopothae]context/secrets/secretsHistory.md#Iopothae) style.
 
 ![|500](https://i.imgur.com/FofQtfd.png)
 
 ### Linhe cities
 
 - [Eyaram](arrival/locations/Eyaram.md) 
-- [Gimorkoc](../locations/gimorkoc.md)
+- [Gimorkoc]locations/gimorkoc.md)
 
 ## Important NPCs
 
 - Dugan and Red Hart (SC 43-44): dust elf merchant and her partners (commoners), significantly hurt, that were captured and tortured in the castle. They are desperate to go somewhere safe.
 - Ichbon (SC 44): a halfling scholar (commoner) that has been studying the Lady Scurvy disease, was captured and tortured in the castle. He is desperate to go somewhere safe.
-- [Ushulx](../npcs/ushulx.md)
+- [Ushulx]npcs/ushulx.md)
 
 ## Potential treasures
 

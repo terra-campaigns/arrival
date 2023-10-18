@@ -16,7 +16,7 @@ tags:
 
 # Temple of Remains
 
-- **Original Purpose**: Ancient prison for [Algath](../context/religions.md#Algath)
+- **Original Purpose**: Ancient prison for [Algath]context/religions.md#Algath)
 - **Description**:
 	- The architecture and lighting was designed for a made god, with very tall construction of a nightmarish black
 	- Burial site: great many tombs with wandering undead
@@ -52,7 +52,7 @@ Cleared from creatures and recovered treasure.
 Access to the Ammuinoth through a Ophaire breach.
 - Long tunnel that feels like a days crawling to pass.
 - Arrives in the Ammuinoth from the bottom, from a large cavern
-- Remains of [Aivridyt](../npcs/aivridyt.md)'s nest in the cavern
+- Remains of [Aivridyt]npcs/aivridyt.md)'s nest in the cavern
 
 Remaining creatures are now coming to room 2.
 

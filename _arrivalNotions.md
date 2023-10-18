@@ -42,7 +42,7 @@ kanban-plugin: basic
 - [ ] something in holzander gives a curse (VgtR192)
 - [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
 - [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
-- [ ] Meeting the Acrisae [contact](../../bookReviews/contact.md)
+- [ ] Meeting the Acrisae [contact]../bookReviews/contact.md)
 
 
 ## templates

@@ -33,9 +33,9 @@ tags:
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & links
-- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if applicable
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker]_arrivalTracker.md))
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed
@@ -68,20 +68,20 @@ tags:
 
 ### Mystra's Temple
 - 8-day trip to get to Mystra's temple, where characters will rest and recover
-- Location: [Mystra's Temple](../locations/templeMystra.md)
+- Location: [Mystra's Temple]locations/templeMystra.md)
 - Draw: Find the password for Mystra's door
 - NPCs in the temple are: priests, cultists and traders (commoners)
-- Consider having a [Thunderstorm](../rules/houseRules.md#Thunderstorm) 2d4 hours after leaving the temple
+- Consider having a [Thunderstorm]rules/houseRules.md#Thunderstorm) 2d4 hours after leaving the temple
 
 ## Potential scenes 
 
 ### Rurkinar festival and ritual, and FFKA censoring
 - *Awareness trigger*: As soon as arriving in the city, they see the tower of the temple and hear the movement of people towards it
-- *Location*: A flooded monumental hall of brass, in terrible decay, with sweeping passageways encircled by a graveyard. The construction follows the [Iopothae](../context/secrets/secretsHistory.md#Iopothae) style.
+- *Location*: A flooded monumental hall of brass, in terrible decay, with sweeping passageways encircled by a graveyard. The construction follows the [Iopothae]context/secrets/secretsHistory.md#Iopothae) style.
 - *Dramatic question*: which side will the PCs take, and how
-- *Source of conflicts*: Arrival in one of the Linhe cities - Rukinar festival and ritual is happening, [FFKA](../factions/ffkaEast.md) is in position and ready to censor the cultists.
+- *Source of conflicts*: Arrival in one of the Linhe cities - Rukinar festival and ritual is happening, [FFKA]factions/ffkaEast.md) is in position and ready to censor the cultists.
 	- **Imortra (Guilf's mother) observing Guilf.**, Someone calls her by her name and she leaves for the Mercian house. If Guilf follows someone grabs him - what is this pert doing here?
-	- The ritual finally completes in an unexpected way: the Angel Hound communicates with [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) in imprisoned in the lost castle of the Holzander's.
+	- The ritual finally completes in an unexpected way: the Angel Hound communicates with [Imra Advyre]factions/rurkinar.md#^imraAdvyre) in imprisoned in the lost castle of the Holzander's.
 	- Tense situation, FFKA wants to find reason to imprison cultists
 	- [Sergarus](arrival/npcs/Sergarus.md) arrive in the next day to interrogate cultists.
 	- Imra becomes troubled and mad.
@@ -137,7 +137,7 @@ creatures:
 - [x] #spoiler Music about the Glasrath heroes that saved the mountains and then died in the tunnels.
 
 ## Potential treasures  
-- [Bitterluchcloak](../context/secrets/secretsArtefacts.md#Bitterluchcloak)
+- [Bitterluchcloak]context/secrets/secretsArtefacts.md#Bitterluchcloak)
 - 1000 gp
 - Stones
 	- Amber (translucent rich gold, 100gp)
@@ -160,8 +160,8 @@ sort file.name asc
 ## Important NPCs  
 
 ### New NPCs
-- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
-- [Imra Advyrye](../factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
+- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines]locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
+- [Imra Advyrye]factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
 
 ### Long-lived relevant NPCs
 
@@ -177,7 +177,7 @@ sort file.name asc
 ## Additional unlikely scenes
 
 ### H113 Catacombs and vision of the Ophaire
-- Location: [Catacombs](../locations/holzanderCastle.md#Catacombs) (as set out in SC45)
+- Location: [Catacombs]locations/holzanderCastle.md#Catacombs) (as set out in SC45)
 - Threat: PCs may think there is something here, but except for the information of the Ophaire, there is nothing. 
 - Conflicts: Incoming undead never stops - Keep adding foes as necessary to make this area a tough one. A rule of thumb, when combat starts roll a 1d4. That is the number of monsters that (if below), would trigger another incoming foe (from table below). When a new foe comes, roll again. And keep doing it.
 - End conditions: The PCs realise there is nothing here for them.
@@ -244,7 +244,7 @@ creatures:
 
 ### H206 (CR 7.5)
 
-- [Maksilov](../npcs/danaska.md) and Bastron (CR 4)
+- [Maksilov]npcs/danaska.md) and Bastron (CR 4)
 
 Potion of heroism and hill giant strength. Bastron keeps the small potion vial on a string around its neck. When it looks like a fight is about to break out he drinks **before**.
 
@@ -318,7 +318,7 @@ creatures:
 
 ### H217
 
-- [cagothze](../npcs/cagothze.md)
+- [cagothze]npcs/cagothze.md)
 
 ### Arrival in Glasrath
 - More alignment with Ghuse than before. Too many undead working on the mines. Trading is going well.

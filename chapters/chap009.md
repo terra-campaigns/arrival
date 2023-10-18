@@ -33,9 +33,9 @@ tags:
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzanderd
 - [x] Think about characters, write motivations & links, and bring one background bit to the session
-- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if applicable
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker]_arrivalTracker.md))
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed
@@ -114,7 +114,7 @@ sort file.name asc
 ### Rurkinar festival and ritual, and FFKA censoring
 
 - The ritual finally completes in an unexpected way: a torrent of rain
-- [Imra Advyre](../factions/rurkinar.md#^imraAdvyre) and 10 other cultist are imprisoned, and in the cell the Angel Hound communicates with the shaman, explaining he is imprisoned in the lost castle of the Holzander's.
+- [Imra Advyre]factions/rurkinar.md#^imraAdvyre) and 10 other cultist are imprisoned, and in the cell the Angel Hound communicates with the shaman, explaining he is imprisoned in the lost castle of the Holzander's.
 - [Sergarus](arrival/npcs/Sergarus.md) arrive in the next day to interrogate cultists.
 - Imra becomes troubled and mad.
 - *Something else has to create a problem - tbd at table.*
@@ -152,8 +152,8 @@ sort file.name asc
   
 ## Relevant NPCs  
 
-- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
-- [Imra Advyrye](../factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
+- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines]locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins. ^Gulthas
+- [Imra Advyrye]factions/rurkinar.md#^imraAdvyre) (Rukinar high priest)
 
 ```dataview
 table without ID link(file.link, name) AS "Name", species, location, faction

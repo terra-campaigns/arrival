@@ -24,16 +24,16 @@ Groups of fractious survivors claim sections of this small city's ruins, scaveng
 - **Power structure**: A community organisation led by two or more figures that share ultimate decision-making authority, either officially or de facto. (Shared)
 - **Major actors**
 	- **Tanina (LN), female gnome mayor** [commoner](https://open5e.com/monsters/commoner)
-		- She has unusual wealth for the community, supported by [Rurkinar](../factions/rurkinar.md).
+		- She has unusual wealth for the community, supported by [Rurkinar]factions/rurkinar.md).
 		- She has a long face, with cropped blonde hair and brown eyes. She wears modest garments and several small tools hang from her belt.
 	- **Alben (N), male dust elf **councillor**** [commoner](https://open5e.com/monsters/commoner)
-		- He knows secret magic or forbidden arts, supported by [Rurkinar](../factions/rurkinar.md). 
+		- He knows secret magic or forbidden arts, supported by [Rurkinar]factions/rurkinar.md). 
 		- Cultured in appearance, with thick auburn hair and blue eyes. He wears splint mail and wields a long sword and heavy crossbow. He compulsively counts things.
 	- **Petfaelor (CN), male dust elf troublemaker** [commoner](https://open5e.com/monsters/commoner)
-		- He has the [FFKA East](../factions/ffkaEast.md) that backs him.
+		- He has the [FFKA East]factions/ffkaEast.md) that backs him.
 		- Tall, with copper hair and hazel eyes. He wears leather armour and wields a dagger.
 - **Minor actors**
-	- **Eirzaren (CG)**, male [outcast](https://open5e.com/monsters/apprentice-mage-a5e) suspected of evil magic, backed by the [Mercians](../factions/mercians.md).
+	- **Eirzaren (CG)**, male [outcast](https://open5e.com/monsters/apprentice-mage-a5e) suspected of evil magic, backed by the [Mercians]factions/mercians.md).
 - **Temperament**: The community court **is amoral, indifferent to harm to outsiders or strangers**.
 - **Conflicts**: Tanina is very cautious with Alben **who might be using dark magic**.
 - **Defences**: If threatened with destruction, the court is defended by **a guardian spirit or entity**.

@@ -101,7 +101,7 @@ tags: template
 > - Weird uncreated oozes have begin to take over the second level
 
 > [!info]- Information pool
-> ![Information Pool](../_informationPool.md)
+> ![Information Pool]_informationPool.md)
 
 > [!tip]- Locations
 > ![Castle of Holzander Level 4](arrival/locations/holzanderCastleL4.md#Castle%20of%20Holzander%20Level%204)

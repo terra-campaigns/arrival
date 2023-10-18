@@ -64,7 +64,7 @@ genReacRoll <- function (mod = 0) {
 }
 
 # import data
-dataLst <- read_yaml('campaign/arrival/locations/encounters/list_linhe.md')
+dataLst <- read_yaml('arrival/locations/encounters/list_linhe.md')
 
 # user inputs
 time <- 'night'

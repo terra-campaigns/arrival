@@ -63,7 +63,7 @@ The leader (firstblade) of the dust goblin raiding party is a veteran of many su
 
 ### H206 (CR 7.5)
 
-- [Maksilov](../npcs/danaska.md) and Bastron (CR 4)
+- [Maksilov]npcs/danaska.md) and Bastron (CR 4)
 
 **Potion of heroism and hill giant strength**. Bastron keeps the small potion vial on a string around its neck. When it looks like a fight is about to break out he drinks **before**.
 
@@ -133,7 +133,7 @@ Timeline space-time vision 1d10 roll, 5 times.
 
 ### H217
 
-- [cagothze](../npcs/cagothze.md)
+- [cagothze]npcs/cagothze.md)
 
 ### Library investigation topics
 

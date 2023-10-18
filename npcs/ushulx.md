@@ -33,7 +33,7 @@ creature: Cult Fanatic
 
 **Generic**
 - [x] She notices that Miraak is an undead and praise for such a great work - she thinks the PCs are into necromancy and will be very curious with it.
-- [x] Ushulx is a blood cultist who venerates [Curcharn](../context/religions.md#Curcharn) in the domain of death.
+- [x] Ushulx is a blood cultist who venerates [Curcharn]context/religions.md#Curcharn) in the domain of death.
 
 **Castle lore**
 - [x] Tells characters how to reach the staircase down (Area 112)
@@ -44,7 +44,7 @@ creature: Cult Fanatic
 - [x] She is afraid of Gellerth
 - [x] Warns them the crypts are extremely dangerous, but she would go with them if they are inclined - she's always wanted to explore them but it was too dangerous to do so alone
 - [ ] Many believe the halls of the Holzander Castle is dead or stagnant or stationary. They couldn’t be more wrong. Things are happening on every level of the vast ruin. It is a living world down beneath.
-- [ ] [Curcharn](../context/religions.md#Curcharn) is the God of Death, Master of the Rivers Styx and Lethe, Guardian of Souls, Watcher at the Door, Patron of Sailors and Gravediggers
+- [ ] [Curcharn]context/religions.md#Curcharn) is the God of Death, Master of the Rivers Styx and Lethe, Guardian of Souls, Watcher at the Door, Patron of Sailors and Gravediggers
 - [ ] Curcharn oversees the passage of souls: at birth, at death, and in the afterlife, maintaining the proper steps along the natural roads. He protects planar travelers, especially mortals, from demons and celestials alike. The god uses the undead as tools and servants, though he sees them as the damaged shells of his charges, holding only a few scattered memories.
 - [ ] She perceives the river as a metaphor for blood flowing through arteries and believes Charun is connected to the Deadecho because of the proximity of this shrine to the crypt (Areas 116–120) and its connection to the dry lands.
 - [ ] This philosophy is heretical both in mainstream views of Charun and in most blood cults, which is why Ushulx skulks here beneath the Scarlet Citadel.

@@ -32,9 +32,9 @@ tags:
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
-- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker](../_arrivalTracker.md))
-- [x] Review [Fronts](../factions/_fronts.md) and check if new front has materialised
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if applicable
+- [x] Define party level, easy DC, deadly CR, XP and treasure benchmarks ([_arrivalTracker]_arrivalTracker.md))
+- [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised
+- [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if applicable
 - [x] Decide what remaining relevant NPCs are doing, and their respective checks (wwn334)
 - [x] Detail strong start
 - [x] Define chapter template (combat, investigation, etc.)
@@ -99,7 +99,7 @@ sort file.name asc
 
 - **Expect Miraak to be the most engaged PC**
 - Scene: While travelling, they meet Gulthas Morseth, a dragonborn outcast from north Nurderad. He has a lair in the road, with oil barrels, traps, etc.
-- Dramatic question: Information on the battlemage Grezar ([Aivridyt](../npcs/aivridyt.md)) and the attack under his influence. After the mines were clear, Aivrindyt took her true form and executed the dragonborn. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
+- Dramatic question: Information on the battlemage Grezar ([Aivridyt]npcs/aivridyt.md)) and the attack under his influence. After the mines were clear, Aivrindyt took her true form and executed the dragonborn. Outcast has been living alone in the north desert for the last 10 years - ashamed to come back to Nurderad.
 - **Grezar was responsible for Miraak's accident in the war in the south**
 - *Eating twice dead barbecue*
 
@@ -107,7 +107,7 @@ sort file.name asc
 
 ### Temple of Remains
 
-[Temple of Remains](../locations/templeOfRemains.md)
+[Temple of Remains]locations/templeOfRemains.md)
 
 ## Information Pool
 
@@ -119,7 +119,7 @@ sort file.name asc
 - Rurkinar is hardly answering the prayers
 - #spoiler Theory around existence of shadow dragons.
 
-![_informationPool](../_informationPool.md)
+![_informationPool]_informationPool.md)
 
 
 ## Potential treasures  
@@ -152,7 +152,7 @@ sort file.name asc
 		- one distinct voice aspect
 		- one signature phrase or gesture
 
-- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines](../locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins.
+- **Gulthas Morseth**: Dragonborn outcast (knight), that was on the 3868 NC's raid of [Tolfoddund Mines]locations/tfddMines.md). He lives in the roads protecting the weak, as a form of redemption for his sins.
 
 ### Current NPCs
 ```dataview
