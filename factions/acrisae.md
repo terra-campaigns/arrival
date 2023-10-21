@@ -46,7 +46,7 @@ tags:
 > ...
 
 > [!warning] Parent detail
-> ...
+> ![Acrisae](_published/arrival/context.md#Acrisae)
 
 
 
