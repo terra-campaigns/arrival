@@ -49,6 +49,7 @@ tags: template
 > - Summary of previous chapters
 > - Sleigh of hand for congealed paradox
 > - Regain sanity with delirium 
+> - Maiming wound on Dolman 
 
 > [!danger] Strong start
 > **DERRO ARE ALL WEAK AND NUTS**
@@ -91,17 +92,14 @@ tags: template
 > - If an agreement is not met, the characters will be shackled again (maybe a fight is required)
 > - Imortra is an ancient, accomplished, proud, and malevolent elf. She is dedicated to protecting her mentor Gellert the Gruesome
 > 
-> **Fight with Imortra's people**
-> - Each Derro faction roll a reacion. 8 or more they join the fight.
-> - If deepfolk are brought down they will join the fight with high morale.
-> - Characters are not supposed to be killed, they are required.
-> - After the fight, if characters loose, they are subject to experiments: Metamorphica 222 Test subjects (we roll together).
-> 
+> ### If PCs sleep
+> - Some dream about Kimbarak, Thalia, Mr. Void
+> - Then some experiments 
 > **Alchemist furnace leaks uncreation now**
 > - Weird uncreated oozes have begin to take over the second level
 
 > [!info]- Information pool
-> ![Information Pool]_informationPool.md)
+> ![Information Pool](arrival/_informationPool.md)
 
 > [!tip]- Locations
 > ![Castle of Holzander Level 4](arrival/locations/holzanderCastleL4.md#Castle%20of%20Holzander%20Level%204)
