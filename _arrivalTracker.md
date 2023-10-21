@@ -1,9 +1,8 @@
 ## Chapters
 
 ```dataview
-table without ID link(file.link, name) AS "Name", part AS "Part", game_date AS "Date", season AS "Season", pcs AS "PCs", party_rank as "Party Rank", xp as "XP"
-from "arrival"
-WHERE contains(category, "chapter")=true AND campaign = "Arrival"
+table without ID link(file.link, name) AS "Name", game_date AS "Date", season AS "Season", pcs AS "PCs", party_rank as "Rank", rank as "Rank2", xp as "XP"
+from "arrival/chapters"
 sort file.name asc
 ```
 

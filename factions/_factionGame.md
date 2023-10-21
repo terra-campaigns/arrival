@@ -11,13 +11,10 @@ sort id asc
 ```
 
 
-### Next 3878.7C1
+### 3877.7C1 6x-4mo
+***Turns of 77.7C1, 77.8A1, 77.8D1, 77.9B1, 77.9F1, 78.0C1***
 
-
-### Until 3878.7C1, faction turn x6 - 3 of 3
-### Until 3878.7C1, faction turn x6 - 2 of 3
-### Until 3878.7C1, faction turn x6 - 1 of 3
-- Order: 1, 2, 3, 4, 5, 6
+- Order: 1, 2, 4, 5, 6
 - **Glasrath**
 	- INT build strength - 1d8 DC 3 to get 1 dominion, outcome 1 - fail
 	- EXT extend interest rurkinar: extend trade route (Whursock) - automatic x 6
@@ -51,6 +48,7 @@ sort id asc
 	- Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse. They are successful and hurt the faction. Miraak and Kethra are imprisoned, the others are killed.
 
 ### 3877.6F1
+
 - Order: 1, 2, 4, 3
 - Glasrath:
 	- INT build strength - 1d8 DC 3 to get 1 dominion, outcome 1 - fail
@@ -146,7 +144,7 @@ sort id asc
 | Mercians  | 3    | 4    | 3       | 3        | 10       |
 | Rurkinar  | 2    | 1    | 3       | 2        | 2        |
 
-### 3877.4E
+### 3877.4F
 ***State of play in Part 2***
 
 ```mermaid
