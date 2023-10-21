@@ -54,3 +54,8 @@ tags:
 ![|400](https://i.imgur.com/9Cc4Byq.png)
 
 ![|400](https://i.imgur.com/UTK3e3W.png)
+
+**Acrisae fronts**
+- [ ] Supraxae are now flying everywhere to maintain reconnaissance 
+- [ ] Acrisae establish lines to the west with other civilisations to prepare for the war (Avryindt is in the way) - start Acrisae faction
+- [ ] Acrisae brings military positioning to the surface and redies for war

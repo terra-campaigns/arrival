@@ -50,6 +50,10 @@ tags:
 > [!warning] Parent detail
 > ![D'Elsin](_published/arrival/context.md#D'Elsin)
 
+**Turnskull fronts**
+- [x] Part 3 starts: Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 
+- [ ] Part 4 starts: Big freeze from the south, with mists, start Turnskull faction
+- [ ] Part 5 starts: Turnskull takes the entirety of south Etor, ready for war
 
 
 

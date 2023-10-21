@@ -1,3 +1,7 @@
+
+> [!danger]
+> Deprecated, don't use fronts anymore
+
 # Large Fronts
 
 ## Rules
