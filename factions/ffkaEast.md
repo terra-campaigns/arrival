@@ -7,10 +7,10 @@ trouble: 3
 cohesion: 2
 dominion: 1
 interest:
-  glasrath: -1
+  glasrath: -7
   ffkaEast: 
-  rurkinar: -5
-  mercians: -7
+  rurkinar: -1
+  mercians: -9
   turnskull: 0
   acrisae: 0
 
@@ -22,6 +22,7 @@ meta:
   campaign: Arrival
   location: 
   parent: FFKA Olivepia
+  active: true
 tags: 
 ---
 # Faithful Faletist Knights of the Arch, East Branch
@@ -31,11 +32,12 @@ tags:
 > - **Force 4**: Faithful cavalry
 
 > [!failure] Troubles
-> - Sergarus, the commander, is not in good relationship with Olivepia's FFKA (1 pt)
-> - Many members do not trust Sergarus anymore, and are very uncomfortable with his leadership (2 pt)
+> - **1 pt:** Sergarus, the commander, is not in good relationship with Olivepia's FFKA
+> - **2 pt:** Many members do not trust Sergarus anymore, and are very uncomfortable with his leadership
 
 > [!example] Goals
 > - [ ] **Remove problem:** Develop a group of vigilant agents (Cunning 4): build trust in leadership and remove the problem (cost 12)
+> - [ ] ?? FFKA East tries to get reinforcement from olivepia (faction turn)
 
 > [!info] Background
 > ...

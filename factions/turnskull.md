@@ -4,15 +4,15 @@ id: 05
 power: 5 
 features: 4
 trouble: 6
-cohesion: 5
+cohesion: 1
 dominion: 2
 interest:
-  glasrath: 0
+  glasrath: 6
   ffkaEast: 0
   rurkinar: 0
   mercians: 0
   turnskull:
-  acrisae: -8
+  acrisae: -4
 
 meta:
   category: faction
@@ -21,7 +21,8 @@ meta:
   region: "[D'Elsin](_published/arrival/context.md#D'Elsin)"
   campaign: Arrival
   location: 
-  parent: 
+  parent:  
+  active: true
 tags: 
 ---
 # Turnskull
@@ -30,9 +31,10 @@ tags:
 > - **Force 8**: Invincible legion
 
 > [!failure] Troubles
-> - Social structure that creates poverty (2 pt)
-> - Lorquiroth is blindly convinced of their own wisdom (2 pt)
-> - Lorquiroth and his commanders have very little actual control over the people (2 pt)
+> - **2 pt**: Social structure that creates poverty
+> - **2 pt**: Lorquiroth is blindly convinced of their own wisdom
+> - **2 pt**: Lorquiroth and his commanders have very little actual control over the people
+> - **2pt**: NEW
 
 > [!example] Goals
 > - [ ] **Remove problem:** Develop a group of vigilant agents (Cunning 4) - agents will incept population to glorify Lorquiroth, building trust in leadership and remove the problem (cost 12)

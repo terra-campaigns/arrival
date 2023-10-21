@@ -3,15 +3,15 @@ name: Acrisae
 id: 06
 power: 4 
 features: 6 
-trouble: 4
-cohesion: 4
-dominion: 3
+trouble: 7
+cohesion: 1
+dominion: 15
 interest:
-  glasrath: 0
-  ffkaEast: 0
+  glasrath: 6
+  ffkaEast: 6
   rurkinar: 0
   mercians: 0
-  turnskull: -8
+  turnskull: -4
   acrisae: 
 
 meta:
@@ -22,6 +22,7 @@ meta:
   campaign: Arrival
   location: Glasrath Mountains
   parent: 
+  active: true
 tags: 
 ---
 # Acrisae
@@ -36,8 +37,9 @@ tags:
 > - **Cunning 1**: Informers
 
 > [!failure] Troubles
-> - Acrisae have very little cash in circulation, need to open to trading with Glasrath and Dust Elves (1 pt)
-> - Soldiers have been used as workers until they can't fight (3 pt)
+> - **1pt**: Acrisae have very little cash in circulation, need to open to trading with Glasrath and Dust Elves
+> - **3pt**: Soldiers have been used as workers until they can't fight
+> - **3pt**: NEW
 
 > [!example] Goals
 > - [ ] Reduce problem: Develop a Worker Mob approach (Wealth 2) - soldiers will not have to work as artifices so much, reducing the problem from 3 to 2 (cost 4).

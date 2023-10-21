@@ -9,10 +9,10 @@ dominion: 0
 interest:
   glasrath:
   ffkaEast: 0
-  rurkinar: 4
-  mercians: 3
-  turnskull: 0
-  acrisae: 0
+  rurkinar: 10
+  mercians: 9
+  turnskull: 2
+  acrisae: 2
 
 meta:
   category: faction
@@ -21,7 +21,8 @@ meta:
   region: Linhe
   campaign: Arrival
   location: Glasrath Mountains
-  parent: 
+  parent:  
+  active: true
 tags: 
 ---
 # Glasrath Alliance
@@ -31,8 +32,9 @@ tags:
 > - **Force 1**: Thugs - Undead
 
 > [!failure] Troubles
-> - Scarcity of resources due to remoteness
-> - Population living outside of their normal environments
+> - **1pt:** Scarcity of resources due to remoteness
+> - **1pt:** Population living outside of their normal environments
+> - **1pt:** Attack of Miraak, Kethra, et. al creates social unrest
 
 > [!example] Goals
 > - [ ] **Add feature**: create an industrial scale mountain manufacture (mostly for martial purposes) - Wealth 3 Manufactory (cost 8)

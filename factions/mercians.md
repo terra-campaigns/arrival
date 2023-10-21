@@ -7,12 +7,12 @@ trouble: 4
 cohesion: 3
 dominion: 0
 interest:
-  glasrath: 3
-  ffkaEast: -12
+  glasrath: 9
+  ffkaEast: -14
   rurkinar: -7
   mercians: 
   turnskull: 0
-  acrisae: 0
+  acrisae: -6
 
 meta:
   category: faction
@@ -21,8 +21,9 @@ meta:
   region: Linhe
   campaign: Arrival
   location: 
-  parent: 
-tags: template
+  parent:  
+  active: true
+tags: 
 ---
 # Mercians
 ***Tattooed music cultists of Ngar'tho and Ethux'zhurh***
@@ -34,9 +35,9 @@ tags: template
 > - **Force 4**: Initialised apocalypse engine - Brezal Paths umbilicals
 
 > [!failure] Troubles
-> - FFKA influence taking over the Mercian religion (1 pt)
-> - They might be messing up with powers beyond their control (2 pt)
-> - Everyone has reservations with the Mercians (1 pt)
+> - **1 pt**: FFKA influence taking over the Mercian religion
+> - **2 pt**: They might be messing up with powers beyond their control
+> - **1 pt**:Everyone has reservations with the Mercians
 
 > [!example] Goals
 > - [ ] **Add feature:** Continue activation of apocalypse engine, and evolve it to Force 6 (+1 new feature point): Enlist a dwarf to bring Kimbarak spirit to the fold, to channel and dodge The Legacy (cost 9, reduced to 3 if Dolman is available)

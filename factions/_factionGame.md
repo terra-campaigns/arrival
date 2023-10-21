@@ -3,32 +3,52 @@
 ## Current
 
 ```dataview
-table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", power AS "Power", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "I1", interest.ffkaEast AS "I2", interest.rurkinar AS "I3", interest.mercians AS "I4", interest.turnskull as "I5", interest.acrisae as "I6"
+table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", power AS "Power", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "i1", interest.ffkaEast AS "i2", interest.mercians AS "i4", interest.turnskull as "i5", interest.acrisae as "i6"
 from "arrival/factions"
 WHERE contains(meta.category, "faction")=true OR contains(type, "faction")=true
+WHERE meta.active = true
 sort id asc
 ```
 
 
-### Next 3877.7C1
+### Next 3878.7C1
 
-- Start Turnskull (5) and Acrisae (4)
-- Evaluate Rurkinar and FFKA situation (reduce their power
-- Weird mutated/uncreated oozes have begun to take over the second level
 
-**Background actors**
-
-- Kiranu arrive in Melister on 3877.7C7
-	- **The alliance of Nurderad, Katho and Kiranu lost to D'Elsin in the south. The surviving army is now helping the dwarves of Kiranu to migrate north, giving up the last southern civilisation. 300 miles to Melister first (at 10 miles per day). Then to Glasrath. 2 weeks to prepare departure. 5 weeks traveling. (meta-gaming: 2nd milestone of the campaign - out of 8)**
-- 3877.7B -> Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse. Don't kill Moraal and Kethra, use them as bait for the PCs (maybe bring Tom & Babi back later)
-- 3877.7C - Ushulx arrives in Glasrath, after that Avryndt will come and visit the Temple of Remains
-- Uncreated creatures start to pop from fractures
-- lady scurvy attacking to keep the void alive (check ravenloft)
-- siege in eyaram?
-- ffkw is skeptical with Mercians 
-- 13 survivors FFKA, Final retreat through a tunnel in the upper quarter, that goes south for 3 miles, then goes to the surface and continues to a Ammuinoth tunnel (6 miles SE).
-- Sergarus does not die, but is forever crippled. Marcus takes over.
-- FFKA East tries to get reinforcement from olivepia (faction turn)
+### Until 3878.7C1, faction turn x6 - 3 of 3
+### Until 3878.7C1, faction turn x6 - 2 of 3
+### Until 3878.7C1, faction turn x6 - 1 of 3
+- Order: 1, 2, 3, 4, 5, 6
+- **Glasrath**
+	- INT build strength - 1d8 DC 3 to get 1 dominion, outcome 1 - fail
+	- EXT extend interest rurkinar: extend trade route (Whursock) - automatic x 6
+	- EXT extend interest mercians: make some dark partnership - automatic x 6
+	- EXT extend interest acrisae: start trading - automatic x 6
+	- EXT extend interest turnskull: start trading - automatic x 6
+- **FFKA East**
+	- INT build strength - 1d8 DC 4 to get 1 dominion, outcome 1 - fail
+	- EXT finish the Rurkinar: 1d8 Vs 1d8 (-4 interest), outcome 2>0 - succeed x 6: Rurkinar are liquidated.
+	- EXT extend interest mercians: bully the mercians so they are watchful in Linhe - 1d8 Vs 1d10 (-4 interest), 3>0 - succeed x6
+	- EXT extend interest glasrath: make contact with them to get info - 1d8 Vs 1d8, 7>1 - succeed x6
+- **Mercians**
+	- INT build strength - 1d10 DC 5 to get 2 dominion, outcome 1 - fail
+	- EXT extend interest glasrath: expansion towards the mountains - automatic x6
+	- EXT extend interest ffka: manipulate them - 1d10 Vs 1d8 (-4 interest), result 2>0 - pass x6
+	- EXT extend interest acrisae: measure them up for future hostilities - 1d10 Vs 1d12 , result 5>3 - pass x6
+- **Turnskull**
+	- INT build strength - 1d20 DC 7 to get 3 dominion, outcome 3 - fail
+	- EXT Glasrath - extend interest: start trading - automatic x6
+	- EXT FFKA East - N/A
+	- EXT Mercians - N/A
+	- EXT Acrisae - attack 1d20 Vs 1d12 (-4 interest from Turnskull, +4 from Glasrath): 7>6 success x6: lost 3 cohesion, gained 3 pt problem
+- **Acrisae**
+	- INT build strength - 1d12 DC 5 (+2 interest from Glasrath) to get 2 dominion, outcome 10 - success x6
+	- EXT Glasrath - extend interest: start trading - automatic x6
+	- EXT FFKA East - extend interest: help each other - automatic x6
+	- EXT Mercians - N/A
+	- EXT Turnskull - attack 1d12 Vs 1d20 (-4 interest from Acrisae, +4 from Glasrath): 10>6 success x6: lost 4 cohesion, gained 2 pt problem
+- **Background actors**
+	- Kiranu and Nurderad cannot take Glasrath down, the dwarves have settled Durnum and the Nurderad had come home to prepare defences for a possible Turnskull attack.
+	- Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse. They are successful and hurt the faction. Miraak and Kethra are imprisoned, the others are killed.
 
 ### 3877.6F1
 - Order: 1, 2, 4, 3

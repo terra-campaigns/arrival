@@ -17,10 +17,15 @@ interest:
   mercians: -3
   turnskull: 0
   acrisae: 0
+meta:
+  active: false
 tags: 
 ---
 
 # Rurkinar Cultists
+
+> [!warning] Liquidated
+> The Rurkinar Cultists were liquidated in 3877.7
 
 - **Features**
 	- Guilf is now a weak channel from the Angel Hound
