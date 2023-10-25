@@ -32,7 +32,7 @@ tags: template
 > - [x] Detail strong start
 > - [x] Prepare Owlbear, if applicable
 > - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-> - [ ] Review and order/highlight information pool.
+> - [x] Review and order/highlight information pool.
 > - [x] Outline and update location notes, reviewing scenes and secrets
 > - [x] Outline potential NPCs, reviewing all above
 > - [x] Define treasure
