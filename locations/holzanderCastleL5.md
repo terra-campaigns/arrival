@@ -78,6 +78,7 @@ creatures:
 
 **Wilbur Whateley**
 ![|400](https://i.imgur.com/RYpC8dV.png)
+
 **Lesser eye**
 ![|400](https://i.imgur.com/RvEXjBt.png)
 
@@ -208,7 +209,10 @@ creatures:
 ```encounter
 creatures:
   - 2d4-1: [HD 04, Deep One]
+  - [HD 06, Turnskull construct in failsafe mode]
 ```
+
+![|400](https://i.imgur.com/7Ti0UzI.png)
 
 ```encounter
 name: 522
@@ -222,7 +226,7 @@ creatures:
 
 ![|400](https://i.imgur.com/PfVuD6Q.png)
 
-### 524
+### 524 nighmare
 
 ```encounter
 creatures:
@@ -235,3 +239,8 @@ creatures:
 - **Hideous Cacophony**. The shoggoth’s many mouths constantly emit whistles, fluting, and other high-pitched noises. It has disadvantage on [Dexterity](https://www.5esrd.com/using-ability-scores#TOC-Dexterity) (Stealth) checks made to be unheard. Each creature that starts its turn within 60 feet of the shoggoth and that can hear it must make a DC 19 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be disoriented until the start of its next turn. A disoriented creature is [incapacitated](https://www.5esrd.com/gamemastering/conditions/#Incapacitated), and when it moves, it moves in a random direction. Unless surprised, a creature can cover its ears to avoid the saving throw at the start of its turn. If the creature does so, it can’t hear until the start of its next turn, when it can cover its ears again. If the creature uncovers its ears in the meantime while within 60 feet of the shoggoth, it must immediately make the save. A creature that is covering its ears and that has access to cloth, wax, or similar material can stuff its ears with the material as a bonus action to free up its hands, deafening itself while the material remains stuffed in its ears.
 
 ![](https://i.imgur.com/oY7oS7h.png)
+
+### 524 The Void
+
+- the room is much larger than what is in the map, 1d4+4 Ngar'tho attending to vampiric evourecs that are then attached to undead bodies to create Lady Scurvy who are then thrown in the river.
+- Kimbarak **golden dagger** is found on Dolmans hand, and Mr Void asks Dolman to open a rift in the legacy by sacrificing Guilf while the Ngar'tho hold Amyria.
