@@ -1,7 +1,6 @@
 ---
 name: Nightmare River
 game_date: 3877.7B2
-season: winter
 pcs: Dolman, Guilf, Amyria
 rank: 2.3
 xp: 4180
@@ -37,7 +36,7 @@ tags: template
 > - [x] Outline potential NPCs, reviewing all above
 > - [x] Define treasure
 > - [x] Update random encounter tables
-> - [ ] Print information pool (applicable parts)
+> - [x] Evaluate heat
 
 > [!abstract] Characters' motivations
 > - **Dolman**: Destroy the 3 devices in the castle
@@ -73,10 +72,13 @@ tags: template
 	- laboratories 
 	- surgery rooms
 	- prison habitats
+	- a person with all systems segregated in the walls - that can talk!!
 	- VR machines
+	- experiment with Derro babies
 	- evourec preserves
 	- incubation dome
 	- brain sinapse libraries
+	- experiment with humanoids and machines
 	- complete alien rooms, etc
 	- **real room 524 CAN ONLY APPEAR AFTER THE PCS HAVE FREED THALIA FROM THE SPHERE (SHE GOES INTO AMYRIA, who gains 1 level worth of xp) is the chamber of the god brain (Ravenloft 73)**
 		- the room is much larger than what is in the map, 1d4+4 Ngar'tho attending to vampiric evourecs that are then attached to undead bodies to create Lady Scurvy who are then thrown in the river.

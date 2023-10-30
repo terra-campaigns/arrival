@@ -19,8 +19,7 @@ stats:
   - DC: 17
 skillsaves:
   - Attack: +9
-  - 5e: +4
-  - WN: +2
+  - Skill: +4
 debilitations: 
 resistances: charmed
 immunities: magic can’t put her to sleep

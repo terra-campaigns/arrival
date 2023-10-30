@@ -214,6 +214,9 @@ creatures:
 
 ![|400](https://i.imgur.com/7Ti0UzI.png)
 
+![|400](https://i.imgur.com/quxiCaL.png)
+
+
 ```encounter
 name: 522
 creatures:
@@ -238,9 +241,15 @@ creatures:
 - **Amorphous**. The shoggoth can move through a space as narrow as 1 foot wide without squeezing.
 - **Hideous Cacophony**. The shoggoth’s many mouths constantly emit whistles, fluting, and other high-pitched noises. It has disadvantage on [Dexterity](https://www.5esrd.com/using-ability-scores#TOC-Dexterity) (Stealth) checks made to be unheard. Each creature that starts its turn within 60 feet of the shoggoth and that can hear it must make a DC 19 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be disoriented until the start of its next turn. A disoriented creature is [incapacitated](https://www.5esrd.com/gamemastering/conditions/#Incapacitated), and when it moves, it moves in a random direction. Unless surprised, a creature can cover its ears to avoid the saving throw at the start of its turn. If the creature does so, it can’t hear until the start of its next turn, when it can cover its ears again. If the creature uncovers its ears in the meantime while within 60 feet of the shoggoth, it must immediately make the save. A creature that is covering its ears and that has access to cloth, wax, or similar material can stuff its ears with the material as a bonus action to free up its hands, deafening itself while the material remains stuffed in its ears.
 
-![](https://i.imgur.com/oY7oS7h.png)
+![|400](https://i.imgur.com/oY7oS7h.png)
 
 ### 524 The Void
 
 - the room is much larger than what is in the map, 1d4+4 Ngar'tho attending to vampiric evourecs that are then attached to undead bodies to create Lady Scurvy who are then thrown in the river.
 - Kimbarak **golden dagger** is found on Dolmans hand, and Mr Void asks Dolman to open a rift in the legacy by sacrificing Guilf while the Ngar'tho hold Amyria.
+- Present dolman with a dark gift after a rest
+- The Ngar'tho tells the PCs they need to release Thalia first, unless Amyria's body is used in the ritual if she dies.
+- **The ritual can be completed even with any of the PCs dead**
+- **The Void being incarnate he is afraid** 
+
+![|400](https://i.imgur.com/ZJJ0txe.png)
