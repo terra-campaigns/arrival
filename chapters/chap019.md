@@ -1,5 +1,5 @@
 ---
-name: Nightmare River
+name: Nightmare River, part 1
 game_date: 3877.7B2
 pcs: Dolman, Guilf, Amyria
 rank: 2.3
@@ -14,7 +14,7 @@ meta:
   location: Holzander
 tags: 
 ---
-# Chapter 19 Nightmare River
+# Chapter 19 Nightmare River, part 1
 
 > [!todo]- Planning checklist
 > - [x] Abridge previous chapter and distribute XP
@@ -132,11 +132,3 @@ tags:
 > [!check] Treasures
 - 3x [Big treasure hoard](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=15;treasure-loot_type=treasure_hoard)
 - [Smaller treasure hoards](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=5;treasure-loot_type=treasure_hoard), if required
-
-Test links
-
-![blightedVale](arrival/locations/blightedVale.md)
-
-[blightedVale](arrival/locations/blightedVale.md)
-
-[blightedVale](../locations/blightedVale.md)
