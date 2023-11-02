@@ -45,8 +45,6 @@ tags:
 > Most of the population are Anaks, but some humans and demi-humans, alongside blighted, are also present. They have an intention to expand towards the North and have their domain covering all the lands south of Glasrath.
 > 
 > They special military forces are composed of Turnskull constructs.
-> 
-> ![](https://i.imgur.com/S4VBMMG.png)
 
 
 > [!warning] Parent detail
@@ -57,6 +55,10 @@ tags:
 - [ ] Part 4 starts: Big freeze from the south, with mists, start Turnskull faction
 - [ ] Part 5 starts: Turnskull takes the entirety of south Etor, ready for war
 
+![|400](https://i.imgur.com/S4VBMMG.png)
 
+![|400](https://i.imgur.com/M2GuQel.png)
+
+![|400](https://i.imgur.com/HwUqtc9.png)
 
 

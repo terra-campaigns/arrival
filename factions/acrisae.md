@@ -51,8 +51,6 @@ tags:
 > ![Acrisae](_published/arrival/context.md#Acrisae)
 
 
-
-
 ![|400](https://i.imgur.com/9Cc4Byq.png)
 
 ![|400](https://i.imgur.com/UTK3e3W.png)
