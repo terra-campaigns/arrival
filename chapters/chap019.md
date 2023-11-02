@@ -12,7 +12,7 @@ meta:
   realm: Maqqatba
   region: Linhe
   location: Holzander
-tags: template
+tags: 
 ---
 # Chapter 19 Nightmare River
 
@@ -132,3 +132,11 @@ tags: template
 > [!check] Treasures
 - 3x [Big treasure hoard](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=15;treasure-loot_type=treasure_hoard)
 - [Smaller treasure hoards](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=5;treasure-loot_type=treasure_hoard), if required
+
+Test links
+
+![blightedVale](arrival/locations/blightedVale.md)
+
+[blightedVale](arrival/locations/blightedVale.md)
+
+[blightedVale](../locations/blightedVale.md)
