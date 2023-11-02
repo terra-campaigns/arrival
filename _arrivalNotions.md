@@ -6,8 +6,24 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] FFKA East tries to get reinforcement from olivepia (faction turn)
+- [ ] FFKA East tries to get reinforcement from olivepia (faction turn), and retreat to the city of Linhe
 - [ ] Acrisae or FFKA propose to the party for them to take over Ghuse while the army is busy
+- [ ] From level 4 onwards, PCs cannot leave the castle until the ritual is complete, or the devices destroyed. They can always find a place to rest, but they are never allowed to go upstairs from level 4 (unless they kill)
+- [ ] **Alchemist furnace leaks uncreation now**<br>- Weird uncreated oozes have begin to take over the second level
+- [ ] Acrisae post is Tepest Ravenloft 157
+- [ ] Turnskull post is Lamordia
+- [ ] City of linhe is some political ravenloft domain
+- [ ] Part 2 finishes when leaving Holzander. If The Void was summoned, Guilf will have died. If The Void was not summoned, Guilf will get a Dark Gift: watchers.
+- [ ] Part 3 is until Glasrath is dealt with, if PCs focus on only that. Then Part 4: we play either 5e super heroes, 5e + WWN domain rules or Godbound. Game will be focused on one or two domains of the dread. Base on Kult, but account for The Void as well, if summoned or if the cult to summon it continues.
+- [ ] Once Kimbaraks dagger is seen, Dolman receives Kimbaraks echoing soul dark guift
+- [ ] Once Thalia is freed, she becomes a gathered whispers dark guift for Amyria
+- [ ] New PCs, if from the prisoners, start with equipment from Nightmare core page 116 and a set of mutations?
+- [ ] Add some items from Nightmare core tables around page 100
+- [ ] Downtime rules from Nightmares
+- [ ] Heat: cwn/nightmares2e 174 - implement as part of faction turn?
+- [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
+- [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
+- [ ] Who is similar to the fremen?
 
 
 ## opportunityAttack
@@ -17,6 +33,7 @@ kanban-plugin: basic
 - [ ] Create city encounter generator
 - [ ] Create undead mob as a creature - Godbound, and replace on encounter gen
 - [ ] Add acrisae to random encounter
+- [ ] Think of standards for ML and Instinct
 
 
 ## snoozed scenes
@@ -26,7 +43,6 @@ kanban-plugin: basic
 - [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
 - [ ] Campfire scene - what characters want?
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
-- [ ] War in the south, deep freeze
 - [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
 - [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 - [ ] Acrisae https://i.imgur.com/4CqOLy9.png
@@ -34,15 +50,11 @@ kanban-plugin: basic
 
 ## parking lot
 
-- [ ] part 2 closes with impeding The Void to become one with the engine of Hincland and achieve divine supremacy (GB200)
 - [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Create mystra / Falestism as Godbound religion
-- [ ] offer dark gift when the angel hound is saved
 - [ ] something in holzander gives a curse (VgtR192)
-- [ ] find the Sandman warriors: https://theelementalsmmorpg.fandom.com/wiki/Sand_Men - Sandmen: Elven Champions for the Angels
-- [ ] Find a broken Supraxae (From Gellerts channel magic?) and rebuild it?
-- [ ] Meeting the Acrisae [contact]../bookReviews/contact.md)
+- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/
 
 
 ## templates

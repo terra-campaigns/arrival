@@ -97,7 +97,7 @@ The Trow Ancestors is a religion group with strong presence in the south of Etor
 
 In the darkness of the ancient temple, a group of hooded figures chanted in unison, their voices rising and falling in an eerie rhythm. They stood before a stone altar, upon which lay the remains of countless creatures: bones, feathers, fur, and scales. As the chanting grew louder, a sickly green light flickered to life, illuminating the twisted shapes of the figures. Suddenly, the air grew thick with the stench of death and decay, and the bones began to shift and writhe, as if possessed by a malevolent force. With a final, blood-curdling scream, the figures threw their arms wide, and from the maelstrom of bones emerged a figure, beautiful and terrible. This was Algath, Goddess of Life and Death, born of the sacrifice of countless creatures and the dark magic of her worshippers.
 
-### Curcharn
+### Curcharn Charon
 ***The Boatman and Spirit of the Darklake***
 
 Algath and Curcharn had a tumultuous relationship, one that spanned both the worlds of the living and the dead. Algath, as the Goddess of Life and Death, was responsible for guiding the souls of the deceased to their final resting place, whether in the underworld or in the world of the living. Curcharn, on the other hand, was the boatman deity of the dark lake that separated these two worlds, ferrying souls across the treacherous waters.
