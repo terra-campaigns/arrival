@@ -1,29 +1,125 @@
 ---
 Tag:
-- Baneful success - AotLE 185
-- Betting it all - AotLE 185
-- Bitter grudge - AotLE 185
-- Black sheep - AotLE 185
-- Blithe idealist - AotLE 186
-- Burnt out - AotLE 186
-- Change at glory - AotLE 186
-- Chronic illness - AotLE 186
-- Concealed sin - AotLE 187
-- Cultural outsider (AotLE 187):
+- Baneful success:
+  - They have succeeded at something too well. Some part of their plans or intentions have been so successful that the consequences have become extremely threatening to them. A powerful ally may be so enthused by their plans that they now are overreaching, a beckoned devil may prove to be far mightier than expected, or a bribed official may be so cooperative that their obvious corruption is drawing official notice. Conversely their success may be some great personal achievement that has somehow bought them attention or duties that they now want to escape.
+  - Ambitions - Curb a vitally important but too-enthusiastic ally, Escape the new duties their success has pressed upon them, Exploit the unexpected new opportunity their success has thrust upon them
+  - Powers - Their newfound and unexpectedly powerful ally, Their success has earned the cooperation of an unexpected patron, They suddenly have more of a particular resource than they expected to have
+  - Desires - They are swept along by their success to an ultimate nemesis, They are critically unequipped to exploit their success, Someone else is stepping in to profit by their success
+
+- Betting it all:
+  - They are making an enormous gamble in this plot, expending every resource they have and burning every bridge behind them in an attempt to win through. Something about the situation makes them think that nothing has a chance except total commitment. Conversely, this tag might just indicate that they are extremely prone to reckless all-in behavior, willing to dare everything and trust to their prior luck.
+  - A Overcome a seemingly invincible foe or obstacle, Achieve an impossible feat by daring to spend what others would shrink from, Crush a problem utterly through raw force before it can grow into a real danger
+  - P Through loans and promises they can mobilize far more resources than others would suspect, They have a well-honed sense of the possible that lets them strike at weak points intuitively, They are remarkably coordinated and can control and direct their resources with exquisite precision
+  - D An old debt comes due at the worst possible time, A resource they thought they had available turns out to be depleted or useless, A small piece of bad luck causes a cascade of events that threatens to undo them
+
+- Bitter grudge:
+  - They hate some person or institution with aching intensity. Their hatred is an animating force for their personality and daily activities, and even when circumstances require them to conceal it, it will never be far from their mind. They are willing to suffer terribly so long as they can inflict equal misery on their enemy. Conversely, they might be the target of such a grudge. It may be that some past action or former crime left a survivor who is willing to take reckless steps to ruin them, even if innocents are caught in the blast.
+  - A Worm their way into a position of trust where they can betray their enemy, Inflict their vengeance on the things and people their enemy loves, Personally murder their enemy or destroy the institution after inflicting terrible pain
+  - P They have incredible focus and self-discipline driven by their hate, They have many friends who also hate their enemy, The wrong their enemy did them left them with a talent or an association that they can use to get their revenge
+  - D Their enemy is destroyed by some completely unrelated person or event, People they trust or rely on are somehow drawn into their enemy’s circle, Destroying their enemy would somehow ruin something or someone they love
+
+- Black sheep:
+  - They are an outcast from some family, organization, or religion of importance in the area. Something they did or are is intolerable to their former allies, and they’ve been cut off from their help and association, even though outsiders might still recognize them as a member. Conversely, rather than being outcast by others, they themselves might be naturally incapable of feeling belonging or trust towards others. They might unconsciously or intentionally sabotage their relationships so as to remain unencumbered by ties.
+  - A Punish their former associates for cutting them off, Prove that the judgment of their peers was mistaken and they are truly worthy, Do things that they could never have done as a member in good standing of their former peers
+  - P They still have secrets and private ties from their former association, They stole valuable resources or arts from their past peers before leaving, They have associates who are also outcasts from the group or who are traditional enemies of them
+  - D Their old peers feel the need to “take care” of them and their loose ends, They’re targeted by enemies of their old peers who don’t recognize their outcast status, Old resources they formerly relied upon are now unavailable to them
+
+- Blithe idealist:
+  - They have a dream or a grand ambition, seeing a great possibility before them or a wonderful vision of how life could be. They are totally committed to this ideal; any failure of it is just evidence of a lack of determination or the sabotage of enemies. No price is too great and no obstacle to vast for their ideal to overcome. Conversely, they could be waking up to the impossibility of their dream, yet find themselves utterly entangled in plots to achieve it and terrible prices they’ve already paid. They may not believe in it any more, but they have no way to back out now.
+  - A Destroy a person or power they identify as an enemy of their vision, Put a supporter of their vision into a position of power, Ruin a wicked saboteur whose actions caused the ideal to fail in some instance
+  - P They have a vanguard of equally dedicated allies, Their ideal is intensely attractive to otherwise uncommitted people, They have the backing of secret powers or otherworldly entities that find them useful
+  - D The vision demands something precious from them, A trusted lieutenant is failing badly, They’ve been accused of sabotage by an ambitious rival
+
+- Burnt out:
+  - Nothing is worth it to them any more. They’re physically, mentally, or emotionally exhausted. They’ve achieved great things and undertaken vast labors, but none of their fruits seem worth the effort any longer. They want to ignore the world, but the current situation won’t let them stand aside if they want to avoid disaster. Conversely, their exhaustion may not be a matter of unwillingness, but of newfound incapacity. They just don’t have the strength they used to, and the deeds they could formerly achieve are now too difficult or too exhausting for them to manage any more.
+  - A Escape some burdensome duty or task without getting in deeper trouble, Complete some last task they think will let them finally rest, Get rid of some person who is forcing them keep working
+  - P They were extremely good at the task or role that they’re burnt out on, They have numerous minions or allies they’ve earned by past labor, They have considerable resources their talents acquired
+  - D Something threatens to hang an interminable new duty on them, The event or person who caused their burnout comes back or recurs, None of their intended recreations or rests are helping them feel any better
+
+- Change at glory:
+  - They have a shot at fame, fortune, happiness, or some other situation they’ve longed to obtain. Some plot they’re pursuing or situation they’ve found themselves in offers them a chance at this success, usually in exchange for a terrible risk or a grim sacrifice. Refusing seems to risk the permanent loss of the desired end. Conversely, they might still be seeking that chance. Their plans and schemes might revolve around making an opening for their own reckless ambitions, or creating situations where they might gamble everything on obtaining their heart’s desire.
+  - A Destroy the person or institution that stands between them and glory, Sacrifice an ally or an innocent bystander in order to obtain their end, Load the dice by setting up alliances or betrayals that will make the eventual effort sure to succeed
+  - P They have inside information on the situation that gives them a golden opportunity, They’ve been training for this situation and have exactly the skill set and resources needed, Dumb luck has set them up perfectly for their chance
+  - D They’re being used as a patsy by another glory seeker, Success actually spells something very different for them, The glory they’re seeking isn’t worth their sacrifice
+
+- Chronic illness:
+  - They’re plagued with a chronic illness, mutilation, or deformity that has hindered them for some time. Something about it isn’t amenable to magical cures or easy remedies, and it interferes with their ambitions and saps the pleasure from their successes. Conversely, they might have overcome the illness at some point but are now dealing with the lingering consequences of it and the way it’s troubling their life even when it’s absent.
+  - A Find the cure or prosthesis that will give them the health they crave, Get revenge on the person they somehow blame for their current condition, Perform some great deed before it’s too late
+  - P They’ve acquired drugs or magics that temporarily empower them far beyond their usual weakness, They’ve made useful sorcerous contacts in their search for a cure, The illness somehow has a useful upside as well as its blighting effects
+  - D They feel the approach of their inevitable mortality, The illness is crippling them at the worst possible moment in their plans, The medicines or methods they’re using to control the illness are no longer working
+
+- Concealed sin:
+  - They’ve done something gravely reprehensible by the standards of their society, and they’ve had to go to great lengths in order to hide it from others. Their current activities may be related to their need to keep the past safely buried, or they may still be committing the crime. Conversely, they may be the concealed sin of someone else. Something they are or have been made to be could be shameful or wicked to others, and their author may go to great lengths to keep the truth hidden.
+  - A Justify the sin to themselves or others through some scheme or investigation, Plot to get more opportunities to sin, Make amends for the sin through some particular deed
+  - P Their sin was very profitable or helpful in gaining resources, Others compromised by the sin will help them, The sin has led them to acquire useful skills
+  - D Unexpected consequences of the sin threaten to come to light, They’re driven to rash acts by a need to atone for the sin, Hiding or feeding the sin is costing them vital resources
+
+- Cultural outsider:
   - They don’t belong here and everyone knows it. They don’t know how the society works, and they make significant mistakes or erroneous assumptions that a native never would. The locals don’t trust them, and may view them as a menace, useful catspaw, or burden to be endured. Conversely, they may be a native but despise their home culture for some reason. They have great difficulty cooperating with it in ways necessary for a peaceful life, and act to undermine its customs and institutions whenever possible.
   - Ambitions - Find acceptance among the locals by some grand deed, Get revenge on the natives for their isolation, Compel the natives to accommodate their ways.
   - Powers - They have friends among the other outsiders in the community, They have resources drawn from their homeland, They are willing to imagine and do things the locals never would consider.
   - Dreads - They’ve committed a terrible local sin by accident, Their plans rely on the cooperation of a native who doesn’t trust them, They’re being dragged into problems created by others of their kind
-- Cursed misfortune - AotLE 187
-- Delusional self-image - AotLE 187
-- Doomed love - AotLE 188
-- Doomsday weapon - AotLE 188 
-- Double life - AotLE 188
-- Double loyalties - AotLE 188
-- Down in the world - AotLE 189
-- Earnest idiot - AotLE 189
+
+- Cursed misfortune:
+  - Everyone has a certain degree of bad luck in their life, but this person has experienced at least one instance of crushing, deeply improbable misfortune. Their current situation has been profoundly influenced by this calamity, and they may be trying to reverse it or get out from under its consequences. Conversely, the bad luck might be in their future instead of the past. Some extremely unlikely but intensely unfortunate event might be waiting to crash into their current plans.
+  - A Get revenge on the person or institution they blame for their bad luck, Somehow reverse the consequences of the calamity that befell them, Earn the favor of a god or power that they are convinced can improve their luck
+  - P The desperate situation drove them to obtain resources or allies who are now useful, Some power or resource left in the former wreckage can still be used, The calamity was double- edged in that it left them with some useful gift
+  - D The misfortune isn’t really over and is still playing out, The “bad luck” was actually entirely due to their own personal flaws or desires, Their paranoia over another twist of fate is distracting them and forcing them into bad choices
+
+- Delusional self-image:
+  - They have a self-image that is only vaguely rooted in reality, one which they absolutely refuse to abandon. Theymightseethemselvesasmagnificentlycourageous, cunning, well-loved, or respected by others, and will often rely on these traits with unfortunate results. Even when they fail, they will rationalize an explanation. Conversely, this might be a negative self-image that they can’t let go of. They might have been persuaded of it by someone else, or convinced themselves of their own inadequacy in some important aspect.
+  - Ambitions - Unconsciously seek to eliminate all elements in their life that threaten their self-image, Destroy someone who actively scorns their self-image, Do a great deed that will illustrate their nature
+  - Powers - They have extensive resources dedicated to cleaning up their failures, They’re supported by a manipulator who uses their delusion, They may be delusional about one aspect of their nature but they’re actually extremely good at something else they don’t really value
+  - Desires They’re in a situation where they have to choose between maintaining their self-image and saving something precious to them, Their buried failures are coming back to haunt them, Their delusion has finally gotten them in too deep to handle
+
+- Doomed love:
+  - They are passionately in love with a person who is either utterly unobtainable, wholly disinterested in their devotion, or profoundly unhealthy in their affections. Their motivations revolve around winning or keeping this person’s heart, yet they have no plausible chance of getting their desire. Conversely, they may be the unwilling object of another’s mad devotion, forced to manage the ardor of someone they cannot imagine loving.
+  - A Destroy some enemy or rival of the loved one, Perform a grand deed to win the loved one’s admiration, Engineer a situation to blackmail or compel the loved one to recognize their devotion
+  - P Some power finds it profitable to encourage and support this vain romance, Their burning devotion has inspired their greatest efforts, They’ve made terrible pacts or bargains to win help in their cause
+  - D Their beloved finds personal benefit in leading them on interminably, Some rival in love moves to quash their competitor, Some third party threatens to harm or steal away the object of their love
+
+- Doomsday weapon:
+  - They have access to an ally, tool, or information that could utterly destroy any reasonable opposition to their plans, yet using it would almost certainly destroy them as well. It might be a corrupt noble ally, a mad wizard, a savage barbarian chieftain, or some other power that cannot be controlled once unleashed. Conversely, they might have it but not realize the consequences, holding it back for now out of mere ordinary caution. Only after they pull the trigger will they realize that they’re in the blast zone as well.
+  - A Become insulated from the consequences of using their weapon, Trick someone else into triggering it and taking the backblast, Trigger it just a little bit so as to avoid disaster
+  - P The weapon has peripheral elements or tools than can be deployed safely, They have allies who serve out of dread of the weapon’s use, The process of obtaining the weapon left them with useful resources
+  - D The weapon is about to go off whether they want it or not, An enemy of theirs is trying to activate the weapon prematurely, Their enemies also have a doomsday weapon of their own
+
+- Double life:
+  - They lead a double life in some way, presenting one face to one set of associates and another to a different group. One side may be their “real” nature with the other adopted purely for profit, or it may be that the whole of their personality or pastimes would never be accepted by a single social circle. Conversely, this double life may be expressed as a hidden set of “real” motivations and desires, one never shown in their visible actions but secretly pursued all the same.
+  - A Arrange events so they can throw off their “false” face for good, Accomplish their double life’s goals without the truth ever being suspected, Deal with someone who threatens to expose their contradictions
+  - P They have allies from their other life that none would suspect, They’ve learned skills that no one realizes they have, They have a trusted ally in someone else who leads a similar double life
+  - D An enemy from one life is about to crash into them in their other role, A sudden desperate need in one life is distracting them from this role’s duties, An enemy has learned the truth and is using it to blackmail them
+
+- Double loyalties:
+  - They have somehow ended up being sincerely devoted to two different and not-necessarily- compatible causes. They may have religious, ethnic, or marriage ties to groups that are not necessarily friendly to their conventional loyalties, or they may have been attracted by some new cause while being reluctant to give up old faiths. Conversely, they may not actually have any such dual loyalties, but their enemies and rivals are convinced they do and use that conviction to denounce them as disloyal.
+  - A Resolve a conflict so that neither loyalty loses, Persuade one cause that the other is actually in line with their desires, Somehow come to a decision as to which loyalty to hold highest
+  - P They have friends from both loyalties to call on for their plans, They have a keen understanding of the situation possible only due to their perspective, They have certain resources from both loyalties they can command
+  - D The situation is evolving so as to put both causes at violent odds, One cause has suddenly become absolutely intolerable to the other, Someone in one cause wants them to act against someone in the other
+
+- Down in the world:
+  - They have recently come down in the world. Their former wealth, fame, good reputation, or other prosperity has been lost, and now they are left to try to pull together a life out of the remnants of their former contentment. The repercussions of their loss may still be going on. Conversely, this downfall may have happened so long ago that they have long since come to terms with their new life, even though elements and pieces of their former high station still turn up occasionally around them.
+  - Ambitions - Regain their lost station through any means necessary, Avenge themselves on the agent of their ruin, Preserve or protect their newfound comrades in misery from some impending woe
+  - Powers - They still have access to certain resources or associates from their old life, Their past still commands awe or respect from the rabble around them, They honed skills in their former life that are still useful now
+  - Dreads - The agent of their ruin will not be satisfied until they are dead, They simply don’t know how to survive in their new condition, Their fall is causing misery to someone they care about but can no longer help
+
+- Earnest idiot:
+  - They are a fool, unfortunately, and have one or more character traits that lead them into making terrible decisions. This idiocy is not so constant or profound as to make it impossible for them to attain their goals, but sooner or later they’re going to make the worst possible decision at the worst possible time. Conversely, this idiocy may be restricted to a particular topic or motivation. Whenever the topic is involved or their motivation is sparked, they will immediately make a bad decision in service of their prejudices or desires.
+  - A Prove that they are not a fool to their sniggering associates, Earnestly ram a terrible decision through until it becomes a success, Rescue a cause or person they care about from the consequences of their recent bad decision
+  - P Their folly leads them to dare actions that no one else would imagine possible, They are so good at something that it rescues them from their own bad choices, They are so charismatic or appealing that nobody blames them for their choices
+  - D They’ve caused a disaster but don’t even realize it yet, They have the exact wrong idea about a situation, They’re actually trying to be helpful but in a totally unproductive way
+
 - Family alienation - AotLE 189 
-- Family chains - AotLE 189
+  - There is a gnawing gulf between them and an important family member, be it spouse, child, or parent. Something they’ve done or are is impossible to accept, and the loving relationship they want to have is constantly held out of reach. Conversely, the alienation may be forced by the situation rather than mutual feelings. They may be unable to associate or be with their family due to the circumstance, and until it’s solved they can’t expect things to get better.
+  - A Prove the justice of their position to their loved one, Destroy the cause or person that they blame for the alienation, Find a way to atone for their act or satisfy the loved one
+  - P Their obsessive drive has made them very capable in their purpose, The act that alienated their loved one left them with considerable resources, The friends they’ve made since their alienation are very useful
+  - D Their alienated loved one is on an actively antagonistic course, The situation threatens to sever yet another precious tie, Something is threatening the loved one yet they cannot readily act to help them
+
+- Family chains:
+  - They are tightly tied to a duty, cause, or service associated with their family, one that they do not enjoy. Their love for their kindred or the practical necessity of keeping them happy forces them to go along with the situation, but not without considerable pain. Conversely, this might not be an abstract cause they must serve but a specific family member they feel responsible for, even though that family member is constantly causing trouble or putting themselves in danger.
+  - Ambitions - Shift the family duty elsewhere so they can be free, Secretly render the duty pointless or finished so they can end it, Convince their family to leave the task aside or stop causing problems
+  - P Their duty requires skills that they have honed to a fine edge, They have useful ties with others who pursue the same cause, They can call on extensive family resources to support their acts
+  - D The family ties are putting them in direct conflict with a personally-cherished cause, Their best-loved family member is somehow being destroyed by the duty or falling into peril, A sudden compulsion of duty threatens to ruin the entire family with its exactions
+
 - Friend turned foe - AotLE 190
 - Grand plan - AotLE 190
 - Grand disappointment - AotLE 190
