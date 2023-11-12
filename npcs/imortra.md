@@ -1,6 +1,6 @@
 ---
 statblock: true
-layout: WN 5e Integrated
+layout: Terra Campaigns Leiaute v01
 source: Scarlet Citadel
 name: Imortra
 size: Medium
