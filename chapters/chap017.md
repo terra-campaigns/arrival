@@ -23,7 +23,7 @@ tags:
 - [x] Update inkarnate maps (if applicable)
 - [x] Evaluate new game date
 - [x] Define at least one consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks), record it in the faction game or notion file
-- [x] Review [Abridged](_published/arrival/abridged.md)
+- [x] Review [Abridged](../../_published/arrival/abridged.md)
 - [x] Review [Fronts]factions/_fronts.md) and check if new front has materialised if the group has reached a new integer level average.
 - [x] Review [Factions]factions/_factionGame.md) and run one [faction turn]../../rules/factionRules.md), if last turn was 3+ game weeks ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Review and organise [_arrivalNotions](arrival/_arrivalNotions.md)

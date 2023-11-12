@@ -28,7 +28,7 @@ tags:
 ***Delete from template after done***
 
 - [x] Summarise previous chapter
-- [x] Review [Abridged](_published/arrival/abridged.md)
+- [x] Review [Abridged](../../_published/arrival/abridged.md)
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzanderd organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & links

@@ -48,7 +48,7 @@ tags:
 > ...
 
 > [!warning] Parent detail
-> ![Acrisae](_published/arrival/context.md#Acrisae)
+> ![Acrisae](../../_published/arrival/context.md#Acrisae)
 
 
 ![|400](https://i.imgur.com/9Cc4Byq.png)

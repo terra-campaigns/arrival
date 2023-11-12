@@ -56,7 +56,7 @@ tags: template
 > 
 > **Parlay with Gilsfeyr, the Camazotz leader (LOOK AT NOTES ON BOOK TOO)**
 > - **PCs must now reach Imortra, as she has been waiting for them and she is impacient**
-> - The only reason the derro tolerate [imortra](arrival/npcs/imortra.md) presence is fear of her and the [ngar-tho](_gm/npcCodex/statblocks/ngar-tho.md), and they’re terrified of her unseen overlord Gellert the Gruesome.
+> - The only reason the derro tolerate [imortra](arrival/npcs/imortra.md) presence is fear of her and the [ngar-tho](../../_gm/statblocks/ngar-tho.md), and they’re terrified of her unseen overlord Gellert the Gruesome.
 > - They hate the fungus-growers under Kurgorom think the bat cultists are maniacs who’ll be torn apart and eaten by their beloved bats eventually
 > - The derro aren’t here as guards.
 > - What happened with Bijnar
@@ -107,8 +107,8 @@ tags: template
 > [!bug]- NPCs
 > ![imortra](arrival/npcs/imortra.md)
 > 
-> - Gilsfeyr [_hd10](_gm/npcCodex/statblocks/_hd10.md)
-> - Kurgorom [_hd10](_gm/npcCodex/statblocks/_hd10.md)
+> - Gilsfeyr [fwn2_hd10](../../_gm/statblocks/fwn2_hd10.md)
+> - Kurgorom [fwn2_hd10](../../_gm/statblocks/fwn2_hd10.md)
 
 > [!check]- Treasures
 > - ...

@@ -37,7 +37,7 @@ tags:
 ## Desert thunderstorm scene
 
 - Location: Entrance from [Dannamore](dannamore.md)
-- Environment: [Thunderstorm](_published/arrival/houserules.md#Thunderstorm)
+- Environment: [Thunderstorm](../../_published/arrival/houserules.md#Thunderstorm)
 	- Temperature: [-10C, 0C]
 	- Wind: Severe, 50 Km/h
 	- Duration: 3 days

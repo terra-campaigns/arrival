@@ -48,7 +48,7 @@ tags:
 
 
 > [!warning] Parent detail
-> ![D'Elsin](_published/arrival/context.md#D'Elsin)
+> ![D'Elsin](../../_published/arrival/context.md#D'Elsin)
 
 **Turnskull fronts**
 - [x] Part 3 starts: Khato's armies lose in the south, Kiranu and others will need to migrate north - start Turnskull faction game for measuring it's expansion 

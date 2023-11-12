@@ -28,7 +28,7 @@ tags:
 - [x] Summarise previous chapter
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Move unused stuff from previous chapter (next chapter or notions)
-- [x] Review [Abridged](_published/arrival/abridged.md)
+- [x] Review [Abridged](../../_published/arrival/abridged.md)
 - [x] Review and organise Notions
 - [x] Review and organise Sly Flourish secrets for Holzander
 - [x] Think about characters, write motivations & hooks, and bring one background bit to the session
@@ -113,7 +113,7 @@ sort file.name asc
 
 **Secrets shared**
 
-- Dark thunderstorms a becoming very frequent and the [Desolate Flats](_published/arrival/context.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing).
+- Dark thunderstorms a becoming very frequent and the [Desolate Flats](../../_published/arrival/context.md#Desolate) are becoming even more bare, and the undead are now coming - related to the weakening of the Angel Hound spirit (and the Brezal Paths energy overflowing).
 - #puzzle The Rurkinar need rallying, otherwise they will collapse under the FFKA and the undead attacks
 - FFKA knows the Glasrath Defenders have not perished - FFKA keeping eyes open to find and interrogate then. They are a family with 2 kids and an old brute.
 - Rurkinar is hardly answering the prayers
