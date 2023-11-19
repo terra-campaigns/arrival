@@ -3,7 +3,7 @@ name: Nightmare River, part 1
 game_date: 3877.7B2
 pcs: Dolman, Guilf, Amyria
 rank: 2.3
-xp: 4180
+xp: "4180 +" 
 
 meta:
   category: chapter
@@ -14,7 +14,7 @@ meta:
   location: Holzander
 tags: 
 ---
-# Chapter 19 Nightmare River, part 1
+# Chapter 19 Nightmare River
 
 > [!todo]- Planning checklist
 > - [x] Abridge previous chapter and distribute XP
@@ -37,27 +37,29 @@ tags:
 > - [x] Define treasure
 > - [x] Update random encounter tables
 > - [x] Evaluate heat
+> - [ ] Update graph view
 
 > [!abstract] Characters' motivations
-> - **Dolman**: Destroy the 3 devices in the castle
-> - **Guilf**: Summon Mr. Void and save the world (by destroying the 3 devices in the castle)
-> - **Amyria**: Protect little Guilf, find the Angel Hound and free her, destroy the 3 devices in the castle.
+> - **[Dolman](../pcs/Dolman.md)**: Destroy the 3 devices in the castle
+> - **[Guilf](../pcs/Guilf.md)**: Summon Mr. Void and save the world (by destroying the 3 devices in the castle)
+> - **[Amyria](../pcs/Amyria.md)**: Protect little Guilf, find the Angel Hound and free her, destroy the 3 devices in the castle.
 
 > [!warning] Intro
 > - Summary of previous chapters
+> - New character developments
+> - HD and sanity values
 > - **Notes for GM** (don't speak with players until needed)
 > 	- Account for rations
 > 	- Usage die for augmented reality blade:
 > 		- d8 (9 expected uses, each for all characters)
 > 		- wear off in a scene (i.e. a room)
 
-> [!danger] Strong start
+> [!danger] Bomb 
 
-- Going downstairs or
+- Going downstairs from [holzanderCastleL4](../locations/holzanderCastleL4.md) or
 - Discussion before going downstairs
 
-
-> [!example] Potential scenes
+> [!example] Scenes
 
 ![](https://i.imgur.com/3MP5tws.png)
 
@@ -68,11 +70,12 @@ tags:
 [Random encounters images](arrival/locations/holzanderCastleL5.md#Random%20encounters%20images)
 
 **Deja-vu rooms**
-- If **rolled 1 in 6**, the real room is seen. The real rooms always have Ngar'tho working on them. They are always Pacific, if not disturbed. The rooms purposes can be:
+- If **rolled 1 in 6**, the real room is seen. The real rooms always have Ngar'tho working on them. They are always pacific, if not disturbed - and would be **keen to explain their experiments.** The rooms purposes can be:
 	- laboratories 
 	- surgery rooms
 	- prison habitats
 	- a person with all systems segregated in the walls - that can talk!!
+	- lead pendulums in bottles (scarface, long tom, mike) that shake answering chats with the Ngar'tho 
 	- VR machines
 	- experiment with Derro babies
 	- evourec preserves
@@ -104,7 +107,7 @@ tags:
 - Once 12 months have passed DC 15 check
 - Once 18 months, automatic success
 
-**Meeting with Gellert**
+**Meeting with [Gellert](../npcs/Gellert.md)**
 - Gellert wants the characters to proceed down to level  6 and investigate “the disturbances” there for him.
 - What he really wants is to magically observe as the characters are destroyed by elemental forces and the sphere of annihilation in the hope of learning something from that
 - Gives: flying balm (one per character) and wafers of warmth (two per character; see the appendix for both)
@@ -112,7 +115,7 @@ tags:
 - **Final encounter:** they’ll infuriate him by killing the voidling on Level 6 and destroying the sphere of annihilation. If the latter happens, they won’t need to attack Gellert; he ambushes them when they return to the Black River. Gellert doesn’t pursue characters if they retreat to the howling halls or escape up to the bat caverns
 - Look at room 503 [holzanderCastleL5](holzanderCastleL5.md)
 
-**Fight with Imortra's people**
+**Fight with [Imortra](../npcs/Imortra.md)'s people**
 - Each Derro faction roll a reacion. 8 or more they join the fight.
 - If deepfolk are brought down they will join the fight with high morale.
 - Characters are not supposed to be killed, they are required.
@@ -132,3 +135,12 @@ tags:
 > [!check] Treasures
 - 3x [Big treasure hoard](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=15;treasure-loot_type=treasure_hoard)
 - [Smaller treasure hoards](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=5;treasure-loot_type=treasure_hoard), if required
+
+> [!tip] Interaction table 
+> 
+> ```dataview
+> TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions"
+> FROM outgoing([[]]) 
+> SORT Type ASC
+> WHERE contains(file.folder, "arrival/")
+> ```

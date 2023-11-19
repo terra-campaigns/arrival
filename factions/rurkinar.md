@@ -25,7 +25,7 @@ tags:
 # Rurkinar Cultists
 
 > [!warning] Liquidated
-> The Rurkinar Cultists were liquidated in 3877.7
+> The Rurkinar Cultists were liquidated in 3877.7 by [mercians](mercians.md) and [ffkaEast](ffkaEast.md)
 
 - **Features**
 	- Guilf is now a weak channel from the Angel Hound

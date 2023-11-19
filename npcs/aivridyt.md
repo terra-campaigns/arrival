@@ -36,3 +36,5 @@ Ghuse's Prayer
 
 https://darksun.fandom.com/wiki/Athasian_Dragon
 
+- Brought [Fuko](../pcs/Fuko.md) back from the dead to serve her
+- Killed [Wyvern](../pcs/Wyvern.md) and [Kethra](../pcs/Kethra.md)

@@ -94,3 +94,5 @@ tags: current
 > - (2) effort
 > - (2) saves
 > - (1) increased dmg
+
+- Now holds [Gaelira](Gaelira.md), who is being "cured" by the Ngar'tho

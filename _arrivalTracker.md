@@ -21,7 +21,7 @@ sort file.name asc
 
 - [Aivridyt](arrival/npcs/aivridyt.md)
 - [Sergarus](arrival/npcs/Sergarus.md) built as a dark lord
-- [Imortra](arrival/npcs/imortra.md) built as a dark lord
+- [Imortra](npcs/Imortra.md) built as a dark lord
 
 ## Active factions (3-6)
 

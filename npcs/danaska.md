@@ -66,3 +66,5 @@ creature: Quasit
 Have potions of 
 - [heroism](http://dnd5e.wikidot.com/wondrous-items:potion-of-heroism)
 - [hill giant strength](https://www.dndbeyond.com/magic-items/4706-potion-of-hill-giant-strength) 
+
+Fled from [holzanderCastle](../locations/holzanderCastle.md), intimidated by [Amyria](../pcs/Amyria.md)

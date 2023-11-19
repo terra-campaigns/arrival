@@ -46,3 +46,10 @@ The structure stands atop a low hill that slopes off gradually all around. The s
 ## Current staus
 
 - The Holzander catacombs are **rife with undead, thanks to a weak spot in the dimensional barrier** between here and the Deadecho
+
+Levels:
+- [holzanderCastleL2](holzanderCastleL2.md)
+- [holzanderCastleL3](holzanderCastleL3.md)
+- [holzanderCastleL4](holzanderCastleL4.md)
+- [holzanderCastleL5](holzanderCastleL5.md)
+- [holzanderCastleL6](holzanderCastleL6.md)

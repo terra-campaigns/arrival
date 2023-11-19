@@ -16,7 +16,7 @@ tags:
 
 # Castle of Holzander Level 4
 
-- [Imortra](arrival/npcs/imortra.md)'s level, where she conducts her experiments guided by the [ngar-tho](../../_gm/statblocks/ngar-tho.md).
+- [Imortra](../npcs/Imortra.md)'s level, where she conducts her experiments guided by the [ngar-tho](../../_gm/statblocks/ngar-tho.md).
 - Also present are Imortra's supporter: [mercians](arrival/factions/mercians.md) and [antinom](../../_gm/statblocks/antinom.md), performing all kinds of radical experiments.
 - A cult-experiment that went wrong, created by Imortra, also resides in the level: they do not create much problem and can be used for further experimentation.
 - Most of the cult believers are of Derros - weak-bred dwarves mixed with Antinom, but they never matured properly. A few years ago a group severed from the group and now live in a small cave village.
@@ -28,7 +28,7 @@ Of the three “political” divisions on this level, only Imortra the Debased i
 
 **DERRO ARE ALL WEAK AND NUTS**
 
-The first cult created by [imortra](arrival/npcs/imortra.md), but abandoned by her. Camazotz is the god the cult idolize. Their image is a mix of the [ngar-tho](../../_gm/statblocks/ngar-tho.md) and a giant bat.
+The first cult created by [Imortra](../npcs/Imortra.md), but abandoned by her. Camazotz is the god the cult idolize. Their image is a mix of the [ngar-tho](../../_gm/statblocks/ngar-tho.md) and a giant bat.
 
 **Derros: Weak bread of dwarves, without the Dwarf pure-blood required to manipulate the legacy.** They are not very intelligent in general - although Gilsfeyr is smart enough, being a mix of Derro and Antinom. They also have tattooed body, but are very pale and do not use ornamented clothing.
 
@@ -58,7 +58,7 @@ Kurgorom wants to partner with Gilsfeyr until Imortra is taken down, from there 
 
 These people are the new mercian cult, with mercian antinoms, Ngar'tho and Imortra operating experiments.
 
-- [imortra](arrival/npcs/imortra.md)
+- [Imortra](../npcs/Imortra.md)
 - [ngar-tho](../../_gm/statblocks/ngar-tho.md)
 - [antinom](../../_gm/statblocks/antinom.md)
 

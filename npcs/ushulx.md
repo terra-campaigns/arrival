@@ -59,3 +59,5 @@ creature: Cult Fanatic
 - [ ]  If asked about the FFKA and their understanding of the castle: She believes the FFKA do not know the access, but keep trying to find - and they are close.
 
 ![](https://i.imgur.com/0dCEhLE.jpg)
+
+- Sacrificed [Scar](Scar.md)
