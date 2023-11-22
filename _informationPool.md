@@ -25,7 +25,7 @@
 
 - [ ] Mercians, primarily human in blood but bearing the weight of forsaken traditions
 - [ ] they danced upon the graves of ancient gods, their souls divorced from their religious lineage. Their oral tradition wove narratives of forgotten heroes, fantastical creatures, and inscrutable gods who had lost their lustre in the passage of ages. Music and dance, once sacred rites, now became a medium through which they celebrated what little remained of their elusive heritage. Runes, etched in the very fabric of their culture, bore the weight of divination and arcane mastery. 
-- [ ] Imortra, a seeker of arcane secrets and mysteries, had delved into the abyssal wisdom of [Ethux'zhurh](arrival/context/religions.md#Ethux'zhurh), a knowledge acquired through the enigmatic scholar [Gellert Holzander](arrival/npcs/gellert.md). 
+- [ ] Imortra, a seeker of arcane secrets and mysteries, had delved into the abyssal wisdom of [Ethux'zhurh](arrival/context/religions.md#Ethux'zhurh), a knowledge acquired through the enigmatic scholar [Gellert Holzander](npcs/Gellert.md). 
 - [ ] As they sought the plane of Makab in the Linhe region
 - [ ] they concealed their sinister machinations by weaving their communications into the very fabric of the Ngar'tho's telepathic web, a sinister dance of whispers and hidden secrets that forever bound them to the Ngar'tho's watchful eye. 
 - [ ] Their enigmatic leader, Imortra, possessed a beguiling charm that ensnared the minds and hearts of the cultists, a siren's call leading them deeper into the abyss.
