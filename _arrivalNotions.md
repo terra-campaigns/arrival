@@ -24,6 +24,9 @@ kanban-plugin: basic
 - [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
 - [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
 - [ ] Who is similar to the fremen?
+- [ ] Lagfell is an AI nano robot lich
+- [ ] Ngar'tho are babies with a lot of tentacles.
+- [ ] part 3: godbound style of challenges, using ravenloft regions. Outsiders are silent legions, Acrisae are kult creatures, Turnskull are sorcerer-kings (kult?/wwn/?)
 
 
 ## opportunityAttack
