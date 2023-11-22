@@ -30,7 +30,7 @@ traits:
   desc: Any human that sees her true form for the first time is stricken by awe and horror (**Mental Save**) or make a **Panic Roll**
 main:
 - name: Sword of Vengeance
-  desc: +9 x1, 11 (1d8 + 7) shock 7/16. This mighty blade *always comes to her when she calls for it*.
+  desc: +9 x1, 11 (1d8 + 7) shock 7/16. **Effort** - This mighty blade *comes to her when she calls for it*.
 - name: Rip open wounds with bare hands
   desc: +6 x1, 12 (3d6 + 1) shock 7/16.
 on_turn:
