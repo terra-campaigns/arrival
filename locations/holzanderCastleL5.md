@@ -93,6 +93,8 @@ creatures:
 
 ## Rooms
 
+[Gellert](../npcs/Gellert.md)
+
 ### 504
 
 Although it has many similarities to a ghost, the ghostly foe is not undead. It’s an alien aberration from the Void that took up residence in the stones.
@@ -181,20 +183,20 @@ creatures:
 
 ### 515/516/517
 
-Llagfel wears what appears to be a 3-inch-long shark’s tooth on a gold chain around her neck.
+[Lagfel](../npcs/Lagfel.md) wears what appears to be a 3-inch-long shark’s tooth on a gold chain around his neck.
 
 ```encounter
 creatures:
-  - [Eldritch Lich, Llagfel]
-  - 1d4: [Wight, Lesser nighmare]
+  - Lagfel (John McLeod)
+  - 1d4: l6b3w1w2
   - [HD 07, Chained thing]
 ```
 
 ```encounter
 name: Entire fight
 creatures:
-  - [Eldritch Lich, Llagfel]
-  - 1d4: [Wight, Lesser nighmare]
+  - Lagfel (John McLeod)
+  - 1d4: l6b3w1w2
   - [HD 07, Chained thing]
   - 1: [HD 20, Shadow River Lord Arch Necromancer]
   - 1d4: [HD 02, Shadow Skelleton]

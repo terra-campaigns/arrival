@@ -3,7 +3,7 @@ name: Nightmare River, part 1
 game_date: 3877.7B2
 pcs: Dolman, Guilf, Amyria
 rank: 2.3
-xp: "4180 +" 
+xp: "4180(a) + 4300(b)" 
 
 meta:
   category: chapter
@@ -23,20 +23,20 @@ tags:
 > - [x] Update (battle)maps, if applicable
 > - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
 > - [x] Think about characters, write motivations & hooks
-> - [x] Evaluate new game date
-> - [x] Review Abridged
-> - [x] Evaluate Faction turn
-> - [x] Review and organise Notions
-> - [x] Define XP
-> - [x] Detail strong start
-> - [x] Prepare Owlbear, if applicable
-> - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-> - [x] Review and order/highlight information pool.
-> - [x] Outline and update location notes, reviewing scenes and secrets
-> - [x] Outline potential NPCs, reviewing all above
-> - [x] Define treasure
-> - [x] Update random encounter tables
-> - [x] Evaluate heat
+> - [ ] Evaluate new game date
+> - [ ] Review Abridged
+> - [ ] Evaluate Faction turn
+> - [ ] Review and organise Notions
+> - [ ] Define XP
+> - [ ] Detail strong start
+> - [ ] Prepare Owlbear, if applicable
+> - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
+> - [ ] Review and order/highlight information pool.
+> - [ ] Outline and update location notes, reviewing scenes and secrets
+> - [ ] Outline potential NPCs, reviewing all above
+> - [ ] Define treasure
+> - [ ] Update random encounter tables
+> - [ ] Evaluate heat
 > - [ ] Update graph view
 
 > [!abstract] Characters' motivations
@@ -54,12 +54,12 @@ tags:
 > 		- d8 (9 expected uses, each for all characters)
 > 		- wear off in a scene (i.e. a room)
 
-> [!danger] Bomb 
+> [!danger] Strong Start
 
 - Going downstairs from [holzanderCastleL4](../locations/holzanderCastleL4.md) or
 - Discussion before going downstairs
 
-> [!example] Scenes
+> [!example] Potential Scenes
 
 ![](https://i.imgur.com/3MP5tws.png)
 
@@ -74,10 +74,11 @@ tags:
 	- laboratories 
 	- surgery rooms
 	- prison habitats
-	- a person with all systems segregated in the walls - that can talk!!
+	- a person with all systems segregated in the walls - that can talk!! - wife of whitley
 	- lead pendulums in bottles (scarface, long tom, mike) that shake answering chats with the Ngar'tho 
 	- VR machines
 	- experiment with Derro babies
+	- an open Ngar'tho (baby with a lot of evourec tentacles)
 	- evourec preserves
 	- incubation dome
 	- brain sinapse libraries
