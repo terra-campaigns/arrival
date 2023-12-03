@@ -1,5 +1,5 @@
 ---
-name: Nightmare River, part 1
+name: Nightmare River
 game_date: 3877.7B2
 pcs: Dolman, Guilf, Amyria
 rank: 2.3
@@ -46,6 +46,7 @@ tags:
 
 > [!warning] Intro
 > - Summary of previous chapters
+> - You can have almost anything you'd like in the environment
 > - New character developments
 > - HD and sanity values
 > - **Notes for GM** (don't speak with players until needed)
@@ -115,12 +116,6 @@ tags:
 - After Gellert’s proposal, raise your hand with all five fingers extended. Slowly lower one finger at a time where all players can see the countdown. If you reach zero before characters clearly agree to Gellert’s terms, wave your hand in a motion of dismissal. The characters are instantly teleported away - **teleported to a room 503 without the furnishings**
 - **Final encounter:** they’ll infuriate him by killing the voidling on Level 6 and destroying the sphere of annihilation. If the latter happens, they won’t need to attack Gellert; he ambushes them when they return to the Black River. Gellert doesn’t pursue characters if they retreat to the howling halls or escape up to the bat caverns
 - Look at room 503 [holzanderCastleL5](holzanderCastleL5.md)
-
-**Fight with [Imortra](../npcs/Imortra.md)'s people**
-- Each Derro faction roll a reacion. 8 or more they join the fight.
-- If deepfolk are brought down they will join the fight with high morale.
-- Characters are not supposed to be killed, they are required.
-- After the fight, if characters loose, they are subject to experiments: Metamorphica 222 Test subjects (we roll together).
 
 > [!info] [Information pool](arrival/_informationPool.md)
 
