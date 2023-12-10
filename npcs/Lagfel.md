@@ -32,14 +32,14 @@ main:
 - name: Nanobot entanglement
   desc: '+8 x3, 15 (4d6 + 1) shock 7/18, 10ft, Evasion **F**: mentally grappled'
 - name: Mind blast (effort)
-  desc: '+18, 60ft cone, 53 (5d20) Evasion **S**: halves'
+  desc: '60ft cone, 53 (5d20) Evasion **S**: halves'
 - name: Raise nigthmare nanobots (effort)
   desc: "Animates a nightmare made of nanobots (l12b7w2w3)"
 on_turn:
   - name: Nighmare whisper (effort)
-    desc: "One target makes a **Grip** check, **F**: 2d4 **Grip** lost and loses next turn"
-  - name: Command the Dead (effort)
-    desc: "Up to 20 undead become controlled by the caster"
+    desc: "One target. Roll on the **Panic** effect table. **Mental** save negates."
+  - name: Raise nanobots (effort)
+    desc: "Up to 2d10 nanobot ghouls are raised."
 instant:
   - name: Legendary resistance (effort)
     desc: "Automatically succeed at saving throws."

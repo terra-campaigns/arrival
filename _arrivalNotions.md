@@ -19,14 +19,17 @@ kanban-plugin: basic
 - [ ] Once Thalia is freed, she becomes a gathered whispers dark guift for Amyria
 - [ ] New PCs, if from the prisoners, start with equipment from Nightmare core page 116 and a set of mutations?
 - [ ] Add some items from Nightmare core tables around page 100
-- [ ] Downtime rules from Nightmares
+- [ ] Downtime rules from Nightmares (incl. city encounters?)
 - [ ] Heat: cwn/nightmares2e 174 - implement as part of faction turn?
 - [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
 - [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
 - [ ] Who is similar to the fremen?
-- [ ] Lagfell is an AI nano robot lich
 - [ ] Ngar'tho are babies with a lot of tentacles.
 - [ ] part 3: godbound style of challenges, using ravenloft regions. Outsiders are silent legions, Acrisae are kult creatures, Turnskull are sorcerer-kings (kult?/wwn/?)
+- [ ] Dolman is possessed by a Darthea? Kld260
+- [ ] Destruction of the sphere destroyed an Acrisae in the vicinity
+- [ ] Create lagfel using tarot
+- [ ] Make mr Void as yeoman kdl305
 
 
 ## opportunityAttack
@@ -96,6 +99,7 @@ kanban-plugin: basic
 - [ ] Define chance for Gulthas to be killed
 - [ ] Dwarves have a subcouncious connection with the Legacy
 - [ ] PCs hunt (Tom&Jerry) their own dark characters
+- [ ] Lagfell is an AI nano robot lich
 
 %% kanban:settings
 ```

@@ -70,7 +70,7 @@ tags:
 
 [Random encounters images](arrival/locations/holzanderCastleL5.md#Random%20encounters%20images)
 
-**Deja-vu rooms**
+###  Deja-vu rooms
 - If **rolled 1 in 6**, the real room is seen. The real rooms always have Ngar'tho working on them. They are always pacific, if not disturbed - and would be **keen to explain their experiments.** The rooms purposes can be:
 	- laboratories 
 	- surgery rooms
@@ -122,6 +122,7 @@ tags:
 
 > [!tip]- Locations
 - [Holzander L5 Rooms](arrival/locations/holzanderCastleL5.md#Rooms)
+- [holzanderCastleL6](../locations/holzanderCastleL6.md)
 - 
 
 > [!bug]- NPCs
