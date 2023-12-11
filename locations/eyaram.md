@@ -23,11 +23,11 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 ***Old desert fort city***
 
 - **Type**: Community
-- **Power structure**: A community organisation led by majority rule, in which decisions are made by an elected council. (Democratic)
+- **Power structure**: A puppet community organisation enthralled by the hidden [ngar-tho](../../_gm/statblocks/ngar-tho.md) (Supposedly democratic).
 - **Major actors**
 	- **Crema** (N), the **local female [soldier](https://open5e.com/monsters/soldier-a5e) leader of the [FFKA East]factions/ffkaEast.md)**.
 		- Knows the military of the FFKA is needed in the city.
-		- Has close connection with [Sergarus](arrival/npcs/Sergarus.md) (who is always travelling the posts).
+		- When she was a kid, she knew [Sergarus](arrival/npcs/Sergarus.md)
 		- Crema is wretched in appearance, with short silver hair and bright blue eyes. She wears simple clothing and a wooden holy symbol. Crema is savage but creative.
 	- **Olal** (LE), an **[FFKA East]factions/ffkaEast.md) female [Knight](https://open5e.com/monsters/knight)**
 		- Remarkably beautiful and persuasive.
@@ -45,7 +45,7 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 
 ![](https://i.imgur.com/I7U1JCC.png)
 
-**City was sieged by undead in 3877.6F5 and sits in ruins now.**
+The city was enthralled by Ngar'tho, but it **was sieged by undead in 3877.6F5 and sits in ruins now.** The undead are long gone, and the survivors rebuilt the city, which continues to be enthralled by the Ngar'tho.
 
 ## Locations
 
