@@ -1,17 +1,47 @@
 ---
+statblock: yes
+layout: Terra Campaigns Leiaute v04
+template: Terra Campaigns 3-attribute NPC statblocks
+source: Arrival ex-PC (Tom)
+
+name: Wyvern Miraak
+concept: Rogue Assassin Green Dragonborn
+hp: '24'
+hit_dice: 6d6
+ac: '14'
+
+debilitations: ~
+resistances: Poison
+immunities: ~
+senses: ~
+
+stats:
+- brawl: '+0'
+- wit: '+3'
+- will: '+3'
+- move: '40'
+- save: 15+
+- effort: d6
+
+traits:
+- name: ~
+  desc: ~
+main:
+- name: Melee
+  desc: -1 x2, 2 (1d4) shock 1/14 (or by weapon+0)
+- name: Ranged
+  desc: +4 x2, 5 (1d6 + 2) (or by weapon+3)
+- name: Effort
+  desc: '9 (2d6 + 2) save halves (***AoE***: 4, save negates)'
+on_turn:
+- name: ~
+  desc: ~
+instant:
+- name: ~
+  desc: ~
+
 type: pc
 species: dragonborn
-name: Wyvern Miraak
-world: Guemenos
-campaign: Arrival
-deceased: false
-level: Rogue 6
-xp: 16410
-ac: 15
-sanity: 70 [70]
-artefacts:
-relevant: false
-tags:
 ---
 
 # Wyvern Miraak
@@ -23,3 +53,4 @@ https://docs.google.com/document/d/1uWr5Y5yqpJrwX4s3inU-eT2oVXKURPqn_YaLdWLgKyE/
 - [ ] After being disgraced & thrown out of the Daardendrien Clan, I changed my name to Miraak.
 - [ ] I long to be accepted back into my clan but the only way I can see to do this is to defeat a dragon & take its treasure horde back to the clan. I will not feel at home or content until I do this.
 - [ ] Looking for a disguise magic item
+

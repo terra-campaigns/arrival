@@ -1,18 +1,46 @@
 ---
-category: npc
-statblock: false
-source: Homebrew
-name: Aivridyt
-size: Gargantuan
-type: dragon
-subtype: (shadow, lessser),
+statblock: yes
+layout: Terra Campaigns Leiaute v04
+template: Terra Campaigns 3-attribute NPC statblocks
+source: Arrival NPC
 
-world: Latter Earth
-campaign: Arrival
-location: Glasrath
-faction: Glasrath
-deceased: false
-tags: current
+name: Aivridyt (Ghuse)
+concept: Shadow Red Dragon, Cleric of Death
+hp: '162'
+hit_dice: 19d20
+ac: '20'
+
+debilitations: ~
+resistances: ~
+immunities: ~
+senses: ~
+
+stats:
+- brawl: '+9'
+- wit: '+4'
+- will: '+6'
+- move: '45'
+- save: 13+
+- effort: d12
+
+traits:
+- name: ~
+  desc: ~
+main:
+- name: Melee
+  desc: +16 x2, 27 (7d6 + 2) shock 9/- (or by weapon+9)
+- name: Ranged
+  desc: +6 x2, 22 (6d6 + 1) (or by weapon+4)
+- name: Effort
+  desc: '57 (16d6 + 1) save halves (***AoE***: 28, save negates)'
+on_turn:
+- name: ~
+  desc: ~
+instant:
+- name: ~
+  desc: ~
+
+category: npc
 ---
 
 # Aivridyt, the Creep
@@ -36,5 +64,5 @@ Ghuse's Prayer
 
 https://darksun.fandom.com/wiki/Athasian_Dragon
 
-- Brought [Fuko](../pcs/Fuko.md) back from the dead to serve her
-- Killed [Wyvern](../pcs/Wyvern.md) and [Kethra](../pcs/Kethra.md)
+- Brought [Fuko](Fuko.md) back from the dead to serve her
+- Killed [wyvern](wyvern.md) and [kethra](kethra.md)

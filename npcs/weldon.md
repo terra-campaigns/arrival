@@ -1,13 +1,47 @@
 ---
+statblock: yes
+layout: Terra Campaigns Leiaute v04
+template: Terra Campaigns 3-attribute NPC statblocks
+source: Arrival NPC
+
+name: Weldon
+concept: Werebear
+hp: '70'
+hit_dice: 10d12
+ac: '17'
+
+debilitations: ~
+resistances: ~
+immunities: ~
+senses: ~
+
+stats:
+- brawl: '+6'
+- wit: '+2'
+- will: '+2'
+- move: '35'
+- save: 15+
+- effort: d4
+
+traits:
+- name: ~
+  desc: ~
+main:
+- name: Melee
+  desc: +10 x1, 18 (5d6) shock 6/- (or by weapon+6)
+- name: Ranged
+  desc: +2 x1, 14 (4d6) (or by weapon+2)
+- name: Effort
+  desc: '10 (2d6 + 3) save halves (***AoE***: 5, save negates)'
+on_turn:
+- name: ~
+  desc: ~
+instant:
+- name: ~
+  desc: ~
+
 category: npc
 type: werebear
-name: Weldon
-world: Guemenos
-campaign: Arrival
-location: Glasrath
-faction: 
-deceased: false
-tags: current
 ---
 
 ![](https://i.imgur.com/ZgVbLtv.png)
