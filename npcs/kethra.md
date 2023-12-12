@@ -27,11 +27,9 @@ traits:
 - name: ~
   desc: ~
 main:
-- name: Melee
+- name: Melee and throwing
   desc: +2 x1, 6 (1d6 + 2) shock 3/13 (or by weapon+2)
-- name: Ranged
-  desc: -1 x1, 4 (1d6) (or by weapon+0)
-- name: Effort
+- name: Spellcasting damage (Effort)
   desc: '12 (3d6 + 1) save halves (***AoE***: 6, save negates)'
 on_turn:
 - name: ~

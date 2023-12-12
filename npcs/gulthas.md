@@ -31,7 +31,7 @@ main:
   desc: +6 x1, 12 (3d6 + 1) shock 7/16 (or by weapon+4)
 - name: Ranged
   desc: -1 x1, 8 (2d6 + 1) (or by weapon+0)
-- name: Effort
+- name: Breath weapon
   desc: '6 (1d6 + 2) save halves (***AoE***: 3, save negates)'
 on_turn:
 - name: ~

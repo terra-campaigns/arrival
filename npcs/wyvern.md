@@ -24,15 +24,15 @@ stats:
 - effort: d6
 
 traits:
-- name: ~
-  desc: ~
+- name: Rogue attack
+  desc: Against unaware enemies, damage is doubled
 main:
-- name: Melee
-  desc: -1 x2, 2 (1d4) shock 1/14 (or by weapon+0)
-- name: Ranged
-  desc: +4 x2, 5 (1d6 + 2) (or by weapon+3)
-- name: Effort
-  desc: '9 (2d6 + 2) save halves (***AoE***: 4, save negates)'
+- name: Rapier 
+  desc: -1 x2, 2 (1d6 + 2) shock 1/14
+- name: Short bow
+  desc: +4 x2, 5 (1d6 + 2)
+- name: Poison breath (AoE)
+  desc: '7 (2d6) save negates'
 on_turn:
 - name: ~
   desc: ~
