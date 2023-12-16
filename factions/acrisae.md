@@ -3,9 +3,9 @@ name: Acrisae
 id: 06
 power: 4 
 features: 6 
-trouble: 7
-cohesion: 1
-dominion: 15
+trouble: 4
+cohesion: 4
+dominion: 6
 interest:
   glasrath: 6
   ffkaEast: 6
@@ -26,7 +26,7 @@ meta:
 tags: 
 ---
 # Acrisae
-***Angels claiming a world after theirs was destroyed by the Sorcerer-Kings***
+***Hod's angels claiming a world after theirs was destroyed by the Sorcerer-Kings***
 
 
 > [!success] Features, assets
@@ -39,7 +39,6 @@ tags:
 > [!failure] Troubles
 > - **1pt**: Acrisae have very little cash in circulation, need to open to trading with Glasrath and Dust Elves
 > - **3pt**: Soldiers have been used as workers until they can't fight
-> - **3pt**: NEW
 
 > [!example] Goals
 > - [ ] Reduce problem: Develop a Worker Mob approach (Wealth 2) - soldiers will not have to work as artifices so much, reducing the problem from 3 to 2 (cost 4).

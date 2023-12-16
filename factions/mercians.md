@@ -5,7 +5,7 @@ power: 3
 features: 5
 trouble: 4
 cohesion: 3
-dominion: 0
+dominion: 3
 interest:
   glasrath: 9
   ffkaEast: -14

@@ -4,8 +4,8 @@ id: 05
 power: 5 
 features: 4
 trouble: 6
-cohesion: 1
-dominion: 2
+cohesion: 5
+dominion: 5
 interest:
   glasrath: 6
   ffkaEast: 0
