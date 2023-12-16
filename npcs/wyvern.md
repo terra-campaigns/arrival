@@ -8,7 +8,7 @@ name: Wyvern Miraak
 concept: Rogue Assassin Green Dragonborn
 hp: '24'
 hit_dice: 6d6
-ac: '14'
+ac: '15'
 
 debilitations: ~
 resistances: Poison

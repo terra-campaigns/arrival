@@ -24,8 +24,10 @@ stats:
 - effort: d4
 
 traits:
-- name: ~
-  desc: ~
+- name: Rage (Effort)
+  desc: "Expend **effort** (or **SS**) to start. Pass a **Will** (or **Mental**) Save to expend **effort** (or **SS**) to finish, **F** Rage continues until incapacitaded or the sun rises. While in Rage, gain +1 to melee damage and AC."
+- name: Many Forms
+  desc: "While in **Human** form rolls all checks with -2. While in **Bear** form rolls all checks with -1."
 main:
 - name: Melee
   desc: +10 x1, 18 (5d6) shock 6/- (or by weapon+6)
@@ -37,8 +39,8 @@ on_turn:
 - name: ~
   desc: ~
 instant:
-- name: ~
-  desc: ~
+- name: Nervous
+  desc: "When fails a **Morale Check**, enters in Rage. Only if **Rage** can be finished the option to run will be taken"
 
 category: npc
 type: werebear

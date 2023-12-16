@@ -5,7 +5,7 @@ template: Terra Campaigns 3-attribute NPC statblocks
 source: Arrival ex-PC (Babi)
 
 name: Kethra Stormwind
-concept: Desert Sorcerer
+concept: Desert Survivalist Sorcerer Girl
 hp: '30'
 hit_dice: 6d8
 ac: '13'
@@ -30,7 +30,9 @@ main:
 - name: Melee and throwing
   desc: +2 x1, 6 (1d6 + 2) shock 3/13 (or by weapon+2)
 - name: Spellcasting damage (Effort)
-  desc: '12 (3d6 + 1) save halves (***AoE***: 6, save negates)'
+  desc: '**Chill touch**: 12 (3d6 + 1) save halves; **Thunderwave**: AoE 7 (2d6) save negates.'
+- name: Other spells (Effort)
+  desc: 'Dancing lights, mage hand, message, shield, sleep, invisibility'
 on_turn:
 - name: ~
   desc: ~
