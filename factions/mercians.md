@@ -2,9 +2,9 @@
 name: Mercians
 id: 04
 power: 3
-features: 5
+features: 3
 trouble: 4
-cohesion: 3
+cohesion: 2
 dominion: 3
 interest:
   glasrath: 9
@@ -32,7 +32,6 @@ tags:
 > - **Cunning 3**: Bewitching Charmer - Antinom
 > - **Force 2**: Reserve corps - Mercian Deepfolk
 > - **Force 1**: Thugs - Lady Scurvy
-> - **Force 4**: Initialised apocalypse engine - Brezal Paths umbilicals
 
 > [!failure] Troubles
 > - **1 pt**: FFKA influence taking over the Mercian religion
