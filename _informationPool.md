@@ -11,7 +11,8 @@
 
 ## Linhe
 
-- [ ] Sandman warriors: champions of the Angels
+- [ ] 
+- [ ] A force of warrior angels clash and loose a battle against an indomitable ice construct legion from Turnskull. The battle scorches the desert all around Mystra's temple.
 - [ ] Mercians from the east are reaching out to Glasrath to establish trading routes with them as well - great produce is coming from the mountains who have their strong community now behind the banner of Ghuse.
 - [ ] Hermit's Crevasse is a ruined deep construction, now inhabited by Rurkinar Hermits. They are good people.
 - [ ] The camp close to the canyon is protecting people against the stronger undead attacks of recent days. How?

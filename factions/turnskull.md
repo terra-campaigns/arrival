@@ -12,7 +12,7 @@ interest:
   rurkinar: 0
   mercians: 0
   turnskull:
-  acrisae: -4
+  acrisae: -2
 
 meta:
   category: faction

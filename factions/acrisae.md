@@ -5,13 +5,13 @@ power: 4
 features: 6 
 trouble: 4
 cohesion: 4
-dominion: 6
+dominion: 8
 interest:
-  glasrath: 6
-  ffkaEast: 6
+  glasrath: 7
+  ffkaEast: 7
   rurkinar: 0
-  mercians: 0
-  turnskull: -4
+  mercians: -1
+  turnskull: -2
   acrisae: 
 
 meta:
@@ -42,6 +42,7 @@ tags:
 
 > [!example] Goals
 > - [ ] Reduce problem: Develop a Worker Mob approach (Wealth 2) - soldiers will not have to work as artifices so much, reducing the problem from 3 to 2 (cost 4).
+> - [ ] Sandman warriors: champions of the Angels
 
 > [!info] Background
 > ...

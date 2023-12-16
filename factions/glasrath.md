@@ -5,14 +5,14 @@ power: 2
 features: 2
 trouble: 2
 cohesion: 2
-dominion: 2
+dominion: 3
 interest:
   glasrath:
-  ffkaEast: 0
-  rurkinar: 10
-  mercians: 9
-  turnskull: 2
-  acrisae: 2
+  ffkaEast: -1
+  rurkinar: 
+  mercians: 10
+  turnskull: 3
+  acrisae: 3
 
 meta:
   category: faction
