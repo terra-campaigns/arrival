@@ -5,12 +5,9 @@
 
 ## Holzander Castle
 
-- [ ] Many vaults and tombs exist in the lower levels of the Scarlet Citadel filled with untouched artefacts and treasures.
-- [ ] **The 3rd level includes a bunch of tombs left alone by the Deepfolk . They’re scary.**
-- [ ] PCs can find a resting place somewhere in L3, once they are not fighting the Deep Folk anymore. Over time undead and oozes will take over though.
 - [ ] Creatures tied to the Platform and Sphere devices below are as old as the castle itself.
-- [ ] There is a tributary of the Black River Styx traveling through the eastern part of the Clacking Caverns. It’s current is chaotic and unpredictable. One must travel the lower river to reach up to the upper tributary, not the other way. It’s a one-way tributary from the lower river to the upper river.
-- [ ] Many areas of L4 exist in **mundus** and **metadimensional** realities at the same time.
+- [x] There is a tributary of the Black River Styx traveling through the eastern part of the Clacking Caverns. It’s current is chaotic and unpredictable. One must travel the lower river to reach up to the upper tributary, not the other way. It’s a one-way tributary from the lower river to the upper river.
+- [x] Many areas of L4 exist in **mundus** and **metadimensional** realities at the same time.
 
 ## Linhe
 

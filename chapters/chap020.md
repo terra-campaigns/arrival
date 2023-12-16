@@ -1,6 +1,6 @@
 ---
 name: Waking up
-game_date: Unknown
+game_date: 3909.3B1
 pcs: Dolman, Guilf, Amyria
 rank: 2.4
 xp: "4680" 
@@ -40,7 +40,7 @@ tags:
 > - [ ] Print information pool
 
 > [!abstract] Characters' motivations
-> - **[Dolman](../pcs/Dolman.md)**: Destroy the 2 devices left in the castle, save Galiera
+> - **[Dolman](../pcs/Dolman.md)**: Destroy the 2 devices left in the castle, save Galiera, kill Gellert & Imortra
 > - **[Guilf](../pcs/Guilf.md)**: Kill? Mr. Void and save the world (by destroying the 2 devices left in the castle)
 > - **[Amyria](../pcs/Amyria.md)**: Protect little Guilf, take the Angel Hound to Mystra's temple, destroy the 2 devices left in the castle and kill Gellert
 
@@ -49,21 +49,20 @@ tags:
 
 > [!danger] Strong start
 
-PCs start feeling the **spirits are living in their bodies**, you dream constantly about it in comforting dreams. The spirits seems to tell you that it is time to **conclude the ritual** and they are **ready for it**.
+PCs start feeling the **spirits are living in their bodies**, you dream constantly about it in **comforting** dreams. The spirits seems to tell you that it is time to **conclude the ritual** and they are **ready for it**.
 
-- Amyria is Thalia
-- Dolman is Kimbarak
-- Guilf is Mr Void
+- Amyria is Thalia, she looks **thinner** than normal, **tired**
+- Dolman is Kimbarak, he is an **older** dwarf now, looking dirty and **depraved**. His hands obey him less and less.
+- Guilf is Mr Void, he is an **adult** now
 
-**The 3 rings are done with runes of these 3 sprits.**
+**The 3 [GodboundRings](../objects/GodboundRings.md) are done with runes of these 3 sprits.**
+- **Golden Ring**, with *rune* of a Dwarven Dagger from Kimbarak
+- **Silver Ring**, with rune of a Giant Hound-God for Thalia
+- **Black Ring**, empty and void
 
 > [!example] Potential scenes
 
 **[Imortra](../npcs/Imortra.md)'s people**: [Gaelira](../npcs/Gaelira.md)'s destiny is now intertwined with the ritual, as agreed.
-- Each [derro](../../_gm/statblocks/derro.md) faction roll a reaction. 8 or more they join the fight.
-- If [deepfolk_warleader](../../_gm/statblocks/deepfolk_warleader.md) are brought down they will join the fight with high morale.
-- Characters are not supposed to be killed, they are required.
-- After the fight, if characters lose, they are subject to experiments: Metamorphica 222 Test subjects (we roll together).
 
 **The Ngar'tho will not attack the PCs**: "We are glad you have all agreed and have started the ritual. When is time, come to the chamber of Makab."
 - But they have Galliera as a hostage, if the PCs do not complete their end of the contract for the ritual.
@@ -71,12 +70,7 @@ PCs start feeling the **spirits are living in their bodies**, you dream constant
 - Whatever the PCs do is considered part of the ritual by the hive mind of the [ngar-tho](../../_gm/statblocks/ngar-tho.md)
 - [Deja-vu rooms](chap019.md#Deja-vu%20rooms)
 
-**Meet with Lagfel**
-- [Lagfel](../npcs/Lagfel.md) can be an ally to leave the castle unharmed as particules, but he cannot go unless The Void exists or not in the world - the current duality locks Lagfel's departure.
-- Lagfel is happy if Gellert is destroyed. He does not mind the Ngar'tho. He will be imensily grateful if the PCs either summon, or destroy Mr Void.
-
-**Waking up**
-- When PCs decide to leave the castle, through the hole from [holzanderCastleL5](../locations/holzanderCastleL5.md) to [holzanderCastleL4](../locations/holzanderCastleL4.md) it should be like unburying themselves from the earth. Then the connection with [holzanderCastleL5](../locations/holzanderCastleL5.md) and [makab](../locations/makab.md) is broken - regardless of the ritual being complete or not. The rest of [holzanderCastle](../locations/holzanderCastle.md) continues to exist as it was, but the story is now **a hundred years in the future**.
+[banditCamp](../locations/banditCamp.md)
 
 > [!bug] Situation clocks
 

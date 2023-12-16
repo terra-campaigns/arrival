@@ -34,7 +34,6 @@ kanban-plugin: basic
 
 ## opportunityAttack
 
-- [ ] Read bluespur<br>- add noteworthy features to arrival<br>- add god brain history to the void
 - [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 - [ ] Create city encounter generator
 - [ ] Create undead mob as a creature - Godbound, and replace on encounter gen

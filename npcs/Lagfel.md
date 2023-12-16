@@ -48,7 +48,7 @@ instant:
 npc_link: "[Lagfel](Lagfel.md)"
 ---
 
-![|400](https://i.imgur.com/ylmcIHl.png)
+![](https://i.imgur.com/ylmcIHl.png)
 
 
 **_Highshrine Parasite._** Inside the lich’s torso dwells a digital parasite that contains the lich’s soul. When the lich dies, it implodes into the parasite, which then vanishes into the Far Realm. In 2d4 days, the parasite causes the lich to reappear within 1d4 miles of where it died.
