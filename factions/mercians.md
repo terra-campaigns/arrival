@@ -3,16 +3,16 @@ name: Mercians
 id: 04
 power: 3
 features: 3
-trouble: 4
+trouble: 5
 cohesion: 2
-dominion: 3
+dominion: 2
 interest:
-  glasrath: 9
+  glasrath: 10
   ffkaEast: -14
   rurkinar: -7
   mercians: 
   turnskull: 0
-  acrisae: -6
+  acrisae: -7
 
 meta:
   category: faction
@@ -36,11 +36,10 @@ tags:
 > [!failure] Troubles
 > - **1 pt**: FFKA influence taking over the Mercian religion
 > - **2 pt**: They might be messing up with powers beyond their control
-> - **1 pt**:Everyone has reservations with the Mercians
+> - **2 pt**: Everyone has reservations with the Mercians
 
 > [!example] Goals
-> - [ ] **Add feature:** Continue activation of apocalypse engine, and evolve it to Force 6 (+1 new feature point): Enlist a dwarf to bring Kimbarak spirit to the fold, to channel and dodge The Legacy (cost 9, reduced to 3 if Dolman is available)
-> - [ ] **Add feature:** Finish activation of apocalypse engine, and evolve it to Force 8 (+1 new feature point): Start the next doom cycle by reconnecting Mondedonvil and his body (dead made god) (cost 9, reduced to 3 if Amyria can channel the Angel Hound energy)
+> - [ ] **Wealth 1**: Armed guards (cost 1)
 
 > [!info] Background
 > Beneath the surface of the enigmatic Mercian society, in the shifting shadows of forgotten doctrines, a new and sinister current churned—an ominous cult birthed from the marrow of their forsaken religion. This clandestine order, guided [Imortra, the Debased](../npcs/Imortra.md), sought to resurrect the relics of their lost faith, as if rekindling the embers of a long-extinguished pyre.
