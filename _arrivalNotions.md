@@ -30,6 +30,8 @@ kanban-plugin: basic
 - [ ] Destruction of the sphere destroyed an Acrisae in the vicinity
 - [ ] Create lagfel using tarot
 - [ ] Make mr Void as yeoman kdl305
+- [ ] Set other mobs, e.g. ffka groups, acrisae and turnskull
+- [ ] Mercians will use all their influence to get the PCs to do the ritual
 
 
 ## opportunityAttack

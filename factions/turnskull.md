@@ -7,12 +7,12 @@ trouble: 6
 cohesion: 5
 dominion: 5
 interest:
-  glasrath: 6
-  ffkaEast: 0
-  rurkinar: 0
+  glasrath: 7
+  ffkaEast: -1
+  rurkinar: 
   mercians: 0
   turnskull:
-  acrisae: -2
+  acrisae: -3
 
 meta:
   category: faction
@@ -34,7 +34,6 @@ tags:
 > - **2 pt**: Social structure that creates poverty
 > - **2 pt**: Lorquiroth is blindly convinced of their own wisdom
 > - **2 pt**: Lorquiroth and his commanders have very little actual control over the people
-> - **2pt**: NEW
 
 > [!example] Goals
 > - [ ] **Remove problem:** Develop a group of vigilant agents (Cunning 4) - agents will incept population to glorify Lorquiroth, building trust in leadership and remove the problem (cost 12)
