@@ -33,7 +33,7 @@ tags:
 > - **Force 3**: Infantry - Sandmen warriors & Azghouls
 > - **Wealth 3**: Ancient mechanisms
 > - **Wealth 1:** Cooperative businesses
-> - **Cunning 1**: Informers
+> - **Cunning 1**: Lictors
 
 > [!failure] Troubles
 > - **1pt**: Acrisae have very little cash in circulation, need to open to trading with Glasrath and Dust Elves

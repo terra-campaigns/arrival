@@ -6,31 +6,14 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] FFKA East tries to get reinforcement from olivepia (faction turn), and retreat to the city of Linhe
-- [ ] Acrisae or FFKA propose to the party for them to take over Ghuse while the army is busy
-- [ ] From level 4 onwards, PCs cannot leave the castle until the ritual is complete, or the devices destroyed. They can always find a place to rest, but they are never allowed to go upstairs from level 4 (unless they kill)
-- [ ] **Alchemist furnace leaks uncreation now**<br>- Weird uncreated oozes have begin to take over the second level
-- [ ] Acrisae post is Tepest Ravenloft 157
-- [ ] Turnskull post is Lamordia
-- [ ] City of linhe is some political ravenloft domain
 - [ ] Part 2 finishes when leaving Holzander. If The Void was summoned, Guilf will have died. If The Void was not summoned, Guilf will get a Dark Gift: watchers.
-- [ ] Part 3 is until Glasrath is dealt with, if PCs focus on only that. Then Part 4: we play either 5e super heroes, 5e + WWN domain rules or Godbound. Game will be focused on one or two domains of the dread. Base on Kult, but account for The Void as well, if summoned or if the cult to summon it continues.
-- [ ] Once Kimbaraks dagger is seen, Dolman receives Kimbaraks echoing soul dark guift
-- [ ] Once Thalia is freed, she becomes a gathered whispers dark guift for Amyria
-- [ ] New PCs, if from the prisoners, start with equipment from Nightmare core page 116 and a set of mutations?
 - [ ] Add some items from Nightmare core tables around page 100
 - [ ] Downtime rules from Nightmares (incl. city encounters?)
 - [ ] Heat: cwn/nightmares2e 174 - implement as part of faction turn?
 - [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
 - [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
-- [ ] Who is similar to the fremen?
-- [ ] Ngar'tho are babies with a lot of tentacles.
 - [ ] part 3: godbound style of challenges, using ravenloft regions. Outsiders are silent legions, Acrisae are kult creatures, Turnskull are sorcerer-kings (kult?/wwn/?)
 - [ ] Dolman is possessed by a Darthea? Kld260
-- [ ] Destruction of the sphere destroyed an Acrisae in the vicinity
-- [ ] Create lagfel using tarot
-- [ ] Make mr Void as yeoman kdl305
-- [ ] Set other mobs, e.g. ffka groups, acrisae and turnskull
 - [ ] Mercians will use all their influence to get the PCs to do the ritual
 
 
@@ -57,6 +40,9 @@ kanban-plugin: basic
 
 ## parking lot
 
+- [ ] Acrisae post is Tepest Ravenloft 157
+- [ ] Turnskull post is Lamordia
+- [ ] City of linhe is some political ravenloft domain
 - [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Create mystra / Falestism as Godbound religion
@@ -101,6 +87,20 @@ kanban-plugin: basic
 - [ ] Dwarves have a subcouncious connection with the Legacy
 - [ ] PCs hunt (Tom&Jerry) their own dark characters
 - [ ] Lagfell is an AI nano robot lich
+- [ ] FFKA East tries to get reinforcement from olivepia (faction turn), and retreat to the city of Linhe
+- [ ] Acrisae or FFKA propose to the party for them to take over Ghuse while the army is busy
+- [ ] From level 4 onwards, PCs cannot leave the castle until the ritual is complete, or the devices destroyed. They can always find a place to rest, but they are never allowed to go upstairs from level 4 (unless they kill)
+- [ ] **Alchemist furnace leaks uncreation now**<br>- Weird uncreated oozes have begin to take over the second level
+- [ ] Part 3 is until Glasrath is dealt with, if PCs focus on only that. Then Part 4: we play either 5e super heroes, 5e + WWN domain rules or Godbound. Game will be focused on one or two domains of the dread. Base on Kult, but account for The Void as well, if summoned or if the cult to summon it continues.
+- [ ] Once Kimbaraks dagger is seen, Dolman receives Kimbaraks echoing soul dark guift
+- [ ] Once Thalia is freed, she becomes a gathered whispers dark guift for Amyria
+- [ ] New PCs, if from the prisoners, start with equipment from Nightmare core page 116 and a set of mutations?
+- [ ] Ngar'tho are babies with a lot of tentacles.
+- [ ] Destruction of the sphere destroyed an Acrisae in the vicinity
+- [ ] Create lagfel using tarot
+- [ ] Make mr Void as yeoman kdl305
+- [ ] Set other mobs, e.g. ffka groups, acrisae and turnskull
+- [ ] Who is similar to the fremen?
 
 %% kanban:settings
 ```

@@ -32,7 +32,7 @@ main:
 - name: Sword of Vengeance
   desc: +9 x1, 11 (1d8 + 7) shock 7/16. **Effort** - This mighty blade *comes to her when she calls for it*.
 - name: Rip open wounds with bare hands
-  desc: +6 x1, 12 (3d6 + 1) shock 7/16.
+  desc: "+6 x1, 12 (3d6 + 1) shock 7/16. Target makes Mental Save F: in shock for 1d4 rounds."
 on_turn:
 - name: Reveal true form
   desc: See Angelic form

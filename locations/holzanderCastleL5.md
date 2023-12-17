@@ -18,6 +18,8 @@ tags:
 
 ## Nightmare river
 
+[nigthmareRiver](nigthmareRiver.md)
+
 - **Boat**
 	- Boat movement: 10ft with pole
 	- Climb on the boat from the river, STR/Athletics DC 13

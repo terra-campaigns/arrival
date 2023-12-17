@@ -2,6 +2,8 @@
 
 ## Current
 
+![](https://i.imgur.com/bmXMM0W.png)
+
 ```dataview
 table without ID link(file.link, name) AS "Faction", id AS "ID", tier AS "Tier", power AS "Power", features AS "Feat", trouble AS "Trbl", cohesion AS "Cohs", dominion as "Domn", interest.glasrath AS "i1", interest.ffkaEast AS "i2", interest.mercians AS "i4", interest.turnskull as "i5", interest.acrisae as "i6"
 from "arrival/factions"
@@ -10,7 +12,44 @@ WHERE meta.active = true
 sort id asc
 ```
 
-![](https://i.imgur.com/bmXMM0W.png)
+### Next after 3909.3F1
+
+Mercians will try again to make the PCs wanted and have the FFKA hunting them down.
+
+### 3909.3B1
+***Restarting factions 32 years later***
+
+- Order: 1, 6, 2, 5, 4
+- **Glasrath**
+	- INT build strength - 1d8 DC 3 to get 1 dominion, outcome 8 - success
+	- EXT extend interest FFKA: get ready for possible conflicts, 1d8 vs 1d8, outcome 3>1 - success
+	- EXT extend interest mercians: make some dark partnership - automatic
+	- EXT extend interest acrisae: trade weapons - automatic
+	- EXT extend interest turnskull: trade construct parts - automatic
+- **Acrisae**
+	- INT build strength - 1d12 DC 5 to get 1 dominion, outcome 9 - success
+	- EXT extend interest FFKA & Glasrath - automatic
+	- EXT attack Turnskull in the base of the mountain 1d12 (-2 influence from Turnskull) Vs 1d20 (-2 influence from Acrisae), outcome 5 < 12 - fail. A force of warrior angels clash and loose a battle against an indomitable ice construct legion from Turnskull. The battle scorches the desert all around Mystra's temple.
+	- EXT extend interest Mercians: 1d12 vs 1d10, outcome 11 > 10 - success
+- **FFKA**
+	- INT build strength - 1d8 DC 4, outcome 1 - fail
+	- EXT attack mercians (spend 5 interest) 1d8 Vs 1d10, 2 > (2-5) - success. FFKA's calvary sieges a Mercian fort in the NE. They attack during the day when the Lady Scurvy and Deepfolk are weakest.
+	- EXT extend interest Acrisae: automatic
+	- EXT extend interest Glasrath: 1d8 vs 1d8, 5>4 - success
+	- EXT extend interest Turnskul: 1d8 vs 1d20, 6>3 - success
+- **Turnskull**
+	- INT build strength - 1d20 DC 7, outcome 3 - fail
+	- EXT extend interest Glasrath - automatic
+	- EXT extend interest Acrisae - 1d20 vs 1d12 - success
+	- EXT extend interest FFKA - 1d20 vs 1d8 - success
+- **Mercian**
+	- INT enact change - create feature 1d10 DC 5, outcome 2 - fail. The Mercians try to hire mercenary armed guards, but the the reservations that people in Linhe have against them makes it very difficult. None knows what they intend to do with the armed guards.
+	- EXT cunning attack on the FFKA - 1d12 Vs 1d8, fail: Antinom attack to drive FFKA to search for the party ([Wanted|400](https://i.imgur.com/jGa9sVF.png))
+	- EXT interest Glasrath automatic
+	- EXT interest Acrisae 1d10 vs 1d12 - success
+- **Background actors**
+	- **Imortra**: Launch a Mercian effort to capture the PCs
+	- **Bandit camp** moves to behind the dune of the Dead God
 
 ### 3877.7C1 6x-4mo
 ***Turns of 77.7C1, 77.8A1, 77.8D1, 77.9B1, 77.9F1, 78.0C1***

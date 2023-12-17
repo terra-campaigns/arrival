@@ -48,5 +48,6 @@ tags:
 - City social encounters (roll 11+ per day): SC24
 - Outskirts encounters (roll 14+ per day): SC28
 
-![](https://i.imgur.com/FIlxVxB.jpg)
+![](https://i.imgur.com/ph6oDpO.png)
+
 
