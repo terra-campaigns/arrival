@@ -84,7 +84,7 @@ tags:
 > 
 
 > [!success] Key info and notes
-> - ...
+> - Killed by [amyria](../pcs/amyria.md), [dolman](../pcs/dolman.md) and [guilf](../pcs/guilf.md)
 
 > [!note] Construction notes (8 total)
 > - (1-) lower AC

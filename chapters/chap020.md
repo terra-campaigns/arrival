@@ -72,6 +72,10 @@ PCs start feeling the **spirits are living in their bodies**, you dream constant
 
 [banditCamp](../locations/banditCamp.md)
 
+[Cagoth-Ze](../npcs/Cagoth-Ze.md) was killed by the [ngar-tho](../../_gm/statblocks/ngar-tho.md)
+
+[Gellert](../npcs/Gellert.md) is killed by the PCs. They get the [BookOfKnowledge](../objects/BookOfKnowledge.md)
+
 > [!bug] Situation clocks
 
 - **GAIN 6**: Treasures

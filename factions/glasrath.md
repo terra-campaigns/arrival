@@ -43,6 +43,7 @@ tags:
 
 > [!info] Background
 > After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
+> 31 years later the Kiranu have also joined Glasrath.
 > 
 > [Chapter 2 The Glasrath alliance](../../_published/arrival/abridged.md#Chapter%202%20The%20Glasrath%20alliance)
 

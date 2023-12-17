@@ -26,12 +26,11 @@ meta:
 tags: 
 ---
 # Acrisae
-***Hod's angels claiming a world after theirs was destroyed by the Sorcerer-Kings***
-
+***Geburah's Seraphim angels claiming a world after theirs was destroyed by the Sorcerer-Kings***
 
 > [!success] Features, assets
 > - **Force 4**: War fleet - Supraxae
-> - **Force 3**: Infantry - Angel warriors
+> - **Force 3**: Infantry - Sandmen warriors & Azghouls
 > - **Wealth 3**: Ancient mechanisms
 > - **Wealth 1:** Cooperative businesses
 > - **Cunning 1**: Informers
@@ -42,7 +41,7 @@ tags:
 
 > [!example] Goals
 > - [ ] Reduce problem: Develop a Worker Mob approach (Wealth 2) - soldiers will not have to work as artifices so much, reducing the problem from 3 to 2 (cost 4).
-> - [ ] Sandman warriors: champions of the Angels
+> - [ ] Break the prison of the Elohim and bring them to battle (cost??) - Force high!. KDL 312
 
 > [!info] Background
 > ...
@@ -55,7 +54,3 @@ tags:
 
 ![|400](https://i.imgur.com/UTK3e3W.png)
 
-**Acrisae fronts**
-- [ ] Supraxae are now flying everywhere to maintain reconnaissance 
-- [ ] Acrisae establish lines to the west with other civilisations to prepare for the war (Avryindt is in the way) - start Acrisae faction
-- [ ] Acrisae brings military positioning to the surface and redies for war

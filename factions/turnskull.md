@@ -28,7 +28,7 @@ tags:
 # Turnskull
 
 > [!success] Features, assets
-> - **Force 8**: Invincible legion
+> - **Force 8**: Invincible legion of Ice Warbots and Beneiha'Elohim slaves
 
 > [!failure] Troubles
 > - **2 pt**: Social structure that creates poverty

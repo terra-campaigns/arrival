@@ -63,4 +63,6 @@ The gnome carries a small ring of keys to unlock the doors in Areas 210, 215, an
 
 Cagoth-ze also wears the ring of being anchored in time, which renders him immune to the risks of the time tributary. This gives him an excellent ploy, if he can entice intruders to chase him through the raw time stream.
 
-Great friend of [Guilf](../pcs/Guilf.md), [Dolman](../pcs/Dolman.md) and [Amyria](../pcs/Amyria.md). Afraid of [Imortra](Imortra.md). Resident of [holzanderCastleL3](../locations/holzanderCastleL3.md)
+Great friend of [Guilf](../pcs/Guilf.md), [Dolman](../pcs/Dolman.md) and [Amyria](../pcs/Amyria.md). Afraid of [Imortra](Imortra.md). Resident of [holzanderCastleL3](../locations/holzanderCastleL3.md).
+
+Killed by a [ngar-tho](../../_gm/statblocks/ngar-tho.md)
