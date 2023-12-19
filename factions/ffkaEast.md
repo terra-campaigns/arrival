@@ -24,6 +24,33 @@ meta:
   parent: FFKA Olivepia
   active: true
 tags: 
+
+statblock: yes
+layout: Terra Campaigns Factions v01
+
+goal: nonono
+
+stats:
+- cunning: 1
+- force: 5
+- wealth: 3
+- magic: None
+- income: 3
+
+ac: 6
+hp: 14
+
+traits:
+- name: Martial
+  desc: "The faction is profoundly devoted to war. It rolls an extra die for all Force attribute checks. Force must always be its highest attribute."
+
+assets:
+- name: Headquarters (BoI)
+  desc: "14/14 HP"
+- name: Cavalry (Force 4)
+  desc: "12/12 HP. FxF atk dmg 2d6, counter dmg 1d4. *Kinghts*."
+- name: Healers (Wealth 4)
+  desc: "8/8 HP. *Priests: Whenever an Asset within one move of the Healers is destroyed by an Attack that used Force against the target, the owner of the Healers may pay half its purchase price in Treasure, rounded up, to instantly restore it with 1 hit point. This cannot be used to repair Bases of Influence.*"
 ---
 # Faithful Faletist Knights of the Arch, East Branch
 ***FFKA East***

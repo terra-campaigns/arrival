@@ -12,6 +12,15 @@ WHERE meta.active = true
 sort id asc
 ```
 
+```encounter
+creatures:
+  - Turnskull
+  - Acrisae
+  - Mercians
+  - FFKA East
+  - Glasrath Alliance
+```
+
 ### Next after 3909.3F1
 
 Mercians will try again to make the PCs wanted and have the FFKA hunting them down.
