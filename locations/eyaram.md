@@ -22,6 +22,8 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 # Fort City of Eyaram
 ***Old desert fort city***
 
+**Taken by [mercians](../factions/mercians.md) and [ngar-tho](../../_gm/statblocks/ngar-tho.md)**
+
 - **Type**: Community
 - **Power structure**: A puppet community organisation enthralled by the hidden [ngar-tho](../../_gm/statblocks/ngar-tho.md) (Supposedly democratic).
 - **Major actors**

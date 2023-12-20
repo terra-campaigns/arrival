@@ -17,6 +17,8 @@ tags:
 
 # Nulukkzund (Red Tower)
 
+**Taken by the [mercians](../factions/mercians.md) and [ngar-tho](../../_gm/statblocks/ngar-tho.md)**
+
 ## Info Block
 
 ![](https://i.imgur.com/9RIj0O4.png)

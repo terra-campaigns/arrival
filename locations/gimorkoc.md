@@ -18,6 +18,8 @@ tags:
 # Gimorkoc
 ***Old and poor desert city, Angel Hound temple***
 
+**Taken by [turnskull](../factions/turnskull.md)**
+
 Groups of fractious survivors claim sections of this small city's ruins, scavenging and skirmishing over territory and resources. The survivors are unified in their commitment to silence, to avoid attracting the notice of zombies - and whoever makes their home in the ominously lit Angel Hound Temple overlooking the ruins.
 
 - **Type**: Community

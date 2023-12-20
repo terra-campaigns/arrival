@@ -6,51 +6,40 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] Part 2 finishes when leaving Holzander. If The Void was summoned, Guilf will have died. If The Void was not summoned, Guilf will get a Dark Gift: watchers.
-- [ ] Add some items from Nightmare core tables around page 100
-- [ ] Downtime rules from Nightmares (incl. city encounters?)
-- [ ] Heat: cwn/nightmares2e 174 - implement as part of faction turn?
 - [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
+- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
+- [ ] Competing groups trying to retrieve something from somewhere
+- [ ] Create mystra / Falestism as Godbound religion
 - [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
-- [ ] part 3: godbound style of challenges, using ravenloft regions. Outsiders are silent legions, Acrisae are kult creatures, Turnskull are sorcerer-kings (kult?/wwn/?)
-- [ ] Dolman is possessed by a Darthea? Kld260
 - [ ] Mercians will use all their influence to get the PCs to do the ritual
+- [ ] Add godbound and 5e angels to bestiary
+- [ ] Campfire scene - what characters want?
+- [ ] develop Avryindt to be a dark lord -(VHgtR 39)
+- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/
 
 
 ## opportunityAttack
 
-- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 - [ ] Create city encounter generator
-- [ ] Create undead mob as a creature - Godbound, and replace on encounter gen
-- [ ] Add acrisae to random encounter
-- [ ] Think of standards for ML and Instinct
 
 
 ## snoozed scenes
 
 - [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
-- [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
-- [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
-- [ ] Campfire scene - what characters want?
-- [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
-- [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
-- [ ] develop Avryindt to be a dark lord -(VHgtR 39)
-- [ ] Acrisae https://i.imgur.com/4CqOLy9.png
+- [ ] Dolman is possessed by a Darthea? Kld260
+- [ ] City of linhe is some political ravenloft domain
+- [ ] Acrisae post is Tepest Ravenloft 157
+- [ ] Turnskull post is Lamordia
 
 
 ## parking lot
 
-- [ ] Acrisae post is Tepest Ravenloft 157
-- [ ] Turnskull post is Lamordia
-- [ ] City of linhe is some political ravenloft domain
-- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
-- [ ] Competing groups trying to retrieve something from somewhere
-- [ ] Create mystra / Falestism as Godbound religion
-- [ ] something in holzander gives a curse (VgtR192)
-- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/
+- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 
 
-## templates
+***
+
+## Archive
 
 - [ ] **Ravenloft**: Falkonia, Godbrain
 - [ ] **WWN**: Wilderness exploration, Investigation (consider adding silent legions), Combat, Social
@@ -61,10 +50,6 @@ kanban-plugin: basic
 - [ ] US1 Dungeon of Shadows
 - [ ] Boss lairs
 - [ ] Calamities
-
-
-## inspiration
-
 - [ ] Elizabeth 1998 for an evil priest
 - [ ] Dracula (book)
 - [ ] Castlevania
@@ -73,12 +58,6 @@ kanban-plugin: basic
 - [ ] The mist Stephen king
 - [ ] 1984
 - [ ] Check [RPG products](chrome://bookmarks/?id=747)
-
-
-***
-
-## Archive
-
 - [ ] Test
 - [ ] Move notions to kanban
 - [ ] Aivridyt eggs are in the Ophaire tunnel on the temple of remains
@@ -101,6 +80,20 @@ kanban-plugin: basic
 - [ ] Make mr Void as yeoman kdl305
 - [ ] Set other mobs, e.g. ffka groups, acrisae and turnskull
 - [ ] Who is similar to the fremen?
+- [ ] Part 2 finishes when leaving Holzander. If The Void was summoned, Guilf will have died. If The Void was not summoned, Guilf will get a Dark Gift: watchers.
+- [ ] Add some items from Nightmare core tables around page 100
+- [ ] Heat: cwn/nightmares2e 174 - implement as part of faction turn?
+- [ ] Downtime rules from Nightmares (incl. city encounters?)
+- [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or Linhe, incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **FFKA leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
+- [ ] part 3: godbound style of challenges, using ravenloft regions. Outsiders are silent legions, Acrisae are kult creatures, Turnskull are sorcerer-kings (kult?/wwn/?)
+- [ ] Create undead mob as a creature - Godbound, and replace on encounter gen
+- [ ] Think of standards for ML and Instinct
+- [ ] Add acrisae to random encounter
+- [ ] Sergarus is curious with Guilf as he looks like the child he saved from their witch mother decades ago.
+- [ ] Mercian cult will rise as it will protect against attacks of undead - follow the idea of the bandit camp
+- [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
+- [ ] Acrisae https://i.imgur.com/4CqOLy9.png
+- [ ] something in holzander gives a curse (VgtR192)
 
 %% kanban:settings
 ```
