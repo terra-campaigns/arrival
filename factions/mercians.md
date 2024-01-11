@@ -43,8 +43,6 @@ hp: 20
 traits:
 - name: Concealed
   desc: "All Assets the faction purchases enter play with the Stealth quality."
-- name: Machiavellian
-  desc: "The faction is diabolically cunning. It rolls an extra die for all Cunning attribute checks. Its Cunning must always be its highest attribute."
 
 assets:
 - name: Headquarters (BoI)

@@ -41,8 +41,6 @@ ac: 12
 hp: 38
 
 traits:
-- name: Imperialist
-  desc: "The faction quickly expands its Bases of Influence. Once per turn, it can use the *Expand Influence* action as a special ability instead of it taking a full action."
 - name: Innovative
   desc: "The faction can purchase Assets as if their attribute ratings were two points higher than they are. Only two such over-complex Assets may be owned at any one time."
 - name: Supported

@@ -1,6 +1,6 @@
 ---
-name: Waking up
-game_date: 3909.3B1
+name: name
+game_date: 3914.2F5
 pcs: Dolman, Guilf, Amyria
 rank: 26
 heat: 1
@@ -48,16 +48,14 @@ tags:
 > - **[Amyria](../pcs/Amyria.md)**: Learn from the book of knowledge. Protect little Guilf, take the Angel Hound to Mystra's temple, destroy the 2 devices left in the castle and kill Gellert
 
 > [!warning] Intro
-> - [BookOfKnowledge](../objects/BookOfKnowledge.md): One DC 20 for S- check per week of study:
-> 	- Success: ask a question
-> 	- Fail: nightmare river vision
+> - [BookOfKnowledge](../objects/BookOfKnowledge.md): One check per week (see through the illusion move)
+> 	- DC 25 for S+ you gain the knowledge you seek as you see true reality (night roads incoming)
+> 	- DC 15 for S- you gain the knowledge you seek but you either disturb the illusion or a nightmare senses you 
+> 	- F The knowledge collapses your sanity and a nightmare is summoned (sanity check)
 
 > [!danger] Strong start
 
 Travel to [templeMystra](../locations/templeMystra.md) (while reading the [BookOfKnowledge](../objects/BookOfKnowledge.md)?)
-**CLOCK 8:** Mercians will try again to make the PCs wanted and have the FFKA hunting them down.
-
-**5 years later, the desert in the NE of Linhe is turning into a moist mud *Arratu*.**
 
 > [!example] Situations
 
@@ -65,11 +63,7 @@ Travel to [templeMystra](../locations/templeMystra.md) (while reading the [BookO
 - Visit cities of [eyaram](../locations/eyaram.md), [gimorkoc](../locations/gimorkoc.md) or [redtower](../locations/redtower.md)
 	- Eyaram and Red Tower are taken by the [mercians](../factions/mercians.md)
 	- Gimorkoc is taken by the [turnskull](../factions/turnskull.md)
-	- 
 - [ ] Update cities in the way: [eyaram](../locations/eyaram.md), [gimorkoc](../locations/gimorkoc.md) and [redtower](../locations/redtower.md)
-
-**Campfire scene**
-What do characters want?
 
 **[holzanderCastle](../locations/holzanderCastle.md)**
 - Undead took over [holzanderCastleL1](../locations/holzanderCastleL1.md)
@@ -78,17 +72,15 @@ What do characters want?
 **Book of Knowledge, expected questions:**
 - **How to wake up [Gaelira](../npcs/Gaelira.md)**: Not only a Dragon-King, but other Sorcerer-Kings from that age might also have the required psionic power. And there is one leading Turnskull. They are in the factory.
 - **[ngar-tho](../../_gm/statblocks/ngar-tho.md) physiology**: They require moist locations, weakened by dryness and sunlight.
-- **CLOCK 4**: Ask question
-- **CLOCK 4**: Nightmares
 
 **Encounter Filarion or Hermits Crevasse**
-FilarionPapetor](../npcs/FilarionPapetor.md) (or [hermitsCrevasse](../locations/hermitsCrevasse.md)) represents the last remnants of local defenders, driven on by the [Akrasiel](../npcs/Akrasiel.md). They tried to steal [Akrasiel](../npcs/Akrasiel.md)'s sword, but left it behind in their retreat which they desperately need, and they appeal to the PCs to aid them. In exchange, they'll pass on information about a Place that offers a good way to get at the Antagonist without wading through their entire army.
+[FilarionPapetor](../npcs/FilarionPapetor.md) (or [hermitsCrevasse](../locations/hermitsCrevasse.md)) represents the last remnants of local defenders, driven on by the [Akrasiel](../npcs/Akrasiel.md). They tried to steal [Akrasiel](../npcs/Akrasiel.md)'s sword, but left it behind in their retreat which they desperately need, and they appeal to the PCs to aid them. In exchange, they'll pass on information about a Place that offers a good way to get at the Antagonist without wading through their entire army.
 - **Antagonists**: [Akrasiel](../npcs/Akrasiel.md)
 - **Friends**: Do-gooder bandit chief who raids hostile forces [FilarionPapetor](../npcs/FilarionPapetor.md)
 - **Places**: [CastleTerror](../locations/CastleTerror.md) and the defenders camp in the [hermitsCrevasse](../locations/hermitsCrevasse.md)
 - **Complications**: The local community has been wrecked in fighting
 - **Things**: [Akrasiel](../npcs/Akrasiel.md)'s sword
-- **CLOCK 6**: Akrasiel hunts Filarion 
+- **Tension**: Akrasiel hunts Filarion 
 
 **Encounter Twilight Halls**
 [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
@@ -101,10 +93,12 @@ FilarionPapetor](../npcs/FilarionPapetor.md) (or [hermitsCrevasse](../locations/
 - **Complications**: The army is bringing a great sickness or plague
 - **Things**: Secret detector for [acrisae](../factions/acrisae.md) manoeuvres. The detector was built in [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
 - **Why important**: It's the only good approach to a soft target in the rear
-- **CLOCK 6**: Pollution builds up, Emmanuel gets sick
+- **Tension**: Pollution builds up, Emmanuel gets sick
 
 **Encounter with sapient that relates that a flood that drowned out a community**
 - ***Seed:*** **Mayor or [linhe_city](../locations/linhe_city.md), incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **[ffkaEast](../factions/ffkaEast.md) leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
+
+**Mercians will try again to make the PCs wanted and have the FFKA hunting them down.**
 
 **Encounter generator table**
 
