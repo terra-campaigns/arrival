@@ -1,6 +1,6 @@
 ---
-name: name
-game_date: 3914.2F5
+name: Underground Travel
+game_date: 3909.3B7
 pcs: Dolman, Guilf, Amyria
 rank: 26
 heat: 1
@@ -59,60 +59,35 @@ Travel to [templeMystra](../locations/templeMystra.md) (while reading the [BookO
 
 > [!example] Situations
 
-**Travel game**
-- Visit cities of [eyaram](../locations/eyaram.md), [gimorkoc](../locations/gimorkoc.md) or [redtower](../locations/redtower.md)
-	- Eyaram and Red Tower are taken by the [mercians](../factions/mercians.md)
-	- Gimorkoc is taken by the [turnskull](../factions/turnskull.md)
-- [ ] Update cities in the way: [eyaram](../locations/eyaram.md), [gimorkoc](../locations/gimorkoc.md) and [redtower](../locations/redtower.md)
-
-**[holzanderCastle](../locations/holzanderCastle.md)**
-- Undead took over [holzanderCastleL1](../locations/holzanderCastleL1.md)
-- Oozes start to take over [holzanderCastleL2](../locations/holzanderCastleL2.md), and undead are coming too.
-
 **Book of Knowledge, expected questions:**
 - **How to wake up [Gaelira](../npcs/Gaelira.md)**: Not only a Dragon-King, but other Sorcerer-Kings from that age might also have the required psionic power. And there is one leading Turnskull. They are in the factory.
-- **[ngar-tho](../../_gm/statblocks/ngar-tho.md) physiology**: They require moist locations, weakened by dryness and sunlight.
 
 **Encounter Filarion or Hermits Crevasse**
-[FilarionPapetor](../npcs/FilarionPapetor.md) (or [hermitsCrevasse](../locations/hermitsCrevasse.md)) represents the last remnants of local defenders, driven on by the [Akrasiel](../npcs/Akrasiel.md). They tried to steal [Akrasiel](../npcs/Akrasiel.md)'s sword, but left it behind in their retreat which they desperately need, and they appeal to the PCs to aid them. In exchange, they'll pass on information about a Place that offers a good way to get at the Antagonist without wading through their entire army.
-- **Antagonists**: [Akrasiel](../npcs/Akrasiel.md)
-- **Friends**: Do-gooder bandit chief who raids hostile forces [FilarionPapetor](../npcs/FilarionPapetor.md)
+[FilarionPapetor](../npcs/FilarionPapetor.md) (or [hermitsCrevasse](../locations/hermitsCrevasse.md)) represents the last remnants of local defenders, driven out by the [Akrasiel](../npcs/Akrasiel.md). They tried to steal [Akrasiel](../npcs/Akrasiel.md)'s sword, but left it behind in their retreat which they desperately need, and they appeal to the PCs to aid them.
+- In exchange, they'll pass on information about a Place that offers a good way to get to Mystra's temple without wading through the battlefields.
+- **Antagonists**:
+	- [Akrasiel](../npcs/Akrasiel.md)
+	- Disguised Mercian [antinom](../../_gm/statblocks/antinom.md) living amongst the hermits
+- **Friends**: Do-gooder bandit chief who raids hostile forces [FilarionPapetor](../npcs/FilarionPapetor.md) and scout [Thirteen](../npcs/Thirteen.md)
 - **Places**: [CastleTerror](../locations/CastleTerror.md) and the defenders camp in the [hermitsCrevasse](../locations/hermitsCrevasse.md)
 - **Complications**: The local community has been wrecked in fighting
 - **Things**: [Akrasiel](../npcs/Akrasiel.md)'s sword
 - **Tension**: Akrasiel hunts Filarion 
 
-**Encounter Twilight Halls**
-[twilightHallsAsylum](../locations/twilightHallsAsylum.md)
-
-**City Encounter**
-[EmanuelWeiss](../npcs/EmanuelWeiss.md) has been here for some time, and a his Turnskull constructs (Mob Small 20 HD) are polluting their land with their maintenance, making life almost unliveable for the locals. They're secretly smuggling in a Thing to help them survive, but [Eleni](../npcs/Eleni.md) discovers that their plan is being leaked by a traitor, and if help isn't found soon, the Antagonist will have both the Thing and the ringleaders of the resistance.
-- **Antagonists**: Turnkskull officer [EmanuelWeiss](../npcs/EmanuelWeiss.md)
-- **Friends**: Merchant whose trade routes have been cut by war [Eleni](../npcs/Eleni.md)
-- **Places**: Military camp with soldiers and camp followers
-- **Complications**: The army is bringing a great sickness or plague
-- **Things**: Secret detector for [acrisae](../factions/acrisae.md) manoeuvres. The detector was built in [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
-- **Why important**: It's the only good approach to a soft target in the rear
-- **Tension**: Pollution builds up, Emmanuel gets sick
-
-**Encounter with sapient that relates that a flood that drowned out a community**
-- ***Seed:*** **Mayor or [linhe_city](../locations/linhe_city.md), incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **[ffkaEast](../factions/ffkaEast.md) leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
-
-**Mercians will try again to make the PCs wanted and have the FFKA hunting them down.**
+Meet [MustrocHeavymace](../npcs/MustrocHeavymace.md)
 
 **Encounter generator table**
 
-| id| totalLevel|partySize |effect                                                                           |
-|--:|----------:|:---------|:--------------------------------------------------------------------------------|
-|  1|          8|few       |summoned back by the chief                                                       |
-|  2|          6|solo      |fleeing a foe                                                                    |
-|  3|          6|pair      |recognise the PCs somehow solved a recent problem                                |
-|  4|          2|solo      |frightened of something nearby                                                   |
-|  5|          6|many      |There are eldritch sigils worked into the decorations                            |
-|  6|          9|many      |raiding their rivals                                                             |
-|  7|          4|few       |protecting their kin (cubs, olds, hurt ones)                                     |
-|  8|          9|few       |waiting in ambush for someone                                                    |
-|  9|          6|solo      |Great stone wall, intact, with tower fortifications spaced at one-mile intervals |
+| id | qltRank | partySize | effect |
+| ---: | ---: | :--- | :--- |
+| 1 | 8 | few | summoned back by the chief |
+| 2 | 6 | solo | fleeing a foe |
+| 4 | 2 | solo | frightened of something nearby |
+| 5 | 6 | many | There are eldritch sigils worked into the decorations |
+| 6 | 9 | many | raiding their rivals |
+| 7 | 4 | few | protecting their kin (cubs, olds, hurt ones) |
+| 8 | 9 | few | waiting in ambush for someone |
+| 9 | 6 | solo | Great stone wall, intact, with tower fortifications spaced at one-mile intervals |
 
 > [!info]- Information pool
 > ![Information pool](arrival/_informationPool.md)
