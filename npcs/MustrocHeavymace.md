@@ -9,43 +9,61 @@ concept: Dwarf Glasrath Industries Clerk
 
 personality:
 - name: Impeding treachery
-  desc: They are about to be betrayed in an impressively spectacular fashion. Some
-    person or cause that they trust and rely on is about to ruin their plans with
-    well- timed treachery, plundering them of some valuable resource or killing some
-    vital ally. Hints may already be afoot, but they refuse to admit the possibility.
-    Conversely, they might be the ones doing the betraying. They may be a vital lieutenant
+  desc: They may be a vital lieutenant
     to a greater power, or a well-loved companion to a trusting superior. They’ve
     performed services enough to justify the great trust they hold, even if their
     true intentions may not be so faithful. Something inherent in their other character
     tag may well be driving them to do this, whether or not they want to turn traitor.
-    ||DETAIL|| A Exploit a desperate opportunity opened up by the circumstances of
-    the betrayal, Get revenge on not only the traitor but also their friends and loved
-    ones, Recover a vital item the traitor took ||DETAIL|| P The traitor is enormously
-    effective while concealing their malice, The traitor has channeled extensive resources
-    to them to earn their trust, Enemies of the traitor are now eager to lend aid
-    ||DETAIL|| D The treachery reveals that a cherished relationship was all a lie,
-    They still cannot bring themselves to believe that it was really an intended betrayal,
-    The traitor destroyed something else that was loved as collateral damage to their
-    actions
 - name: Strength
-  desc: Friendship, being good friends with someone important or powerful
+  desc: The traitor has channeled extensive resources to them to earn their trust
 - name: Virtue
   desc: Courage of unusual degree
-- name: Flaw
-  desc: Viewed as an anarchist
 - name: Problem
-  desc: They've been given a job too big for them
+  desc: The traitor destroyed something else that was loved as collateral damage to their actions
 - name: Desire
-  desc: Self-control
+  desc: Exploit a desperate opportunity opened up by the circumstances of
+    the betrayal
 roleplay:
 - name: Aspect
-  desc: Visible Mannerisms or Traits - Hands never stop moving ||AND-OR|| They tap
-    their ear
+  desc: They tap their ear
 - name: Idiosyncrasy
-  desc: General Physical Build - Unusually short or slender ||AND-OR|| Obsession -
-    Journaling
+  desc: Obsession - Journaling
 - name: Languages
   desc: ''
+
+hp: '11'
+hit_dice: 2d10
+ac: '14'
+
+debilitations: ~
+resistances: ~
+immunities: ~
+senses: ~
+
+stats:
+- brawl: '+3'
+- wit: '-1'
+- will: '+0'
+- move: '20'
+- save: 16+
+- effort: '0'
+
+traits:
+- name: ~
+  desc: ~
+main:
+- name: Melee
+  desc: +4 x1, 9 (2d6 + 2) shock 4/15 (or by weapon+3)
+- name: Ranged
+  desc: -1 x1, 5 (1d6 + 1) (or by weapon-1)
+- name: Effort
+  desc: '2 (1d4) save halves (***AoE***: 1, save negates)'
+on_turn:
+- name: ~
+  desc: ~
+instant:
+- name: ~
+  desc: ~
 
 npc_link: '[MustrocHeavymace](MustrocHeavymace.md)'
 ---
@@ -57,6 +75,7 @@ npc_link: '[MustrocHeavymace](MustrocHeavymace.md)'
 
 ## Connections
 - Follows [guilf](../pcs/guilf.md)
+- Assistant: Toff Fastreader
 
 ## Key info and notes
 - ...

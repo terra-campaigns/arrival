@@ -1,6 +1,6 @@
 ---
 name: Mystra's Temple
-game_date: 3914.3D3
+game_date: 3909.3D3
 pcs: Dolman, Guilf, Amyria
 rank: 27
 xp: 5800 
@@ -20,79 +20,117 @@ tags:
 > - [x] Commit next chapter draft and check metadata
 > - [x] Clean up previous chapter files, update tags and name, make final commit
 > - [x] Update (battle)maps, if applicable
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
-> - [ ] Think about characters, write motivations & hooks
-> - [ ] Evaluate new game date
-> - [ ] Review Abridged
-> - [ ] Evaluate Faction turn
-> - [ ] Review and organise Notions
-> - [ ] Define XP
-> - [ ] Detail strong start
-> - [ ] Outline situations:
-> 	- [ ] Draft locations 
-> 	- [ ] Draft NPCs
-> 	- [ ] Define clocks
-> 	- [ ] Prepare random encounters table
-> - [ ] Prepare Owlbear, if applicable
-> - [ ] Review and order/highlight information pool.
-> - [ ] Define treasure
-> - [ ] Update graph view
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
+> - [x] Think about characters, write motivations & hooks
+> - [x] Evaluate new game date
+> - [x] Review Abridged
+> - [x] Evaluate Faction turn
+> - [x] Review and organise Notions
+> - [x] Define XP
+> - [x] Detail strong start
+> - [x] Outline situations:
+> 	- [x] Draft locations 
+> 	- [x] Draft NPCs
+> 	- [x] Prepare random encounters table
+> - [x] Prepare Owlbear, if applicable
+> - [x] Review and order/highlight information pool.
+> - [x] Define treasure
+> - [x] Update graph view
 > - [ ] Print information pool
 
 > [!abstract] Characters' motivations
 > - **[Dolman](../pcs/Dolman.md)**: Wake up Gaelira, figure out which side on the war is fighting for Humanity.
-> - **[Guilf](../pcs/Guilf.md)**: Exterminate the Ngar'tho 
-> - **[Amyria](../pcs/Amyria.md)**: Learn from the book of knowledge. Protect little Guilf, take the Angel Hound to Mystra's temple, destroy the 2 devices left in the castle and kill Gellert
+> - **[Guilf](../pcs/Guilf.md)**: Exterminate the Ngar'tho and become a god
+> - **[Amyria](../pcs/Amyria.md)**: Learn from the book of knowledge. Destroy the 2 devices left in the castle. Wake up Gaelira, figure out which side on the war is fighting for Humanity.
 
 > [!warning] Intro
-> - [BookOfKnowledge](../objects/BookOfKnowledge.md): One check per week (see through the illusion move)
-> 	- DC 25 for S+ you gain the knowledge you seek as you see true reality (night roads incoming)
-> 	- DC 15 for S- you gain the knowledge you seek but you either disturb the illusion or a nightmare senses you 
-> 	- F The knowledge collapses your sanity and a nightmare is summoned (sanity check)
+> You are travelling with:
+
+```encounter
+creatures:
+  - Thirteen
+  - Mustroc Heavymace
+  - [l1b0w-2w3, Toff Fastreader]
+```
 
 > [!danger] Strong start
 
-Travel to [templeMystra](../locations/templeMystra.md) and then to [khathadzig](../locations/khathadzig.md)
+Travel to [templeMystra](../locations/templeMystra.md) (3 days) and then to [khathadzig](../locations/khathadzig.md) (5 days)
+
+**Underground travel**: Mixed ruins, run a [godbound ruin gen](https://perchance.org/godbound-ruins) if encounter happens
+
+**Random encounters**
+- West of Mystra's temple: Anaks ([mob_elite_small](../../_gm/statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../../_gm/statblocks/mob_special_small.md))
 
 > [!example] Situations
 
-**Book of Knowledge, expected questions:**
-- **How to wake up [Gaelira](../npcs/Gaelira.md)**: Not only a Dragon-King, but other Sorcerer-Kings from that age might also have the required psionic power. And there is one leading Turnskull. They are in the factory.
-- **[ngar-tho](../../_gm/statblocks/ngar-tho.md) physiology**: They require moist locations, weakened by dryness and sunlight.
-- **Origin of the book**: Created with celestial shards (same as Dolman's stone and the three rings), which gives it creation power.
+**Parley with Prompt**
+- **Prompt** and his [turnskull](../factions/turnskull.md) ice constructs unit find themselves in the desert after a tremor.
+- The Glasrath Champions speak with them and learn that Prompt has lived for millions of years.
+- Prompt has battled outsiders and was one of heavens invaders.
+- The Turnskull follow Loquiroth
 
-**Encounter Twilight Halls**
-[twilightHallsAsylum](../locations/twilightHallsAsylum.md)
+![|400](https://i.imgur.com/HwUqtc9.png)
 
-**City Encounter**
-[EmanuelWeiss](../npcs/EmanuelWeiss.md) has been here for some time, and a his Turnskull constructs (Mob Small 20 HD) are polluting their land with their maintenance, making life almost unliveable for the locals. They're secretly smuggling in a Thing to help them survive, but [Eleni](../npcs/Eleni.md) discovers that their plan is being leaked by a traitor, and if help isn't found soon, the Antagonist will have both the Thing and the ringleaders of the resistance.
-- **Antagonists**: Turnkskull officer [EmanuelWeiss](../npcs/EmanuelWeiss.md)
-- **Friends**: Merchant whose trade routes have been cut by war [Eleni](../npcs/Eleni.md)
-- **Places**: Military camp with soldiers and camp followers
-- **Complications**: The army is bringing a great sickness or plague
-- **Things**: Secret detector for [acrisae](../factions/acrisae.md) manoeuvres. The detector was built in [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
-- **Why important**: It's the only good approach to a soft target in the rear
-- **Tension**: Pollution builds up, Emmanuel gets sick
+![|400](https://i.imgur.com/S4VBMMG.png)
 
-**Encounter with sapient that relates that a flood that drowned out a community**
-- ***Seed:*** **Mayor or [linhe_city](../locations/linhe_city.md), incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **[ffkaEast](../factions/ffkaEast.md) leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
+**Enter the temple**
+- The [BookOfKnowledge](../objects/BookOfKnowledge.md) cannot enter [templeMystra](../locations/templeMystra.md)
+- Inside the temple a hundred humans live in famine
+- When the Champions entered, a stampede was caused - the survivors in panic
+- > Dolman: "Just eat the butt"
+- The priests lost trust in [amyria](../pcs/amyria.md)
 
-**Mercians will try again to make the PCs wanted and have the FFKA hunting them down.**
+![|400](https://i.imgur.com/fofoMct.png)
+
+**The nightmare [Balhannoth**](../../_gm/statblocks/Balhannoth.md)
+- The [BookOfKnowledge](../objects/BookOfKnowledge.md) is lost to the ruined desert, but found by Amyria in a deep underground corridor
+- Dolman and Guilf are tricked by a Nightmare, who showed itself as a gargantuan brown dragon. Dolman asked the dragon to cure [Gaelira](../npcs/Gaelira.md)
+- Amyria sees the creature for what it is
+- The nightmare takes [Gaelira](../npcs/Gaelira.md) with it
+
+![|400](https://i.imgur.com/5OqQX4F.png)
+
+**Dolman speaks to the Celestial shard**
+- The shard was part of celestial engines, which were destroyed by human invasion of the heavens
+- Celestial engines run control on Terra
+- The destruction of heaven caused havoc on Terra, but powerful Sorcerers quicky learned how to use the celestial shards to build Terra Engines, which maintained the human reality. Called the Legacy.
+
+![|400](https://i.imgur.com/qgmi68N.png)
+
+**Meeting dwarves**
+- For the second time, a group of dwarfs is travelling, fleeing [khathadzig](../locations/khathadzig.md) and going to [durnum](../locations/durnum.md)
+
+**Amyria speaks with Mystra**
+- Mystra is still unaware of her role in the war and has no clear alliance.
+
+![|400](https://i.imgur.com/nihlKT4.png)
+
+**Meeting Ghuse**
+- Ghuse welcomes the Champions
+
+![](https://i.imgur.com/8cZ7CSJ.png)
+
 
 **Encounter generator table**
 
-
+| id| rank|effect                                                  | reaction| prep| size|
+|--:|----:|:-------------------------------------------------------|--------:|----:|----:|
+|  1|    7|A tremor shakes the ground                              |        1|    6|    8|
+|  2|    9|Something isn't where it's supposed to be               |        9|    9|    7|
+|  3|    5|offended or insulted by something                       |        6|    7|    4|
+|  4|    2|Chanting music echoes                                   |        7|    9|    7|
+|  5|    7|It's connected to elsewhere by a curdled angle of space |        5|    7|    9|
+|  6|    9|Poisonous flora force saves or debilitation             |        6|    5|    8|
+|  7|    7|There's a foul smell in the air                         |        9|    5|    1|
+|  8|    2|in need of healing or help with a situation             |        8|    9|    5|
+|  9|    9|A horse or pack animal goes lame                        |        6|    2|    2|
 
 > [!info]- Information pool
 > ![Information pool](arrival/_informationPool.md)
 
 > [!check] Treasure
 
-**Cryptic & Exotic**: Does not look like treasure, and is not common here. **Artistic curtains.**
-- **Origin**: Tribute to the owner from minions or vassals
-- **Bulk**: Attached. The treasure is an object that is physically attached to some part of the architecture, and something bad will happen if it's pried loose.
-- **Defences**: Behind a door or barrier only the owner can pass
-- **Interested**: Its former owner, a denizen of the ruin
 
 > [!tip] Interaction table 
 > 

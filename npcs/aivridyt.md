@@ -10,10 +10,10 @@ hp: '162'
 hit_dice: 19d20
 ac: '20'
 
-debilitations: ~
-resistances: ~
-immunities: ~
-senses: ~
+debilitations: Sunlight
+resistances: Necrotic
+immunities: Fire
+senses: Darkvision, Blindsight
 
 stats:
 - brawl: '+9'
@@ -24,23 +24,42 @@ stats:
 - effort: d12
 
 traits:
-- name: ~
-  desc: ~
+- name: Living Shadow (dim light or darkness)
+  desc: Resistance to damage that isn't force, psychic, or radiant.
+- name: Word of Death
+  desc: Can use the gifts of the word of creation. Expends effort.
+- name: Withholding the Mercy
+  desc: Around you, you choose if creatures stabilise or die when mortally wounded.
 main:
-- name: Melee
+- name: Bite or claws
   desc: +16 x2, 27 (7d6 + 2) shock 9/- (or by weapon+9)
-- name: Ranged
-  desc: +6 x2, 22 (6d6 + 1) (or by weapon+4)
-- name: Effort
-  desc: '57 (16d6 + 1) save halves (***AoE***: 28, save negates)'
+- name: Reaping Word (effort)
+  desc: 'One target, 57 (16d6 + 1) evasion save negates'
+- name: A Pale Crown Beckons (effort)
+  desc: "In the presence of remainders, can raise a [mob_swarm_small](../../_gm/statblocks/mob_swarm_small.md)"
 on_turn:
-- name: ~
-  desc: ~
+- name: Shadow Stealth (dim light or darkness)
+  desc: Hide
 instant:
 - name: ~
   desc: ~
 
-category: npc
+personality:
+- name: Strength
+  desc: Stealth, very difficult to locate or follow if they don’t care to be pursued
+- name: Virtue
+  desc: Courage of unusual degree
+- name: Problem
+  desc: Their breath spreads a loathsome plague to strangers
+- name: Desire
+  desc: Power
+roleplay:
+- name: Aspect
+  desc: Looks transluscent
+- name: Idiosyncrasy
+  desc: Eidetic memory - Has perfect recall and can peruse its memories like films or photographs.
+
+npc_link: '[aivridyt](aivridyt.md)'
 ---
 
 # Aivridyt, the Creep

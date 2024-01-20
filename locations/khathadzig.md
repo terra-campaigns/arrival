@@ -43,3 +43,32 @@ Description: The general store is a timber and brick two-storey building, with a
 Location: Inside the fortress
 Description: The church is a wooden simple building, with a brown tile roof and a big brick chimney. It was once a barracks, and has a collection of arms and armour. It contains a large brass countertop and rows of wooden pews.
 Access to the Ghost Domain: In the temple there is a fracture on the rock that goes kilometres deep, and access to the Ghost Domain.
+
+## Court
+
+| Power Structure: | **What is the power structure of this court?** |
+| ---- | ---- |
+| Autocratic. One person has largely unchallenged control over the court. | [aivridyt](../npcs/aivridyt.md) |
+| Reputation: | **How is the Bureaucracy regarded?** |
+| Novel, being new to the area or full of new methods. | Industrialisation, arms dealer |
+| Defenses: | **How does this court defend itself from dangers?** |
+| Decentralized offices of import |  |
+| Consequence of  <br>Its Destruction: | **What would happen if this court was destroyed?** |
+| Unrelated services would worsen as focus shifts |  |
+### The Conflict:
+|  |  |
+| ---- | ---- |
+| Conflict: | **What is a problem that this court is struggling with?** |
+| The bureau’s critically underfunded |  |
+### Major Actors:
+|  |  |
+| ---- | ---- |
+| Minister of Trade: | **The source of their power is:** |
+| They’re deeply loved by the local ruler for their skills | [Fuko](../npcs/Fuko.md) |
+| Head of the police: | **The source of their power is:** |
+| Numerous important locals owe them big favors | [whursock](../npcs/whursock.md) |
+| Minister of Internal Affairs: | **The source of their power is:** |
+| Their police ties give them legal carte blanche for much | Amyria's father |
+| The Minor Actors: | Crony capitalist business owner |
+| Hapless tax debtor doing “favors” | [Ushulx](../npcs/Ushulx.md) |
+| Ambitious young clerk | Left and is now with the PCs |

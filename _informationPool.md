@@ -16,3 +16,11 @@
 - [ ] Mercian enigmatic leader, Imortra, possessed a beguiling charm that ensnared the minds and hearts of the cultists, a siren's call leading them deeper into the abyss.
 - [ ] Miraak, Kethra, Werebear and Nurderad Outcast face Ghuse. They are successful and hurt the faction. Miraak and Kethra are imprisoned, the others are killed.
 - [ ] Ushulx arrives in Glasrath
+
+## Holzander
+
+- [ ] Oozes are taking the second level, mixed with undead from the first level. Everything on both levels is getting destroyed.
+
+## Shards
+
+- [ ] Dolman's shard was responsible for holding 
