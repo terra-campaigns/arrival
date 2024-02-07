@@ -32,10 +32,11 @@ tags:
 > 	- [ ] Draft locations 
 > 	- [ ] Draft NPCs
 > 	- [ ] Prepare random encounters table
-> - [ ] Prepare Owlbear, if applicable
+> 	- [ ] Prepare Owlbear, if applicable
 > - [ ] Review and order/highlight information pool.
 > - [ ] Define treasure
 > - [ ] Update graph view
+> - [ ] Update random encounter tables
 > - [ ] Print information pool
 
 > [!abstract] Characters' motivations
@@ -46,11 +47,18 @@ tags:
 > [!warning] Intro
 > You are travelling with:
 
+Thirteen 
+
 > [!danger] Strong start
 
-
+- I killed your friends
+- You are indeed changed. More mature, less dreaming of a good world. This is good.
 
 > [!example] Situations
+
+**Thirteen gets lost while travelling**.
+
+**Their rings take over their hand**
 
 **Book of Knowledge, expected questions:**
 - **How to wake up [Gaelira](../npcs/Gaelira.md)**: Not only a Dragon-King, but other Sorcerer-Kings from that age might also have the required psionic power. And there is one leading Turnskull. They are in the factory.
@@ -64,7 +72,7 @@ tags:
 **Meeting Ghuse**
 - Population see the PCs as cursed. Hardly any magic is practiced in Glasrath now. They are a peaceful arms dealers, ignorant to the outside on the last decades.
 - Ghuse cannot be dissuaded by a Command miracle - there is a network of officials and clerks that reverts him back to his original goals. To do that will require Influence/Dominion (costs 4 - city, implausible; reduces to 2 if ).
-- Scholar in [khathadzig](../locations/khathadzig.md) knows Amyria book
+- Scholar in [khathadzig](../locations/khathadzig.md) knows Amyria book (nightmare effect?)
 - Ghuse's [Court](../locations/khathadzig.md#Court)
 
 **Encounter Twilight Halls**

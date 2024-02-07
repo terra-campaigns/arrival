@@ -69,6 +69,7 @@ Travel to [templeMystra](../locations/templeMystra.md) (3 days) and then to [kha
 - The Glasrath Champions speak with them and learn that Prompt has lived for millions of years.
 - Prompt has battled outsiders and was one of heavens invaders.
 - The Turnskull follow Loquiroth
+- They have their advanced post in the Forge, to the west
 
 ![|400](https://i.imgur.com/HwUqtc9.png)
 
