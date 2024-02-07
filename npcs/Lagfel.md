@@ -4,7 +4,7 @@ layout: Terra Campaigns Leiaute v04
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Godbound & Spelljammer
 
-name: Lagfel (John McLeod)
+name: Loquiroth (John McLeod)
 concept: AI Highshrine Lich
 hp: '143'
 hit_dice: 22d12
