@@ -67,12 +67,12 @@ PCs start feeling the **spirits are living in their bodies**, you dream constant
 **The Ngar'tho will not attack the PCs**: "We are glad you have all agreed and have started the ritual. When is time, come to the chamber of Makab."
 - But they have Galliera as a hostage, if the PCs do not complete their end of the contract for the ritual.
 - Thalia will never leave the castle, unless Mr Void is summoned.
-- Whatever the PCs do is considered part of the ritual by the hive mind of the [ngar-tho](../../_gm/statblocks/ngar-tho.md)
+- Whatever the PCs do is considered part of the ritual by the hive mind of the [ngar-tho](../statblocks/ngar-tho.md)
 - [Deja-vu rooms](chap019.md#Deja-vu%20rooms)
 
 [banditCamp](../locations/banditCamp.md)
 
-[Cagoth-Ze](../npcs/Cagoth-Ze.md) was killed by the [ngar-tho](../../_gm/statblocks/ngar-tho.md)
+[Cagoth-Ze](../npcs/Cagoth-Ze.md) was killed by the [ngar-tho](../statblocks/ngar-tho.md)
 
 [Gellert](../npcs/Gellert.md) is killed by the PCs. They get the [BookOfKnowledge](../objects/BookOfKnowledge.md)
 

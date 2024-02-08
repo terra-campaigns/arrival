@@ -22,10 +22,10 @@ factions: [FFKA East, Mercian, Rurkinar Cultists]
 # Fort City of Eyaram
 ***Old desert fort city***
 
-**Taken by [mercians](../factions/mercians.md) and [ngar-tho](../../_gm/statblocks/ngar-tho.md)**
+**Taken by [mercians](../factions/mercians.md) and [ngar-tho](../statblocks/ngar-tho.md)**
 
 - **Type**: Community
-- **Power structure**: A puppet community organisation enthralled by the hidden [ngar-tho](../../_gm/statblocks/ngar-tho.md) (Supposedly democratic).
+- **Power structure**: A puppet community organisation enthralled by the hidden [ngar-tho](../statblocks/ngar-tho.md) (Supposedly democratic).
 - **Major actors**
 	- **Crema** (N), the **local female [soldier](https://open5e.com/monsters/soldier-a5e) leader of the [FFKA East]factions/ffkaEast.md)**.
 		- Knows the military of the FFKA is needed in the city.

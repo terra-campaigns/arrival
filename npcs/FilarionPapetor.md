@@ -73,7 +73,7 @@ npc_link: '[FilarionPapetor](FilarionPapetor.md)'
 - ...
 
 ## Connections
-- Supported by an infiltrated [antinom](../../_gm/statblocks/antinom.md) to the band.
+- Supported by an infiltrated [antinom](../statblocks/antinom.md) to the band.
 
 ## Key info and notes
 - ...

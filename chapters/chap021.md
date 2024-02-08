@@ -67,7 +67,7 @@ Travel to [templeMystra](../locations/templeMystra.md) (while reading the [BookO
 - In exchange, they'll pass on information about a Place that offers a good way to get to Mystra's temple without wading through the battlefields.
 - **Antagonists**:
 	- [Akrasiel](../npcs/Akrasiel.md)
-	- Disguised Mercian [antinom](../../_gm/statblocks/antinom.md) living amongst the hermits
+	- Disguised Mercian [antinom](../statblocks/antinom.md) living amongst the hermits
 - **Friends**: Do-gooder bandit chief who raids hostile forces [FilarionPapetor](../npcs/FilarionPapetor.md) and scout [Thirteen](../npcs/Thirteen.md)
 - **Places**: [CastleTerror](../locations/CastleTerror.md) and the defenders camp in the [hermitsCrevasse](../locations/hermitsCrevasse.md)
 - **Complications**: The local community has been wrecked in fighting

@@ -36,7 +36,7 @@ main:
 - name: Reaping Word (effort)
   desc: 'One target, 57 (16d6 + 1) evasion save negates'
 - name: A Pale Crown Beckons (effort)
-  desc: "In the presence of remainders, can raise a [mob_swarm_small](../../_gm/statblocks/mob_swarm_small.md)"
+  desc: "In the presence of remainders, can raise a [mob_swarm_small](../statblocks/mob_swarm_small.md)"
 on_turn:
 - name: Shadow Stealth (dim light or darkness)
   desc: Hide

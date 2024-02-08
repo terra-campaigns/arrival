@@ -60,7 +60,7 @@ Travel to [templeMystra](../locations/templeMystra.md) (3 days) and then to [kha
 **Underground travel**: Mixed ruins, run a [godbound ruin gen](https://perchance.org/godbound-ruins) if encounter happens
 
 **Random encounters**
-- West of Mystra's temple: Anaks ([mob_elite_small](../../_gm/statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../../_gm/statblocks/mob_special_small.md))
+- West of Mystra's temple: Anaks ([mob_elite_small](../statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../statblocks/mob_special_small.md))
 
 > [!example] Situations
 
@@ -84,7 +84,7 @@ Travel to [templeMystra](../locations/templeMystra.md) (3 days) and then to [kha
 
 ![|400](https://i.imgur.com/fofoMct.png)
 
-**The nightmare [Balhannoth**](../../_gm/statblocks/Balhannoth.md)
+**The nightmare [Balhannoth**](../statblocks/Balhannoth.md)
 - The [BookOfKnowledge](../objects/BookOfKnowledge.md) is lost to the ruined desert, but found by Amyria in a deep underground corridor
 - Dolman and Guilf are tricked by a Nightmare, who showed itself as a gargantuan brown dragon. Dolman asked the dragon to cure [Gaelira](../npcs/Gaelira.md)
 - Amyria sees the creature for what it is

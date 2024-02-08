@@ -104,7 +104,7 @@ PCs fall and sleep, before waking up years later as Adult dragons and...
 	- Algath's fall, Ophaire Uncreation and shadow dragons
 
 
-![](_aux/PXL_20230731_144524073%201.jpg)
+
 
 
 ### Sorcerer-Kings Era, early Cerulean Cycle

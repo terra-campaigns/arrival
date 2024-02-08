@@ -62,7 +62,7 @@ Thirteen
 
 **Book of Knowledge, expected questions:**
 - **How to wake up [Gaelira](../npcs/Gaelira.md)**: Not only a Dragon-King, but other Sorcerer-Kings from that age might also have the required psionic power. And there is one leading Turnskull. They are in the factory.
-- **[ngar-tho](../../_gm/statblocks/ngar-tho.md) physiology**: They require moist locations, weakened by dryness and sunlight.
+- **[ngar-tho](../statblocks/ngar-tho.md) physiology**: They require moist locations, weakened by dryness and sunlight.
 - **Origin of the book**: Created with celestial shards (same as Dolman's stone and the three rings), which gives it creation power.
 [BookOfKnowledge](../objects/BookOfKnowledge.md): One check each 24h studied.
 - DC 25 for S+ you gain the knowledge you seek as you see true reality (night roads incoming)
@@ -92,11 +92,10 @@ Thirteen
 - ***Seed:*** **Mayor or [linhe_city](../locations/linhe_city.md), incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **[ffkaEast](../factions/ffkaEast.md) leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
 
 **Random encounters**
-- East of Mystra's temple, underground: [Azghouls](../../_gm/statblocks/Azghouls.md)
-- East of Mystra's temple, desert: [angelic_guardian](../../_gm/statblocks/angelic_guardian.md) and sand warriors ([mob_elite_small](../../_gm/statblocks/mob_elite_small.md))
-- West of Mystra's temple: Anaks ([mob_elite_small](../../_gm/statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../../_gm/statblocks/mob_special_small.md))
-- Anywhere: Mercians chasing the PCs - [antinom](../../_gm/statblocks/antinom.md) and [mob_elite_small](../../_gm/statblocks/mob_elite_small.md)
-
+- East of Mystra's temple, underground: [Azghouls](../statblocks/Azghouls.md)
+- East of Mystra's temple, desert: [angelic_guardian](../statblocks/angelic_guardian.md) and sand warriors ([mob_elite_small](../statblocks/mob_elite_small.md))
+- West of Mystra's temple: Anaks ([mob_elite_small](../statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../statblocks/mob_special_small.md))
+- Anywhere: Mercians chasing the PCs - [antinom](../statblocks/antinom.md) and [mob_elite_small](../statblocks/mob_elite_small.md)
 **Encounter generator table**
 
 

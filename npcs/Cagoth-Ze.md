@@ -65,4 +65,4 @@ Cagoth-ze also wears the ring of being anchored in time, which renders him immun
 
 Great friend of [Guilf](../pcs/Guilf.md), [Dolman](../pcs/Dolman.md) and [Amyria](../pcs/Amyria.md). Afraid of [Imortra](Imortra.md). Resident of [holzanderCastleL3](../locations/holzanderCastleL3.md).
 
-Killed by a [ngar-tho](../../_gm/statblocks/ngar-tho.md)
+Killed by a [ngar-tho](../statblocks/ngar-tho.md)

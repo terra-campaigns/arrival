@@ -31,7 +31,7 @@ For the mood in Eyaram I will get 2 Tarot cards:
 - **2 of skulls (FORGETFULNESS)**: Situation - traumatic event / manipulated minds of the city.
 - **8 of hourglass (CROSSROAD)**: Individual - Woman running from her past, as she supported the Mercians: [Eleni](../npcs/Eleni.md)
 
-[Marcus](../npcs/Marcus.md) is stationary in [eyaram](../locations/eyaram.md). The entire city had their mind manipulated by the [ngar-tho](../../_gm/statblocks/ngar-tho.md).
+[Marcus](../npcs/Marcus.md) is stationary in [eyaram](../locations/eyaram.md). The entire city had their mind manipulated by the [ngar-tho](../statblocks/ngar-tho.md).
 
 For perceiving the psionic power in the city `Kethra rolls +Will -5 (Will Ngar'tho): 9 for S-`. Kethra can perceive strange buildings in the village that make no physical sense, but the encounter clock increases in 1. The reality around the city is being warped by the Ngar'tho. Kethra and Miraak must make a Will Save. `Kethra rolls 1d20 +Will to beat 15: 5 for F` and gets a SS. `Miraak rolls 1d20 +Will to beat 15: 22 for S+`.
 
