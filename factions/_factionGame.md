@@ -25,6 +25,8 @@ creatures:
 
 Mercians will try again to make the PCs wanted and have the FFKA hunting them down.
 
+Try faction system with one roll dice pool on small tray.
+
 ### 3909.3B1
 ***Restarting factions 32 years later***
 

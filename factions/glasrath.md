@@ -1,56 +1,21 @@
 ---
 name: Glasrath Alliance
-id: 01
-power: 2
-features: 2
-trouble: 2
-cohesion: 2
-dominion: 3
-interest:
-  glasrath:
-  ffkaEast: -1
-  rurkinar: 
-  mercians: 10
-  turnskull: 3
-  acrisae: 3
+status:
 
 meta:
   category: faction
+  campaign: Arrival
   world: Latter Earth
   realm: Maqqatba
   region: Linhe
-  campaign: Arrival
   location: Glasrath Mountains
   parent:  
-  active: true
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
+  die: Orange
 
 stats:
-- cunning: 1
-- force: 2
-- wealth: 6
-- magic: Medium
-- income: 4
-
-ac: 8
-hp: 15
-
-traits:
-- name: Rich
-  desc: "The faction is rich or possessed of mercantile skill. It rolls an extra die for all Wealth attribute checks. Wealth must always be its highest attribute."
-
-assets:
-- name: Headquarters (BoI)
-  desc: "15/15 HP"
-- name: Merchant Prince (Wealth 6)
-  desc: "10/10 HP. WxW atk dmg 2d8, counter dmg 1d8. *Dwarven forge: A canny master of trade, the Merchant Prince may be triggered as a free action once per turn before buying a new Asset in the same location; the Merchant Prince takes 1d4 damage and the purchased Asset costs 1d8 Treasure less, down to a minimum of half its normal price.*"
-- name: Reserve Corps (Force 2)
-  desc: "4/4 HP. FxF atk dmg 1d6, counter dmg 1d6. *Undead*."
+- cunning: 2
+- force: 3
+- wealth: 7
 ---
 # Glasrath Alliance
 

@@ -1,60 +1,21 @@
 ---
 name: Mercians
-id: 04
-power: 3
-features: 3
-trouble: 5
-cohesion: 2
-dominion: 2
-interest:
-  glasrath: 10
-  ffkaEast: -14
-  rurkinar: -7
-  mercians: 
-  turnskull: 0
-  acrisae: -7
+status: 
 
 meta:
   category: faction
+  campaign: Arrival
   world: Latter Earth
   realm: Maqqatba
   region: Linhe
-  campaign: Arrival
   location: 
   parent:  
-  active: true
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
+  die: Grey
 
 stats:
-- cunning: 6
-- force: 4
-- wealth: 2
-- magic: High
-- income: 4
-
-ac: 8
-hp: 20
-
-traits:
-- name: Concealed
-  desc: "All Assets the faction purchases enter play with the Stealth quality."
-
-assets:
-- name: Headquarters (BoI)
-  desc: "20/20 HP"
-- name: Seditionists (Cunning 4)
-  desc: "8/8 HP. Subtle. *Ngar'tho: In place of an Attack action, the Seditionists’ owners may spend 1d4 Treasure and attach the As- set to a hostile Asset in the same location. Until the Seditionists are destroyed, infest another Asset, or leave the same location, the rebelling Asset cannot be used for anything and grants no benefits.*"
-- name: Saboteurs (Cunning 2)
-  desc: "6/6 HP. CxW atk dmg 2d4. Subtle. *Antinom: An Asset that is Attacked by the Saboteurs can’t use any free action abilities it may have during the next turn, whether or not the Attack was successful.*"
-- name: Temple Fanatics (Force 3)
-  desc: "6/6 HP. FxF atk dmg 2d6, counter dmg 2d6. *Mercians: Fanatical servants of a cult, ideology, or larger religion, these enthusiasts wreak havoc on enemies without a thought for their own lives. After every time the Temple Fanatics defend or success- fully attack, they take 1d4 damage.*"
-- name: Free Company (Wealth 3)
-  desc: "6/6 HP. WxF atk dmg 2d4+2, counter dmg 1d6. *Bodyguards: Hired mercenaries and professional soldiers, this Asset can, as a free action once per turn, move itself. At the start of each of its owner’s turn, it takes 1 Treasure in upkeep costs; if this is not paid, roll 1d6. On a 1-3 the Asset is lost, on a 4-6 it goes rogue and will move to Attack the most profitable-looking target. This roll is repeated each turn until back pay is paid or the Asset is lost.*"
+- cunning: 7
+- force: 5
+- wealth: 3
 ---
 # Mercians
 ***Tattooed music cultists of Ngar'tho and Ethux'zhurh***

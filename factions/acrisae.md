@@ -1,66 +1,21 @@
 ---
 name: Acrisae
-id: 06
-power: 4 
-features: 6 
-trouble: 4
-cohesion: 4
-dominion: 8
-interest:
-  glasrath: 7
-  ffkaEast: 7
-  rurkinar: 0
-  mercians: -1
-  turnskull: -2
-  acrisae: 
+status:
 
 meta:
   category: faction
+  campaign: Arrival
   world: Latter Earth
   realm: Maqqatba
   region: Linhe
-  campaign: Arrival
   location: Glasrath Mountains
   parent: 
-  active: true
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
+  die: Light-blue
 
 stats:
-- cunning: "5"
-- force: "7"
-- wealth: "3"
-- magic: "High"
-- income: 5
-
-ac: 10
-hp: 29
-
-traits:
-- name: Martial
-  desc: "The faction is profoundly devoted to war. It rolls an extra die for all Force attribute checks. Force must always be its highest attribute."
-- name: Mobile
-  desc: "The faction is exceptionally fast or mobile. Its faction turn movement range is twice what another faction would have in the same situation."
-
-assets:
-- name: Headquarters (BoI)
-  desc: "29/29 HP"
-- name: War Machines (Force 6)
-  desc: "14/14 HP. FxF atk dmg 2d10+4, counter dmg 1d10. *Supraxae driven by Angels*."
-- name: Local Guard (Force 1)
-  desc: "4/4 HP. FxF atk dmg 1d3+1, counter dmg 1d4+1."
-- name: Petty Sears (Cunning 1)
-  desc: "2/2 HP. Counter dmg 1d6. Subtle. *Lictors*."
-- name: Blackmail (Cunning 2)
-  desc: "4/4 HP. CxC atk dmg 1d4. Subtle. *Lictors: When a Blackmail asset is in a location, hostile factions can’t roll more than one die during Attacks made by or against them there, even if they have tags or Assets that usually grant bonus dice.*"
-- name: Armed Guards (Wealth 1)
-  desc: "3/3 HP. WxF atk dmg 1d3, counter dmg 1d4."
-- name: Dragomans (Wealth 2)
-  desc: "4/4 HP. Counter dmg 1d4. Subtle. *Interpreters, cultural specialists, and go-betweens simplify the expansion of a faction’s influence in an area. A faction that takes an Expand Influence action in the same location as this Asset can roll an extra die on all checks there that turn. As a free action once per turn, this Asset can move.*"
+- cunning: 6
+- force: 8
+- wealth: 4
 ---
 # Acrisae
 ***Geburah's Seraphim angels claiming a world after theirs was destroyed by the Sorcerer-Kings***
