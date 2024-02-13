@@ -6,35 +6,32 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
-- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
 - [ ] Competing groups trying to retrieve something from somewhere
-- [ ] Create mystra / Falestism as Godbound religion
-- [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
 - [ ] Mercians will use all their influence to get the PCs to do the ritual
-- [ ] Add godbound and 5e angels to bestiary
-- [ ] Campfire scene - what characters want?
-- [ ] develop Avryindt to be a dark lord -(VHgtR 39)
-- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/
+- [ ] Oil well producing for the forge
+- [ ] Mystra will not take sides, both are wrong.
 
 
 ## opportunityAttack
 
-- [ ] Create city encounter generator
 
 
 ## snoozed scenes
 
 - [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
-- [ ] Dolman is possessed by a Darthea? Kld260
 - [ ] City of linhe is some political ravenloft domain
 - [ ] Acrisae post is Tepest Ravenloft 157
 - [ ] Turnskull post is Lamordia
+- [ ] Loquiroth is now aware of the PCs (after reporting by Prompt)
+- [ ] People in Mystra's temple perish
+- [ ] Dolman's father will send message to Glasrath, which arrives in 4D3
 
 
 ## parking lot
 
 - [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
+- [ ] Create mystra / Falestism as Godbound religion
+- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/
 
 
 ***
@@ -94,6 +91,18 @@ kanban-plugin: basic
 - [ ] Once PCs re-establish glasrath, they are revered as Masters (semi-religious).
 - [ ] Acrisae https://i.imgur.com/4CqOLy9.png
 - [ ] something in holzander gives a curse (VgtR192)
+- [ ] Change the template to have situations instead of scenes. Then where do challenges fit?<br><br>Situation:<br>- Draw/Threat<br>- Challenge
+- [ ] Campfire scene - what characters want?
+- [ ] Mork Bork weather tables
+- [ ] Create city encounter generator
+- [ ] Dungeon generator online from morkborg
+- [ ] Challenges and situations:<br>Combat - NPC/foes and complications<br>Social - court map and complications<br>Exploration - location map<br><br>* all of them have consequences<br>* all of them can have fractals of sub challenges and situations
+- [ ] Dolman is possessed by a Darthea? Kld260 - Next nightmare from the book of knowledge?
+- [ ] How to provide some faction level political challenge the PCs can choose to engage with?
+- [ ] Add godbound and 5e angels to bestiary
+- [ ] https://www.reddit.com/r/godbound/s/gw63qeyF58
+- [ ] 2240, Hebrew 6000, the Messiah (Demiurge) came back and gave a breath (Eschaton) which sealed off earth from the universe
+- [ ] develop Avryindt to be a dark lord -(VHgtR 39)
 
 %% kanban:settings
 ```

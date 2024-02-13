@@ -24,8 +24,8 @@ tags:
 > - [x] Think about characters, write motivations & hooks
 > - [x] Evaluate new game date
 > - [x] Review Abridged
-> - [ ] Evaluate Faction turn
-> - [ ] Review and organise Notions
+> - [x] Evaluate Faction turn
+> - [x] Review and organise Notions
 > - [x] Define XP
 > - [x] Detail strong start
 > - [ ] Outline situations:
@@ -80,12 +80,16 @@ Thirteen
 
 **Meeting people in the mountains**
 - Ghuse's [Court](../locations/khathadzig.md#Court)
+- Landing Supraxae
 - [khathadzig](../locations/khathadzig.md): Where people who lives, live. Schools, churches, etc. Peaceful. [Ushulx](../npcs/Ushulx.md) stays there as a spy. [whursock](../npcs/whursock.md) leads the city.
 	- Scholar in [khathadzig](../locations/khathadzig.md) knows Amyria book (nightmare effect?)
 - [intermine](../locations/intermine.md): Where the industry is commanded from. Ghuse, [Fuko](../npcs/Fuko.md) and Amyria's father are here in offices. Exports from all fronts leave from here.
 - [tfddMines](../locations/tfddMines.md): Where most of the mining and industry is done.
 - Population see the PCs as cursed. Hardly any magic is practiced in Glasrath now. They are a peaceful arms dealers, ignorant to the outside on the last decades.
 - Ghuse cannot be dissuaded by a Command miracle - there is a network of officials and clerks that reverts him back to his original goals. To do that will require Influence/Dominion (costs 4 - city, implausible; reduces to 2 if ).
+
+![|400](https://i.imgur.com/pMptS2P.png)
+
 
 Tension die ideas:
 - Thirteen gets lost while travelling
