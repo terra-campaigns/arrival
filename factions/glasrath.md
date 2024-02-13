@@ -13,7 +13,7 @@ meta:
   die: Orange
 
 stats:
-- cunning: 2
+- cunning: 1
 - force: 3
 - wealth: 7
 ---

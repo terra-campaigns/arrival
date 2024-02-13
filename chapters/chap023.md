@@ -1,7 +1,7 @@
 ---
 name: Ghuse
 game_date: 3909.3F7
-pcs: Dolman, Guilf, Amyria
+pcs: "[Dolman](../pcs/dolman.md), [Amyria](../pcs/amyria.md), [Guilf](../pcs/guilf.md)"
 rank: 27
 xp: 5920 
 
@@ -11,23 +11,23 @@ meta:
   world: Latter Earth
   realm: Maqqatba
   region: Linhe
-  location: Khathadzig
+  location: "[Khathadzig](../locations/khathadzig.md)"
 tags: 
 ---
 
-> [!todo]- Planning checklist
+> [!todo] Planning checklist
 > - [x] Abridge previous chapter and distribute XP
 > - [x] Commit next chapter draft and check metadata
 > - [x] Clean up previous chapter files, update tags and name, make final commit
-> - [ ] Update (battle)maps, if applicable
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
-> - [ ] Think about characters, write motivations & hooks
-> - [ ] Evaluate new game date
-> - [ ] Review Abridged
+> - [x] Update (battle)maps, if applicable
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file
+> - [x] Think about characters, write motivations & hooks
+> - [x] Evaluate new game date
+> - [x] Review Abridged
 > - [ ] Evaluate Faction turn
 > - [ ] Review and organise Notions
-> - [ ] Define XP
-> - [ ] Detail strong start
+> - [x] Define XP
+> - [x] Detail strong start
 > - [ ] Outline situations:
 > 	- [ ] Draft locations 
 > 	- [ ] Draft NPCs
@@ -38,11 +38,31 @@ tags:
 > - [ ] Update graph view
 > - [ ] Update random encounter tables
 > - [ ] Print information pool
+> 
+>> [!done]- Tracker 
+>> ```dataview
+>> table without ID link(file.link, name) AS "Name", game_date AS "Date", pcs AS "PCs", rank as "Rank", xp as "XP", meta.world as "World", meta.realm as "Realm", meta.region as "Region", meta.location as "Location"
+>> from "arrival/chapters"
+>> sort file.name asc
+>> ```
 
 > [!abstract] Characters' motivations
-> - **[Dolman](../pcs/Dolman.md)**: Wake up Gaelira, figure out which side on the war is fighting for Humanity.
-> - **[Guilf](../pcs/Guilf.md)**: Exterminate the Ngar'tho and become a god
-> - **[Amyria](../pcs/Amyria.md)**: Learn from the book of knowledge. Destroy the 2 devices left in the castle. Wake up Gaelira, figure out which side on the war is fighting for Humanity.
+> - **[Dolman](../pcs/Dolman.md)**: Find (again) and wake up Gaelira, figure out which side on the war is fighting for Humanity.
+> - **[Guilf](../pcs/Guilf.md)**: Exterminate the Ngar'tho and become a god, work with Ghuse if necessary.
+> - **[Amyria](../pcs/Amyria.md)**: Learn from the book of knowledge. Destroy the 2 devices left in the castle. Wake up Gaelira, figure out which side on the war is fighting for Humanity. Do not form an army of undead.
+
+> [!quote] Factions 
+> ```dataview
+> table without ID link(file.link, name) AS "Faction", stats[0].cunning + stats[1].force + stats[2].wealth as "Level", meta.die as "Die", stats[0].cunning as "C (1|2)", stats[1].force as "F (3|4)", stats[2].wealth as "W (5|6)"
+> from "arrival/factions"
+> WHERE contains(meta.category, "faction")=true
+> sort id asc
+> ```
+> ![|400](https://i.imgur.com/bmXMM0W.png)
+> 
+> **Cunning round**
+>  
+> - Supraxae lands in [khathadzig](../locations/khathadzig.md) and ambushed Glasrath traders report that the FFKA has taken the shipment of the left leg of the Mercian Made God.
 
 > [!warning] Intro
 > You are travelling with:
@@ -51,14 +71,25 @@ Thirteen
 
 > [!danger] Strong start
 
-- I killed your friends
-- You are indeed changed. More mature, less dreaming of a good world. This is good.
+**Parlay with Ghuse ([aivridyt](../npcs/aivridyt.md))**
+- I killed your friends: Miraak, Kethra, Gulthas and Weldon
+	- And they work as mindless machines in my industry now.
+- You are indeed changed. More mature, less dreaming of fairy tales. **This is good.**
 
 > [!example] Situations
 
-**Thirteen gets lost while travelling**.
+**Meeting people in the mountains**
+- Ghuse's [Court](../locations/khathadzig.md#Court)
+- [khathadzig](../locations/khathadzig.md): Where people who lives, live. Schools, churches, etc. Peaceful. [Ushulx](../npcs/Ushulx.md) stays there as a spy. [whursock](../npcs/whursock.md) leads the city.
+	- Scholar in [khathadzig](../locations/khathadzig.md) knows Amyria book (nightmare effect?)
+- [intermine](../locations/intermine.md): Where the industry is commanded from. Ghuse, [Fuko](../npcs/Fuko.md) and Amyria's father are here in offices. Exports from all fronts leave from here.
+- [tfddMines](../locations/tfddMines.md): Where most of the mining and industry is done.
+- Population see the PCs as cursed. Hardly any magic is practiced in Glasrath now. They are a peaceful arms dealers, ignorant to the outside on the last decades.
+- Ghuse cannot be dissuaded by a Command miracle - there is a network of officials and clerks that reverts him back to his original goals. To do that will require Influence/Dominion (costs 4 - city, implausible; reduces to 2 if ).
 
-**Their rings take over their hand**
+Tension die ideas:
+- Thirteen gets lost while travelling
+- Their rings take over their hand
 
 **Book of Knowledge, expected questions:**
 - **How to wake up [Gaelira](../npcs/Gaelira.md)**: Not only a Dragon-King, but other Sorcerer-Kings from that age might also have the required psionic power. And there is one leading Turnskull. They are in the factory.
@@ -69,11 +100,7 @@ Thirteen
 - DC 15 for S- you gain the knowledge you seek but you either disturb the illusion or a nightmare senses you 
 - F The knowledge collapses your sanity and a nightmare is summoned (sanity check)
 
-**Meeting Ghuse**
-- Population see the PCs as cursed. Hardly any magic is practiced in Glasrath now. They are a peaceful arms dealers, ignorant to the outside on the last decades.
-- Ghuse cannot be dissuaded by a Command miracle - there is a network of officials and clerks that reverts him back to his original goals. To do that will require Influence/Dominion (costs 4 - city, implausible; reduces to 2 if ).
-- Scholar in [khathadzig](../locations/khathadzig.md) knows Amyria book (nightmare effect?)
-- Ghuse's [Court](../locations/khathadzig.md#Court)
+
 
 **Encounter Twilight Halls**
 [twilightHallsAsylum](../locations/twilightHallsAsylum.md)

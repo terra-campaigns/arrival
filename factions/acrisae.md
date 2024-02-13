@@ -10,7 +10,7 @@ meta:
   region: Linhe
   location: Glasrath Mountains
   parent: 
-  die: Light-blue
+  die: Yellow
 
 stats:
 - cunning: 6

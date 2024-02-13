@@ -14,7 +14,7 @@ meta:
 tags: 
 
 stats:
-- cunning: 2
+- cunning: 3
 - force: 6
 - wealth: 4
 ---
