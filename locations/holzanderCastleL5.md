@@ -185,7 +185,7 @@ creatures:
 
 ### 515/516/517
 
-[Lagfel](../npcs/Lagfel.md) wears what appears to be a 3-inch-long shark’s tooth on a gold chain around his neck.
+[Loquiroth](../npcs/Loquiroth.md) wears what appears to be a 3-inch-long shark’s tooth on a gold chain around his neck.
 
 ```encounter
 creatures:

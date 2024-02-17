@@ -19,3 +19,5 @@ Nargun King regent
 - Angular face, with thin brown hair and hazel eyes.
 - Gaelira Beikaer is his hero.
 - He wears a breastplate and wields a greatsword.
+
+- Very loyal to [guilf](../pcs/guilf.md)
