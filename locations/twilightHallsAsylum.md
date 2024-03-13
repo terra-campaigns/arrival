@@ -25,5 +25,5 @@ A school of ancient technology. The place was once the heart of the ancient city
 - **Enemy**: The academy serves a Turnskull Sorcerer
 - **Friends**:  Sympathetic young student.
 - **Complications**: The substance is very hazardous to the extractor.
-- **Things**: Acrisae detector, that is being smuggled by [EmanuelWeiss](../npcs/EmanuelWeiss.md)
+- **Things**: Supraxae detector was built here, and a underground track took it to ruins below [gimorkoc](gimorkoc.md)
 - **Perils**: Site scorched and blasted by their mistakes or training errors

@@ -15,7 +15,7 @@ tags:
 
 stats:
 - cunning: 3
-- force: 6
+- force: 7
 - wealth: 4
 ---
 # Faithful Faletist Knights of the Arch, East Branch

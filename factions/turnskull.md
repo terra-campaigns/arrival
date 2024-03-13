@@ -14,7 +14,7 @@ meta:
 
 stats:
 - cunning: 5
-- force: 9
+- force: 10
 - wealth: 7
 ---
 # Turnskull

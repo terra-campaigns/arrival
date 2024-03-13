@@ -6,32 +6,35 @@ kanban-plugin: basic
 
 ## inbox
 
-- [ ] Competing groups trying to retrieve something from somewhere
 - [ ] Mercians will use all their influence to get the PCs to do the ritual
+- [ ] Ghuse starts to delay the deliveries to the Angels, Angels break their peace with Glasrath in the next time the two factions interact on faction dice.
+- [ ] Loquiroth is now aware of the PCs (after reporting by Prompt)
+- [ ] Turnskull post is Lamordia
 - [ ] Oil well producing for the forge
-- [ ] Mystra will not take sides, both are wrong.
 
 
-## opportunityAttack
+## snoozed
 
-
-
-## snoozed scenes
-
-- [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
 - [ ] City of linhe is some political ravenloft domain
 - [ ] Acrisae post is Tepest Ravenloft 157
-- [ ] Turnskull post is Lamordia
-- [ ] Loquiroth is now aware of the PCs (after reporting by Prompt)
 - [ ] People in Mystra's temple perish
 - [ ] Dolman's father will send message to Glasrath, which arrives in 4D3
 
 
-## parking lot
+## situations
 
-- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
+- [ ] Sergarus does not die, but is forever crippled. Marcus takes over.
+- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/<br><br>Use this for the void coming back
+- [ ] Competing groups trying to retrieve something from somewhere
+- [ ] Mystra will not take sides, both are wrong.
+- [ ] **Encounter with sapient that relates that a flood that drowned out a community**<br>- ***Seed:*** **Mayor or [linhe_city](../locations/linhe_city.md), incompetent ruler who thinks only of their own safety** is working to seize **the Rainmaker's Curse** left behind by its now-dead collectors from the **Bastion tower, now left in ruins by the calamity** where it was left, but the **[ffkaEast](../factions/ffkaEast.md) leaders were somehow blamed for the disaster's intensity** and their allies are preventing them from getting through. Unfortunately, the strain of holding back the Antagonist **Incompetent ruler who thinks only of their own safety** them unable to get the **the Rainmaker's Curse** themselves, and the **Incompetent ruler who thinks only of their own safety** may soon overwhelm them.
+- [ ] **City Encounter**<br>[EmanuelWeiss](../npcs/EmanuelWeiss.md) has been here for some time, and a his Turnskull constructs (Mob Small 20 HD) are polluting their land with their maintenance, making life almost unliveable for the locals. They're secretly smuggling in a Thing to help them survive, but [Eleni](../npcs/Eleni.md) discovers that their plan is being leaked by a traitor, and if help isn't found soon, the Antagonist will have both the Thing and the ringleaders of the resistance.<br>- **Antagonists**: Turnkskull officer [EmanuelWeiss](../npcs/EmanuelWeiss.md)<br>- **Friends**: Merchant whose trade routes have been cut by war [Eleni](../npcs/Eleni.md)<br>- **Places**: Military camp with soldiers and camp followers<br>- **Complications**: The army is bringing a great sickness or plague<br>- **Things**: Secret detector for [acrisae](../factions/acrisae.md) manoeuvres. The detector was built in [twilightHallsAsylum](../locations/twilightHallsAsylum.md)<br>- **Why important**: It's the only good approach to a soft target in the rear<br>- **Tension**: Pollution builds up, Emmanuel gets sick
+
+
+## low priority
+
 - [ ] Create mystra / Falestism as Godbound religion
-- [ ] https://thiefofwhispers.wordpress.com/2019/03/22/the-sins-of-the-father-an-adventure-for-godbound/
+- [ ] Add some misbegotten creatures based on hostile alien construction, silent legions or else for encounters and http://terriblesorcery.blogspot.com/2019/12/ready-random-monster-generator.html
 
 
 ***

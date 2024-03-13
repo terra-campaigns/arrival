@@ -14,7 +14,7 @@ meta:
 
 stats:
 - cunning: 6
-- force: 8
+- force: 7
 - wealth: 4
 ---
 # Acrisae

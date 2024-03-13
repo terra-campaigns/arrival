@@ -95,6 +95,10 @@ tags:
 - After confronting both in different moments during the dinner, Amyria learns she was "sold" to Ghuse during the trade agreement decades ago.
 - Amyria's father mentions that the people in the city thinks the champions are cursed because of their rings. The group notice the rings are creating some dark and hard carapace on their fingers. Dolman, bravely, takes out his ring, bleeding the entire table.
 
+I wanna say about Amyria that she really forgave her father for "sending her off" because she realized at that moment that she was always into knowledge and studying but after the death of her husband this became an obsession and she was compulsively reading/studying not interested in anything "real" and out of the books. She was a burden to the elves too because they were always taking care of her (traveling, cooking, etc) and she was not particularly useful/productive to the group.
+
+So she understands her father wanting something different for her and that she didn't heal from losing her husband. So now she sees this, she feels much better in her too. So I was wondering if I can change my flaw that says "I am easily distracted by the promise of information" to another flaw
+
 **Reading the book of Knowledge**
 - Amyria continues to read the book of knowledge.
 - She learns that the Heaves, when destroyed, became a set of collapsed pocket dimensions, with uncreation between them - impossible to navigate.

@@ -14,7 +14,7 @@ meta:
 
 stats:
 - cunning: 1
-- force: 3
+- force: 2
 - wealth: 7
 ---
 # Glasrath Alliance

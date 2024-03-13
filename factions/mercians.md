@@ -14,7 +14,7 @@ meta:
 
 stats:
 - cunning: 7
-- force: 5
+- force: 6
 - wealth: 3
 ---
 # Mercians
