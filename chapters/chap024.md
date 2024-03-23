@@ -1,5 +1,5 @@
 ---
-name: Knowledge Madness Calls?
+name: The Forge
 game_date: 3909.4A7
 pcs: "[Dolman](../pcs/dolman.md), [Amyria](../pcs/amyria.md), [Guilf](../pcs/guilf.md)"
 rank: 29
@@ -71,58 +71,54 @@ tags:
 > 
 > **Tarot cards**: The Gate (_Gate represents a threshold or obstacle that must be crossed or be protected._) and Madness (_Madness that overwhelms and tears apart, but may also grant insight._)
 
-> [!danger] Strong start
-
-Start travel to [TheForge](../locations/TheForge.md).
-- Navigating everyday is a d8 (takes in weather, difficulty of ruins and navigation).
-
 > [!example] Situations
 
-**The Confrontation with the Knowledge Nightmare**
-- Upon finding the Book of Knowledge, the party confronts the Knowledge Nightmare once more. The creature attempts to lure them with promises of Gaelira's return and the fulfillment of their deepest desires, manipulating reality around it to disorient and weaken them.
-- [Balhannoth](../npcs/Balhannoth.md) offers to give back Galiera and a definite way to bring her back for the soul of one of the 3 champions
+**Meet Bravhar, the annealing dragon**
+- [Bravhar](../npcs/Bravhar.md), the wyrmling golden dragon that perished in the Battle from the Ammouinoth three decades ago, is now ressurected.
+- Bravhar has an agreement with Ghuse ([aivridyt](../npcs/aivridyt.md)) and will work as the annealing process for the mines for 145 year. This is the payback price to be brought back.
+- Bravhar wants to spend time thinking on the process so that he can inject a systematic failure on each metal part at its molecular level. This can be Glasrath's backup plan in case they find themselves in war with their customers.
+- Ghuse is convinced by [guilf](../pcs/guilf.md) to allow the dragon the required time.
 
-**Thirteen starts to go insane because of [Balhannoth](../npcs/Balhannoth.md).** He cannot find his way correctly anymore while in this state. The PCs will have to navigate.
-1. **Illusions of the Past**: The Knowledge Nightmare could create vivid illusions of key moments where Thirteen made regrettable decisions, forcing them to relive these moments. These illusions might not just be reproductions but twisted versions that amplify Thirteen's guilt and self-doubt.
-2. **Manipulation through Memory**: With Thirteen's eidetic memory, the Knowledge Nightmare has a vast landscape to manipulate. It could alter Thirteen's memories, making them even more painful or creating false memories that drive Thirteen towards despair or into the Nightmare's control.
-3. **Temptation of Forgetfulness**: As a way to escape the pain of their past, the Knowledge Nightmare might offer Thirteen the chance to forget their past choices entirely. However, this forgetfulness would come at a cost, perhaps in service to the Nightmare or losing a part of themselves in the process.
-4. **A Path to True Redemption**: In a more twisted manipulation, the Nightmare could convince Thirteen that undertaking a specific, dangerous action could redeem their past. This path would likely serve the Nightmare's interests while putting Thirteen and the party in grave danger.
+**Ghostly convoy** 
+- [dolman](../pcs/dolman.md) puts his ring again, and feels complete.
+- The champions start travelling towards [TheForge](../locations/TheForge.md), using Dolman's earth ring, travelling through soil.
+- On the end of the first week, during a resting period, [guilf](../pcs/guilf.md) sees a group of 4 smoke creatures take form from his pipe week smoke
+- These ghostly nightmares explain they came from Earth, that was shattered and lost its smoke construction. As Earth broke, it started to be re-made in matter.
+- The nightmares start to take shape of the champions.
+- The conversation feel like a nightmare, and the convoy goes their way after a while.
+- [Thirteen](../npcs/Thirteen.md), at the same time, wakes up from a nightmare where he sees his little sister die again.
 
-**Encounter Twilight Halls**: [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
-- Ancient research site, inhabited by scared human researchers
-- They are led by [ViktraMordenheim](../npcs/ViktraMordenheim.md) from the Forge
-- Roll Lamoria adventures (Ravenloft 142) if PCs are interested
+**Hurt angel and sand warriors**
+- A few days later, as the champions progress their journey, [amyria](../pcs/amyria.md) sees through stone an angel, inside a large ruined atrium, laying on the floor. The Angel seems hurt.
+- In a neighbour atrium, a group of 20 sand warriors come to meet the angel - they seem allied. Sand warriors are Dust Elven mercenaries, not always welcomed amongst their own people.
+- The Glasrath champions decide to go through the last wall that separates them from the angel and sand warriors.
+- They are met with caution, and the angel speak with them. The angel in clearly hurt, limping.
+- [amyria](../pcs/amyria.md) mentions she knows about the never ending war of angels and humanity, and that she learned this from the [BookOfKnowledge](../objects/BookOfKnowledge.md). After mentioning the book, the angel becomes interested.
+- [dolman](../pcs/dolman.md) acts fast and pull all his companions through the rocks again. The angel is incredibly fast, and is almost able to reach to Amyria, but for a few centimetres it does not happen, and the champions find themselves safe inside the walls of the ruins.
+
+![|500](https://i.imgur.com/gwrWnoz.png)
+
+![](https://i.imgur.com/tHZYdHS.png)
 
 **Arriving at [TheForge](../locations/TheForge.md)**
-- Surroundings (and their underground) are camps and villages of Anaks in war. Terrible place.
-- Inner Forge is the technology city where the Anaks now live
-- Kernel Forge is unknown to all
-	- PCs will need to get a lot of support to be allowed to go to the Kernel Forge: could include some military task.
-		- Retrieve the Supraxae found by Anaks and bring it here
-		- Retrieve the Supraxae detector, found in [gimorkoc](../locations/gimorkoc.md)
-		- Kill an Angel
-		- Find a way to get the Mercians and their Made God to formally enter the war, allied with Turnskull
+- Surroundings (and their underground) are camps and villages of Anaks and humans allied.
+- The location terrible place, with a terrible smell.
+- The champions are offered twice dead sandwich, which they learn is made of the bodies of undead they hunt in the ruins. More tasty, and also less frequent, is the once dead sandwich, made with the bodies of dead friends and enemies.
+- An anak sergeant finds it wrong that the champions are so deep into the camp, without being part of their army. He suggest he will have to deal with the situation but [guilf](../pcs/guilf.md), using his command ring, convinces him to bring the champions to prompt.
+- The Inner Forge is the technology city where the commanding Anaks live amongst constructs.
+- Prompt explains that for the champions to be trusted and speak with [Loquiroth](../npcs/Loquiroth.md), they will need to complete one mission. They walk together to the mission backlog in a screen and see
+	- Retrieve the Supraxae found by Anaks and bring it here
+	- Retrieve the Supraxae detector, found in [gimorkoc](../locations/gimorkoc.md)
+	- Kill an Angel
+	- Find a way to get the Mercians and their Made God to formally enter the war, allied with Turnskull
 
-> [!bug] Random encounters
+![](https://i.imgur.com/4QOJA4N.png)
 
-**Random encounters creature options**
-- [Azghouls](../statblocks/Azghouls.md)
-- [angelic_guardian](../statblocks/angelic_guardian.md) and sand warriors ([mob_elite_small](../statblocks/mob_elite_small.md))
-- Anaks ([mob_elite_small](../statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../statblocks/mob_special_small.md))
-- Mercians chasing the PCs - [antinom](../statblocks/antinom.md) and [mob_elite_small](../statblocks/mob_elite_small.md)
+![](https://i.imgur.com/wl4Mzz5.png)
 
-1. **Battlefield Ghosts (Environment/Uncreated)**: As night falls, the party encounters spirits of fallen soldiers reenacting their last moments. The haunting scene offers insight into the war's brutality but might also reveal hidden paths or valuable war relics left undiscovered.
-2. **Sandstorm of Screams (Environment)**: A supernatural sandstorm engulfs the party, filled with the anguished screams of those who died in the desert. Navigating through the storm tests the party's endurance and sanity, with the risk of becoming disoriented or stumbling upon a hidden menace.
-3. **Construct Sentinel (Construct)**: A damaged war construct, still following its last orders, challenges the party. This encounter could lead to combat, a chance to salvage technology, or even an ally if they manage to reprogram or repair the construct.
-4. **Angel's Downfall (Angels)**: The party finds an injured angel, a survivor of a recent skirmish. The encounter could provide valuable intelligence about the enemy's movements, offer a chance to gain an angelic ally, or lead to a conflict if the angel mistakes the party for foes.
-5. **Machina Ruins (Environment)**: Exploring a half-buried outpost reveals ancient war machines, some still operational. The party must navigate traps and defense mechanisms left active, offering opportunities to acquire powerful but potentially dangerous technology.
-6. **Desert Marauders (Humans/Natural Beasts)**: A band of scavengers, riding war-beasts adapted to the desert, ambushes the party. These marauders are well-informed about the area and might possess items or knowledge crucial to navigating the desert and reaching The Forge.
-7. **Oasis of Illusions (Environment/Magic)**: A seemingly lush oasis in the middle of the desert turns out to be an illusion cast by a desperate mage seeking to lure travelers. The mage, driven mad by isolation and the desert's harshness, might be a foe, a source of information, or in need of rescue.
-8. **The Wandering Forge (Construct/Nightmare Creature)**: The party encounters a mobile forge, a construct that has gained sentience. It wanders the desert, crafting beings of metal and magic in a twisted imitation of life. The forge could be a tremendous asset, a formidable adversary, or a source of unique equipment if approached correctly.
-9. **Desert Mirage (Environment/Personal Panic Event):** As the sun beats down, a seemingly real vision of an oasis lures the party, only to disappear upon approach, testing their resolve and sanity.
-10. **The Weeping Plains (Environment/Natural Beasts):** A sudden, eerie rain transforms the plains into a mud-trap, where predatory plants await their next meal, hidden beneath the surface.
-11. **Ghostly Convoy (Humans/Nightmare Creatures):** The party encounters a procession of spectral soldiers marching eternally, silently demanding tribute or secrets from the living as they pass through ancient battlefields.
-12. **Encounter at the Abandoned Shrine (Uncreated/Natural Beasts):** Investigating an ancient shrine, the party stumbles upon a congregation of uncreated beings worshipping alongside mutated wildlife, a rare moment of peace in a chaotic world.
+![|400](https://i.imgur.com/HwUqtc9.png)
+
+The Glasrath champions decide to retrieve the Supraxae.
 
 > [!info]- Information pool
 > ![Information pool](arrival/_informationPool.md)
