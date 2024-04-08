@@ -20,13 +20,13 @@ tags:
 > - [x] Commit next chapter draft and check metadata
 > - [x] Clean up previous chapter files, update tags and name, make final commit
 > - [x] Update (battle)maps, if applicable
-> - [ ] Update oracle
-> - [ ] Draw two tarot cards to inform prep
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file
+> - [x] Update oracle
+> - [x] Draw two tarot cards to inform prep
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file
 > - [ ] Think about characters, write motivations & hooks
 > - [ ] Evaluate new game date
 > - [ ] Review Abridged
-> - [ ] Evaluate Faction turn
+> - [x] Evaluate Faction turn
 > - [ ] Review and organise Notions
 > - [ ] Define XP
 > - [ ] Detail strong start
@@ -61,15 +61,33 @@ tags:
 > ```
 > ![|400](https://i.imgur.com/bmXMM0W.png)
 > 
-> **Turn: force**
-> - Acrisae: 1, Mercians: 5, Turnskull: 9
-> 	- A force of Lady Scurvy is set loose to prey on a dispatch of Angels. As the Mercians who set them loose come back, they meet a force or Anaks. The Anaks are told of the Lady Scurvy and use the opportunity to cause further losses to the Angels. The Angels loose most of their Sand Warriors and a few Angels. A Supraxae is captured by the Anaks (but they don't know how to pilot it).
-> - Glasrath Alliance: 2, FFKA East: 4
+> **Turn: wealth**
+> - Mercians: 3, Acrisae: 4, FFKA East: 2
+> 
+> **Turn: cunning**
+> - Turnskull: 4, Mercians: 4, Acrisae: 4
+> 
+> **Turn: wealth**
+> - FFKA East: 1, Acrisae: 4, Mercians: 2, Turnskull: 2
+> 
+> **Turn: wealth**
+> - Mercians: 1, Turnskull: 4, Acrisae: 3
+> 
+> **Then** impact of PCs action, reduce 2 wealth for Glasrath, and 2 force for Acrisae
+> 
+> - FFKA East continues to receive support from their main chapter, and that is strengthening the partnership with the Acrisae. FFKA East is also using Sand Warriors when necessary.
+> - Some Acrisae equipment is starting to fail, but they have not yet realised those are introduced weaknesses by [Bravhar](../npcs/Bravhar.md)
+> - The guerrilla/chase of isolated Angels and Sand Warriors continues by Anaks and Lady Scurvy - who are not operating in an alliance, but are taking advantage of the situation.
+
+
 
 > [!warning] Intro
 > -xx
 > 
 > **Tarot cards**: 
+> 	**Togarini**: This card represents the Death Angel Togarini and the Principle of Compulsion. Togarini’s influence increases the manic creativity that distorts reality, tearing beauty asunder. Insane artwork opens portals to Inferno, magicians experiment at the border of life and death, and death itself acts erratically – souls binding themselves into rotting corpses, or haunting the living as distorted spectres. The Death Angel’s influence is strongest among artists, magicians, body modifiers, and the senses and imagination enchanted by the dark and grotesque. The card shows a connection or opposition to the Death Angel and/or its Principle. The bond might be in the present, the past, or something that is about to happen.
+> 	**Madness**: Psychosis. Severe depression. Schizophrenia. PTSD. Anxiety. Panic Attacks. Neurosis. Paranoia. Aggressive behavior. Multiple personalities. Mob mentality. Mass delusion.
+
 
 > [!danger] Strong start
 

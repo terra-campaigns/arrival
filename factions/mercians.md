@@ -15,7 +15,7 @@ meta:
 stats:
 - cunning: 7
 - force: 6
-- wealth: 3
+- wealth: 1
 ---
 # Mercians
 ***Tattooed music cultists of Ngar'tho and Ethux'zhurh***

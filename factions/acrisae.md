@@ -14,8 +14,8 @@ meta:
 
 stats:
 - cunning: 6
-- force: 7
-- wealth: 4
+- force: 5
+- wealth: 5
 ---
 # Acrisae
 ***Geburah's Seraphim angels claiming a world after theirs was destroyed by the Sorcerer-Kings***
