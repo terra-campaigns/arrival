@@ -34,7 +34,7 @@ tags:
 > 	- [x] Draft locations 
 > 	- [x] Draft NPC
 > 	- [x] Prepare Owlbear, if applicable
-> - [ ] Review and order/highlight information pool.
+> - [x] Review and order/highlight information pool.
 > - [x] Define treasure
 > - [x] Update random encounter tables
 > - [ ] Print information pool
@@ -123,7 +123,7 @@ creatures:
 - **Why important**: It's the only good approach to a soft target in the rear
 - **Tension**: Pollution builds up, Emmanuel gets sick
 
-**Dolman's father is now in Glasrath**
+**Dolman's father is now in Glasrath**, but some of their further family members have been captured by the FFKA.
 
 
 > [!bug] Random encounters
@@ -141,7 +141,7 @@ creatures:
 5. **The Weeping Plains (Environment/Natural Beasts):** A sudden, eerie rain transforms the plains into a mud-trap, where predatory plants await their next meal, hidden beneath the surface.
 6. **Encounter at the Abandoned Shrine (Uncreated/Natural Beasts):** Investigating an ancient shrine, the party stumbles upon a congregation of uncreated beings worshipping alongside mutated wildlife, a rare moment of peace in a chaotic world.
 
-> [!info]- Information pool
+> [!info] Information pool
 > ![Information pool](arrival/_informationPool.md)
 
 > [!check] Treasure

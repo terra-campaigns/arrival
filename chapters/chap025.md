@@ -11,7 +11,7 @@ meta:
   world: Latter Earth
   realm: Maqqatba
   region: Linhe
-  location: "Glasrath and The Forge"
+  location: "Glasrath, The Forge, Night Road"
 tags: 
 ---
 

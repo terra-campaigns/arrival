@@ -24,7 +24,7 @@ The main themes of this campaign are:
 
 ### NPC generation
 
-When creating NPCs they should be generated with the following framework, as a strict yaml file as below:
+When creating NPCs, consult your uploaded knowledge for thematic and aesthetic coherence, and generate them with the following framework, as a strict yaml file as below:
 
 ```
 ---
@@ -55,6 +55,8 @@ roleplay:
   desc: 
 - name: Mutation
   desc: 
+- name: Voice
+  desc: 
 - name: Idiosyncrasy
   desc: 
 - name: Languages
@@ -64,7 +66,7 @@ npc_link:
 ---
 ```
 
-When creating images for NPCs, it is important they are credible. This means that people in the world should be below average looking. The theme of the campaign is a dark and gritty world.
+When creating images for NPCs, it is important they are credible. This means that people in the world should be below average looking. The theme of the campaign is a dark and gritty world. Please make them in a 1:1 ratio.
 
 ### Random encounters
 
