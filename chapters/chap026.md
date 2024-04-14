@@ -1,5 +1,5 @@
 ---
-name: 
+name: The Drakvarden
 game_date: 3909.9A3
 pcs: "[Dolman](../pcs/dolman.md), [Amyria](../pcs/amyria.md), [Guilf](../pcs/guilf.md)"
 rank: 30
@@ -11,7 +11,7 @@ meta:
   world: Latter Earth
   realm: Maqqatba
   region: Linhe
-  location: "Desert and ruins"
+  location: "[templeMystra](../locations/templeMystra.md)"
 tags: 
 ---
 
@@ -85,61 +85,35 @@ tags:
 
 > [!example] Situations
 
-**Encounter Twilight Halls**: [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
-- Ancient research site, inhabited by scared human researchers
-- They are led by [ViktraMordenheim](../npcs/ViktraMordenheim.md) from the Forge
-- Roll Lamoria adventures (Ravenloft 142) if PCs are interested
+**Mystra opened a door to [templeMystra](../locations/templeMystra.md)**
+- New cleric lead the temple: Nimro
+- [Gaelira](../npcs/Gaelira.md) will be treated by the clerics of Mystra
+- Scouts relate that a force of 12 tents of FFKA is coming in the temple's direction (100 knights)
+- The champions prepare a dozen of people in the temple who can potentially fight in a battle, if necessary.
 
-**Anaks securing the Supraxae - terrified**
-- Background: A force of Lady Scurvy is set loose to prey on a dispatch of Angels. As the Mercians who set them loose come back, they meet a force or Anaks. The Anaks are told of the Lady Scurvy and use the opportunity to cause further losses to the Angels. The Angels loose most of their Sand Warriors and a few Angels. A Supraxae is captured by the Anaks (but they don't know how to pilot it).
-- Leader: [ZathirRuhk](../npcs/ZathirRuhk.md)
+**5 FFKA tents arrive, lead by Sir [ElricVaelor](../npcs/ElricVaelor.md)**
+- The other 8 tents are not seen.
+- The champions meet with Sir Elric, and learn that the FFKA has partnered with the Angels. Then Angels are led by Golab.
+- Sir Elric is here to investigate how this temple has survived the battles in the region, and wants access. The champions are not giving them passage, and a battle is expected on the next morning.
+- As they leave the meeting location, the champions hear a loud grunt of suffering from within the camp.
 
-**5 FFKA tents arrive at the Supraxae Site**
-- "*Well well well, we are lucky to find two rabbits in one single place*"
-	- Mercian Antinomi have influenced the FFKA to come for the Supraxae, expecting an ambush of Anaks
-- Leader: Sir [ElricVaelor](../npcs/ElricVaelor.md)
-- Background:
-	- **Ongoing War and Alliance Dynamics**: Katho's war with the D'elsinese Empire continues, straining its military and alliances with neighboring lands like Foucheresia and Romburghia.
-	- **Religious and Cultural Tensions in Linhe**: The rise of Faletism and the ongoing zombie invasions in Linhe could intersect with the champions' journey. They might need to assist or evade the Faletist Knights, deal with undead hordes, or exploit these distractions for safe passage.
-	- **The Supraxae's Powers and Influence**: The supraxae itself, depending on its abilities and the reverence or fear it inspires, could affect the journey.
-	- **The FFKA is sending some tents to recover/protect the Supraxae.**
+![](https://i.imgur.com/jQ307if.png)
 
-```encounter
-creatures:
-  - 2:Mob Small 20 HD
-```
+**The Gate**
+- In general, the clerics in the temple are bullish that the protective barrier will continue to protect them. They do make some arrangements to protect the ones who can not fight, and devise a escape route.
+- In the next morning, as the FFKA advances, a dark-painted and gold-adorned dwarf comes in front, pulling chains and ropes.
+- This dwarf painfully transmutes into a black dragon just in front of the protection barrier, and with its hands it is able to break the barrier.
+- A fight starts between the Champions and their fighters against the sole dragon. The FFKA still waits where they were. The chains continue to be laid between the dragon and the FFKA, in catenary while the dragon flies.
+- The dragon quickly kill all the fighters in the temple, while Guilf is tossed by Dolman with a Congealed Paradox. He crushes the stone, and the dragon's gold adorns and chains immediately fall and break.
+- For a split second, it seemed that the dragon would stop his carnage, but it does not.
 
-**Supraxae’s Influence on Local Fauna and Flora**: 
-- As the supraxae is transported, its celestial energies could unintentionally awaken or mutate the local wildlife or vegetation.
-- This could result in bizarre encounters with enhanced creatures or altered landscapes that either hinder or help the champions' progress, depending on how they manage these changes.
-
-**City Encounter**
-[EmanuelWeiss](../npcs/EmanuelWeiss.md) has been here for some time, and a his Turnskull constructs (Mob Small 20 HD) are polluting their land with their maintenance, making life almost unliveable for the locals. They're secretly smuggling in a Thing to help them survive, but [Eleni](../npcs/Eleni.md) discovers that their plan is being leaked by a traitor, and if help isn't found soon, the Antagonist will have both the Thing and the ringleaders of the resistance.
-- **Antagonists**: Turnkskull officer [EmanuelWeiss](../npcs/EmanuelWeiss.md)
-- **Friends**: Merchant whose trade routes have been cut by war [Eleni](../npcs/Eleni.md)
-- **Places**: Military camp with soldiers and camp followers
-- **Complications**: The army is bringing a great sickness or plague
-- **Things**: Secret detector for [acrisae](../factions/acrisae.md) manoeuvres. The detector was built in [twilightHallsAsylum](../locations/twilightHallsAsylum.md)
-- **Why important**: It's the only good approach to a soft target in the rear
-- **Tension**: Pollution builds up, Emmanuel gets sick
-
-**Dolman's father is now in Glasrath**, but some of their further family members have been captured by the FFKA.
+![](https://i.imgur.com/dQyoQM4.png)
 
 
-> [!bug] Random encounters
-
-**Random encounters creature options**
-- [Azghouls](../statblocks/Azghouls.md)
-- [angelic_guardian](../statblocks/angelic_guardian.md) and sand warriors ([mob_elite_small](../statblocks/mob_elite_small.md))
-- Anaks ([mob_elite_small](../statblocks/mob_elite_small.md)) and/or Constructs ([mob_special_small](../statblocks/mob_special_small.md))
-- Mercians chasing the PCs - [antinom](../statblocks/antinom.md) and [mob_elite_small](../statblocks/mob_elite_small.md)
-
-1. **Construct Sentinel (Construct)**: A damaged war construct, still following its last orders, challenges the party. This encounter could lead to combat, a chance to salvage technology, or even an ally if they manage to reprogram or repair the construct.
-2. **Machina Ruins (Environment)**: Exploring a half-buried outpost reveals ancient war machines, some still operational. The party must navigate traps and defense mechanisms left active, offering opportunities to acquire powerful but potentially dangerous technology.
-3. **Desert Marauders (Humans/Natural Beasts)**: A band of scavengers, riding war-beasts adapted to the desert, ambushes the party. These marauders are well-informed about the area and might possess items or knowledge crucial to navigating the desert and reaching The Forge.
-4. **Desert Mirage (Environment/Personal Panic Event):** As the sun beats down, a seemingly real vision of an oasis lures the party, only to disappear upon approach, testing their resolve and sanity.
-5. **The Weeping Plains (Environment/Natural Beasts):** A sudden, eerie rain transforms the plains into a mud-trap, where predatory plants await their next meal, hidden beneath the surface.
-6. **Encounter at the Abandoned Shrine (Uncreated/Natural Beasts):** Investigating an ancient shrine, the party stumbles upon a congregation of uncreated beings worshipping alongside mutated wildlife, a rare moment of peace in a chaotic world.
+**The Retreat**
+- The champions guide the survivors, with the help of [Thirteen](../npcs/Thirteen.md) to walk the ruined tunnels towards Glasrath.
+- With Dolma's ring, they go through earth and investigate where the chains connected to, and it seems to be some kind of catapult basket.
+- The champions meet the survivors again en route to Glasrath and they continue.
 
 > [!info] Information pool
 > ![Information pool](arrival/_informationPool.md)
