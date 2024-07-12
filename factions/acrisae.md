@@ -12,6 +12,10 @@ meta:
   parent: 
   die: Yellow
 
+h: 5
+e: 5
+r: 5
+
 stats:
 - cunning: 6
 - force: 5

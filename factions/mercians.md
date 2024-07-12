@@ -12,6 +12,10 @@ meta:
   parent:  
   die: Grey
 
+h: 6
+e: 7
+r: 1
+
 stats:
 - cunning: 7
 - force: 6

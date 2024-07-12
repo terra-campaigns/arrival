@@ -13,6 +13,10 @@ meta:
   die: Pink
 tags: 
 
+h: 7
+e: 3
+r: 6
+
 stats:
 - cunning: 3
 - force: 7

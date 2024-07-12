@@ -12,6 +12,10 @@ meta:
   parent:  
   die: Dark blue
 
+h: 10
+e: 6
+r: 7
+
 stats:
 - cunning: 5
 - force: 10

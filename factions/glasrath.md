@@ -12,6 +12,10 @@ meta:
   parent:  
   die: Orange
 
+h: 2
+e: 1
+r: 5
+
 stats:
 - cunning: 1
 - force: 2
