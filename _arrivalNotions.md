@@ -13,6 +13,9 @@ kanban-plugin: basic
 - [ ] l21h9e4w8
 - [ ] The champions are Mr voids favourites because they hate him. It amused him that they hate him, but need him.
 - [ ] Deal with refugees in Glasrath
+- [ ] Mystra is a puppet of Golab
+- [ ] FFKA far right cleans the world
+- [ ] You did it all, angel weapons will continue to fail through the ages, with a virus, Turnskull might never recover, Glasrath is destroyed, mr void was never summoned. The FFKA rules it all!!
 
 
 ## snoozed
