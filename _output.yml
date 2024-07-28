@@ -7,7 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: 
-      link: https://github.com/efsalvarenga/arrival/edit/main/%s
+      link: https://github.com/terra-campaigns/arrival/edit/main/%s
       text: "Suggest an edit"
     sharing:
       github: yes
@@ -15,4 +15,4 @@ bookdown::gitbook:
       twitter: yes
       all: no
     fontsettings:
-      theme: night
+      theme: sepia

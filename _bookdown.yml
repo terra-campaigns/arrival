@@ -6,4 +6,5 @@ delete_merged_file: yes
 rmd_files:
 - index.Rmd
 - abridged.md
+- context.md
 
