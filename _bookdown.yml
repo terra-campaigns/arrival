@@ -3,7 +3,6 @@ language:
   ui:
     chapter_name: 'Chapter '
 delete_merged_file: yes
-output_dir: docs
 rmd_files:
 - index.Rmd
 - abridged.md
