@@ -56,8 +56,6 @@ npc_link: "[Lagfel](Lagfel.md)"
 Tired
 ## Background
 
-- Lagfel was once [JohnMcLeod](../../hostile/npcs/JohnMcLeod.md)
-
 Loquiroth, initially known as John McLeod, was once a formidable mage of the ancient world, a figure of immense wisdom and power. His journey into the realms of the unknown began with an insatiable curiosity for the arcane and the hidden truths of the universe. This quest for knowledge led him to the discovery of the Outsiders, enigmatic entities from beyond the known realms, beings of unfathomable power and intelligence.
 
 The Outsiders, alien in nature and origin, possessed knowledge far beyond the comprehension of mortal beings. They were masters of the cosmic energies that wove the fabric of existence, manipulators of the very essence of life and death. Intrigued by Loquiroth's boldness and thirst for knowledge, they chose to impart upon him the secrets of their power. This exchange was not without cost, as the knowledge they offered was so profound and complex that it required Loquiroth to undergo a series of trials that tested the limits of his mind, body, and spirit.
