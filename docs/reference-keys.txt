@@ -28,6 +28,7 @@ chapter-24-arriving-at-the-forge
 chapter-25-the-night-road
 chapter-26-the-drakvarden
 chapter-27-finale
+epilogue
 campaign-setting-latter-earth
 maqqatba
 katho

@@ -536,3 +536,19 @@ The Glasrath champions decide to retrieve the Supraxae.
 
 - A battle ensues and Loquiroth is spent, but still able to loose his form and vanishes
 - The heroes destroy as much as they can of the Kernel, before Turnskull forces arrive. They then jump from the Kernel and softly land below. It is easy to leave the Forge.
+- They travel back to meet the caravan with all the people from Glasrath. How will them protect their families that are accompanying Ghuse?
+- With Ghuse, they consider their alternatives: the Acrisae, partnered with the FFKA, is not one, while the Turnskull are now too weak and disorganised.
+- Guilf's opinion is that Mr. Void is the only remaining alternative. After heated discussions the group agrees to go to the Holzander Castle.
+- Upon arrival, they are received by the Ngar'tho, who have been chanting since they last left, preparing for the ritual.
+- Conversing with the shared mind of the Ngar'tho, they take the boat on the river under the castle, and reach the ritual room.
+- The maimed body of Mr Void lay on the bottom of a ritualistic pool.
+- Guilf follows his heart, and starts the ritual by proposing to Amyria.
+
+# Epilogue
+
+- For the next year, Mr Void's power ravage the Acrisae host. The FFKA is pushed north again, in despair.
+- Amyria and Guilf also travel north in search for a monastery to pray.
+- Dolman spends most of the war years depressed on his own thoughts.
+- In the coming decades Amyria and Guilf raise 3 children, and like with her first husband, Amyria lives with Guilf until he dies of age.
+- Dolman continues his life with his family in the Glasrath mountains, setting up a new dwarven kingdom.
+
